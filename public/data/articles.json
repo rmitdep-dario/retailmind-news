@@ -2,64 +2,144 @@
   "updatedAt": "2026-07-24T07:00:00Z",
   "articles": [
     {
-      "id": "2026-07-24-mercadona-loja-braga",
-      "titulo": "Mercadona abre nova loja em Braga e reforça presença no Norte",
-      "resumo": "A cadeia espanhola inaugurou mais uma loja no distrito de Braga, criando cerca de 60 postos de trabalho e consolidando o plano de expansão em Portugal.",
-      "url": "https://www.hipersuper.pt/exemplo/mercadona-braga",
+      "id": "2026-07-24-nestle-venda-aguas",
+      "titulo": "Nestlé reestrutura portefólio com venda parcial da divisão de águas",
+      "resumo": "A Nestlé avança com a venda parcial da divisão de águas, numa reestruturação de portefólio; registou 43,1 mil milhões de francos suíços de vendas no primeiro semestre, com crescimento orgânico de 3,6%.",
+      "url": "https://www.distribuicaohoje.com/producao/nestle-portefolio/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": ["aquisicoes"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-23-max-mara-avenida-liberdade",
+      "titulo": "Savills assessora Max Mara na abertura de nova loja na Avenida da Liberdade",
+      "resumo": "A Weekend Max Mara abriu uma loja de cerca de 360 m² na Avenida da Liberdade, em Lisboa, numa operação assessorada pela Savills.",
+      "url": "https://hipersuper.pt/2026/07/23/savills-assessora-max-mara-na-abertura-de-nova-loja-na-avenida-da-liberdade",
+      "fonte": "Hipersuper",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "marca-internacional-pt", "investidores"],
+      "data": "2026-07-23"
+    },
+    {
+      "id": "2026-07-23-id-logistics-2t",
+      "titulo": "ID Logistics cresce 22,4% no segundo trimestre",
+      "resumo": "A operadora logística ID Logistics registou receitas de 1.093,9 milhões de euros no segundo trimestre, com crescimento comparável de 22,6%.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/id-logistics-2o-trimestre/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": ["logistica", "resultados"],
+      "data": "2026-07-23"
+    },
+    {
+      "id": "2026-07-23-sumol-compal-comissao-executiva",
+      "titulo": "Sumol Compal renova Comissão Executiva para o ciclo estratégico 2026-2028",
+      "resumo": "A Sumol Compal reestruturou a comissão executiva, alinhada com um plano estratégico que visa 20% de crescimento das receitas até 2028, atingindo 500 milhões de euros.",
+      "url": "https://www.distribuicaohoje.com/producao/sumol-compal-comissao-executiva/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": ["ceo-direcao"],
+      "data": "2026-07-23"
+    },
+    {
+      "id": "2026-07-23-retalho-expansao-verao",
+      "titulo": "Retalho em expansão: Verão acelera aberturas em Portugal",
+      "resumo": "As marcas intensificam a abertura de lojas durante o verão, sobretudo em zonas turísticas, onde a experiência em loja assume maior peso.",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-55/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": ["marca-expansao", "nova-loja"],
+      "data": "2026-07-23"
+    },
+    {
+      "id": "2026-07-17-mo-alegro-alfragide",
+      "titulo": "MO reforça plano de expansão com nova loja no Alegro Alfragide",
+      "resumo": "A MO inaugurou uma nova loja no Alegro Alfragide — a quinta abertura da marca em 2026 — reforçando a expansão na Grande Lisboa.",
+      "url": "https://hipersuper.pt/2026/07/17/mo-reforca-plano-de-expansao-com-nova-loja-no-alegro-alfragide",
       "fonte": "Hipersuper",
       "pais": "Portugal",
       "temas": ["nova-loja", "marca-expansao"],
-      "data": "2026-07-24"
+      "data": "2026-07-17"
     },
     {
-      "id": "2026-07-24-cbre-escritorios-lisboa",
-      "titulo": "Investimento em escritórios em Lisboa cresce 18% no primeiro semestre",
-      "resumo": "Relatório da CBRE aponta para uma recuperação do segmento de escritórios na capital, impulsionada por capital estrangeiro e pela procura de espaços prime.",
-      "url": "https://www.cbre.pt/exemplo/escritorios-h1",
-      "fonte": "CBRE",
+      "id": "2026-07-16-meu-super-miranda-corvo",
+      "titulo": "Meu Super abre nova loja em Miranda do Corvo",
+      "resumo": "A insígnia de proximidade Meu Super continua a expansão da rede com uma nova loja em Miranda do Corvo.",
+      "url": "https://hipersuper.pt/2026/07/16/meu-super-abre-nova-loja-em-miranda-do-corvo",
+      "fonte": "Hipersuper",
       "pais": "Portugal",
-      "temas": ["escritorios", "investimento-estrangeiro", "investidores"],
-      "data": "2026-07-24"
+      "temas": ["nova-loja"],
+      "data": "2026-07-16"
     },
     {
-      "id": "2026-07-23-sonae-sierra-retail-park",
-      "titulo": "Sonae Sierra avança com novo retail park em Santarém",
-      "resumo": "O promotor obteve licenciamento para um retail park de 25.000 m² com abertura prevista para 2027, ancorado por operadores de alimentar e desporto.",
-      "url": "https://www.sonaesierra.com/exemplo/santarem",
-      "fonte": "Sonae Sierra",
+      "id": "2026-07-09-mo-nova-arcada",
+      "titulo": "MO abre loja no Nova Arcada e chega a 135 espaços em Portugal",
+      "resumo": "A MO abriu uma loja no centro comercial Nova Arcada, em Braga, atingindo 135 espaços no país, no âmbito do plano de modernização e expansão.",
+      "url": "https://hipersuper.pt/2026/07/09/mo-abre-loja-no-nova-arcada-e-chega-a-135-espacos-em-portugal",
+      "fonte": "Hipersuper",
       "pais": "Portugal",
-      "temas": ["retail-parks", "licenciamento", "promotores"],
-      "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-23-jll-fundo-portefolio",
-      "titulo": "Fundo internacional adquire portefólio logístico ibérico por 400 milhões",
-      "resumo": "Operação assessorada pela JLL abrange ativos logísticos em Portugal e Espanha, refletindo o apetite dos investidores pelo segmento.",
-      "url": "https://www.jll.pt/exemplo/portefolio-logistico",
-      "fonte": "JLL",
-      "pais": "Internacional",
-      "temas": ["fundo-portefolio", "logistica", "compra-venda-ativo"],
-      "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-22-eco-ceo-operador",
-      "titulo": "Grupo de retalho anuncia mudança na liderança executiva",
-      "resumo": "O conselho de administração nomeou um novo CEO para liderar a próxima fase de crescimento, com foco na expansão internacional.",
-      "url": "https://eco.sapo.pt/exemplo/ceo",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": ["ceo-direcao"],
-      "data": "2026-07-22"
-    },
-    {
-      "id": "2026-07-22-primark-espanha",
-      "titulo": "Primark reforça expansão em Espanha com cinco novas lojas",
-      "resumo": "A marca irlandesa mantém o ritmo de aberturas na Península Ibérica, procurando também localizações em Portugal.",
-      "url": "https://grandeconsumo.com/exemplo/primark-es",
-      "fonte": "Grande Consumo",
-      "pais": "Espanha",
       "temas": ["nova-loja", "marca-expansao"],
-      "data": "2026-07-22"
+      "data": "2026-07-09"
+    },
+    {
+      "id": "2026-07-07-springfield-atrium-saldanha",
+      "titulo": "Springfield abre nova loja no Atrium Saldanha",
+      "resumo": "A Springfield inaugurou uma nova loja no centro comercial Atrium Saldanha, no centro de Lisboa.",
+      "url": "https://hipersuper.pt/2026/07/07/springfield-abre-nova-loja-no-atrium-saldanha",
+      "fonte": "Hipersuper",
+      "pais": "Portugal",
+      "temas": ["nova-loja"],
+      "data": "2026-07-07"
+    },
+    {
+      "id": "2026-05-28-primaprix-lisboa-savills",
+      "titulo": "PrimaPrix abre quarta loja em Lisboa com apoio da Savills",
+      "resumo": "A cadeia espanhola de descontos PrimaPrix abriu a quarta loja em Lisboa, numa operação com assessoria da Savills, reforçando a entrada no mercado português.",
+      "url": "https://hipersuper.pt/2026/05/28/primaprix-abre-quarta-loja-em-lisboa-com-apoio-da-savills",
+      "fonte": "Hipersuper",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "marca-expansao", "marca-internacional-pt"],
+      "data": "2026-05-28"
+    },
+    {
+      "id": "2026-05-11-investimento-comercial-1t",
+      "titulo": "Investimento imobiliário comercial em Portugal cresce 35% no primeiro trimestre face a 2025",
+      "resumo": "O investimento em imobiliário comercial arrancou 2026 com 311 milhões de euros no primeiro trimestre (+35% face a 2025), com hotelaria e retalho como segmentos em destaque.",
+      "url": "https://www.construir.pt/2026/05/11/investimento-imobiliario-comercial-em-portugal-cresce-35-no-primeiro-trimestre-face-a-2025",
+      "fonte": "Construir",
+      "pais": "Portugal",
+      "temas": ["investidores", "investimento-estrangeiro", "compra-venda-ativo"],
+      "data": "2026-05-11"
+    },
+    {
+      "id": "2026-03-16-mercadona-viseu-covilha",
+      "titulo": "Mercadona com novas lojas em Viseu e na Covilhã",
+      "resumo": "A cadeia Mercadona abriu novas lojas em Viseu e na Covilhã, dando continuidade ao plano de expansão em Portugal.",
+      "url": "https://hipersuper.pt/2026/03/16/mercadona-com-novas-lojas-em-viseu-e-na-covilha",
+      "fonte": "Hipersuper",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "marca-expansao"],
+      "data": "2026-03-16"
+    },
+    {
+      "id": "2026-03-02-investimento-retalho-840me",
+      "titulo": "Investimento no retalho em Portugal atinge 840M€ em 2025",
+      "resumo": "O segmento de retalho atraiu 840 milhões de euros de investimento em Portugal em 2025, um dos valores mais expressivos dos últimos anos.",
+      "url": "https://www.construir.pt/2026/03/02/investimento-no-retalho-em-portugal-atinge-840me-em-2025",
+      "fonte": "Construir",
+      "pais": "Portugal",
+      "temas": ["investidores", "compra-venda-ativo"],
+      "data": "2026-03-02"
+    },
+    {
+      "id": "2024-12-03-retail-mind-quatro-retail-parks",
+      "titulo": "Retail Mind desenvolve quatro novos retail parks em Portugal até 2027",
+      "resumo": "A Retail Mind desenvolve quatro novos retail parks em Portugal — em Póvoa de Varzim, Ponta Delgada, Felgueiras e Cantanhede — num investimento de 150 milhões de euros e cerca de 2.000 postos de trabalho.",
+      "url": "https://www.construir.pt/2024/12/03/retail-mind-desenvolve-quatro-novos-retail-parks-em-portugal-ate-2027",
+      "fonte": "Construir",
+      "pais": "Portugal",
+      "temas": ["retail-parks", "promotores", "licenciamento"],
+      "data": "2024-12-03"
     }
   ]
 }
