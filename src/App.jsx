@@ -33,6 +33,15 @@ function lerGuardados() {
   }
 }
 
+// ocultados: [{id, titulo, fonte, temas, ts}] — também servem de feedback para afinar o filtro
+function lerOcultos() {
+  try {
+    return JSON.parse(localStorage.getItem('radar-ocultos') || '[]')
+  } catch {
+    return []
+  }
+}
+
 function hojeISO() {
   return new Date().toISOString().slice(0, 10)
 }
@@ -60,6 +69,8 @@ export default function App() {
   const [fonte, setFonte] = useState(inicial.fonte)
   const [soGuardados, setSoGuardados] = useState(false)
   const [guardados, setGuardados] = useState(lerGuardados)
+  const [ocultos, setOcultos] = useState(lerOcultos)
+  const [painelOcultos, setPainelOcultos] = useState(false)
   const [vista, setVista] = useState(() => localStorage.getItem('radar-vista') || 'cartoes')
   const [copiado, setCopiado] = useState(null) // 'link' | 'resumo'
   const [mostraTopo, setMostraTopo] = useState(false)
@@ -92,6 +103,9 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem('radar-guardados', JSON.stringify(guardados))
   }, [guardados])
+  useEffect(() => {
+    localStorage.setItem('radar-ocultos', JSON.stringify(ocultos))
+  }, [ocultos])
   useEffect(() => {
     localStorage.setItem('radar-vista', vista)
   }, [vista])
@@ -132,12 +146,15 @@ export default function App() {
     return c
   }, [artigos])
 
+  const idsOcultos = useMemo(() => new Set(ocultos.map((o) => o.id)), [ocultos])
+
   // contagens para os chips de tema (respeitam os outros filtros, não o próprio tema)
   const baseSemTema = useMemo(() => {
     const q = query.trim().toLowerCase()
     const limite = PERIODOS.find((p) => p.id === periodo)?.dias
     const corte = limite ? Date.now() - limite * 86400000 : null
     return artigos
+      .filter((a) => !idsOcultos.has(a.id))
       .filter((a) => (pais === 'Todos' ? true : a.pais === pais))
       .filter((a) => (fonte === 'Todas' ? true : a.fonte === fonte))
       .filter((a) => (corte ? new Date(`${a.data}T23:59:59`).getTime() >= corte : true))
@@ -145,7 +162,7 @@ export default function App() {
       .filter((a) =>
         q === '' ? true : (a.titulo + ' ' + a.resumo + ' ' + a.fonte).toLowerCase().includes(q)
       )
-  }, [artigos, pais, fonte, periodo, query, soGuardados, guardados])
+  }, [artigos, idsOcultos, pais, fonte, periodo, query, soGuardados, guardados])
 
   const contagemTemas = useMemo(() => {
     const c = {}
@@ -182,6 +199,20 @@ export default function App() {
 
   const toggleGuardado = (id) =>
     setGuardados((prev) => (prev.includes(id) ? prev.filter((g) => g !== id) : [...prev, id]))
+
+  const ocultar = (a) =>
+    setOcultos((prev) => [...prev, { id: a.id, titulo: a.titulo, fonte: a.fonte, temas: a.temas, ts: Date.now() }])
+
+  const repor = (id) => setOcultos((prev) => prev.filter((o) => o.id !== id))
+
+  // texto de feedback para afinar o filtro de recolha
+  const copiarFeedback = () => {
+    const linhas = [
+      'Feedback Radar Retail Mind — artigos marcados como NÃO relevantes:',
+      ...ocultos.map((o) => `• [${o.fonte}] ${o.titulo} (temas: ${(o.temas || []).join(', ')})`),
+    ]
+    navigator.clipboard?.writeText(linhas.join('\n')).then(() => avisar('feedback'))
+  }
 
   function limpar() {
     setPais('Todos')
@@ -294,6 +325,15 @@ export default function App() {
                 {temFiltros && <span className="count-hint"> · filtros ativos</span>}
               </span>
               <div className="feed-actions">
+                {ocultos.length > 0 && (
+                  <button
+                    className={`share ${painelOcultos ? 'on' : ''}`}
+                    onClick={() => setPainelOcultos(!painelOcultos)}
+                    title="Artigos que ocultaste — rever, repor ou copiar como feedback"
+                  >
+                    Ocultados: {ocultos.length}
+                  </button>
+                )}
                 <div className="vista-toggle" role="group" aria-label="Vista">
                   <button
                     className={vista === 'cartoes' ? 'on' : ''}
@@ -321,6 +361,34 @@ export default function App() {
               </div>
             </div>
 
+            {painelOcultos && ocultos.length > 0 && (
+              <div className="ocultos-painel">
+                <div className="ocultos-head">
+                  <strong>Ocultaste {ocultos.length} {ocultos.length === 1 ? 'artigo' : 'artigos'}</strong>
+                  <div className="ocultos-acoes">
+                    <button className="share" onClick={copiarFeedback} title="Copiar lista para enviar como feedback e afinar a recolha">
+                      {copiado === 'feedback' ? '✓ Copiado' : 'Copiar feedback'}
+                    </button>
+                    <button className="share" onClick={() => setOcultos([])}>
+                      Repor todos
+                    </button>
+                  </div>
+                </div>
+                <ul className="ocultos-lista">
+                  {ocultos.map((o) => (
+                    <li key={o.id}>
+                      <span className="ocultos-titulo">{o.titulo}</span>
+                      <span className="ocultos-meta">{o.fonte}</span>
+                      <button className="share" onClick={() => repor(o.id)}>Repor</button>
+                    </li>
+                  ))}
+                </ul>
+                <p className="ocultos-nota">
+                  Ocultar é local (só neste browser). A lista serve de feedback: copia-a e envia para afinarmos o que a recolha traz.
+                </p>
+              </div>
+            )}
+
             {filtrados.length === 0 ? (
               <div className="empty">
                 <div className="empty-icon">◎</div>
@@ -344,6 +412,7 @@ export default function App() {
                       onTema={toggleTema}
                       guardado={guardados.includes(destaque.id)}
                       onGuardar={toggleGuardado}
+                      onOcultar={ocultar}
                       hero
                       novo={eHoje(destaque)}
                     />
@@ -364,6 +433,7 @@ export default function App() {
                           onTema={toggleTema}
                           guardado={guardados.includes(a.id)}
                           onGuardar={toggleGuardado}
+                          onOcultar={ocultar}
                           compacto={vista === 'lista'}
                           novo={eHoje(a)}
                         />

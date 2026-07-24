@@ -356,6 +356,52 @@ button { font-family: inherit; }
 }
 .source .novo { margin: 0 0 0 8px; }
 
+/* ── Ocultar / feedback ─────────────── */
+.ocultar {
+  background: transparent;
+  border: none;
+  color: var(--muted);
+  font-size: 13px;
+  cursor: pointer;
+  padding: 2px 5px;
+  line-height: 1;
+  opacity: .45;
+  transition: all .15s;
+  flex-shrink: 0;
+}
+.ocultar:hover { opacity: 1; color: #f87171; transform: scale(1.15); }
+.share.on { color: var(--accent); border-color: var(--accent); }
+
+.ocultos-painel {
+  background: var(--panel);
+  border: 1px solid var(--border-soft);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin: 10px 0 6px;
+  animation: slide .18s ease;
+}
+.ocultos-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 13px;
+}
+.ocultos-acoes { display: flex; gap: 6px; }
+.ocultos-lista { list-style: none; margin: 10px 0 0; padding: 0; }
+.ocultos-lista li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 0;
+  border-top: 1px solid var(--border-soft);
+  font-size: 13px;
+}
+.ocultos-titulo { flex: 1; min-width: 0; }
+.ocultos-meta { color: var(--muted); font-size: 11px; white-space: nowrap; }
+.ocultos-nota { color: var(--muted); font-size: 11px; margin: 10px 0 0; }
+
 /* ── Fontes monitorizadas ───────────── */
 .fontes {
   margin-top: 44px;

@@ -15,6 +15,7 @@ export default function ArticleCard({
   onTema,
   guardado = false,
   onGuardar,
+  onOcultar,
   compacto = false,
   hero = false,
   novo = false,
@@ -40,6 +41,9 @@ export default function ArticleCard({
             {fonte} · {pais} · {dominio(url)}
           </span>
         </div>
+        <button className="ocultar" onClick={() => onOcultar?.(article)} title="Não relevante — ocultar">
+          ✕
+        </button>
       </article>
     )
   }
@@ -59,6 +63,9 @@ export default function ArticleCard({
             title={guardado ? 'Remover dos guardados' : 'Guardar para ler depois'}
           >
             {guardado ? '★' : '☆'}
+          </button>
+          <button className="ocultar" onClick={() => onOcultar?.(article)} title="Não relevante — ocultar">
+            ✕
           </button>
         </div>
       </div>
