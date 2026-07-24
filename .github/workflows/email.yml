@@ -23,8 +23,12 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 24
-      - name: Enviar resumo via Resend
+      - name: Instalar dependência de email
+        run: npm install nodemailer --no-save
+      - name: Enviar resumo (Gmail ou Resend)
         env:
+          GMAIL_USER: ${{ vars.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           MAIL_FROM: ${{ vars.MAIL_FROM }}
           MAIL_TO: ${{ vars.MAIL_TO }}

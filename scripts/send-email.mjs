@@ -1,23 +1,35 @@
-// Envia o email-resumo com os artigos NOVOS do último commit, via Resend.
+// Envia o email-resumo com os artigos NOVOS do último commit.
 // Corre na GitHub Action (email.yml), a cada push que altere articles.json.
 //
+// Escolhe o provedor automaticamente:
+//   - Se GMAIL_APP_PASSWORD existir  -> envia via Gmail SMTP (from = GMAIL_USER).
+//     Envia para QUALQUER destinatário, sem verificação de domínio.
+//   - Senão, se RESEND_API_KEY existir -> envia via Resend.
+//
 // Variáveis de ambiente:
-//   RESEND_API_KEY  (secret)   — obrigatória
-//   MAIL_FROM       (variable)  — ex. "Radar Retail Mind <radar@teudominio.pt>"
-//                                 fallback: sandbox do Resend (só envia para o dono da conta)
-//   MAIL_TO         (variable)  — lista separada por vírgulas; fallback: rmitdep@gmail.com
-//   SITE_URL        (variable)  — link para a página (ex. https://retailmind-news.vercel.app)
+//   GMAIL_USER         (variable) — email Gmail remetente (default: rmitdep@gmail.com)
+//   GMAIL_APP_PASSWORD (secret)   — App Password do Google (16 chars). Ativa o modo Gmail.
+//   RESEND_API_KEY     (secret)   — alternativa ao Gmail
+//   MAIL_FROM          (variable) — override do remetente (ex. "Radar Retail Mind <radar@dominio>")
+//   MAIL_TO            (variable) — destinatários separados por vírgula (default: rmitdep@gmail.com)
+//   SITE_URL           (variable) — link para a página (default: URL do Vercel)
 
 import { readFileSync } from 'node:fs'
 import { execSync } from 'node:child_process'
 import { CATEGORIES } from '../src/data/themes.js'
 
-const KEY = process.env.RESEND_API_KEY
-if (!KEY) {
-  console.error('RESEND_API_KEY em falta — abortar.')
+const RESEND_KEY = process.env.RESEND_API_KEY
+const GMAIL_USER = process.env.GMAIL_USER || 'rmitdep@gmail.com'
+const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD
+const useGmail = !!GMAIL_APP_PASSWORD
+
+if (!useGmail && !RESEND_KEY && process.env.DRY !== '1') {
+  console.error('Falta credencial: define GMAIL_APP_PASSWORD (Gmail) ou RESEND_API_KEY (Resend).')
   process.exit(1)
 }
-const FROM = process.env.MAIL_FROM || 'Radar Retail Mind <onboarding@resend.dev>'
+
+const FROM = process.env.MAIL_FROM ||
+  (useGmail ? `Radar Retail Mind <${GMAIL_USER}>` : 'Radar Retail Mind <onboarding@resend.dev>')
 const TO = (process.env.MAIL_TO || 'rmitdep@gmail.com')
   .split(',').map((s) => s.trim()).filter(Boolean)
 const SITE_URL = process.env.SITE_URL || 'https://retailmind-news.vercel.app'
@@ -115,14 +127,25 @@ if (process.env.DRY === '1') {
   process.exit(0)
 }
 
-const res = await fetch('https://api.resend.com/emails', {
-  method: 'POST',
-  headers: { Authorization: `Bearer ${KEY}`, 'Content-Type': 'application/json' },
-  body: JSON.stringify({ from: FROM, to: TO, subject, html }),
-})
-
-if (!res.ok) {
-  console.error(`Resend falhou: ${res.status} ${await res.text()}`)
-  process.exit(1)
+if (useGmail) {
+  // Gmail SMTP — envia para qualquer destinatário, sem verificação de domínio.
+  const nodemailer = (await import('nodemailer')).default
+  const transport = nodemailer.createTransport({
+    service: 'gmail',
+    auth: { user: GMAIL_USER, pass: GMAIL_APP_PASSWORD },
+  })
+  await transport.sendMail({ from: FROM, to: TO.join(', '), subject, html })
+  console.log(`Email enviado via Gmail (${GMAIL_USER}) para ${TO.join(', ')} — ${novos.length} artigos.`)
+} else {
+  // Resend
+  const res = await fetch('https://api.resend.com/emails', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${RESEND_KEY}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ from: FROM, to: TO, subject, html }),
+  })
+  if (!res.ok) {
+    console.error(`Resend falhou: ${res.status} ${await res.text()}`)
+    process.exit(1)
+  }
+  console.log(`Email enviado via Resend para ${TO.join(', ')} — ${novos.length} artigos.`)
 }
-console.log(`Email enviado para ${TO.join(', ')} — ${novos.length} artigos.`)
