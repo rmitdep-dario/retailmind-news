@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { CATEGORIES, PAISES } from './data/themes.js'
 import FilterBar from './components/FilterBar.jsx'
 import ArticleCard from './components/ArticleCard.jsx'
@@ -12,7 +12,7 @@ const PERIODOS = [
   { id: '30d', label: '30 dias', dias: 30 },
 ]
 
-// lê o estado inicial dos filtros a partir do URL (?pais=&temas=&q=&periodo=)
+// lê o estado inicial dos filtros a partir do URL (?pais=&temas=&q=&periodo=&fonte=)
 function estadoInicial() {
   const p = new URLSearchParams(window.location.search)
   return {
@@ -20,7 +20,20 @@ function estadoInicial() {
     temas: (p.get('temas') || '').split(',').filter(Boolean),
     query: p.get('q') || '',
     periodo: p.get('periodo') || 'tudo',
+    fonte: p.get('fonte') || 'Todas',
   }
+}
+
+function lerGuardados() {
+  try {
+    return JSON.parse(localStorage.getItem('radar-guardados') || '[]')
+  } catch {
+    return []
+  }
+}
+
+function hojeISO() {
+  return new Date().toISOString().slice(0, 10)
 }
 
 function rotuloDia(iso) {
@@ -43,6 +56,13 @@ export default function App() {
   const [temas, setTemas] = useState(inicial.temas)
   const [query, setQuery] = useState(inicial.query)
   const [periodo, setPeriodo] = useState(inicial.periodo)
+  const [fonte, setFonte] = useState(inicial.fonte)
+  const [soGuardados, setSoGuardados] = useState(false)
+  const [guardados, setGuardados] = useState(lerGuardados)
+  const [vista, setVista] = useState(() => localStorage.getItem('radar-vista') || 'cartoes')
+  const [copiado, setCopiado] = useState(null) // 'link' | 'resumo'
+  const [mostraTopo, setMostraTopo] = useState(false)
+  const searchRef = useRef(null)
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/articles.json`)
@@ -62,24 +82,62 @@ export default function App() {
     if (temas.length) p.set('temas', temas.join(','))
     if (query) p.set('q', query)
     if (periodo !== 'tudo') p.set('periodo', periodo)
+    if (fonte !== 'Todas') p.set('fonte', fonte)
     const qs = p.toString()
     window.history.replaceState(null, '', qs ? `?${qs}` : window.location.pathname)
-  }, [pais, temas, query, periodo])
+  }, [pais, temas, query, periodo, fonte])
+
+  // persistência de guardados e preferência de vista
+  useEffect(() => {
+    localStorage.setItem('radar-guardados', JSON.stringify(guardados))
+  }, [guardados])
+  useEffect(() => {
+    localStorage.setItem('radar-vista', vista)
+  }, [vista])
+
+  // atalhos: "/" foca pesquisa, Esc limpa tudo
+  useEffect(() => {
+    const onKey = (e) => {
+      if (e.key === '/' && document.activeElement?.tagName !== 'INPUT') {
+        e.preventDefault()
+        searchRef.current?.focus()
+      }
+      if (e.key === 'Escape') {
+        limpar()
+        searchRef.current?.blur()
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [])
+
+  // botão voltar ao topo
+  useEffect(() => {
+    const onScroll = () => setMostraTopo(window.scrollY > 600)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
 
   const artigos = data.articles || []
+  const fontes = useMemo(
+    () => ['Todas', ...[...new Set(artigos.map((a) => a.fonte))].sort()],
+    [artigos]
+  )
 
-  // contagens para os chips de tema (respeitam pais/periodo/pesquisa, não o próprio tema)
+  // contagens para os chips de tema (respeitam os outros filtros, não o próprio tema)
   const baseSemTema = useMemo(() => {
     const q = query.trim().toLowerCase()
     const limite = PERIODOS.find((p) => p.id === periodo)?.dias
     const corte = limite ? Date.now() - limite * 86400000 : null
     return artigos
       .filter((a) => (pais === 'Todos' ? true : a.pais === pais))
+      .filter((a) => (fonte === 'Todas' ? true : a.fonte === fonte))
       .filter((a) => (corte ? new Date(`${a.data}T23:59:59`).getTime() >= corte : true))
+      .filter((a) => (soGuardados ? guardados.includes(a.id) : true))
       .filter((a) =>
         q === '' ? true : (a.titulo + ' ' + a.resumo + ' ' + a.fonte).toLowerCase().includes(q)
       )
-  }, [artigos, pais, periodo, query])
+  }, [artigos, pais, fonte, periodo, query, soGuardados, guardados])
 
   const contagemTemas = useMemo(() => {
     const c = {}
@@ -93,31 +151,73 @@ export default function App() {
       .sort((a, b) => (a.data < b.data ? 1 : -1))
   }, [baseSemTema, temas])
 
-  // agrupar por dia para a lista
+  const temFiltros =
+    pais !== 'Todos' || temas.length > 0 || query !== '' || periodo !== 'tudo' ||
+    fonte !== 'Todas' || soGuardados
+
+  // destaque: artigo mais recente, só quando não há filtros ativos
+  const destaque = !temFiltros && filtrados.length > 0 ? filtrados[0] : null
+  const lista = destaque ? filtrados.slice(1) : filtrados
+
+  // agrupar por dia
   const porDia = useMemo(() => {
+    const g = new Map()
+    for (const a of lista) {
+      if (!g.has(a.data)) g.set(a.data, [])
+      g.get(a.data).push(a)
+    }
+    return [...g.entries()]
+  }, [lista])
+
+  const toggleTema = (slug) =>
+    setTemas((prev) => (prev.includes(slug) ? prev.filter((s) => s !== slug) : [...prev, slug]))
+
+  const toggleGuardado = (id) =>
+    setGuardados((prev) => (prev.includes(id) ? prev.filter((g) => g !== id) : [...prev, id]))
+
+  function limpar() {
+    setPais('Todos')
+    setTemas([])
+    setQuery('')
+    setPeriodo('tudo')
+    setFonte('Todas')
+    setSoGuardados(false)
+  }
+
+  const avisar = (tipo) => {
+    setCopiado(tipo)
+    setTimeout(() => setCopiado(null), 1800)
+  }
+
+  const copiarLink = () => {
+    navigator.clipboard?.writeText(window.location.href).then(() => avisar('link'))
+  }
+
+  // gera um resumo em texto dos artigos visíveis, pronto a colar no WhatsApp/Teams
+  const copiarResumo = () => {
+    const linhas = [`📰 Radar Retail Mind — ${new Date().toLocaleDateString('pt-PT')}`, '']
+    for (const [dia, arts] of porDiaComDestaque()) {
+      linhas.push(`— ${rotuloDia(dia)} —`)
+      for (const a of arts) {
+        linhas.push(`• ${a.titulo} (${a.fonte} · ${a.pais})`)
+        linhas.push(`  ${a.url}`)
+      }
+      linhas.push('')
+    }
+    linhas.push(`Ver tudo: ${window.location.origin}`)
+    navigator.clipboard?.writeText(linhas.join('\n')).then(() => avisar('resumo'))
+  }
+
+  function porDiaComDestaque() {
     const g = new Map()
     for (const a of filtrados) {
       if (!g.has(a.data)) g.set(a.data, [])
       g.get(a.data).push(a)
     }
     return [...g.entries()]
-  }, [filtrados])
-
-  const toggleTema = (slug) =>
-    setTemas((prev) => (prev.includes(slug) ? prev.filter((s) => s !== slug) : [...prev, slug]))
-
-  const limpar = () => {
-    setPais('Todos')
-    setTemas([])
-    setQuery('')
-    setPeriodo('tudo')
   }
 
-  const temFiltros = pais !== 'Todos' || temas.length > 0 || query !== '' || periodo !== 'tudo'
-
-  const copiarLink = () => {
-    navigator.clipboard?.writeText(window.location.href)
-  }
+  const eHoje = (a) => a.data === hojeISO()
 
   return (
     <div className="app">
@@ -129,17 +229,24 @@ export default function App() {
             <div className="brand-sub">Retail Mind · retalho &amp; imobiliário comercial</div>
           </div>
         </div>
-        <div className="meta">
+        <div className="top-right">
           {data.updatedAt && (
-            <span>
+            <span className="meta">
               Atualizado {new Date(data.updatedAt).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' })},{' '}
               {new Date(data.updatedAt).toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' })}
             </span>
           )}
+          <button
+            className={`icon-btn ${soGuardados ? 'on' : ''}`}
+            onClick={() => setSoGuardados(!soGuardados)}
+            title={soGuardados ? 'Mostrar todos' : 'Só guardados'}
+          >
+            ★ {guardados.length > 0 && <span className="icon-n">{guardados.length}</span>}
+          </button>
         </div>
       </header>
 
-      {!loading && !error && <StatsBar artigos={artigos} />}
+      {!loading && !error && !temFiltros && <StatsBar artigos={artigos} />}
 
       <FilterBar
         categories={CATEGORIES}
@@ -153,9 +260,13 @@ export default function App() {
         periodos={PERIODOS}
         periodo={periodo}
         setPeriodo={setPeriodo}
+        fontes={fontes}
+        fonte={fonte}
+        setFonte={setFonte}
         contagemTemas={contagemTemas}
         onClear={limpar}
         temFiltros={temFiltros}
+        searchRef={searchRef}
       />
 
       <main className="feed">
@@ -174,42 +285,99 @@ export default function App() {
                 {filtrados.length} {filtrados.length === 1 ? 'artigo' : 'artigos'}
                 {temFiltros && <span className="count-hint"> · filtros ativos</span>}
               </span>
-              {temFiltros && (
-                <button className="share" onClick={copiarLink} title="Copiar link desta vista filtrada">
-                  Copiar link da vista
+              <div className="feed-actions">
+                <div className="vista-toggle" role="group" aria-label="Vista">
+                  <button
+                    className={vista === 'cartoes' ? 'on' : ''}
+                    onClick={() => setVista('cartoes')}
+                    title="Vista de cartões"
+                  >
+                    ▦
+                  </button>
+                  <button
+                    className={vista === 'lista' ? 'on' : ''}
+                    onClick={() => setVista('lista')}
+                    title="Vista de lista"
+                  >
+                    ☰
+                  </button>
+                </div>
+                <button className="share" onClick={copiarResumo} title="Copiar resumo em texto dos artigos visíveis">
+                  {copiado === 'resumo' ? '✓ Copiado' : 'Copiar resumo'}
                 </button>
-              )}
+                {temFiltros && (
+                  <button className="share" onClick={copiarLink} title="Copiar link desta vista filtrada">
+                    {copiado === 'link' ? '✓ Copiado' : 'Copiar link'}
+                  </button>
+                )}
+              </div>
             </div>
 
             {filtrados.length === 0 ? (
               <div className="empty">
                 <div className="empty-icon">◎</div>
-                <p>Nenhum artigo corresponde aos filtros.</p>
+                <p>
+                  {soGuardados
+                    ? 'Ainda não guardaste nenhum artigo. Usa a ☆ nos cartões.'
+                    : 'Nenhum artigo corresponde aos filtros.'}
+                </p>
                 <button className="clear big" onClick={limpar}>
                   Limpar todos os filtros
                 </button>
               </div>
             ) : (
-              porDia.map(([dia, arts]) => (
-                <section key={dia} className="day">
-                  <h2 className="day-label">
-                    {rotuloDia(dia)}
-                    <span className="day-count">{arts.length}</span>
-                  </h2>
-                  <div className="grid">
-                    {arts.map((a) => (
-                      <ArticleCard key={a.id} article={a} temasAtivos={temas} onTema={toggleTema} />
-                    ))}
-                  </div>
-                </section>
-              ))
+              <>
+                {destaque && (
+                  <section className="hero">
+                    <div className="hero-tag">Destaque · {rotuloDia(destaque.data)}</div>
+                    <ArticleCard
+                      article={destaque}
+                      temasAtivos={temas}
+                      onTema={toggleTema}
+                      guardado={guardados.includes(destaque.id)}
+                      onGuardar={toggleGuardado}
+                      hero
+                      novo={eHoje(destaque)}
+                    />
+                  </section>
+                )}
+                {porDia.map(([dia, arts]) => (
+                  <section key={dia} className="day">
+                    <h2 className="day-label">
+                      {rotuloDia(dia)}
+                      <span className="day-count">{arts.length}</span>
+                    </h2>
+                    <div className={vista === 'lista' ? 'lista' : 'grid'}>
+                      {arts.map((a) => (
+                        <ArticleCard
+                          key={a.id}
+                          article={a}
+                          temasAtivos={temas}
+                          onTema={toggleTema}
+                          guardado={guardados.includes(a.id)}
+                          onGuardar={toggleGuardado}
+                          compacto={vista === 'lista'}
+                          novo={eHoje(a)}
+                        />
+                      ))}
+                    </div>
+                  </section>
+                ))}
+              </>
             )}
           </>
         )}
       </main>
 
+      {mostraTopo && (
+        <button className="topo" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} title="Voltar ao topo">
+          ↑
+        </button>
+      )}
+
       <footer className="foot">
-        Recolha automática diária às 07:00 · {new Date().getFullYear()} Retail Mind Group
+        Recolha automática diária às 07:00 · Atalhos: <kbd>/</kbd> pesquisar · <kbd>Esc</kbd> limpar ·{' '}
+        {new Date().getFullYear()} Retail Mind Group
       </footer>
     </div>
   )

@@ -13,9 +13,13 @@ export default function FilterBar({
   periodos,
   periodo,
   setPeriodo,
+  fontes,
+  fonte,
+  setFonte,
   contagemTemas,
   onClear,
   temFiltros,
+  searchRef,
 }) {
   const [aberto, setAberto] = useState(false)
 
@@ -23,9 +27,10 @@ export default function FilterBar({
     <div className="filters">
       <div className="filters-row">
         <input
+          ref={searchRef}
           className="search"
           type="search"
-          placeholder="Pesquisar título, resumo ou fonte…"
+          placeholder="Pesquisar…  ( / )"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
@@ -54,6 +59,19 @@ export default function FilterBar({
           Temas{temas.length > 0 && <span className="badge">{temas.length}</span>}
           <span className="chev">{aberto ? '▴' : '▾'}</span>
         </button>
+
+        <select
+          className={`fonte-select ${fonte !== 'Todas' ? 'on' : ''}`}
+          value={fonte}
+          onChange={(e) => setFonte(e.target.value)}
+          title="Filtrar por fonte"
+        >
+          {fontes.map((f) => (
+            <option key={f} value={f}>
+              {f === 'Todas' ? 'Todas as fontes' : f}
+            </option>
+          ))}
+        </select>
 
         {temas.length > 0 && (
           <div className="temas-ativos">
