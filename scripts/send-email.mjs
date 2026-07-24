@@ -84,36 +84,63 @@ const breakdown = [...catOrder, 'outros']
   .map((cat) => `${(catLabel[cat] || 'Outros').split(' — ')[0].split(' / ')[0]} ${grupos[cat].length}`)
   .join(' · ')
 
-// email leve: só os títulos (com link para a fonte), agrupados por categoria
+// data em português (ex. "24 de julho de 2026")
+const dataPt = new Date(`${hoje}T00:00:00`).toLocaleDateString('pt-PT', { day: 'numeric', month: 'long', year: 'numeric' })
+
+// chips de contagem por categoria no topo
+const chips = [...catOrder, 'outros']
+  .filter((cat) => grupos[cat]?.length)
+  .map((cat) => {
+    const nome = (catLabel[cat] || 'Outros').split(' — ')[0].split(' / ')[0]
+    return `<span style="display:inline-block; background:#0f1620; border:1px solid #223; color:#8fe3b0; font-size:12px; font-weight:600; padding:4px 10px; border-radius:999px; margin:0 6px 6px 0;">${esc(nome)} · ${grupos[cat].length}</span>`
+  }).join('')
+
+// secções por categoria, com cartão por artigo (fonte, país, título, teaser)
 let secoes = ''
 for (const cat of [...catOrder, 'outros']) {
   const arts = grupos[cat]
   if (!arts || arts.length === 0) continue
   const label = catLabel[cat] || 'Outros'
-  const itens = arts.map((a) => `
-    <li style="margin:0 0 9px 0; line-height:1.4;">
-      <a href="${esc(a.url)}" style="color:#111; font-weight:600; text-decoration:none;">${esc(a.titulo)}</a>
-      <span style="color:#8a94a0; font-size:12px;"> — ${esc(a.fonte)} · ${esc(a.pais)}</span>
-    </li>`).join('')
+  const cards = arts.map((a) => `
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 12px 0;">
+      <tr><td style="background:#ffffff; border:1px solid #e8ebef; border-left:3px solid #16a34a; border-radius:10px; padding:14px 16px;">
+        <div style="margin:0 0 6px 0;">
+          <span style="color:#16a34a; font-weight:700; font-size:12px;">${esc(a.fonte)}</span>
+          <span style="color:#aab2bd; font-size:12px;">&nbsp;·&nbsp;${esc(a.pais)}</span>
+        </div>
+        <a href="${esc(a.url)}" style="color:#0f172a; font-weight:700; font-size:15px; line-height:1.35; text-decoration:none;">${esc(a.titulo)}</a>
+        <div style="color:#55606e; font-size:13px; line-height:1.5; margin-top:5px;">${esc(a.resumo)}</div>
+      </td></tr>
+    </table>`).join('')
   secoes += `
-    <h2 style="font-size:12px; text-transform:uppercase; letter-spacing:.05em; color:#8a94a0; margin:22px 0 10px;">${esc(label)}</h2>
-    <ul style="list-style:none; padding:0; margin:0;">${itens}</ul>`
+    <div style="font-size:12px; text-transform:uppercase; letter-spacing:.06em; color:#98a1ad; font-weight:700; margin:26px 0 12px;">${esc(label)}</div>
+    ${cards}`
 }
 
-const botao = SITE_URL
-  ? `<div style="margin:30px 0 6px;">
-       <a href="${esc(SITE_URL)}" style="display:inline-block; background:#16a34a; color:#fff; font-weight:600; font-size:14px; text-decoration:none; padding:12px 22px; border-radius:8px;">Ver tudo no Radar, com filtros →</a>
-     </div>`
-  : ''
+const botao = `
+  <table role="presentation" cellpadding="0" cellspacing="0" style="margin:30px auto 8px;">
+    <tr><td style="border-radius:10px; background:#16a34a;">
+      <a href="${esc(SITE_URL)}" style="display:inline-block; color:#ffffff; font-weight:700; font-size:14px; text-decoration:none; padding:14px 28px;">Ver tudo no Radar, com filtros →</a>
+    </td></tr>
+  </table>`
 
 const html = `
-  <div style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif; max-width:600px; margin:0 auto; color:#222;">
-    <h1 style="font-size:18px; margin:0 0 2px;">Radar Retail Mind</h1>
-    <p style="color:#8a94a0; font-size:13px; margin:0 0 4px;">${hoje}</p>
-    <p style="font-size:15px; margin:14px 0 4px;"><strong>${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'}</strong> para o retalho e imobiliário comercial${breakdown ? `<br><span style="color:#8a94a0; font-size:13px;">${esc(breakdown)}</span>` : ''}</p>
-    ${secoes}
-    ${botao}
-    <p style="color:#b0b7c0; font-size:11px; margin-top:24px;">Clica num título para abrir a fonte, ou usa o botão para ver todas as notícias filtráveis por país e tema.</p>
+  <div style="background:#eef1f4; padding:24px 12px; font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px; margin:0 auto;">
+      <tr><td style="background:#0b0d10; border-radius:14px 14px 0 0; padding:22px 24px;">
+        <div style="color:#ffffff; font-size:19px; font-weight:800; letter-spacing:-.01em;">
+          <span style="display:inline-block; width:9px; height:9px; background:#4ade80; border-radius:50%; margin-right:8px;"></span>Radar Retail Mind
+        </div>
+        <div style="color:#7c8794; font-size:12px; margin-top:6px; text-transform:uppercase; letter-spacing:.08em;">Retail · Real Estate · Portugal — ${esc(dataPt)}</div>
+        <div style="margin-top:14px;">${chips}</div>
+      </td></tr>
+      <tr><td style="background:#f7f8fa; border:1px solid #e3e7ec; border-top:none; border-radius:0 0 14px 14px; padding:8px 24px 28px;">
+        <p style="font-size:15px; color:#0f172a; margin:18px 0 0;"><strong style="font-size:17px;">${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'}</strong> para o retalho e imobiliário comercial hoje.</p>
+        ${secoes}
+        <div style="text-align:center;">${botao}</div>
+        <p style="color:#aab2bd; font-size:11px; text-align:center; margin-top:18px; line-height:1.5;">Clica num título para abrir a fonte original, ou no botão para veres todas as notícias filtráveis por país e tema.<br>Radar Retail Mind — recolha automática diária.</p>
+      </td></tr>
+    </table>
   </div>`
 
 const subject = `Radar Retail Mind — ${hoje} (${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'})`
