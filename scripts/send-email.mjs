@@ -66,35 +66,54 @@ for (const a of novos) {
 const hoje = new Date().toISOString().slice(0, 10)
 const esc = (s) => String(s).replace(/[&<>]/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[m]))
 
+// resumo por categoria (ex. "Retalho 3 · Investimento 2")
+const breakdown = [...catOrder, 'outros']
+  .filter((cat) => grupos[cat]?.length)
+  .map((cat) => `${(catLabel[cat] || 'Outros').split(' — ')[0].split(' / ')[0]} ${grupos[cat].length}`)
+  .join(' · ')
+
+// email leve: só os títulos (com link para a fonte), agrupados por categoria
 let secoes = ''
 for (const cat of [...catOrder, 'outros']) {
   const arts = grupos[cat]
   if (!arts || arts.length === 0) continue
   const label = catLabel[cat] || 'Outros'
   const itens = arts.map((a) => `
-    <li style="margin:0 0 14px 0;">
-      <a href="${esc(a.url)}" style="color:#0b5; font-weight:600; text-decoration:none;">${esc(a.titulo)}</a>
-      <div style="color:#667; font-size:12px; margin:2px 0;">${esc(a.fonte)} · ${esc(a.pais)}</div>
-      <div style="color:#334; font-size:14px;">${esc(a.resumo)}</div>
+    <li style="margin:0 0 9px 0; line-height:1.4;">
+      <a href="${esc(a.url)}" style="color:#111; font-weight:600; text-decoration:none;">${esc(a.titulo)}</a>
+      <span style="color:#8a94a0; font-size:12px;"> — ${esc(a.fonte)} · ${esc(a.pais)}</span>
     </li>`).join('')
   secoes += `
-    <h2 style="font-size:15px; color:#111; border-bottom:1px solid #eee; padding-bottom:6px; margin:24px 0 12px;">${esc(label)}</h2>
+    <h2 style="font-size:12px; text-transform:uppercase; letter-spacing:.05em; color:#8a94a0; margin:22px 0 10px;">${esc(label)}</h2>
     <ul style="list-style:none; padding:0; margin:0;">${itens}</ul>`
 }
 
-const linkPagina = SITE_URL
-  ? `<p style="margin-top:28px;"><a href="${esc(SITE_URL)}" style="color:#0b5;">Ver todas as notícias na página →</a></p>`
+const botao = SITE_URL
+  ? `<div style="margin:30px 0 6px;">
+       <a href="${esc(SITE_URL)}" style="display:inline-block; background:#16a34a; color:#fff; font-weight:600; font-size:14px; text-decoration:none; padding:12px 22px; border-radius:8px;">Ver tudo no Radar, com filtros →</a>
+     </div>`
   : ''
 
 const html = `
-  <div style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif; max-width:640px; margin:0 auto; color:#222;">
-    <h1 style="font-size:18px; margin:0 0 4px;">Radar Retail Mind — ${hoje}</h1>
-    <p style="color:#667; font-size:13px; margin:0 0 8px;">${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'} hoje</p>
+  <div style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif; max-width:600px; margin:0 auto; color:#222;">
+    <h1 style="font-size:18px; margin:0 0 2px;">Radar Retail Mind</h1>
+    <p style="color:#8a94a0; font-size:13px; margin:0 0 4px;">${hoje}</p>
+    <p style="font-size:15px; margin:14px 0 4px;"><strong>${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'}</strong> para o retalho e imobiliário comercial${breakdown ? `<br><span style="color:#8a94a0; font-size:13px;">${esc(breakdown)}</span>` : ''}</p>
     ${secoes}
-    ${linkPagina}
+    ${botao}
+    <p style="color:#b0b7c0; font-size:11px; margin-top:24px;">Clica num título para abrir a fonte, ou usa o botão para ver todas as notícias filtráveis por país e tema.</p>
   </div>`
 
 const subject = `Radar Retail Mind — ${hoje} (${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'})`
+
+// DRY=1 → pré-visualiza o HTML sem enviar (para testar localmente)
+if (process.env.DRY === '1') {
+  const { writeFileSync } = await import('node:fs')
+  writeFileSync('/tmp/email-preview.html', html)
+  console.log('DRY-RUN — assunto:', subject)
+  console.log('HTML escrito em /tmp/email-preview.html')
+  process.exit(0)
+}
 
 const res = await fetch('https://api.resend.com/emails', {
   method: 'POST',
