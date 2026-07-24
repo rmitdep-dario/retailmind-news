@@ -118,6 +118,19 @@ const html = `
 
 const subject = `Radar Retail Mind — ${hoje} (${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'})`
 
+// versão texto-simples (ajuda os filtros anti-spam e clientes sem HTML)
+const texto = [
+  `Radar Retail Mind — ${hoje}`,
+  `${novos.length} ${novos.length === 1 ? 'novidade' : 'novidades'} para o retalho e imobiliário comercial`,
+  breakdown ? breakdown : '',
+  '',
+  ...novos.map((a) => `• ${a.titulo} — ${a.fonte} · ${a.pais}\n  ${a.url}`),
+  '',
+  `Ver tudo (filtrável por país e tema): ${SITE_URL}`,
+].filter((l) => l !== null && l !== undefined).join('\n')
+
+const REPLY_TO = process.env.MAIL_REPLY_TO || GMAIL_USER
+
 // DRY=1 → pré-visualiza o HTML sem enviar (para testar localmente)
 if (process.env.DRY === '1') {
   const { writeFileSync } = await import('node:fs')
@@ -134,14 +147,14 @@ if (useGmail) {
     service: 'gmail',
     auth: { user: GMAIL_USER, pass: GMAIL_APP_PASSWORD },
   })
-  await transport.sendMail({ from: FROM, to: TO.join(', '), subject, html })
+  await transport.sendMail({ from: FROM, to: TO.join(', '), replyTo: REPLY_TO, subject, html, text: texto })
   console.log(`Email enviado via Gmail (${GMAIL_USER}) para ${TO.join(', ')} — ${novos.length} artigos.`)
 } else {
   // Resend
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: { Authorization: `Bearer ${RESEND_KEY}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ from: FROM, to: TO, subject, html }),
+    body: JSON.stringify({ from: FROM, to: TO, reply_to: REPLY_TO, subject, html, text: texto }),
   })
   if (!res.ok) {
     console.error(`Resend falhou: ${res.status} ${await res.text()}`)
