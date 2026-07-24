@@ -385,32 +385,37 @@ export default function App() {
               {SOURCES.length} fontes · recolha diária às 07:00 · {SOURCES.filter((s) => contagemFontes[s.nome]).length} com artigos no arquivo
             </span>
           </h2>
-          <div className="fontes-grid">
-            {SOURCES.map((s) => {
-              const n = contagemFontes[s.nome] || 0
-              const ativa = fonte === s.nome
-              return (
-                <button
-                  key={s.nome}
-                  className={`fonte-chip ${n > 0 ? 'tem' : ''} ${ativa ? 'on' : ''}`}
-                  onClick={() => {
-                    if (n === 0) return
-                    setFonte(ativa ? 'Todas' : s.nome)
-                    window.scrollTo({ top: 0, behavior: 'smooth' })
-                  }}
-                  title={
-                    n > 0
-                      ? `${n} ${n === 1 ? 'artigo' : 'artigos'} — clicar para filtrar`
-                      : 'Monitorizada — ainda sem artigos no arquivo'
-                  }
-                >
-                  <span className={`fonte-dot ${n > 0 ? 'verde' : ''}`} />
-                  {s.nome}
-                  {n > 0 && <span className="tag-n">{n}</span>}
-                </button>
-              )
-            })}
-          </div>
+          {[...new Set(SOURCES.map((s) => s.categoria))].map((cat) => (
+            <div key={cat} className="fontes-cat">
+              <div className="fontes-cat-label">{cat}</div>
+              <div className="fontes-grid">
+                {SOURCES.filter((s) => s.categoria === cat).map((s) => {
+                  const n = contagemFontes[s.nome] || 0
+                  const ativa = fonte === s.nome
+                  return (
+                    <button
+                      key={s.nome}
+                      className={`fonte-chip ${n > 0 ? 'tem' : ''} ${ativa ? 'on' : ''}`}
+                      onClick={() => {
+                        if (n === 0) return
+                        setFonte(ativa ? 'Todas' : s.nome)
+                        window.scrollTo({ top: 0, behavior: 'smooth' })
+                      }}
+                      title={
+                        n > 0
+                          ? `${n} ${n === 1 ? 'artigo' : 'artigos'} — clicar para filtrar`
+                          : 'Monitorizada — ainda sem artigos no arquivo'
+                      }
+                    >
+                      <span className={`fonte-dot ${n > 0 ? 'verde' : ''}`} />
+                      {s.nome}
+                      {n > 0 && <span className="tag-n">{n}</span>}
+                    </button>
+                  )
+                })}
+              </div>
+            </div>
+          ))}
         </section>
       )}
 

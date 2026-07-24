@@ -12,12 +12,25 @@ email-resumo.
 
 ## Passo 1 — Recolher
 
-Para cada fonte em `src/data/sources.js`:
+As fontes estão em `src/data/sources.js`, organizadas por `categoria`. Estratégia em 3 níveis
+(para manter a recolha rápida com ~65 fontes):
 
-- Se tiver `rss`, usa WebFetch no URL do feed e extrai os itens das últimas 24h.
-- Se `rss` for `null` (ou o feed falhar), usa WebSearch com o domínio, por exemplo:
-`site:cbre.pt (nova loja OR retail park OR investimento OR aquisição) after:AAAA-MM-DD`
-usando a data de ontem.
+1. **Feeds RSS** (fontes com `rss` preenchido): usa WebFetch no URL do feed e extrai os
+   itens das últimas 24h. São a via principal — cobre a imprensa mais ativa.
+2. **Media sem RSS** (categorias de imprensa com `rss: null`): WebSearch com o domínio,
+   por exemplo: `site:construir.pt (retail OR imobiliário OR investimento) 2026` limitado
+   a resultados recentes.
+3. **Empresas, promotores, consultoras e associações** (categorias "Consultoras",
+   "Promotores & investidores", "Associações", construtoras): NÃO pesquises uma a uma.
+   Faz 3-4 pesquisas AGREGADAS por tópico que naturalmente apanham estas entidades, ex.:
+   - `Portugal centro comercial OR "retail park" abertura OR investimento OR expansão [mês/ano]`
+   - `Portugal imobiliário comercial fundo OR aquisição OR portefólio [mês/ano]`
+   - `(Sonae Sierra OR Klépierre OR Mundicenter OR Nhood OR Merlin OR Castellana) Portugal [ano]`
+   Estas entidades aparecem sobretudo COMO PROTAGONISTAS de notícias na imprensa — o que
+   interessa é apanhar o facto, seja qual for o site onde saiu. Se o artigo sair num site
+   que não é fonte oficial, usa como `fonte` o nome da fonte da lista mais próxima do tema
+   (ex. notícia do Idealista sobre a Merlin → procura se saiu também numa fonte da lista;
+   se não, usa o nome da publicação real e mantém o URL verdadeiro).
 
 Foca-te em artigos que encaixem nos temas de `src/data/themes.js`. Ignora opinião genérica,
 publirreportagem e conteúdo sem facto novo (abertura, fecho, transação, licenciamento,

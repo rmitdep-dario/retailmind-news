@@ -374,6 +374,14 @@ button { font-family: inherit; }
   margin: 0 0 12px;
 }
 .fontes-sub { color: var(--muted); font-size: 12px; font-weight: 400; }
+.fontes-cat { margin-top: 14px; }
+.fontes-cat-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--muted);
+  margin-bottom: 7px;
+}
 .fontes-grid { display: flex; flex-wrap: wrap; gap: 7px; }
 .fonte-chip {
   display: inline-flex;
