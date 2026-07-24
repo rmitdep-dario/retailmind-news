@@ -66,28 +66,16 @@ git push
 
 O push dispara automaticamente um novo deploy no Vercel, que reconstrói e publica a página.
 
-## Passo 5 — Email-resumo
+## Passo 5 — Email-resumo (automático, NÃO é o agente que envia)
 
-Envia um email para a equipa com os destaques do dia. Usa a API do Resend
-(a chave está no secret `RESEND_API_KEY`). Corpo sugerido:
+O agente **não** envia email. O envio é feito automaticamente por uma GitHub Action
+(`.github/workflows/email.yml`) que dispara sempre que o push altera `articles.json`:
 
-- Assunto: `Radar Retail Mind — AAAA-MM-DD (N novidades)`
-- Agrupar os novos artigos por categoria (Retalho, Imobiliário, Investimento, Corporate).
-- Por artigo: título com link, fonte, país, 1 linha de resumo.
-- Terminar com link para a página filtrável.
+- corre `scripts/send-email.mjs`, que deteta os artigos NOVOS do último commit,
+  agrupa-os por categoria e envia via Resend;
+- a chave está no secret `RESEND_API_KEY` do repositório;
+- remetente/destinatários vêm das *variables* `MAIL_FROM`, `MAIL_TO`, `SITE_URL`.
 
-Exemplo de chamada (a partir de um pequeno script Node ou curl):
-
-```bash
-curl -s https://api.resend.com/emails \
-  -H "Authorization: Bearer $RESEND_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "from": "Radar Retail Mind <radar@teu-dominio.pt>",
-    "to": ["rmitdep@gmail.com"],
-    "subject": "Radar Retail Mind — AAAA-MM-DD",
-    "html": "<html-do-resumo>"
-  }'
-```
+Ou seja: basta o agente fazer o push (Passo 4). O email sai sozinho a seguir.
 
 Se não houver novidades no dia, envia à mesma um email curto a dizer "Sem novidades relevantes hoje".

@@ -1,0 +1,27 @@
+name: Enviar email-resumo
+
+# Dispara quando a recolha diária faz push a articles.json.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'public/data/articles.json'
+  workflow_dispatch: {}
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # precisa do commit anterior para saber o que é novo
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Enviar resumo via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_FROM: ${{ vars.MAIL_FROM }}
+          MAIL_TO: ${{ vars.MAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: node scripts/send-email.mjs
