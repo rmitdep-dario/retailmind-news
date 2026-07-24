@@ -16,8 +16,8 @@ Para cada fonte em `src/data/sources.js`:
 
 - Se tiver `rss`, usa WebFetch no URL do feed e extrai os itens das últimas 24h.
 - Se `rss` for `null` (ou o feed falhar), usa WebSearch com o domínio, por exemplo:
-  `site:cbre.pt (nova loja OR retail park OR investimento OR aquisição) after:AAAA-MM-DD`
-  usando a data de ontem.
+`site:cbre.pt (nova loja OR retail park OR investimento OR aquisição) after:AAAA-MM-DD`
+usando a data de ontem.
 
 Foca-te em artigos que encaixem nos temas de `src/data/themes.js`. Ignora opinião genérica,
 publirreportagem e conteúdo sem facto novo (abertura, fecho, transação, licenciamento,
@@ -41,9 +41,10 @@ Para cada artigo relevante, cria um objeto:
 ```
 
 Regras de classificação:
+
 - `temas` usa **apenas** os slugs definidos em `src/data/themes.js` (podem ser vários).
 - `pais`: "Portugal" se o facto ocorre/afeta PT; "Espanha" se for só ES; "Internacional"
-  para operações multi-país ou globais relevantes para o mercado.
+para operações multi-país ou globais relevantes para o mercado.
 - `id`: data + slug curto derivado do título (sem acentos, minúsculas, hífens).
 
 ## Passo 3 — Dedupe + acrescentar
