@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { CATEGORIES, PAISES } from './data/themes.js'
+import { SOURCES } from './data/sources.js'
 import FilterBar from './components/FilterBar.jsx'
 import ArticleCard from './components/ArticleCard.jsx'
 import StatsBar from './components/StatsBar.jsx'
@@ -123,6 +124,13 @@ export default function App() {
     () => ['Todas', ...[...new Set(artigos.map((a) => a.fonte))].sort()],
     [artigos]
   )
+
+  // nº de artigos por fonte (para a secção "Fontes monitorizadas")
+  const contagemFontes = useMemo(() => {
+    const c = {}
+    for (const a of artigos) c[a.fonte] = (c[a.fonte] || 0) + 1
+    return c
+  }, [artigos])
 
   // contagens para os chips de tema (respeitam os outros filtros, não o próprio tema)
   const baseSemTema = useMemo(() => {
@@ -368,6 +376,43 @@ export default function App() {
           </>
         )}
       </main>
+
+      {!loading && !error && (
+        <section className="fontes">
+          <h2 className="fontes-titulo">
+            Fontes monitorizadas
+            <span className="fontes-sub">
+              {SOURCES.length} fontes · recolha diária às 07:00 · {SOURCES.filter((s) => contagemFontes[s.nome]).length} com artigos no arquivo
+            </span>
+          </h2>
+          <div className="fontes-grid">
+            {SOURCES.map((s) => {
+              const n = contagemFontes[s.nome] || 0
+              const ativa = fonte === s.nome
+              return (
+                <button
+                  key={s.nome}
+                  className={`fonte-chip ${n > 0 ? 'tem' : ''} ${ativa ? 'on' : ''}`}
+                  onClick={() => {
+                    if (n === 0) return
+                    setFonte(ativa ? 'Todas' : s.nome)
+                    window.scrollTo({ top: 0, behavior: 'smooth' })
+                  }}
+                  title={
+                    n > 0
+                      ? `${n} ${n === 1 ? 'artigo' : 'artigos'} — clicar para filtrar`
+                      : 'Monitorizada — ainda sem artigos no arquivo'
+                  }
+                >
+                  <span className={`fonte-dot ${n > 0 ? 'verde' : ''}`} />
+                  {s.nome}
+                  {n > 0 && <span className="tag-n">{n}</span>}
+                </button>
+              )
+            })}
+          </div>
+        </section>
+      )}
 
       {mostraTopo && (
         <button className="topo" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} title="Voltar ao topo">

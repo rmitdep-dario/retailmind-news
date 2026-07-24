@@ -356,6 +356,50 @@ button { font-family: inherit; }
 }
 .source .novo { margin: 0 0 0 8px; }
 
+/* ── Fontes monitorizadas ───────────── */
+.fontes {
+  margin-top: 44px;
+  padding: 18px;
+  background: var(--panel);
+  border: 1px solid var(--border-soft);
+  border-radius: 14px;
+}
+.fontes-titulo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 12px;
+}
+.fontes-sub { color: var(--muted); font-size: 12px; font-weight: 400; }
+.fontes-grid { display: flex; flex-wrap: wrap; gap: 7px; }
+.fonte-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 6px 11px;
+  border-radius: 999px;
+  font-size: 12px;
+  cursor: default;
+  transition: all .15s;
+}
+.fonte-chip.tem { cursor: pointer; color: var(--text); }
+.fonte-chip.tem:hover { border-color: var(--accent); color: var(--accent); }
+.fonte-chip.on { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
+.fonte-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--border);
+  flex-shrink: 0;
+}
+.fonte-dot.verde { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+
 /* ── Voltar ao topo ─────────────────── */
 .topo {
   position: fixed;
