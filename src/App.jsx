@@ -156,7 +156,7 @@ export default function App() {
   const filtrados = useMemo(() => {
     return baseSemTema
       .filter((a) => (temas.length === 0 ? true : temas.some((t) => a.temas?.includes(t))))
-      .sort((a, b) => (a.data < b.data ? 1 : -1))
+      .sort((a, b) => b.data.localeCompare(a.data))
   }, [baseSemTema, temas])
 
   const temFiltros =
