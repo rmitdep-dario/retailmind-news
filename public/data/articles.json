@@ -1,0 +1,65 @@
+{
+  "updatedAt": "2026-07-24T07:00:00Z",
+  "articles": [
+    {
+      "id": "2026-07-24-mercadona-loja-braga",
+      "titulo": "Mercadona abre nova loja em Braga e reforça presença no Norte",
+      "resumo": "A cadeia espanhola inaugurou mais uma loja no distrito de Braga, criando cerca de 60 postos de trabalho e consolidando o plano de expansão em Portugal.",
+      "url": "https://www.hipersuper.pt/exemplo/mercadona-braga",
+      "fonte": "Hipersuper",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "marca-expansao"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-24-cbre-escritorios-lisboa",
+      "titulo": "Investimento em escritórios em Lisboa cresce 18% no primeiro semestre",
+      "resumo": "Relatório da CBRE aponta para uma recuperação do segmento de escritórios na capital, impulsionada por capital estrangeiro e pela procura de espaços prime.",
+      "url": "https://www.cbre.pt/exemplo/escritorios-h1",
+      "fonte": "CBRE",
+      "pais": "Portugal",
+      "temas": ["escritorios", "investimento-estrangeiro", "investidores"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-23-sonae-sierra-retail-park",
+      "titulo": "Sonae Sierra avança com novo retail park em Santarém",
+      "resumo": "O promotor obteve licenciamento para um retail park de 25.000 m² com abertura prevista para 2027, ancorado por operadores de alimentar e desporto.",
+      "url": "https://www.sonaesierra.com/exemplo/santarem",
+      "fonte": "Sonae Sierra",
+      "pais": "Portugal",
+      "temas": ["retail-parks", "licenciamento", "promotores"],
+      "data": "2026-07-23"
+    },
+    {
+      "id": "2026-07-23-jll-fundo-portefolio",
+      "titulo": "Fundo internacional adquire portefólio logístico ibérico por 400 milhões",
+      "resumo": "Operação assessorada pela JLL abrange ativos logísticos em Portugal e Espanha, refletindo o apetite dos investidores pelo segmento.",
+      "url": "https://www.jll.pt/exemplo/portefolio-logistico",
+      "fonte": "JLL",
+      "pais": "Internacional",
+      "temas": ["fundo-portefolio", "logistica", "compra-venda-ativo"],
+      "data": "2026-07-23"
+    },
+    {
+      "id": "2026-07-22-eco-ceo-operador",
+      "titulo": "Grupo de retalho anuncia mudança na liderança executiva",
+      "resumo": "O conselho de administração nomeou um novo CEO para liderar a próxima fase de crescimento, com foco na expansão internacional.",
+      "url": "https://eco.sapo.pt/exemplo/ceo",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": ["ceo-direcao"],
+      "data": "2026-07-22"
+    },
+    {
+      "id": "2026-07-22-primark-espanha",
+      "titulo": "Primark reforça expansão em Espanha com cinco novas lojas",
+      "resumo": "A marca irlandesa mantém o ritmo de aberturas na Península Ibérica, procurando também localizações em Portugal.",
+      "url": "https://grandeconsumo.com/exemplo/primark-es",
+      "fonte": "Grande Consumo",
+      "pais": "Espanha",
+      "temas": ["nova-loja", "marca-expansao"],
+      "data": "2026-07-22"
+    }
+  ]
+}
