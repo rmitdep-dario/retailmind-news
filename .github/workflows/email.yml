@@ -6,7 +6,12 @@ on:
     branches: [main]
     paths:
       - 'public/data/articles.json'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      test:
+        description: 'Modo teste: envia os 5 artigos mais recentes (para confirmar o envio)'
+        type: boolean
+        default: true
 
 jobs:
   email:
@@ -24,4 +29,5 @@ jobs:
           MAIL_FROM: ${{ vars.MAIL_FROM }}
           MAIL_TO: ${{ vars.MAIL_TO }}
           SITE_URL: ${{ vars.SITE_URL }}
+          TEST_MODE: ${{ github.event.inputs.test }}
         run: node scripts/send-email.mjs

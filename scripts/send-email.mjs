@@ -43,10 +43,17 @@ try {
   console.log('Sem versão anterior de articles.json (primeiro commit?).')
 }
 
-const novos = (current.articles || []).filter((a) => !prevIds.has(a.id))
-if (novos.length === 0) {
-  console.log('Sem artigos novos — não envia email.')
-  process.exit(0)
+const TEST = process.env.TEST_MODE === 'true'
+let novos
+if (TEST) {
+  novos = (current.articles || []).slice(0, 5)
+  console.log(`MODO TESTE: a enviar os ${novos.length} artigos mais recentes.`)
+} else {
+  novos = (current.articles || []).filter((a) => !prevIds.has(a.id))
+  if (novos.length === 0) {
+    console.log('Sem artigos novos — não envia email.')
+    process.exit(0)
+  }
 }
 
 // agrupar por categoria (primeira categoria que casa com um tema do artigo)
