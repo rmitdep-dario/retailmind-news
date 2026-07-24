@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-24T07:00:00Z",
+  "updatedAt": "2026-07-24T14:30:00Z",
   "articles": [
+    {
+      "id": "2026-07-24-portefolio-gaiashopping-arrabida-280m",
+      "titulo": "Portefólio com GaiaShopping, ArrábidaShopping e Matosinhos Retail Park transacionado por 280 milhões",
+      "resumo": "O retalho captou 340 milhões de euros no 1.º trimestre de 2026 (37% do investimento total de 930 milhões), impulsionado pela transação de um portefólio de centros comerciais e retail parks por 280 milhões, incluindo o GaiaShopping, o ArrábidaShopping e o Matosinhos Retail Park.",
+      "url": "https://dinheirovivo.dn.pt/empresas/investimento-em-imobilirio-comercial-cresce-37-para-930-milhes-no-1-trimestre",
+      "fonte": "Dinheiro Vivo",
+      "pais": "Portugal",
+      "temas": ["fundo-portefolio", "compra-venda-ativo", "investidores"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-24-mercado-imobiliario-arranque-robusto",
+      "titulo": "Mercado imobiliário comercial em Portugal com arranque robusto e positivo em 2026",
+      "resumo": "O mercado de imobiliário comercial português arrancou 2026 em força, com retalho e hotelaria a concentrarem mais de 70% do investimento e o capital estrangeiro a representar 58% do volume.",
+      "url": "https://imobiliario.publico.pt/noticias/mercado-imobiliario-comercial-portugal-com-arranque-robusto-positivo-2026/",
+      "fonte": "Público Imobiliário",
+      "pais": "Portugal",
+      "temas": ["investidores", "investimento-estrangeiro"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-24-by-velcheva-cascaishopping",
+      "titulo": "By Velcheva abre segunda boutique portuguesa no CascaiShopping",
+      "resumo": "A marca de perfumaria ucraniana By Velcheva inaugurou a sua segunda loja em Portugal, no CascaiShopping, com foco em fragrâncias premium e experiências sensoriais.",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/a-segunda-boutique-da-by-velcheva-ja-abriu-no-cascaishopping",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "cc-novas-entradas", "marca-internacional-pt"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-24-cttexpress-entregas-fora-casa",
+      "titulo": "CTTexpress cresce 64% nas entregas fora de casa na Península Ibérica",
+      "resumo": "A CTTexpress registou 4,8 milhões de envios fora de casa no primeiro semestre (+64%), sinal da nova dinâmica logística do e-commerce ibérico.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/nova-dinamica-entregas-ctt/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": ["logistica", "resultados"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-24-cayet-popup-quinta-do-lago",
+      "titulo": "Cayet abre pop-up de verão na Quinta do Lago",
+      "resumo": "A marca portuguesa de moda feminina Cayet apresenta a coleção de verão num espaço pop-up no BeCode Quinta do Lago, no Algarve.",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/marca-portuguesa-adorada-por-georgina-rodriguez-abre-pop-up-de-verao-no-algarve",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "marca-expansao"],
+      "data": "2026-07-24"
+    },
+    {
+      "id": "2026-07-23-mcdonalds-pib-777m",
+      "titulo": "McDonald's contribuiu com 777 milhões de euros para o PIB português em 2025",
+      "resumo": "A McDonald's Portugal sustentou 16.900 postos de trabalho e gerou mais de 197,6 milhões de euros em receitas públicas em 2025.",
+      "url": "https://www.distribuicaohoje.com/retalho/mcdonalds-pib-em-2025/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": ["resultados"],
+      "data": "2026-07-23"
+    },
     {
       "id": "2026-07-24-nestle-venda-aguas",
       "titulo": "Nestlé reestrutura portefólio com venda parcial da divisão de águas",

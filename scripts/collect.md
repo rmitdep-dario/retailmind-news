@@ -32,9 +32,12 @@ As fontes estão em `src/data/sources.js`, organizadas por `categoria`. Estraté
    (ex. notícia do Idealista sobre a Merlin → procura se saiu também numa fonte da lista;
    se não, usa o nome da publicação real e mantém o URL verdadeiro).
 
-Foca-te em artigos que encaixem nos temas de `src/data/themes.js`. Ignora opinião genérica,
-publirreportagem e conteúdo sem facto novo (abertura, fecho, transação, licenciamento,
-nomeação, resultados, investimento).
+Foca-te em artigos que encaixem nos temas de `src/data/themes.js`. O critério de fundo é:
+**tem potencial de negócio para a Retail Mind?** — uma marca a comprar outra marca, uma
+abertura de loja, uma marca à procura de espaço ou de franchisados, um fundo a comprar
+ativos, um promotor com projeto novo. Na dúvida entre incluir ou não um facto concreto
+destes, INCLUI. Ignora opinião genérica, publirreportagem e conteúdo sem facto novo
+(abertura, fecho, transação, licenciamento, nomeação, resultados, investimento).
 
 ## Passo 2 — Classificar
 
