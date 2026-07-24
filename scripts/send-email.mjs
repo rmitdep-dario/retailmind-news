@@ -20,7 +20,7 @@ if (!KEY) {
 const FROM = process.env.MAIL_FROM || 'Radar Retail Mind <onboarding@resend.dev>'
 const TO = (process.env.MAIL_TO || 'rmitdep@gmail.com')
   .split(',').map((s) => s.trim()).filter(Boolean)
-const SITE_URL = process.env.SITE_URL || ''
+const SITE_URL = process.env.SITE_URL || 'https://retailmind-news.vercel.app'
 
 // slug de tema -> id de categoria, e labels de categoria
 const slugToCat = {}
