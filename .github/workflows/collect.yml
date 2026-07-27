@@ -1,0 +1,58 @@
+name: Recolha diária de notícias
+
+on:
+  schedule:
+    # 06:00 UTC = 07:00 em Lisboa no horário de verão (06:00 no inverno)
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # necessário para fazer commit dos artigos recolhidos
+
+jobs:
+  recolha:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      - name: Instalar dependências
+        run: npm install @anthropic-ai/sdk nodemailer --no-save
+
+      - name: Recolher notícias
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/collect.mjs
+
+      - name: Commit e push
+        id: commit
+        run: |
+          if git diff --quiet -- public/data/articles.json; then
+            echo "novos=false" >> "$GITHUB_OUTPUT"
+            echo "Sem alterações — nada a publicar."
+            exit 0
+          fi
+          git config user.name "Radar Retail Mind"
+          git config user.email "rmitdep@gmail.com"
+          git add public/data/articles.json
+          git commit -m "Radar: recolha $(date +%F)"
+          git push
+          echo "novos=true" >> "$GITHUB_OUTPUT"
+
+      # O push acima é feito com o GITHUB_TOKEN, que por desenho não dispara
+      # outros workflows — por isso o email é enviado aqui e não pelo email.yml.
+      - name: Enviar email-resumo
+        if: steps.commit.outputs.novos == 'true'
+        env:
+          GMAIL_USER: ${{ vars.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_FROM: ${{ vars.MAIL_FROM }}
+          MAIL_TO: ${{ vars.MAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: node scripts/send-email.mjs
