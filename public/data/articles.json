@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-24T14:30:00Z",
+  "updatedAt": "2026-07-27T09:30:00Z",
   "articles": [
+    {
+      "id": "2026-07-08-pluricosmetica-continente-portimao",
+      "titulo": "Pluricosmética a caminho do Centro Comercial Continente de Portimão",
+      "resumo": "O Centro Comercial Continente de Portimão prepara-se para receber uma loja da Pluricosmética, cadeia de produtos capilares e cosmética.",
+      "url": "https://www.algarvemarafado.com/2026/07/08/ha-uma-nova-loja-a-caminho-de-centro-comercial-de-portimao/",
+      "fonte": "Algarve Marafado",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "cc-novas-entradas"],
+      "data": "2026-07-08"
+    },
+    {
+      "id": "2026-06-25-retalho-expansao-12-aberturas",
+      "titulo": "Retalho em expansão: LEFTIES, JYSK, Michael Kors e Dyson entre 12 novas aberturas em Portugal",
+      "resumo": "Ronda de aberturas: LEFTIES no AlgarveShopping (~2.000 m²), JYSK no Maia Shopping (37.ª loja), Michael Kors no Freeport (~500 m²), Dyson Demo Store no Colombo, Broolls em Cascais, MiiN em Braga, MO em Ovar, Lidl em Grândola e na Sertã, entre outras.",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-53/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": ["nova-loja", "marca-expansao", "cc-novas-entradas", "marca-internacional-pt"],
+      "data": "2026-06-25"
+    },
     {
       "id": "2026-07-24-portefolio-gaiashopping-arrabida-280m",
       "titulo": "Portefólio com GaiaShopping, ArrábidaShopping e Matosinhos Retail Park transacionado por 280 milhões",
