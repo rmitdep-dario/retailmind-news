@@ -392,14 +392,28 @@ export default function App() {
             {filtrados.length === 0 ? (
               <div className="empty">
                 <div className="empty-icon">◎</div>
-                <p>
-                  {soGuardados
-                    ? 'Ainda não guardaste nenhum artigo. Usa a ☆ nos cartões.'
-                    : 'Nenhum artigo corresponde aos filtros.'}
-                </p>
-                <button className="clear big" onClick={limpar}>
-                  Limpar todos os filtros
-                </button>
+                {soGuardados ? (
+                  <p>Ainda não guardaste nenhum artigo. Usa a ☆ nos cartões.</p>
+                ) : periodo === 'hoje' ? (
+                  <>
+                    <p>
+                      As fontes ainda não publicaram nada hoje
+                      {data.updatedAt &&
+                        ` (última recolha: ${new Date(data.updatedAt).toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' })})`}
+                      . A maioria das fontes publica ao longo da manhã — volta a espreitar mais logo.
+                    </p>
+                    <button className="clear big" onClick={() => setPeriodo('7d')}>
+                      Ver os últimos 7 dias
+                    </button>
+                  </>
+                ) : (
+                  <>
+                    <p>Nenhum artigo corresponde aos filtros.</p>
+                    <button className="clear big" onClick={limpar}>
+                      Limpar todos os filtros
+                    </button>
+                  </>
+                )}
               </div>
             ) : (
               <>
