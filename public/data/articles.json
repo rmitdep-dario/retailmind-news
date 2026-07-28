@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-07-28T08:29:22.872Z",
+  "updatedAt": "2026-07-28T12:25:36.011Z",
   "articles": [
+    {
+      "id": "2026-07-28-distribuicao-hoje-procura-business-developer-para-reforcar",
+      "titulo": "Distribuição Hoje procura Business Developer para reforçar área comercial",
+      "resumo": "A Distribuição Hoje abriu uma vaga para Business Developer , em Lisboa, com o objetivo de reforçar a sua área comercial e apoiar o crescimento das soluções de comunicação dirigidas ao ecossistema do retalho. A oportunidade foi publicada no LinkedIn e está associada a uma função a tempo inteiro, de nível mid-senior, …",
+      "url": "https://www.distribuicaohoje.com/retalho/distribuicao-hoje-procura-business-developer-para-reforcar-area-comercial/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-beleza-coreana-acelera-no-mercado-norte-americano",
+      "titulo": "Beleza coreana acelera no mercado norte-americano e chega a mais lojas físicas",
+      "resumo": "A expansão da K-Beauty nos Estados Unidos da América (EUA) está a ganhar escala no retalho, com impacto na oferta das lojas físicas, nas plataformas digitais e na forma como os consumidores descobrem e compram produtos de beleza.",
+      "url": "https://www.distribuicaohoje.com/retalho/beleza-coreana-lojas/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-investimento-em-imobiliario-comercial-sobe-14",
+      "titulo": "Investimento em imobiliário comercial sobe 14%",
+      "resumo": "O investimento em imobiliário comercial em Portugal atingiu cerca de 1,4 mil milhões de euros no primeiro semestre de 2026, uma subida de 14% face ao período homólogo, segundo o relatório Capital Markets H1 2026 da Savills Portugal .",
+      "url": "https://www.distribuicaohoje.com/retalho/imobiliario-comercial-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-id-logistics-aumenta-receitas-22-4-no",
+      "titulo": "ID Logistics aumenta receitas 22,4% no segundo trimestre de 2026",
+      "resumo": "A ID Logistics registou receitas de 1.093,9 milhões de euros no segundo trimestre de 2026, um aumento de 22,4% face ao mesmo período do ano anterior. Em termos comparáveis, excluindo o impacto cambial, o crescimento foi de 22,6%. O conteúdo ID Logistics aumenta receitas 22,4% no segundo trimestre de 2026 aparece pri…",
+      "url": "https://grandeconsumo.com/id-logistics-aumenta-receitas-224-no-segundo-trimestre-de-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-grupo-arie-compra-operacao-portuguesa-da-primor",
+      "titulo": "Grupo Arié compra operação portuguesa da Primor",
+      "resumo": "O Grupo Arié, dono da Perfumes Companhia, adquiriu a operação da Primor em Portugal, incluindo 25 lojas, o comércio eletrónico e a marca no mercado nacional. O conteúdo Grupo Arié compra operação portuguesa da Primor aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/grupo-arie-compra-operacao-portuguesa-da-primor/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-equanto-adquire-goldnutrition-e-reforca-posicao-na",
+      "titulo": "Equanto adquire GoldNutrition e reforça posição na alimentação saudável e nutrição desportiva",
+      "resumo": "A Equanto – Intercâmbio Comercial e Industrial, S.A., grupo português com atividade nas áreas da alimentação saudável, biológica e funcional, anuncia a aquisição da Eco-Nutracêuticos, S.A., empresa detentora da GoldNutrition, uma das marcas de referência em suplementação alimentar e nutrição desportiva em Portugal. …",
+      "url": "https://www.briefing.pt/cetera/equanto-adquire-goldnutrition-e-reforca-posicao-na-alimentacao-saudavel-e-nutricao-desportiva/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-eurostars-hotel-company-abre-novo-boutique-hotel",
+      "titulo": "Eurostars Hotel Company abre novo boutique hotel em San Sebastián",
+      "resumo": "A Eurostars Hotel Company, cadeia hoteleira do Grupo Hotusa, reforçou a sua presença no País Basco com a abertura do Eurostars Villa Itziar 4*, um boutique hotel localizado em frente à baía de San Sebastián e a poucos minutos do Paseo de La Concha. A nova unidade, integrada no portefólio da cadeia em regime de […] O…",
+      "url": "https://www.ambitur.pt/eurostars-hotel-company-abre-novo-boutique-hotel-em-san-sebastian/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-28"
+    },
     {
       "id": "2026-07-28-nova-identidade-global-da-coca-cola-chega",
       "titulo": "Nova identidade global da Coca-Cola chega a Portugal de forma faseada",
