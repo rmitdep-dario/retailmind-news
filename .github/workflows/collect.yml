@@ -22,12 +22,12 @@ jobs:
           node-version: 24
 
       - name: Instalar dependências
-        run: npm install @anthropic-ai/sdk nodemailer --no-save
+        run: npm install fast-xml-parser nodemailer --no-save
 
+      # Recolha por RSS + regras — sem custos, não precisa de chave de API.
+      # (Alternativa paga com pesquisa web: scripts/collect.mjs — ver README.)
       - name: Recolher notícias
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/collect.mjs
+        run: node scripts/collect-rss.mjs
 
       - name: Commit e push
         id: commit
