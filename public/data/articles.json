@@ -1,6 +1,192 @@
 {
-  "updatedAt": "2026-07-28T12:25:36.011Z",
+  "updatedAt": "2026-07-29T13:09:45.417Z",
   "articles": [
+    {
+      "id": "2026-07-29-brico-depot-abre-nova-loja-em-portugal",
+      "titulo": "Brico Depôt abre nova loja em Portugal 10 anos depois da última inauguração",
+      "resumo": "A Brico Depôt abre esta quinta-feira uma nova loja no Seixal , num investimento de 9,3 milhões de euros . A unidade assinala a quarta loja da insígnia em Portugal, juntando-se às localizações de Loures, Vila Nova de Gaia e Sintra , e surge dez anos depois da última abertura da marca no mercado nacional.",
+      "url": "https://www.distribuicaohoje.com/retalho/brico-depot-nova-loja/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-eua-travam-entrada-de-robots-estrangeiros-e",
+      "titulo": "EUA travam entrada de ‘robots estrangeiros’ e reacendem debate sobre automação",
+      "resumo": "A decisão da Federal Communications Commission ( FCC ) dos Estados Unidos de incluir robots avançados produzidos no estrangeiro na lista de equipamentos considerados de risco para a segurança nacional pode ter impacto no desenvolvimento da automação logística e operacional no retalho. A medida abrange robots móveis,…",
+      "url": "https://www.distribuicaohoje.com/retalho/eua-robots-estrangeiros/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-amazon-investe-mais-de-mil-milhoes-para",
+      "titulo": "Amazon investe mais de mil milhões para criar novo centro de distribuição",
+      "resumo": "A Amazon está a preparar a expansão da sua rede logística nos Estados Unidos, com dois novos projetos nos estados de Nova Iorque e Texas . A empresa confirmou à Supply Chain Dive que está numa fase inicial de planeamento de uma unidade operacional em Holbrook , em Long Island, e de um centro de distribuição em Terre…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/amazon-operacao-logistica/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao",
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-food-to-go-impulsiona-crescimento-do-retalho",
+      "titulo": "Food-to-go impulsiona crescimento do retalho de conveniência",
+      "resumo": "O mercado de retalho de conveniência no Reino Unido deverá atingir 49,1 mil milhões de libras em 2026, com o food-to-go , o investimento em loja e a evolução das missões de compra a assumirem-se como principais motores de crescimento, apesar da pressão económica e dos desafios regulatórios.",
+      "url": "https://www.distribuicaohoje.com/retalho/food-to-go-conveniencia/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "investidores",
+        "aquisicoes"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-brico-depot-investe-mais-de-nove-milhoes",
+      "titulo": "Brico Depôt investe mais de nove milhões de euros na nova loja no Seixal",
+      "resumo": "A Brico Depôt abriu uma nova loja no Seixal, o primeiro investimento da marca em Portugal em 10 anos, no valor de 9,3 milhões de euros. Com 5.192 m² e 74 postos de trabalho, a quarta loja no país reforça a presença na Margem Sul e aposta em soluções para profissionais e famílias, com foco em remodelação, DIY e servi…",
+      "url": "https://grandeconsumo.com/brico-depot-investe-mais-de-nove-milhoes-de-euros-na-nova-loja-no-seixal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao",
+        "investidores"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-dia-avalia-venda-total-ou-entrada-de",
+      "titulo": "DIA avalia venda total ou entrada de sócio no negócio argentino",
+      "resumo": "O Grupo DIA está a avaliar alternativas estratégicas para a operação na Argentina, incluindo a venda total do negócio ou a entrada de um parceiro no capital. A filial, que soma mais de mil lojas, registou vendas de 1.510 milhões de euros em 2025 e prejuízo de 51,3 milhões, num contexto de consumo fraco, desvalorizaç…",
+      "url": "https://grandeconsumo.com/dia-avalia-venda-total-ou-entrada-de-socio-no-negocio-argentino/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-pedro-redol-e-o-novo-ceo-da",
+      "titulo": "Pedro Redol é o novo CEO da Neutroplast",
+      "resumo": "Pedro Redol foi nomeado CEO da Neutroplast, empresa portuguesa com mais de trinta anos de experiência na produção de embalagens customizadas para sectores como a saúde e o bem-estar, a indústria farmacêutica, a dermocosmética e a beleza. O conteúdo Pedro Redol é o novo CEO da Neutroplast aparece primeiro em Grande C…",
+      "url": "https://grandeconsumo.com/pedro-redol-e-o-novo-ceo-da-neutroplast/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-lucro-do-deutsche-bank-aumenta-9-entre",
+      "titulo": "Lucro do Deutsche Bank aumenta 9% entre janeiro e junho para 3,96 mil milh�es",
+      "resumo": "Os ativos sob gest�o aumentaram 13% em termos hom�logos e atingiram os 732.000 milh�es de euros.",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/lucro-do-deutsche-bank-aumenta-9-entre-janeiro-e-junho-para-3-96-mil-milhoes",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-lucro-da-porsche-aumenta-49-1-at",
+      "titulo": "Lucro da Porsche aumenta 49,1% at� junho e ultrapassa os mil milh�es",
+      "resumo": "Nos �ltimos anos, as vendas de autom�veis Porsche na China passaram de 100.000 unidades anuais para cerca de 25.000 previstas para o presente exerc�cio.",
+      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/lucro-da-porsche-aumenta-49-1-ate-junho-e-ultrapassa-os-mil-milhoes",
+      "fonte": "Jornal de Negócios",
+      "pais": "Internacional",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-brico-depot-investe-9-m-em-loja",
+      "titulo": "Brico Depôt investe 9 M€ em loja no Seixal",
+      "resumo": "A loja de bricolage britânica Brico Depôt investiu nove milhões de euros na quarta loja em Portugal no Seixal, em Setúbal, que cria 74 postos de trabalho diretos, informou hoje a empresa.",
+      "url": "https://executivedigest.sapo.pt/brico-depot-investe-9-me-em-loja-no-seixal/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-o-vivant-inaugura-um-novo-capitulo-de",
+      "titulo": "O Vivant inaugura um novo capítulo de “sofisticação” no Algarve",
+      "resumo": "Há lugares onde se vai para jantar. Outros onde se vai para celebrar. O VIVANT nasce para unir ambos os momentos numa experiência contínua, onde a elegância da mesa se prolonga naturalmente para o ritmo da noite. Com uma identidade renovada, o espaço reabriu portas a 17 de julho, afirmando-se como um novo ponto de […",
+      "url": "https://www.briefing.pt/noticias/o-vivant-inaugura-um-novo-capitulo-de-sofisticacao-no-algarve/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-28-unilever-regista-melhor-trimestre-em-volume-de",
+      "titulo": "Unilever regista melhor trimestre em volume de vendas em mais de uma década",
+      "resumo": "A Unilever registou no segundo trimestre de 2026 o maior crescimento de volume de vendas em mais de uma década, com vendas subjacentes a subir 5,8% e a faturação a atingir 13 mil milhões de euros. O desempenho foi liderado por mercados emergentes e pelas divisões de cuidados para o lar, beleza e cuidados pessoais. O…",
+      "url": "https://grandeconsumo.com/unilever-regista-melhor-trimestre-em-volume-de-vendas-em-mais-de-uma-decada/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-vusion-acorda-aquisicao-da-in-store-media",
+      "titulo": "Vusion acorda aquisição da In-Store Media",
+      "resumo": "A Vusion chegou a acordo para adquirir a In-Store Media, especialista em publicidade nos pontos de venda, numa operação que visa criar uma plataforma global de retail media digital em loja. O conteúdo Vusion acorda aquisição da In-Store Media aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/vusion-acorda-aquisicao-da-in-store-media/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-mango-cresce-7-2-e-mantem-meta",
+      "titulo": "Mango cresce 7,2% e mantém meta de faturar 4 mil milhões de euros em 2026",
+      "resumo": "As vendas online da Mango cresceram a dois dígitos e já representam 32% da faturação, enquanto a rede mundial superou 2.960 pontos de venda. O conteúdo Mango cresce 7,2% e mantém meta de faturar 4 mil milhões de euros em 2026 aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/mango-cresce-72-e-mantem-meta-de-faturar-4-mil-milhoes-de-euros-em-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-28"
+    },
+    {
+      "id": "2026-07-28-nobu-de-robert-de-niro-investe-em",
+      "titulo": "Nobu de Robert De Niro investe em hotel de luxo no Algarve",
+      "resumo": "A Nobu, marca de lifestyle de luxo fundada pelo ator Robert De Niro, o chef Nobu Matsuhisa e o produtor de cinema Meir Teper, anunciou o reforço da presença em Portugal, desta vez no sotavento algarvio. Depois do anunciado projeto de restaurante em Lisboa, a marca vai investir no resort Monte Rei, com uma unidade [……",
+      "url": "https://www.forbespt.com/nobu-de-robert-de-niro-investe-em-hotel-de-luxo-no-algarve/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-07-28"
+    },
     {
       "id": "2026-07-28-distribuicao-hoje-procura-business-developer-para-reforcar",
       "titulo": "Distribuição Hoje procura Business Developer para reforçar área comercial",
