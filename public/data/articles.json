@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-07-30T10:23:38.526Z",
+  "updatedAt": "2026-07-30T12:14:04.727Z",
   "articles": [
+    {
+      "id": "2026-07-30-zu-compra-sete-lojas-petoutlet-e-ja",
+      "titulo": "ZU compra sete lojas PetOutlet e já conta com mais de 80 em Portugal",
+      "resumo": "A ZU adquiriu mais sete lojas da rede PetOutlet , aumentando para 82 o número de espaços comerciais em Portugal. A operação reforça a presença da marca nas cidades da Trofa, Valongo, Vila Nova de Gaia , em Avintes e Gulpilhares, Santa Maria da Feira, Ovar e Olhão .",
+      "url": "https://www.distribuicaohoje.com/retalho/zu-compra-sete-lojas-petoutlet-e-ja-conta-com-mais-de-80-em-portugal/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "aquisicoes"
+      ],
+      "data": "2026-07-30"
+    },
+    {
+      "id": "2026-07-30-ikea-abre-nova-loja-em-coimbra-com",
+      "titulo": "IKEA abre nova loja em Coimbra com formato inédito em Portugal",
+      "resumo": "A IKEA abriu a nova loja de Coimbra , localizada no Mondego Retail Park , reforçando a presença da marca em Portugal. A abertura acontece quase nove anos depois da última inauguração de uma loja IKEA no país, em Loulé, em 2017, e marca a estreia de um formato inédito no mercado nacional.",
+      "url": "https://www.distribuicaohoje.com/retalho/ikea-loja-coimbra/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "retail-parks"
+      ],
+      "data": "2026-07-30"
+    },
+    {
+      "id": "2026-07-30-espanhola-mo-chega-a-portugal-com-primeira",
+      "titulo": "Espanhola Mó chega a Portugal com primeira loja no Porto",
+      "resumo": "A empresa espanhola Mó Global Eyewear, responsável pela marca Mó, comercializada nas lojas Multiópticas em Espanha, prepara-se para lançar a insígnia em Portugal com a abertura da primeira loja, na Boavista, no Porto, avança o El Economista. Até ao final do ano, a empresa vai inaugurar o primeiro espaço no país. A o…",
+      "url": "https://eco.sapo.pt/2026/07/30/espanhola-mo-chega-a-portugal-com-primeira-loja-no-porto/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-internacional-pt"
+      ],
+      "data": "2026-07-30"
+    },
+    {
+      "id": "2026-07-30-mercedes-benz-abre-encomendas-do-novo-gla",
+      "titulo": "Mercedes-Benz abre encomendas do novo GLA elétrico com até 654 km de autonomia desde 55.400 euros",
+      "resumo": "Em comunicado, a marca afirma que o novo GLA estará inicialmente disponível em duas versões 100% elétricas, destacando uma autonomia de até 654 quilómetros (ciclo WLTP, valor provisório) e uma arquitetura elétrica de 800 volts",
+      "url": "https://executivedigest.sapo.pt/mercedes-benz-abre-encomendas-do-novo-gla-eletrico-com-ate-654-km-de-autonomia-desde-55-400-euros/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-30"
+    },
+    {
+      "id": "2026-07-30-zu-continua-estrategia-de-crescimento-com-com",
+      "titulo": "ZU continua estratégia de crescimento com com aquisição de 7 lojas PetOutlet",
+      "resumo": "“Este passo insere-se numa estratégia de expansão acelerada no mercado português, com o objetivo de aproximar a ZU de cada vez mais clientes e dos seus animais de companhia\", afirma Tobias Azevedo, Head of Iberia Musti Group.",
+      "url": "https://marketeer.sapo.pt/zu-continua-estrategia-de-crescimento-com-com-aquisicao-de-7-lojas-petoutlet/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-07-30"
+    },
     {
       "id": "2026-07-30-dils-recap-investimento-em-hotelaria-supera-em",
       "titulo": "Dils Recap: Investimento em hotelaria supera em seis meses os volumes anuais de 2024 e 2025",
