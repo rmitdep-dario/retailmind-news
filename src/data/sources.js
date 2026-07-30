@@ -2,6 +2,11 @@
 // (a recolha usa WebSearch com "site:" no domínio; se site for null, pesquisa pelo nome).
 // Nota: Property Magazine offline à data da validação; APF, Negócios & Franchising,
 // Business.IT e PIR sem domínio confirmado — entram por pesquisa de nome.
+//
+// `pais` e `idioma` são opcionais e, quando omitidos, assumem Portugal/pt — o
+// caso da grande maioria das fontes. Servem para a recolha saber que conjunto de
+// regras aplicar (as regras de classificação são por idioma) e que país atribuir
+// por defeito a um artigo cujo texto não mencione geografia nenhuma.
 
 export const SOURCES = [
   // ── Retalho & grande consumo ──────────────────────────────
@@ -89,4 +94,27 @@ export const SOURCES = [
   { nome: 'APPII', site: 'https://www.appii.pt', rss: null, categoria: 'Associações' },
   { nome: 'APEMIP', site: 'https://www.apemip.pt', rss: null, categoria: 'Associações' },
   { nome: 'Portuguese International Realty', site: null, rss: null, categoria: 'Associações' },
+
+  // ── Índia (indicadas por Chandershekhar Kaul, validadas 2026-07-28) ──
+  // Só o ET Retail tem feed com conteúdo utilizável. As restantes ficam
+  // registadas para ficar claro que são seguidas, mas não são legíveis:
+  //   · India Retailing / Indian Retailer — site existe, feed vazio ou ausente
+  //   · Realty+ — bloqueia acesso automatizado (403)
+  //   · RAI / SCAI — feeds sem artigos
+  //   · India Retail News, Phygital, MAPIC India — newsletters/eventos, não sites
+  //   · Images RetailME — é a edição do Médio Oriente, não da Índia
+  {
+    nome: 'ET Retail',
+    site: 'https://retail.economictimes.indiatimes.com',
+    rss: 'https://retail.economictimes.indiatimes.com/rss/industry',
+    categoria: 'Índia — retalho & imobiliário',
+    pais: 'Índia',
+    idioma: 'en',
+  },
+  { nome: 'India Retailing', site: 'https://www.indiaretailing.com', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
+  { nome: 'Indian Retailer', site: 'https://www.indianretailer.com', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
+  { nome: 'Realty+', site: 'https://www.realtyplusmag.com', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
+  { nome: 'Retailers Association of India', site: 'https://www.rai.net.in', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
+  { nome: 'Shopping Centres Association of India', site: 'https://www.scai.in', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
+  { nome: 'Restaurant India', site: 'https://www.restaurantindia.in', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
 ]

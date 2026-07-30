@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-07-29T13:09:45.417Z",
+  "updatedAt": "2026-07-30T10:23:38.526Z",
   "articles": [
+    {
+      "id": "2026-07-30-dils-recap-investimento-em-hotelaria-supera-em",
+      "titulo": "Dils Recap: Investimento em hotelaria supera em seis meses os volumes anuais de 2024 e 2025",
+      "resumo": "O investimento em hotelaria realizado em Portugal durante o primeiro semestre de 2026 superou já os volumes anuais registados em 2024 e 2025, impulsionado por várias operações de grande dimensão, revela o mais recente relatório Dils Recap. No segundo trimestre do ano, a hotelaria foi o segmento que mais capital atra…",
+      "url": "https://www.ambitur.pt/dils-recap-investimento-em-hotelaria-supera-em-seis-meses-os-volumes-anuais-de-2024-e-2025/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-07-30"
+    },
+    {
+      "id": "2026-07-30-burritos-tacos-e-nachos-ja-abriu-a",
+      "titulo": "Burritos, tacos e nachos. Já abriu a nova Taco Bell do Algarve",
+      "resumo": "As férias no Algarve acabaram de ficar melhores para quem não resiste a comida mexicana. Esta quarta-feira, 29 de julho, foi inaugurado o novo restaurante da Taco Bell na região. Fica, mais especificamente, no Forum Algarve, em Faro. É o 29.º espaço da marca no País. Na nova loja, vai encontrar otacos crocantes com …",
+      "url": "https://www.nit.pt/comida/restaurantes/burritos-tacos-e-nachos-ja-abriu-a-nova-taco-bell-do-algarve",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-30"
+    },
+    {
+      "id": "2026-07-29-sonae-cresce-6-3-e-atinge-volume",
+      "titulo": "Sonae cresce 6,3% e atinge volume de negócios de 5,6 mil milhões de euro",
+      "resumo": "A Sonae registou um volume de negócios consolidado de 5,6 mil milhões de euros no primeiro semestre de 2026, um crescimento homólogo de 6,3% , impulsionado sobretudo pelos negócios de retalho, pelo crescimento orgânico e pela expansão da rede de lojas.",
+      "url": "https://www.distribuicaohoje.com/retalho/sonae-primeiro-semestre/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-inflexor-ventures-announces-first-close-of-fund",
+      "titulo": "Inflexor Ventures announces first close of Fund III around Rs 400 cr",
+      "resumo": "Inflexor Ventures has secured Rs 400 crore for its Fund III. This initial close was anchored by Indian institutional investors, including the SRI Fund. The venture capital firm plans a final fund closure within the next year. Inflexor Ventures will invest in twenty-two to twenty-five technology-focused companies. Th…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/inflexor-ventures-announces-first-close-of-fund-iii-around-rs-400-cr/132698678",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "private-equity",
+        "investidores"
+      ],
+      "data": "2026-07-29"
+    },
+    {
+      "id": "2026-07-29-fnp-targets-over-rs-1-400-crore",
+      "titulo": "FNP targets over Rs 1,400 crore revenue this fiscal as quick commerce, global expansion gather pace",
+      "resumo": "\"We closed FY26 at ₹1,005 crore and this year we are expecting to cross ₹1,400 crore,\" Pawan Gadia, global CEO and director, FNP, said in an interaction with ETRetail.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/fnp-targets-over-rs-1400-crore-revenue-this-fiscal-as-quick-commerce-global-expansion-gather-pace/132697831",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-07-29"
+    },
     {
       "id": "2026-07-29-brico-depot-abre-nova-loja-em-portugal",
       "titulo": "Brico Depôt abre nova loja em Portugal 10 anos depois da última inauguração",

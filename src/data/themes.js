@@ -52,7 +52,9 @@ export const CATEGORIES = [
   },
 ]
 
-export const PAISES = ['Portugal', 'Espanha', 'Internacional']
+// Mercados onde a Retail Mind opera, mais "Internacional" para operações
+// multi-país. A ordem é a que aparece nos filtros da página.
+export const PAISES = ['Portugal', 'Espanha', 'Brasil', 'Colômbia', 'Índia', 'Internacional']
 
 // Mapa slug -> label, para render rápido nos cartões.
 export const THEME_LABELS = Object.fromEntries(

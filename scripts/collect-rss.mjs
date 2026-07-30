@@ -19,7 +19,7 @@ import { SOURCES } from '../src/data/sources.js'
 const ARTICLES_PATH = 'public/data/articles.json'
 const DIAS = 4 // janela de recolha
 
-// ── Regras de classificação ─────────────────────────────────────────
+// ── Regras de classificação (português) ─────────────────────────────
 // Contexto: o artigo tem de falar do nosso mundo (retalho / imobiliário).
 const CONTEXTO = [
   'loja', 'lojas', 'retalho', 'retail', 'centro comercial', 'centros comerciais',
@@ -72,6 +72,63 @@ const EXCLUIR = [
   'prr', 'orçamento do estado',
 ]
 
+// ── Regras de classificação (inglês) ────────────────────────────────
+// Conjunto paralelo ao português, para as fontes em inglês (Índia, etc.).
+// Os slugs de tema são os mesmos — muda só o vocabulário.
+const CONTEXTO_EN = [
+  'store', 'stores', 'retail', 'retailer', 'retailers', 'mall', 'malls',
+  'shopping centre', 'shopping center', 'retail park', 'high street',
+  'real estate', 'property', 'brand', 'brands', 'franchise', 'franchisee',
+  'logistics', 'warehouse', 'warehousing', 'office space', 'portfolio',
+  'lease', 'leasing', 'tenant', 'tenants', 'outlet', 'supermarket',
+  'hypermarket', 'chain', 'footfall', 'square feet', 'sq ft', 'quick commerce',
+  'ecommerce', 'e-commerce', 'consumer', 'fmcg', 'apparel', 'showroom',
+]
+
+const GATILHOS_EN = [
+  { tema: 'nova-loja', termos: ['opens', 'opened', 'opening', 'new store', 'new stores', 'first store', 'inaugurates', 'launches store', 'debuts', 'unveils store'] },
+  { tema: 'loja-encerrada', termos: ['shuts', 'shutters', 'closes stores', 'closed stores', 'store closures', 'exits market', 'winds down'] },
+  { tema: 'marca-expansao', termos: ['expansion', 'expands', 'expanding', 'rollout', 'roll out', 'foray', 'scale up', 'adds stores', 'store additions', 'to open'] },
+  { tema: 'franchising', termos: ['franchise', 'franchisee', 'franchisees', 'franchising'] },
+  { tema: 'marca-internacional-pt', termos: ['enters the market', 'market entry', 'enters india', 'india entry', 'debuts in india', 'foreign brand'] },
+  { tema: 'cc-novas-entradas', termos: ['new tenant', 'new tenants', 'anchor tenant', 'signs lease', 'leases space'] },
+  { tema: 'novos-cc', termos: ['new mall', 'new shopping centre', 'new shopping center'] },
+  { tema: 'retail-parks', termos: ['retail park', 'retail parks'] },
+  { tema: 'logistica', termos: ['logistics', 'warehouse', 'warehousing', 'fulfilment centre', 'fulfillment center', 'distribution centre', 'distribution center', 'supply chain'] },
+  { tema: 'escritorios', termos: ['office space', 'office market', 'coworking'] },
+  { tema: 'licenciamento', termos: ['approval', 'approved', 'clearance', 'permit', 'licence granted'] },
+  { tema: 'concursos', termos: ['tender', 'bid', 'bidding'] },
+  { tema: 'promotores', termos: ['developer', 'developers'] },
+  { tema: 'compra-venda-ativo', termos: ['buys', 'sells', 'sold', 'divests', 'stake sale', 'asset sale', 'transaction'] },
+  { tema: 'fundo-portefolio', termos: ['asset portfolio', 'portfolio acquisition', 'buys portfolio', 'portfolio of assets'] },
+  { tema: 'fundos', termos: ['investment fund', 'real estate fund'] },
+  { tema: 'reits', termos: ['reit', 'reits'] },
+  { tema: 'private-equity', termos: ['private equity', 'pe firm', 'venture capital'] },
+  { tema: 'investidores', termos: ['invests', 'investment', 'investor', 'investors', 'funding round', 'raises'] },
+  { tema: 'investimento-estrangeiro', termos: ['fdi', 'foreign direct investment', 'foreign investment'] },
+  { tema: 'ma-operadores', termos: ['merger', 'merges', 'm&a'] },
+  { tema: 'aquisicoes', termos: ['acquires', 'acquired', 'acquisition', 'takeover', 'buyout'] },
+  { tema: 'ceo-direcao', termos: ['appoints', 'appointed', 'new ceo', 'steps down', 'named ceo', 'elevated to', 'managing director'] },
+  { tema: 'resultados', termos: ['revenue', 'profit', 'earnings', 'results', 'turnover', 'topline', 'sales grew', 'posts loss'] },
+]
+
+const EXCLUIR_EN = [
+  'podcast', 'interview', 'opinion', 'webinar', 'awards', 'award ceremony',
+  'horoscope', 'cricket', 'ipl', 'election', 'obituary', 'how to', 'explainer',
+  'top 10', 'listicle', 'weather', 'recipe', 'newsletter', 'live updates',
+  // indicadores macro: o ET Retail publica-os diariamente e não são
+  // factos de negócio para nós
+  'factory output', 'inflation', 'gdp', 'repo rate', 'rbi', 'imf',
+  'wholesale price', 'consumer price index', 'trade deficit', 'rupee falls',
+  'rupee rises', 'sensex', 'nifty', 'monsoon', 'gst collections', 'tariff',
+]
+
+// Conjunto de regras por idioma. Uma fonte sem `idioma` usa 'pt'.
+const REGRAS = {
+  pt: { contexto: CONTEXTO, gatilhos: GATILHOS, excluir: EXCLUIR },
+  en: { contexto: CONTEXTO_EN, gatilhos: GATILHOS_EN, excluir: EXCLUIR_EN },
+}
+
 // Categorias de fontes que são elas próprias do nosso setor: aí o contexto
 // é implícito (tudo o que a Distribuição Hoje publica é retalho), por isso
 // basta o gatilho. Nas generalistas exigimos contexto E gatilho no título.
@@ -79,22 +136,39 @@ const CATEGORIAS_ESPECIALISTAS = new Set([
   'Retalho & consumo',
   'Imobiliário (media)',
   'Franchising & empreendedorismo',
+  'Índia — retalho & imobiliário',
 ])
 
 const MARCAS_PT = [
-  'portugal', 'português', 'portuguesa', 'portugueses', 'nacional',
+  'portugal', 'português', 'portuguesa', 'portugueses',
+  // "nacional" sozinho é ambíguo ("segurança nacional" dos EUA); só em
+  // expressões onde a imprensa portuguesa quer dizer mesmo Portugal
+  'mercado nacional', 'território nacional', 'no país',
   'lisboa', 'porto', 'braga', 'algarve', 'coimbra', 'aveiro', 'faro', 'beja',
   'évora', 'madeira', 'açores', 'cascais', 'sintra', 'matosinhos', 'gaia',
   'guimarães', 'leiria', 'viseu', 'setúbal', 'santarém', 'funchal', 'covilhã',
   'alentejo', 'ribatejo', 'minho', 'algarvio',
 ]
-const MARCAS_ES = ['espanha', 'madrid', 'barcelona', 'espanhol', 'espanhola', 'valência', 'sevilha']
+const MARCAS_ES = ['espanha', 'españa', 'madrid', 'barcelona', 'espanhol', 'espanhola', 'spain', 'spanish', 'valência', 'sevilha']
+// Mercados onde a Retail Mind opera — cada um tem os seus marcadores.
+const MARCAS_IN = [
+  'índia', 'india', 'indian', 'mumbai', 'delhi', 'bengaluru', 'bangalore',
+  'chennai', 'hyderabad', 'kolkata', 'pune', 'ahmedabad', 'gurugram', 'gurgaon',
+  'noida', 'crore', 'lakh', 'rupee', 'rupees',
+]
+const MARCAS_BR = [
+  'brasil', 'brazil', 'brazilian', 'brasileiro', 'brasileira', 'são paulo',
+  'rio de janeiro', 'belo horizonte', 'curitiba', 'porto alegre', 'brasília',
+  'recife', 'salvador', 'fortaleza',
+]
+const MARCAS_CO = ['colômbia', 'colombia', 'colombiano', 'colombiana', 'bogotá', 'bogota', 'medellín', 'medellin', 'cali', 'barranquilla', 'cartagena']
 // Se o artigo fala explicitamente de outro país, é internacional.
 const MARCAS_INT = [
-  'méxico', 'brasil', 'estados unidos', 'eua', 'alemanha', 'frança', 'reino unido',
-  'china', 'índia', 'japão', 'itália', 'holanda', 'países baixos', 'bélgica',
-  'polónia', 'costa rica', 'colômbia', 'chile', 'argentina', 'angola', 'moçambique',
-  'suíça', 'áustria', 'dinamarca', 'suécia', 'noruega', 'turquia', 'marrocos',
+  'méxico', 'mexico', 'estados unidos', 'eua', 'alemanha', 'germany', 'frança',
+  'france', 'reino unido', 'china', 'japão', 'itália', 'italy', 'holanda',
+  'países baixos', 'bélgica', 'polónia', 'costa rica', 'chile', 'argentina',
+  'angola', 'moçambique', 'suíça', 'áustria', 'dinamarca', 'suécia', 'noruega',
+  'turquia', 'marrocos', 'dubai', 'uae', 'saudi',
 ]
 
 // ── Utilitários ─────────────────────────────────────────────────────
@@ -133,41 +207,56 @@ function slug(titulo) {
     .join('-')
 }
 
-// regexes compiladas uma vez
-const RE_CONTEXTO = compilar(CONTEXTO)
-const RE_EXCLUIR = compilar(EXCLUIR)
-const RE_GATILHOS = GATILHOS.map((g) => ({ tema: g.tema, res: compilar(g.termos) }))
+// regexes compiladas uma vez por idioma
+const COMPILADAS = Object.fromEntries(
+  Object.entries(REGRAS).map(([idioma, r]) => [
+    idioma,
+    {
+      contexto: compilar(r.contexto),
+      excluir: compilar(r.excluir),
+      gatilhos: r.gatilhos.map((g) => ({ tema: g.tema, res: compilar(g.termos) })),
+    },
+  ])
+)
 
-export function classificar(titulo, resumo, especialista) {
+export function classificar(titulo, resumo, especialista, idioma = 'pt') {
+  const regras = COMPILADAS[idioma] ?? COMPILADAS.pt
   const tit = norm(titulo)
   const tudo = norm(`${titulo} ${resumo}`)
 
-  if (casa(tudo, RE_EXCLUIR)) return null
+  if (casa(tudo, regras.excluir)) return null
 
   // Numa fonte generalista o facto tem de estar no TÍTULO — é isso que
   // separa uma notícia de negócio de uma menção de passagem no corpo.
   const alvo = especialista ? tudo : tit
-  const temas = RE_GATILHOS.filter((g) => casa(alvo, g.res)).map((g) => g.tema)
+  const temas = regras.gatilhos.filter((g) => casa(alvo, g.res)).map((g) => g.tema)
   if (temas.length === 0) return null
 
   // O contexto (retalho/imobiliário) pode vir do corpo, mas tem de existir.
-  if (!especialista && !casa(tudo, RE_CONTEXTO)) return null
+  if (!especialista && !casa(tudo, regras.contexto)) return null
 
   return [...new Set(temas)].slice(0, 4)
 }
 
 const RE_PT = compilar(MARCAS_PT)
 const RE_ES = compilar(MARCAS_ES)
+const RE_IN = compilar(MARCAS_IN)
+const RE_BR = compilar(MARCAS_BR)
+const RE_CO = compilar(MARCAS_CO)
 const RE_INT = compilar(MARCAS_INT)
 
-// As fontes são publicações portuguesas a escrever para leitores portugueses:
-// sem menção explícita de outro país, o default correto é Portugal.
-export function detetarPais(titulo, resumo) {
+// Uma publicação escreve para os seus leitores: sem menção explícita de outra
+// geografia, o país da FONTE é o palpite certo — muito melhor do que adivinhar
+// pelo texto (um artigo do ET Retail sem topónimo é notícia da Índia).
+export function detetarPais(titulo, resumo, paisFonte = 'Portugal') {
   const t = norm(`${titulo} ${resumo}`)
   if (casa(t, RE_PT)) return 'Portugal'
   if (casa(t, RE_ES)) return 'Espanha'
+  if (casa(t, RE_IN)) return 'Índia'
+  if (casa(t, RE_BR)) return 'Brasil'
+  if (casa(t, RE_CO)) return 'Colômbia'
   if (casa(t, RE_INT)) return 'Internacional'
-  return 'Portugal'
+  return paisFonte
 }
 
 // ── Leitura dos feeds ───────────────────────────────────────────────
@@ -195,11 +284,13 @@ async function lerFeed(fonte) {
     return {
       fonte: fonte.nome,
       especialista: CATEGORIAS_ESPECIALISTAS.has(fonte.categoria),
+      idioma: fonte.idioma ?? 'pt',
+      pais: fonte.pais ?? 'Portugal',
       erro: null,
       itens,
     }
   } catch (e) {
-    return { fonte: fonte.nome, especialista: false, erro: e.message, itens: [] }
+    return { fonte: fonte.nome, especialista: false, idioma: 'pt', pais: 'Portugal', erro: e.message, itens: [] }
   }
 }
 
@@ -217,14 +308,14 @@ export function construirArtigos(resultados, { corte, idsExistentes, urlsExisten
   const novos = []
   const vistos = new Set()
 
-  for (const { fonte, especialista, itens } of resultados) {
+  for (const { fonte, especialista, idioma, pais, itens } of resultados) {
     for (const item of itens) {
       if (!item.titulo || !item.url || !/^https?:\/\//.test(item.url)) continue
 
       const data = item.data ? new Date(item.data) : null
       if (!data || isNaN(data) || data < corte) continue
 
-      const temas = classificar(item.titulo, item.resumo, especialista)
+      const temas = classificar(item.titulo, item.resumo, especialista, idioma)
       if (!temas) continue
 
       const dataIso = data.toISOString().slice(0, 10)
@@ -244,7 +335,7 @@ export function construirArtigos(resultados, { corte, idsExistentes, urlsExisten
         resumo: resumo || item.titulo,
         url: item.url,
         fonte,
-        pais: detetarPais(item.titulo, item.resumo),
+        pais: detetarPais(item.titulo, item.resumo, pais),
         temas,
         data: dataIso,
       })
