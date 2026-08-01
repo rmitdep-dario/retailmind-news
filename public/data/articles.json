@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-07-31T12:32:26.187Z",
+  "updatedAt": "2026-08-01T11:11:51.756Z",
   "articles": [
+    {
+      "id": "2026-07-31-retalho-soma-417-milhoes-de-euros-em",
+      "titulo": "Retalho soma 417 milhões de euros em investimento imobiliário no primeiro semestre",
+      "resumo": "O mercado imobiliário português registou um volume de investimento de 1,4 mil milhões de euros no primeiro semestre de 2026, um crescimento de 11% face ao período homólogo, segundo o mais recente Dils Recap . Apesar da evolução positiva no acumulado do semestre, o segundo trimestre fixou-se em 462 milhões de euros ,…",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-investimento-imob/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-07-31"
+    },
+    {
+      "id": "2026-07-31-last-mile-summit-regressa-a-cascais-para",
+      "titulo": "Last Mile Summit regressa a Cascais para debater futuro da última milha",
+      "resumo": "O Last Mile Summit regressa a 23 de setembro, no Arriba Guincho , em Cascais, para a sua segunda edição. O encontro, organizado pela Delivery Express e pela PwC , arranca às 09h00 e deverá reunir mais de 150 convidados para debater temas como micrologística urbana, sustentabilidade, inovação, desenvolvimento das cid…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/last-mile-summit-cascais/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-07-31"
+    },
+    {
+      "id": "2026-07-31-kiabi-entra-na-argentina-com-plano-para",
+      "titulo": "Kiabi entra na Argentina com plano para abrir 20 lojas",
+      "resumo": "A Kiabi vai entrar na Argentina através de um acordo de franchising com o Grupo One, com um investimento de 20 milhões de dólares e a abertura de até 20 lojas nos próximos cinco anos. O conteúdo Kiabi entra na Argentina com plano para abrir 20 lojas aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/kiabi-entra-na-argentina-com-plano-para-abrir-20-lojas/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja",
+        "franchising",
+        "investidores"
+      ],
+      "data": "2026-07-31"
+    },
+    {
+      "id": "2026-07-31-ab-inbev-cresce-5-6-no-segundo",
+      "titulo": "AB InBev cresce 5,6% no segundo trimestre",
+      "resumo": "A AB InBev fechou o segundo trimestre de 2026 com um crescimento orgânico de 5,6% nas receitas, impulsionado pela evolução positiva do negócio da cerveja e pelo desempenho das suas marcas premium. O volume total aumentou 0,9%, com o volume de cerveja a crescer 1,1%. O conteúdo AB InBev cresce 5,6% no segundo trimest…",
+      "url": "https://grandeconsumo.com/ab-inbev-cresce-56-no-segundo-trimestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-31"
+    },
+    {
+      "id": "2026-07-31-pingo-doce-abre-nova-loja-em-sesimbra",
+      "titulo": "Pingo Doce abre nova loja em Sesimbra",
+      "resumo": "O Pingo Doce inaugurou, hoje, uma nova loja de proximidade na Avenida dos Náufragos, em Sesimbra, criando 16 novos postos de trabalho. Com uma área de vendas de 210 metros quadrados, esta abertura vem reforçar a presença do Pingo Doce no distrito de Setúbal, onde passa a contar com 33 lojas. O conteúdo Pingo Doce ab…",
+      "url": "https://grandeconsumo.com/pingo-doce-abre-nova-loja-em-sesimbra/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-31"
+    },
+    {
+      "id": "2026-07-31-nova-loja-em-centro-comercial-promete-revolucionar",
+      "titulo": "Nova loja em centro comercial promete revolucionar o padel em Portugal",
+      "resumo": "A marca portuguesa QUAD acaba de dar um passo decisivo na sua expansão ao inaugurar a primeira loja própria em contexto de centro comercial, escolhendo o NorteShopping como palco para este novo conceito que promete marcar tendência no setor desportivo.",
+      "url": "https://marketeer.sapo.pt/nova-loja-em-centro-comercial-promete-revolucionar-o-padel-em-portugal/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-07-31"
+    },
+    {
+      "id": "2026-07-28-mcdonald-s-portugal-contribuiu-com-777-m",
+      "titulo": "McDonald’s Portugal contribuiu com 777 M€ para o PIB",
+      "resumo": "A atividade da McDonald’s em Portugal contribuiu com 777 milhões de euros para o PIB nacional, sustentou 16 900 postos de trabalho e gerou mais de 197,6 milhões de euros em receitas públicas e contribuições para a segurança social em 2025. No mesmo período, expendeu mais de 155 milhões de euros com fornecedores port…",
+      "url": "https://www.infofranchising.pt/mcdonalds-pib-portugal/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-07-28"
+    },
     {
       "id": "2026-07-31-worten-estreia-conceito-store-in-store-com",
       "titulo": "Worten estreia conceito Store in Store com loja da PlayStation",
