@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-01T11:11:51.756Z",
+  "updatedAt": "2026-08-02T11:07:42.666Z",
   "articles": [
+    {
+      "id": "2026-08-02-governo-tem-15-milhoes-para-apoiar-logistica",
+      "titulo": "Governo tem 15 milhões para apoiar logística urbana, mobilidade escolar e descarbonização do setor do táxi",
+      "resumo": "No que diz respeito ao apoio ao setor do Táxi, o apoio conta com uma dotação inicial de 400 mil euros e com uma dotação global prevista de 700 mil euros: o propósito passa por \"dar continuidade ao esforço já iniciado de apoio à descarbonização do setor\", explica o Governo.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/governo-tem-15-milhoes-para-apoiar-logistica-urbana-mobilidade-escolar-e-descarbonizacao-do-setor-do-taxi/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-02"
+    },
+    {
+      "id": "2026-08-01-top-of-the-week-investimento-patrimonio-e",
+      "titulo": "TOP of the WEEK: Investimento, património e influência",
+      "resumo": "🗞️ 7 notícias a não esquecer Portugal continua a reforçar o seu posicionamento como um dos destinos residenciais e de investimento mais competitivos da Europa, beneficiando da capacidade de resposta de diferentes regiões, refere um relatório da consultora imobiliária Engel e Volkers. Conheça o perfil do comprador i…",
+      "url": "https://www.forbespt.com/top-of-the-week-investimento-patrimonio-e-influencia/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-01"
+    },
+    {
+      "id": "2026-08-01-abriu-a-mina-de-ouro-para-amantes",
+      "titulo": "Abriu a “mina de ouro” para amantes de porcelana: Costa Verde inaugura outlet com (incríveis) preços de fábrica",
+      "resumo": "A Costa Verde acaba de inaugurar a Costa Verde Outlet, a nova loja de fábrica da marca, instalada na unidade de produção da empresa, na Zona Industrial de Vagos.",
+      "url": "https://marketeer.sapo.pt/abriu-a-mina-de-ouro-para-amantes-de-porcelana-costa-verde-inaugura-outlet-com-incriveis-precos-de-fabrica/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-01"
+    },
     {
       "id": "2026-07-31-retalho-soma-417-milhoes-de-euros-em",
       "titulo": "Retalho soma 417 milhões de euros em investimento imobiliário no primeiro semestre",
