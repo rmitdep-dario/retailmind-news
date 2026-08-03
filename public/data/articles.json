@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-08-02T11:07:42.666Z",
+  "updatedAt": "2026-08-03T15:59:44.931Z",
   "articles": [
+    {
+      "id": "2026-08-03-sonae-sierra-cria-joint-venture-para-comprar",
+      "titulo": "Sonae Sierra cria joint venture para comprar oito centros comerciais em Espanha",
+      "resumo": "A Sonae Sierra e a Norges Bank Investment Management constituíram uma joint venture ibérica para a aquisição de oito centros comerciais em Espanha, num portefólio com mais de 250.000 m² de Área Bruta Locável e um valor bruto aproximado de 1,5 mil milhões de euros.",
+      "url": "https://www.distribuicaohoje.com/retalho/sonae-sierra-joint-venture/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Espanha",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-campanha-de-aniversario-reforca-presenca-da-sonasol",
+      "titulo": "Campanha de aniversário reforça presença da Sonasol em retail media",
+      "resumo": "A Sonasol assinala este ano o seu 75.º aniversário com uma campanha comemorativa que pretende reforçar a ligação da marca aos consumidores portugueses e destacar o seu percurso no mercado de produtos de limpeza do lar. A iniciativa decorre até 31 de dezembro e inclui ativações em ponto de venda, uma promoção dirigid…",
+      "url": "https://www.distribuicaohoje.com/producao/aniversario-sonasol/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-francesa-veja-abre-loja-com-800m2-em",
+      "titulo": "Francesa Veja abre loja com 800m2 em Lisboa",
+      "resumo": "Na rua da Boavista, em Lisboa, a marca de ténis francesa inaugurou a sua primeira loja em Portugal.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/francesa-veja-abre-loja-com-800m2-em-lisboa/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-ttf-acelera-expansao-nacional-e-entra-no",
+      "titulo": "TTF acelera expansão nacional e entra no Norte com ambição de criar uma nova referência no fitness",
+      "resumo": "A abertura do primeiro clube da rede de ginásios TTF na Maia marca um momento na evolução da rede de ginásios fundada por Mikael Ålring. Depois de vários anos focada na consolidação da operação na Grande Lisboa, a empresa dá agora o primeiro passo para se afirmar como uma marca de âmbito nacional. Mais do […] The po…",
+      "url": "https://www.forbespt.com/ttf-acelera-expansao-nacional-e-entra-no-norte-com-ambicao-de-criar-uma-nova-referencia-no-fitness/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-a-worten-colombo-abre-a-primeira-loja",
+      "titulo": "A Worten Colombo abre a primeira loja Playstation da Península Ibérica",
+      "resumo": "A nova loja da PlayStation pretende ser um verdadeiro ecossistema de inovação para a comunidade gamer, com o objetivo de criar uma maior conexão, proximidade e interação com os fãs. Os visitantes vão poder adquirir os seus produtos favoritos, bem como testar, experimentar e vivenciar as últimas novidades tecnológica…",
+      "url": "https://www.briefing.pt/noticias/a-worten-colombo-abre-a-primeira-loja-playstation-da-peninsula-iberica/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-worten-abre-espaco-inedito-da-playstation-em",
+      "titulo": "Worten abre espaço inédito da PlayStation em Portugal e os fãs já podem experimentar tudo",
+      "resumo": "A Worten inaugurou a primeira ‘store in store’ oficial da PlayStation na Península Ibérica, localizada na loja do Centro Colombo, em Lisboa. O novo espaço promete transformar a forma como os fãs de videojogos interagem com o universo da marca japonesa.",
+      "url": "https://marketeer.sapo.pt/worten-abre-espaco-inedito-da-playstation-em-portugal-e-os-fas-ja-podem-experimentar-tudo/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-re-max-fecha-primeiro-semestre-de-2026",
+      "titulo": "RE/MAX fecha primeiro semestre de 2026 com recorde de 4,2 mil milhões de euros transacionados",
+      "resumo": "A RE/MAX Portugal encerrou o primeiro semestre de 2026 com um volume de preços transacionado de aproximadamente 4,2 mil milhões de euros, um crescimento de 3,8% face ao mesmo período do ano anterior. Os resultados confirmam a trajetória positiva da rede imobiliária e fazem deste o melhor primeiro semestre de sempre …",
+      "url": "https://www.infofranchising.pt/remax-recorde-primeiro-semestre-2026/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-eurostars-hotel-company-reforca-presenca-em-marrocos",
+      "titulo": "Eurostars Hotel Company reforça presença em Marrocos com novo hotel em Casablanca",
+      "resumo": "A Eurostars Hotel Company, cadeia hoteleira do Grupo Hotusa, reforçou a sua presença em Marrocos com a abertura do Eurostars Californie 4*, em Casablanca. A nova unidade junta-se ao Eurostars Casa Anfa 4* e ao Exe Casablanca 4*, representando mais um passo na estratégia de consolidação da empresa no mercado marroqui…",
+      "url": "https://www.ambitur.pt/eurostars-hotel-company-reforca-presenca-em-marrocos-com-novo-hotel-em-casablanca/",
+      "fonte": "Ambitur",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-03"
+    },
     {
       "id": "2026-08-02-governo-tem-15-milhoes-para-apoiar-logistica",
       "titulo": "Governo tem 15 milhões para apoiar logística urbana, mobilidade escolar e descarbonização do setor do táxi",
