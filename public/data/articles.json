@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-08-03T15:59:44.931Z",
+  "updatedAt": "2026-08-04T12:30:23.491Z",
   "articles": [
+    {
+      "id": "2026-08-04-jungheinrich-adquire-participacao-na-fabricante-chinesa-ep",
+      "titulo": "Jungheinrich adquire participação na fabricante chinesa EP Equipment",
+      "resumo": "A Jungheinrich AG adquiriu uma participação de 4,9% na EP Equipment, fabricante chinesa de equipamentos de movimentação de cargas. A operação está estruturada como um investimento estratégico de longo prazo.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/jungheinrich-participacao/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores",
+        "aquisicoes"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-panattoni-e-cushman-wakefield-fecham-maior-contrato",
+      "titulo": "Panattoni e Cushman & Wakefield fecham maior contrato de arrendamento logístico do Porto",
+      "resumo": "O Panattoni Park Valongo é um parque logístico de última geração composto por dois edifícios com uma Área Bruta Locável (ABL) total de aproximadamente 76 mil metros quadrados. O arrendatário é uma empresa portuguesa cuja identidade prefere manter confidencial.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/panattoni-e-cushman-wakefield-fecham-maior-contrato-de-arrendamento-logistico-do-porto/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-campus-da-nova-fct-vai-ter-residencia",
+      "titulo": "Campus da NOVA FCT vai ter residência de estudantes com investimento de 20 milhões",
+      "resumo": "Projeto prevê a criação de 280 camas, distribuídas por 254 unidades de alojamento através do investimento feito pela pela dstrealestate, em parceria com a KKR Investimentos. A construção terá início em 2027 e a conclusão está prevista para 2028.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/campus-da-nova-fct-vai-ter-residencia-de-estudantes-com-investimento-de-20-milhoes/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-equanto-adquire-empresa-detentora-da-goldnutrition-tendo",
+      "titulo": "Equanto adquire empresa detentora da GoldNutrition tendo como foco a internacionalização",
+      "resumo": "Com esta aquisição a Equanto passa a estar presente em 26 países. \"Espanha assume particular relevância, sendo um mercado onde tanto a Origens Bio como a GoldNutrition têm vindo a reforçar a sua presença. A integração da GoldNutrition SL permitirá potenciar sinergias comerciais e criar uma plataforma mais robusta pa…",
+      "url": "https://jornaleconomico.sapo.pt/noticias/equanto-adquire-empresa-detentora-da-goldnutrition-tendo-como-foco-a-internacionalizacao/",
+      "fonte": "Jornal Económico",
+      "pais": "Espanha",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-pvr-inox-s-biggest-expansion-ever-1",
+      "titulo": "PVR INOX's biggest expansion ever: 1,000 screens, 300 cities and a new cinema model",
+      "resumo": "PVR INOX plans to add one thousand new screens over the next five years. The company is launching capital-efficient Smart Cinemas for emerging markets. This expansion targets underpenetrated exhibition landscapes beyond metro cities. Smart Cinemas will offer quality experiences at lower ticket prices. The strategy r…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/pvr-inoxs-biggest-expansion-ever-1000-screens-300-cities-and-a-new-cinema-model/132855370",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "franchising"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-03-nata7-abre-primeira-loja-no-brasil-com",
+      "titulo": "Nata7 abre primeira loja no Brasil com pastéis de nata, de bacalhau e café português",
+      "resumo": "Desde que nasceu no Funchal, em dezembro de 2022, a Nata7 tem crescido a um ritmo acelerado. A marca especializada em pastéis de nata soma atualmente 12 lojas em Portugal, entre Madeira, Porto e Braga, e acaba de dar o primeiro passo na expansão internacional. A estreia aconteceu a 22 de julho, com a abertura […] Th…",
+      "url": "https://www.nit.pt/comida/cafes-e-bares/nata7-abre-primeira-loja-no-brasil-com-pasteis-de-nata-de-bacalhau-e-cafe-portugues",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-03"
+    },
     {
       "id": "2026-08-03-sonae-sierra-cria-joint-venture-para-comprar",
       "titulo": "Sonae Sierra cria joint venture para comprar oito centros comerciais em Espanha",
