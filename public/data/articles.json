@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-08-04T12:30:23.491Z",
+  "updatedAt": "2026-08-05T12:27:03.957Z",
   "articles": [
+    {
+      "id": "2026-08-05-allianz-gi-adquire-uobam-e-ativos-sob",
+      "titulo": "Allianz GI adquire UOBAM e ativos sob gestão superam os 170 mil milhões de euros na Ásia-Pacífico",
+      "resumo": "Com este negócio a AllianzGI duplica de imediato os ativos sob gestão em Singapura. A transação, sujeita às aprovações regulatórias, deverá estar concluída em 2027. O preço de aquisição, que inclui um excedente de caixa e o acordo de distribuição, atinge os 376 milhões de euros.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/allianz-gi-adquire-uobam-e-ativos-sob-gestao-superam-os-170-mil-milhoes-de-euros-na-asia-pacifico/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-faturacao-da-imobiliaria-zome-sobe-7-e",
+      "titulo": "Faturação da imobiliária Zome sobe 7% e soma 26,75 M€ no 1.º semestre",
+      "resumo": "A faturação da Zome aumentou 7% no primeiro semestre em termos homólogos, para 26,75 milhões de euros, tendo as mais de 5.500 transações realizadas representado um volume de negócios de 1.193,5 milhões de euros, anunciou hoje a imobiliária.",
+      "url": "https://executivedigest.sapo.pt/faturacao-da-imobiliaria-zome-sobe-7-e-soma-2675-me-no-1-o-semestre/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-expofranchise-2026-ja-tem-data-marcada",
+      "titulo": "EXPOFRANCHISE 2026 já tem data marcada",
+      "resumo": "A EXPOFRANCHISE está de volta! A maior feira de empreendedorismo e franchising da Península Ibérica, promovida pela Associação Portuguesa de Franchising, terá lugar nos dias 23 e 24 de outubro, no Pátio da Galé, em Lisboa. A 29ª edição da EXPOFRANCHISE reunirá marcas nacionais e internacionais em Portugal. Trata-se …",
+      "url": "https://www.infofranchising.pt/expofranchise-2026/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-04-rar-acucar-investe-12-milhoes-na-descarbonizacao",
+      "titulo": "RAR Açúcar investe 12 milhões na descarbonização da unidade industrial",
+      "resumo": "A RAR Açúcar concluiu um programa de investimento de 12 milhões de euros destinado a acelerar a descarbonização da sua unidade industrial e a reforçar a eficiência energética e hídrica dos processos produtivos.",
+      "url": "https://www.distribuicaohoje.com/producao/rar-descarbonizacao/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-ds-intermediarios-de-credito-reforca-lideranca-nacional",
+      "titulo": "DS INTERMEDIÁRIOS DE CRÉDITO reforça liderança nacional com cinco novas inaugurações num só mês",
+      "resumo": "A DS INTERMEDIÁRIOS DE CRÉDITO (DSIC), a maior rede nacional de intermediação de crédito, reforçou a sua expansão em Portugal com a inauguração de cinco novas lojas durante o mês de julho, consolidando a sua estratégia de proximidade junto das famílias e empresas portuguesas. As novas unidades, localizadas em Pinhal…",
+      "url": "https://www.infofranchising.pt/ds-intermediarios-de-credito-inauguracao/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-08-04"
+    },
     {
       "id": "2026-08-04-jungheinrich-adquire-participacao-na-fabricante-chinesa-ep",
       "titulo": "Jungheinrich adquire participação na fabricante chinesa EP Equipment",
