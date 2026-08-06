@@ -1,6 +1,394 @@
 {
-  "updatedAt": "2026-08-05T12:27:03.957Z",
+  "updatedAt": "2026-08-06T10:17:13.833Z",
   "articles": [
+    {
+      "id": "2026-08-06-clientes-que-usam-alexa-para-compras-gastam",
+      "titulo": "Clientes que usam Alexa para compras gastam mais 40% por pedido nos EUA",
+      "resumo": "A Amazon registou um crescimento significativo na utilização da Alexa para compras, a sua assistente de compras com inteligência artificial (IA). No segundo trimestre de 2026, o número de utilizadores ativos quase duplicou face ao mesmo período do ano anterior, segundo dados apresentados pela empresa na conferência …",
+      "url": "https://www.distribuicaohoje.com/customer-experience/alexa-compras-amazon-eua/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-investimento-imobiliario-em-portugal-cresce-11",
+      "titulo": "Investimento imobiliário em Portugal cresce 11%",
+      "resumo": "O investimento imobiliário comercial em Portugal totalizou 1.420 milhões de euros no primeiro semestre de 2026, um crescimento homólogo de 11%, segundo o relatório Market Dynamics da JLL. O conteúdo Investimento imobiliário em Portugal cresce 11% aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/investimento-imobiliario-em-portugal-cresce-11/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-apritel-diz-que-renova-o-do-espectro",
+      "titulo": "Apritel diz que renova��o do espectro proposta pela Anacom condiciona investimento",
+      "resumo": "A Apritel queria que o prazo definido pela Anacom fosse de 20 anos. Regulador prop�s 6 e 14. Ant�nio Coimbra, que lidera a associa��o dos operadores de comunica��es, diz que a proposta “compromete o futuro digital” do pa�s.",
+      "url": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/apritel-diz-que-renovacao-do-espectro-proposta-pela-anacom-condiciona-investimento",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-imobiliarias-batem-recordes-de-faturacao-com-menos",
+      "titulo": "Imobiliárias batem recordes de faturação com menos casas vendidas no primeiro semestre",
+      "resumo": "Menos casas vendidas, preços mais altos e faturação em subida. Foi assim que as maiores redes imobiliárias a operar em Portugal atravessaram os primeiros seis meses de 2026, num semestre em que a escassez de oferta e o maior peso de compradores estrangeiros e institucionais redesenharam o mapa da mediação imobiliári…",
+      "url": "https://eco.sapo.pt/2026/08/06/imobiliarias-batem-recordes-de-faturacao-com-menos-casas-vendidas-no-primeiro-semestre/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-imobiliario-comercial-investimento-subiu-11-para-1",
+      "titulo": "Imobiliário comercial. Investimento subiu 11%, para 1.420 milhões no primeiro semestre",
+      "resumo": "Para este resultado contribuiu fortemente o primeiro trimestre, com um volume de 930 milhões, bem acima dos 490 milhões de euros registados no segundo trimestre, com os setores do retalho e hotelaria a serem responsáveis por dois terços das transações. O capital estrangeiro representou 65% das transações e os restan…",
+      "url": "https://jornaleconomico.sapo.pt/noticias/imobiliario-comercial-investimento-subiu-11-para-1-420-milhoes-no-primeiro-semestre/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-investimento-imobiliario-cresce-11-para-1-420",
+      "titulo": "Investimento imobiliário cresce 11% para 1.420 milhões no 1.º semestre",
+      "resumo": "O investimento imobiliário comercial em Portugal aumentou 11% no primeiro semestre, para 1.420 milhões de euros, impulsionado sobretudo pelos setores da hotelaria e do retalho, que concentraram cerca de dois terços do capital investido, estimou a consultora JLL.",
+      "url": "https://executivedigest.sapo.pt/investimento-imobiliario-cresce-11-para-1-420-me-no-1-o-semestre-jll/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-agencia-public-reforca-presenca-na-area-da",
+      "titulo": "Agência Public reforça presença na área da saúde com a conquista de novo cliente",
+      "resumo": "A agência ficará responsável pelo desenvolvimento da estratégia de comunicação da clínica, assessoria de imprensa, gestão da relação com os media e influenciadores, criação de conteúdos e identificação de oportunidades de posicionamento, com o objetivo de reforçar a notoriedade da marca.",
+      "url": "https://marketeer.sapo.pt/agencia-public-reforca-presenca-na-area-de-saude-com-novo-cliente/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-govt-mandates-exporter-registration-for-fdi-backed",
+      "titulo": "Govt mandates exporter registration for FDI-backed ecommerce inventory exports",
+      "resumo": "Foreign-invested ecommerce firms must register as exporter-on-record for export inventory. These companies can only procure and stock goods against confirmed export orders. Speculative stockpiling for future outbound shipping will not be allowed by the government. Indian sellers can access overseas markets by delega…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/govt-mandates-exporter-registration-for-fdi-backed-ecommerce-inventory-exports/132979942",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investimento-estrangeiro"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-05-coca-cola-europacific-partners-atinge-1-639",
+      "titulo": "Coca-Cola Europacific Partners atinge 1.639 milhões de euros na Península Ibérica",
+      "resumo": "A Coca-Cola Europacific Partners registou receitas de 1.639 milhões de euros na Península Ibérica no primeiro semestre de 2026, um crescimento de 5,4% face ao período homólogo. No segundo trimestre, as receitas ascenderam a 955 milhões de euros, mais 4,6%.",
+      "url": "https://www.distribuicaohoje.com/producao/coca-cola-resultados-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-casa-mendes-goncalves-compra-diese-e-reforca",
+      "titulo": "Casa Mendes Gonçalves compra Diese e reforça aposta na alimentação saudável",
+      "resumo": "A Casa Mendes Gonçalves anunciou a aquisição da Diese, marca portuguesa de alimentação saudável com quase sete décadas de história, e prepara uma nova fase assente numa identidade renovada, novas gamas de produto e uma abordagem atualizada à nutrição consciente e ao bem-estar.",
+      "url": "https://www.distribuicaohoje.com/producao/casa-mendes-goncalves-compra-diese-e-reforca-aposta-na-alimentacao-saudavel/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-carrefour-recruta-candidatos-a-franchising-atraves-de",
+      "titulo": "Carrefour recruta candidatos a franchising através de WhatsApp e IA",
+      "resumo": "A Carrefour Belgium lançou um processo digital de recrutamento de candidatos a franchising através de WhatsApp e inteligência artificial , com o objetivo de reduzir barreiras à entrada de potenciais empreendedores interessados em gerir uma loja da insígnia.",
+      "url": "https://www.distribuicaohoje.com/retalho/carrefour-recruta-por-whatsapp/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-p-g-compra-fabricante-de-suplementos-nutricionais",
+      "titulo": "P&G compra fabricante de suplementos nutricionais por 3,8 mil milhões de dólares",
+      "resumo": "A Procter & Gamble (P&G) anunciou a aquisição da Thorne, fabricante de suplementos nutricionais, por 3,8 mil milhões de dólares, cerca de 3,3 mil milhões de euros.",
+      "url": "https://www.distribuicaohoje.com/producao/pg-fabricante-suplementos/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-casa-mendes-goncalves-compra-e-relanca-a",
+      "titulo": "Casa Mendes Gonçalves compra e relança a Diese",
+      "resumo": "A aquisição marca a entrada da Casa Mendes Gonçalves na nutrição consciente e inicia uma nova fase para a Diese, fundada em 1955. O conteúdo Casa Mendes Gonçalves compra e relança a Diese aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/casa-mendes-goncalves-compra-e-relanca-a-diese/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-quatro-prioridades-para-enfrentar-a-volatilidade",
+      "titulo": "Quatro prioridades para enfrentar a volatilidade",
+      "resumo": "A ERA Group identifica quatro áreas prioritárias para ajudar as empresas a enfrentar a volatilidade dos mercados e a pressão sobre os custos: controlo da despesa logística, maior agilidade nas compras, adaptação das cadeias de abastecimento e revisão dos planos de continuidade e gestão do risco. O conteúdo Quatro pr…",
+      "url": "https://grandeconsumo.com/quatro-prioridades-para-enfrentar-a-volatilidade/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-heineken-aumenta-lucro-em-51-2-no",
+      "titulo": "Heineken aumenta lucro em 51,2% no primeiro semestre",
+      "resumo": "A Heineken registou um lucro líquido de 1.125 milhões de euros no primeiro semestre de 2026, um aumento de 51,2% face ao período homólogo. A receita líquida cresceu 2,7% em termos orgânicos, para 14.834 milhões de euros, impulsionada pelo desempenho dos mercados prioritários, entre os quais Vietname, Etiópia, Índia,…",
+      "url": "https://grandeconsumo.com/heineken-aumenta-lucro-em-512-no-primeiro-semestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Índia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-iberdrola-bp-pulse-capta-ate-230-milhoes",
+      "titulo": "Iberdrola | bp pulse capta até 230 milhões para expansão da rede",
+      "resumo": "A Iberdrola | bp pulse assegurou um financiamento bancário de 130 milhões de euros, com possibilidade de ampliação até 230 milhões, destinado a sustentar o plano de crescimento da empresa nos próximos anos. O conteúdo Iberdrola | bp pulse capta até 230 milhões para expansão da rede aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/iberdrola-bp-pulse-capta-ate-230-milhoes-para-expansao-da-rede/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-coca-cola-europacific-partners-cresce-5-4",
+      "titulo": "Coca-Cola Europacific Partners cresce 5,4% no mercado ibérico",
+      "resumo": "A Coca-Cola Europacific Partners aumentou as receitas 5,4% na Península Ibérica no primeiro semestre de 2026, para 1.639 milhões de euros, impulsionada por bebidas desportivas, RTD tea, Flavours e Monster. O conteúdo Coca-Cola Europacific Partners cresce 5,4% no mercado ibérico aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/coca-cola-europacific-partners-cresce-54-no-mercado-iberico/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-ifthenpay-aumenta-faturacao-em-13-no-primeiro",
+      "titulo": "Ifthenpay aumenta faturação em 13% no primeiro semestre",
+      "resumo": "A Ifthenpay registou um crescimento de 13% no volume de negócios no primeiro semestre de 2026, face ao mesmo período do ano anterior, alcançando 4,5 milhões de euros de faturação. O conteúdo Ifthenpay aumenta faturação em 13% no primeiro semestre aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/ifthenpay-aumenta-faturacao-em-13-no-primeiro-semestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-cenco-malls-aumento-mas-de-25-sus",
+      "titulo": "Cenco Malls aumentó más de 25% sus utilidades netas durante el segundo trimestre del año",
+      "resumo": "El operador de centros comerciales reportó un crecimiento de 9,3 % en sus ingresos interanuales, alcanzando US$110,5 millones",
+      "url": "https://www.larepublica.co/empresas/cenco-malls-aumento-mas-de-25-sus-utilidades-netas-durante-el-segundo-trimestre-del-ano-4452151",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-las-propuestas-de-la-bolsa-de-colombia",
+      "titulo": "Las propuestas de la Bolsa de Colombia a De La Espriella para elevar la inversión: ISA, OPAs, impuestos y más",
+      "resumo": "Elevar el flotante de Ecopetrol al 20 %, habilitar SAS en el mercado de valores y permitir activos digitales, entre las iniciativas.",
+      "url": "https://www.valoraanalitik.com/propuestas-bolsa-colombia-de-la-espriella/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-05-mipymes-podran-comprar-empaques-personalizados-premium-desde",
+      "titulo": "Mipymes podrán comprar empaques personalizados premium desde 20 unidades con la nueva tienda virtual de Smurfit Westrock",
+      "resumo": "Las referencias disponibles se desarrollan con las mismas referencias de calidad aplicados para clientes multinacionales y empresas exportadoras.",
+      "url": "https://www.valoraanalitik.com/mipymes-podran-comprar-empaques-personalizados-desde-20-unidades-con-la-nueva-tienda-virtual-de-smurfit-westrock/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-05"
+    },
+    {
+      "id": "2026-08-04-tedi-compra-76-lojas-woolworth-e-reforca",
+      "titulo": "TEDi compra 76 lojas Woolworth e reforça presença na Polónia",
+      "resumo": "A TEDi vai assumir 76 lojas da Woolworth na Polónia, numa operação que fará a cadeia alemã abandonar o mercado polaco e elevar a rede da TEDi para cerca de 372 unidades. O conteúdo TEDi compra 76 lojas Woolworth e reforça presença na Polónia aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/tedi-compra-76-lojas-woolworth-e-reforca-presenca-na-polonia/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-jungheinrich-adquire-participacao-na-ep-equipment",
+      "titulo": "Jungheinrich adquire participação na EP Equipment",
+      "resumo": "A Jungheinrich AG adquiriu uma participação de 4,9% na EP Equipment, fabricante chinesa de equipamentos de movimentação de cargas. O investimento reforça a cooperação entre as duas empresas e integra a implementação da Estratégia 2030+. O conteúdo Jungheinrich adquire participação na EP Equipment aparece primeiro em…",
+      "url": "https://grandeconsumo.com/jungheinrich-adquire-participacao-na-ep-equipment/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores",
+        "aquisicoes"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-vinted-acelera-expansao-nos-estados-unidos",
+      "titulo": "Vinted acelera expansão nos Estados Unidos",
+      "resumo": "A Vinted está a reforçar a aposta na internacionalização com a expansão nos Estados Unidos, procurando replicar o modelo que a tornou uma das maiores plataformas europeias de compra e venda de artigos em segunda mão. O conteúdo Vinted acelera expansão nos Estados Unidos aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/vinted-acelera-expansao-nos-estados-unidos/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao",
+        "compra-venda-ativo"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-mathilde-aponte-faucherie-lidera-rh-da-danone",
+      "titulo": "Mathilde Aponte Faucherie lidera RH da Danone Portugal",
+      "resumo": "A Danone Portugal nomeou Mathilde Aponte Faucherie como nova diretora de Recursos Humanos. A responsável assume a liderança da gestão de pessoas, tendo como principal missão impulsionar o desenvolvimento das equipas e o crescimento sustentável do negócio. O conteúdo Mathilde Aponte Faucherie lidera RH da Danone Port…",
+      "url": "https://grandeconsumo.com/mathilde-aponte-faucherie-lidera-rh-da-danone-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-04-amanhecer-reforca-rede-com-novas-lojas-em",
+      "titulo": "Amanhecer reforça rede com novas lojas em Anadia e Lisboa",
+      "resumo": "O Amanhecer reforçou a sua rede de retalho tradicional com a abertura de duas novas lojas, em Anadia e Lisboa, dando continuidade à expansão da insígnia em diferentes regiões do país. O conteúdo Amanhecer reforça rede com novas lojas em Anadia e Lisboa aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/amanhecer-reforca-rede-com-novas-lojas-em-anadia-e-lisboa/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-08-04"
+    },
+    {
+      "id": "2026-08-03-iservices-vende-mais-de-1-200-cartoes",
+      "titulo": "iServices vende mais de 1.200 cartões pré-pagos da NOS desde janeiro",
+      "resumo": "A parceria permite à iServices juntar cartões móveis aos serviços de reparação, acessórios e venda de equipamentos recondicionados. O conteúdo iServices vende mais de 1.200 cartões pré-pagos da NOS desde janeiro aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/iservices-vende-mais-de-1-200-cartoes-pre-pagos-da-nos-desde-janeiro/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-retail-parks-lideram-nova-oferta-de-retalho",
+      "titulo": "Retail parks lideram nova oferta de retalho com mais de 77 mil metros quadrados em desenvolvimento",
+      "resumo": "O investimento em retalho atingiu 417 milhões de euros no primeiro semestre, enquanto os retail parks lideram o pipeline de nova oferta comercial em Portugal. O conteúdo Retail parks lideram nova oferta de retalho com mais de 77 mil metros quadrados em desenvolvimento aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/retail-parks-lideram-nova-oferta-de-retalho-com-mais-de-77-mil-metros-quadrados-em-desenvolvimento/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "retail-parks",
+        "investidores"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-action-abre-em-esposende-a-30-loja",
+      "titulo": "Action abre em Esposende a 30.ª loja em Portugal",
+      "resumo": "A Action vai abrir a 30.ª loja em Portugal, desta vez em Esposende, no dia 6 de agosto. A nova unidade terá 806 metros quadrados e cerca de seis mil produtos de 14 categorias, com preços médios abaixo de dois euros. O conteúdo Action abre em Esposende a 30.ª loja em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/action-abre-em-esposende-a-30-a-loja-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-amazon-aumenta-lucro-em-163",
+      "titulo": "Amazon aumenta lucro em 163%",
+      "resumo": "A Amazon fechou o primeiro semestre de 2026 com lucro líquido de 92,9 mil milhões de dólares, mais 163%, impulsionada sobretudo por ganhos não operacionais ligados à Anthropic. O conteúdo Amazon aumenta lucro em 163% aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/amazon-aumenta-lucro-em-163/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-l-oreal-aumenta-vendas-em-5-8",
+      "titulo": "L’Oréal aumenta vendas em 5,8% e lucro em 5,3% no primeiro semestre",
+      "resumo": "A L’Oréal cresceu em todas as divisões e regiões, atingindo uma margem operacional semestral recorde de 21,3%. O conteúdo L’Oréal aumenta vendas em 5,8% e lucro em 5,3% no primeiro semestre aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/loreal-aumenta-vendas-em-58-e-lucro-em-53-no-primeiro-semestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-03"
+    },
+    {
+      "id": "2026-08-03-couche-tard-lanca-oferta-de-7-56",
+      "titulo": "Couche-Tard lança oferta de 7,56 mil milhões de euros pela Żabka",
+      "resumo": "A maior aquisição da história da Couche-Tard deverá criar uma rede de 30.300 lojas e elevar o peso da Europa para 60% do parque do grupo. O conteúdo Couche-Tard lança oferta de 7,56 mil milhões de euros pela Żabka aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/couche-tard-lanca-oferta-de-756-mil-milhoes-de-euros-pela-zabka/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-08-03"
+    },
     {
       "id": "2026-08-05-allianz-gi-adquire-uobam-e-ativos-sob",
       "titulo": "Allianz GI adquire UOBAM e ativos sob gestão superam os 170 mil milhões de euros na Ásia-Pacífico",

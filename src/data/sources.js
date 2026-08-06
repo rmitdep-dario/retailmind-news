@@ -117,4 +117,33 @@ export const SOURCES = [
   { nome: 'Retailers Association of India', site: 'https://www.rai.net.in', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
   { nome: 'Shopping Centres Association of India', site: 'https://www.scai.in', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
   { nome: 'Restaurant India', site: 'https://www.restaurantindia.in', rss: null, categoria: 'Índia — retalho & imobiliário', pais: 'Índia', idioma: 'en' },
+
+  // ── Colômbia (indicadas por Sebastian Rios, validadas 2026-08-05) ──
+  // Todos os domínios respondem, mas — como na Índia — os especialistas de
+  // retalho (Mall & Retail, Colombia Retail) não expõem feed utilizável.
+  // Ficam registados: são seguidos, só não são legíveis automaticamente.
+  {
+    nome: 'La República',
+    site: 'https://www.larepublica.co',
+    rss: 'https://www.larepublica.co/rss/empresas',
+    categoria: 'Colômbia — retalho & imobiliário',
+    pais: 'Colômbia',
+    idioma: 'es',
+  },
+  {
+    nome: 'Valora Analitik',
+    site: 'https://www.valoraanalitik.com',
+    rss: 'https://www.valoraanalitik.com/feed/',
+    categoria: 'Colômbia — retalho & imobiliário',
+    pais: 'Colômbia',
+    idioma: 'es',
+  },
+  { nome: 'Mall & Retail', site: 'https://www.mallyretail.com', rss: null, categoria: 'Colômbia — retalho & imobiliário', pais: 'Colômbia', idioma: 'es' },
+  { nome: 'Colombia Retail', site: 'https://colombiaretail.com', rss: null, categoria: 'Colômbia — retalho & imobiliário', pais: 'Colômbia', idioma: 'es' },
+  { nome: 'Portafolio', site: 'https://www.portafolio.co', rss: null, categoria: 'Colômbia — retalho & imobiliário', pais: 'Colômbia', idioma: 'es' },
+  { nome: 'Revista P&M', site: 'https://www.revistapym.com.co', rss: null, categoria: 'Colômbia — retalho & imobiliário', pais: 'Colômbia', idioma: 'es' },
+  { nome: 'Fashion Network Colômbia', site: 'https://co.fashionnetwork.com', rss: null, categoria: 'Colômbia — retalho & imobiliário', pais: 'Colômbia', idioma: 'es' },
+  // Modaes é sediada em Espanha (moda/negócio) — o Sebastian segue-a a partir
+  // da Colômbia, por isso fica aqui, mas o país sai do texto de cada artigo.
+  { nome: 'Modaes', site: 'https://www.modaes.com', rss: null, categoria: 'Colômbia — retalho & imobiliário', pais: 'Espanha', idioma: 'es' },
 ]

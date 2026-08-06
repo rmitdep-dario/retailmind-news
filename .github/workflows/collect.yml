@@ -24,6 +24,10 @@ jobs:
       - name: Instalar dependências
         run: npm install fast-xml-parser nodemailer --no-save
 
+      # Falha cedo se alguém partir uma regra de classificação.
+      - name: Testar regras
+        run: node scripts/test-rules.mjs
+
       # Recolha por RSS + regras — sem custos, não precisa de chave de API.
       # (Alternativa paga com pesquisa web: scripts/collect.mjs — ver README.)
       - name: Recolher notícias

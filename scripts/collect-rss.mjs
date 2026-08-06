@@ -123,10 +123,61 @@ const EXCLUIR_EN = [
   'rupee rises', 'sensex', 'nifty', 'monsoon', 'gst collections', 'tariff',
 ]
 
+// ── Regras de classificação (espanhol) ──────────────────────────────
+// Cobre Colômbia e Espanha. Inclui vocabulário próprio da Colômbia
+// ("bodega" = armazém, "arriendo" = arrendamento, "consumo masivo").
+const CONTEXTO_ES = [
+  'tienda', 'tiendas', 'retail', 'minorista', 'minoristas', 'centro comercial',
+  'centros comerciales', 'mall', 'malls', 'retail park', 'inmobiliario',
+  'inmobiliaria', 'marca', 'marcas', 'franquicia', 'franquicias', 'logística',
+  'bodega', 'bodegas', 'almacén', 'almacenes', 'oficinas', 'portafolio',
+  'activos', 'arriendo', 'alquiler', 'local comercial', 'locales comerciales',
+  'supermercado', 'supermercados', 'hipermercado', 'cadena', 'outlet',
+  'superficie comercial', 'metros cuadrados', 'comercio', 'consumo masivo',
+  'operador', 'operadores', 'moda', 'restaurante', 'restaurantes',
+]
+
+const GATILHOS_ES = [
+  { tema: 'nova-loja', termos: ['abre', 'abrió', 'apertura', 'aperturas', 'inaugura', 'inauguró', 'nueva tienda', 'nuevas tiendas', 'primera tienda', 'estrena'] },
+  { tema: 'loja-encerrada', termos: ['cierra sus puertas', 'cerró sus puertas', 'cierre de tiendas', 'cierra tiendas', 'clausura'] },
+  { tema: 'marca-expansao', termos: ['expansión', 'expande', 'plan de expansión', 'nuevas aperturas', 'refuerza su presencia', 'crecimiento de la red'] },
+  { tema: 'franchising', termos: ['franquicia', 'franquicias', 'franquiciado', 'franquiciados'] },
+  { tema: 'marca-internacional-pt', termos: ['llega a colombia', 'entra en colombia', 'desembarca en', 'aterriza en', 'llega al país'] },
+  { tema: 'cc-novas-entradas', termos: ['nuevos locales', 'nuevo ancla', 'nuevos inquilinos'] },
+  { tema: 'novos-cc', termos: ['nuevo centro comercial', 'nuevo mall'] },
+  { tema: 'retail-parks', termos: ['retail park', 'retail parks'] },
+  { tema: 'logistica', termos: ['logística', 'centro de distribución', 'bodega', 'bodegas'] },
+  { tema: 'escritorios', termos: ['oficinas', 'espacio de oficinas'] },
+  { tema: 'licenciamento', termos: ['licencia', 'permiso de construcción', 'aprobación del proyecto'] },
+  { tema: 'concursos', termos: ['licitación', 'licitaciones'] },
+  { tema: 'promotores', termos: ['promotor', 'desarrollador inmobiliario'] },
+  { tema: 'compra-venda-ativo', termos: ['venta de', 'vendió', 'compra el', 'compró el', 'transacción', 'enajenación'] },
+  { tema: 'fundo-portefolio', termos: ['portafolio de activos', 'cartera de activos', 'compra el portafolio'] },
+  { tema: 'fundos', termos: ['fondo de inversión', 'fondo inmobiliario'] },
+  { tema: 'reits', termos: ['reit', 'socimi', 'fibra inmobiliaria'] },
+  { tema: 'private-equity', termos: ['private equity', 'capital privado'] },
+  { tema: 'investidores', termos: ['inversión', 'invierte', 'invirtió', 'inversionista', 'inversionistas', 'inversor'] },
+  { tema: 'investimento-estrangeiro', termos: ['inversión extranjera', 'capital extranjero', 'ied'] },
+  { tema: 'ma-operadores', termos: ['fusión', 'se fusiona', 'm&a'] },
+  { tema: 'aquisicoes', termos: ['adquiere', 'adquirió', 'adquisición', 'compra de la'] },
+  { tema: 'ceo-direcao', termos: ['nuevo ceo', 'nombrado', 'nombramiento', 'designado', 'presidente ejecutivo', 'gerente general', 'asume la dirección'] },
+  { tema: 'resultados', termos: ['resultados', 'utilidad', 'utilidades', 'ingresos', 'facturación', 'ganancias', 'pérdidas', 'ventas crecieron'] },
+]
+
+const EXCLUIR_ES = [
+  'opinión', 'columna', 'podcast', 'entrevista', 'horóscopo', 'sorteo',
+  'fútbol', 'elecciones', 'clima', 'receta', 'en vivo', 'minuto a minuto',
+  'editorial', 'caricatura',
+  // macro: a imprensa económica colombiana publica-o diariamente
+  'banco de la república', 'tasa de interés', 'déficit fiscal', 'deuda pública',
+  'petróleo', 'barriles', 'reforma tributaria', 'salario mínimo',
+]
+
 // Conjunto de regras por idioma. Uma fonte sem `idioma` usa 'pt'.
 const REGRAS = {
   pt: { contexto: CONTEXTO, gatilhos: GATILHOS, excluir: EXCLUIR },
   en: { contexto: CONTEXTO_EN, gatilhos: GATILHOS_EN, excluir: EXCLUIR_EN },
+  es: { contexto: CONTEXTO_ES, gatilhos: GATILHOS_ES, excluir: EXCLUIR_ES },
 }
 
 // Categorias de fontes que são elas próprias do nosso setor: aí o contexto
