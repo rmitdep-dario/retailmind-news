@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-06T10:17:13.833Z",
+  "updatedAt": "2026-08-06T12:31:09.791Z",
   "articles": [
+    {
+      "id": "2026-08-06-retalho-representa-32-do-investimento-imobiliario-comercial",
+      "titulo": "Retalho representa 32% do investimento imobiliário comercial em Portugal",
+      "resumo": "O retalho foi um dos principais motores do investimento imobiliário comercial em Portugal no primeiro semestre de 2026, representando 32% do volume total investido, segundo o relatório Market Dynamics , da JLL.",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-imobiliario-5/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-06"
+    },
     {
       "id": "2026-08-06-clientes-que-usam-alexa-para-compras-gastam",
       "titulo": "Clientes que usam Alexa para compras gastam mais 40% por pedido nos EUA",
