@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-06T12:31:09.791Z",
+  "updatedAt": "2026-08-07T09:36:48.895Z",
   "articles": [
+    {
+      "id": "2026-08-07-governo-aprova-investimento-de-1-58-mil",
+      "titulo": "Governo aprova investimento de 1,58 mil milhões de euros na rede de distribuição elétrica de alta e média tensão",
+      "resumo": "O Governo aprovou o Plano de Desenvolvimento e Investimento da Rede Nacional de Distribuição de Eletricidade em Alta Tensão e Média Tensão (PDIRD-E 2026-2030), com um investimento total previsto de 1,58 mil milhões de euros. Num comunicado divulgado no final do Conselho de Ministros, o executivo assegurou que “o pla…",
+      "url": "https://www.forbespt.com/governo-aprova-investimento-de-158-mil-milhoes-de-euros-na-rede-de-distribuicao-eletrica-de-alta-e-media-tensao/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-msc-revela-catalina-sugar-beach-novo-destino",
+      "titulo": "MSC revela Catalina Sugar Beach, novo destino nas Caraíbas com abertura prevista para novembro",
+      "resumo": "A MSC Cruzeiros revelou novos detalhes sobre a Catalina Sugar Beach, o novo destino de praia localizado na Ilha de Catalina, ao largo de La Romana, na República Dominicana, cuja inauguração está prevista para novembro de 2026. Gerido em parceria com a CTL Maritime e o Casa de Campo Resort & Villas, o espaço está […]…",
+      "url": "https://www.ambitur.pt/msc-revela-catalina-sugar-beach-novo-destino-nas-caraibas-com-abertura-prevista-para-novembro/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-07"
+    },
+    {
+      "id": "2026-08-06-friccao-nos-pagamentos-custa-quase-2-das",
+      "titulo": "Fricção nos pagamentos custa quase 2% das receitas às empresas de média dimensão",
+      "resumo": "As empresas de média dimensão que enfrentam fricção recorrente nos pagamentos estimam que atrasos, erros, fraude e trabalho associado à resolução destes problemas consomem, em média, 1,92% das receitas anuais, segundo o estudo The 2026 Certainty Project , da PYMNTS Intelligence em colaboração com a Plaid.",
+      "url": "https://www.distribuicaohoje.com/pagamentos/friccao-pagamentos-empresas/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-glassdrive-portugal-soma-o-3-titulo-consecutivo",
+      "titulo": "Glassdrive Portugal soma o 3.º título consecutivo de Marca Recomendada e celebra com toda a rede nacional",
+      "resumo": "A Glassdrive Portugal foi distinguida, pelo terceiro ano consecutivo, com a distinção Marca Recomendada by Consumers Trust. A entrega do troféu aconteceu nas novas instalações da marca, num momento especial que reuniu todos os franchisados da marca. A distinção Marca Recomendada, está na 6ª edição e é única em Portu…",
+      "url": "https://www.infofranchising.pt/glassdrive-marca-recomendada-portal-da-queixa/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-archivan-investigacion-contra-adidas-por-operacion-de",
+      "titulo": "Archivan investigación contra Adidas por operación de venta de activos de Reebok",
+      "resumo": "La SIC investigó un posible incumplimiento al deber de informar previamente para el control de integración empresarial",
+      "url": "https://www.larepublica.co/empresas/archivan-investigacion-contra-adidas-por-operacion-de-venta-de-activos-de-reebok-4452447",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-mercado-libre-supero-por-primera-vez-los",
+      "titulo": "Mercado Libre superó por primera vez los US$10.000 millones en ingresos trimestrales; Mercado Pago también rompió récord",
+      "resumo": "La compañía alcanzó pagos superiores a US$100.000 millones y mantuvo un fuerte crecimiento en comercio electrónico y servicios financieros.",
+      "url": "https://www.valoraanalitik.com/mercado-libre-supero-us10000-millones-ingresos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-06"
+    },
+    {
+      "id": "2026-08-06-ingresos-operacionales-de-pei-crecieron-5-3",
+      "titulo": "Ingresos operacionales de Pei crecieron 5,3 % en el primer semestre; logró su mayor número de inversionistas",
+      "resumo": "En el semestre Pei colocó 7.767 metros cuadrados y reportó una tasa de renovación de contratos del 95,8 %.",
+      "url": "https://www.valoraanalitik.com/pei-primer-semestre-2026/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores",
+        "resultados"
+      ],
+      "data": "2026-08-06"
+    },
     {
       "id": "2026-08-06-retalho-representa-32-do-investimento-imobiliario-comercial",
       "titulo": "Retalho representa 32% do investimento imobiliário comercial em Portugal",
