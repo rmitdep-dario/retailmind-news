@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T09:36:48.895Z",
+  "updatedAt": "2026-08-08T08:07:00.163Z",
   "articles": [
+    {
+      "id": "2026-08-07-primark-atinge-500-lojas-no-mundo-com",
+      "titulo": "Primark atinge 500 lojas no mundo com abertura em Nápoles",
+      "resumo": "A Primark vai inaugurar a sua 500.ª loja mundial em Itália. A nova unidade abre a 1 de setembro no centro comercial La Cartiera, em Nápoles, assinalando um novo marco na expansão internacional da retalhista irlandesa.",
+      "url": "https://www.distribuicaohoje.com/retalho/primark-500-lojas/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-08-07"
+    },
+    {
+      "id": "2026-08-07-bogota-tiene-ocho-veces-mas-oficinas-sobre",
+      "titulo": "Bogotá tiene ocho veces más oficinas sobre planos que oficinas disponibles: así está el mapa de precios y vacancia",
+      "resumo": "Avenida Chile, Nogal-Andino y Chicó cerraron con vacancia por debajo del 1 %, mientras la renta promedio se sostiene en $88.300 por metro cuadrado al mes.",
+      "url": "https://www.valoraanalitik.com/oficinas-bogota-2026-mapa-precios-vacancia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-08-07"
+    },
     {
       "id": "2026-08-07-governo-aprova-investimento-de-1-58-mil",
       "titulo": "Governo aprova investimento de 1,58 mil milhões de euros na rede de distribuição elétrica de alta e média tensão",
