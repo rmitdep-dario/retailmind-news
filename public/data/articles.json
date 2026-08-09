@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-08T08:07:00.163Z",
+  "updatedAt": "2026-08-09T08:09:57.224Z",
   "articles": [
+    {
+      "id": "2026-08-08-gobierno-de-de-la-espriella-presenta-seis",
+      "titulo": "Gobierno de De la Espriella presenta seis apuestas para impulsar inversión, exportaciones y empleo",
+      "resumo": "El Ministerio buscará construir agendas con gobernadores, alcaldes, cámaras de comercio, gremios, universidades y empresarios.",
+      "url": "https://www.valoraanalitik.com/gobierno-de-de-la-espriella-presenta-seis-apuestas-para-impulsar-inversion-exportaciones-y-empleo/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-08"
+    },
     {
       "id": "2026-08-07-primark-atinge-500-lojas-no-mundo-com",
       "titulo": "Primark atinge 500 lojas no mundo com abertura em Nápoles",
