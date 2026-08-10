@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-08-09T08:09:57.224Z",
+  "updatedAt": "2026-08-10T10:41:14.945Z",
   "articles": [
+    {
+      "id": "2026-08-10-apenas-2-das-empresas-de-logistica-estao",
+      "titulo": "Apenas 2% das empresas de logística estão preparadas para o futuro da IA",
+      "resumo": "A maioria das empresas de logística reconhece a importância da inteligência artificial (IA) no trabalho, mas ainda não tem uma estratégia clara para adaptar equipas e modelos operacionais à tecnologia, segundo uma investigação do Grupo Adecco, empresa global de recursos humanos e gestão de talento.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/empresas-logistica-ia-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-10"
+    },
+    {
+      "id": "2026-08-10-fam-lias-j-puseram-mais-de-mil",
+      "titulo": "Fam�lias j� puseram mais de mil milh�es de euros este ano em fundos de investimento",
+      "resumo": "Apesar de as entradas de poupan�as no primeiro semestre de 2026 serem inferiores ao ano passado, a tend�ncia positiva mant�m-se e os ativos sob gest�o est�o mesmo nos n�veis mais elevados dos �ltimos 20 anos.",
+      "url": "https://www.jornaldenegocios.pt/mercados/fundos-de-investimento/detalhe/familias-ja-puseram-mais-de-mil-milhoes-de-euros-este-ano-em-fundos-de-investimento",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-10"
+    },
+    {
+      "id": "2026-08-10-primark-revela-datas-de-abertura-em-castelo",
+      "titulo": "Primark revela datas de abertura em Castelo Branco e Setúbal: novas lojas criam mais de 80 postos de trabalho",
+      "resumo": "As duas aberturas fazem parte do investimento superior a 45 milhões de euros anunciado pela Primark para expandir a sua rede em Portugal.",
+      "url": "https://executivedigest.sapo.pt/primark-revela-datas-de-abertura-em-castelo-branco-e-setubal-novas-lojas-criam-mais-de-80-postos-de-trabalho/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-10"
+    },
+    {
+      "id": "2026-08-10-riqueza-global-cresce-ao-ritmo-mais-rapido",
+      "titulo": "Riqueza global cresce ao ritmo mais rápido desde 2021: Portugal pode ganhar espaço na nova geografia do investimento",
+      "resumo": "Incluindo os ativos reais, a riqueza líquida mundial aproximou-se dos 550 biliões de dólares.",
+      "url": "https://executivedigest.sapo.pt/riqueza-global-cresce-ao-ritmo-mais-rapido-desde-2021-portugal-pode-ganhar-espaco-na-nova-geografia-do-investimento/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-10"
+    },
+    {
+      "id": "2026-08-10-siemens-abre-as-cortinas-da-fabrica-do",
+      "titulo": "Siemens abre as cortinas da fábrica do futuro que teve investimento de 200 milhões de euros",
+      "resumo": "A Siemens mostrou a sua nova fábrica inteligente em Amberg, na Alemanha, resultado de um investimento de 200 milhões de euros numa unidade de produção altamente automatizada e baseada em inteligência artificial.",
+      "url": "https://executivedigest.sapo.pt/siemens-abre-as-cortinas-da-fabrica-do-futuro-que-teve-investimento-de-200-milhoes-de-euros/",
+      "fonte": "Executive Digest",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-08-10"
+    },
+    {
+      "id": "2026-08-10-china-abre-nova-rota-da-seda-pelo",
+      "titulo": "China abre nova “Rota da Seda” pelo Ártico para escapar aos pontos críticos do comércio mundial",
+      "resumo": "A nova rota poderá reduzir para cerca de metade os habituais 40 dias de navegação entre os dois portos.",
+      "url": "https://executivedigest.sapo.pt/china-abre-nova-rota-da-seda-pelo-artico-para-escapar-aos-pontos-criticos-do-comercio-mundial/",
+      "fonte": "Executive Digest",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-10"
+    },
+    {
+      "id": "2026-08-09-dlf-retail-to-double-retail-space-goes",
+      "titulo": "DLF Retail to double retail space; goes on expansion overdrive with Goa, Gurugram and new plaza formats",
+      "resumo": "DLF Retail plans to double its retail footprint by FY30 through new developments. The company is expanding with large malls and new neighbourhood plaza formats. These new properties will add significant space and revenue once stabilised. DLF Midtown Plaza and DLF Summit Plaza are key new neighbourhood destinations. …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/dlf-retail-to-double-retail-space-goes-on-expansion-overdrive-with-goa-gurugram-and-new-plaza-formats/133062560",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-08-09"
+    },
     {
       "id": "2026-08-08-gobierno-de-de-la-espriella-presenta-seis",
       "titulo": "Gobierno de De la Espriella presenta seis apuestas para impulsar inversión, exportaciones y empleo",
