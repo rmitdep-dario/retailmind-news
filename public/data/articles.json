@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-11T09:36:01.200Z",
+  "updatedAt": "2026-08-12T09:46:39.372Z",
   "articles": [
+    {
+      "id": "2026-08-12-portugal-entre-os-mercados-de-data-centres",
+      "titulo": "Portugal entre os mercados de data centres que mais crescem",
+      "resumo": "Portugal ocupa o décimo lugar entre os mercados de data centres que mais cresceram a nível mundial desde 2024, com uma expansão de 23% da capacidade instalada (live IT power). O conteúdo Portugal entre os mercados de data centres que mais crescem aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/portugal-entre-os-mercados-de-data-centres-que-mais-crescem/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-folgosa-i-e-ii-chegam-ao-mercado",
+      "titulo": "Folgosa I e II chegam ao mercado logístico da Maia",
+      "resumo": "Os dois ativos somam mais de 11.000 m² e podem ser ocupados em conjunto ou de forma independente, após um plano de modernização O conteúdo Folgosa I e II chegam ao mercado logístico da Maia aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/folgosa-i-e-ii-chegam-ao-mercado-logistico-da-maia/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-open-cosmos-abre-no-porto-e-esta",
+      "titulo": "Open Cosmos abre no Porto e está a recrutar. Tem 50 vagas",
+      "resumo": "A Open Cosmos está a expandir a sua operação em Portugal com a abertura de um escritório no Porto. O objetivo é duplicar a equipa no mercado nacional para 100 pessoas. E para isso está a contratar. Tem 50 vagas. “Queremos duplicar o número de colaboradores, para cerca de 100”, adianta Tiago Rebelo, Chief Revenue […]",
+      "url": "https://eco.sapo.pt/2026/08/12/open-cosmos-abre-no-porto-e-esta-a-recrutar-tem-50-vagas/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-tap-air-cargo-faz-hat-trick-no",
+      "titulo": "TAP Air Cargo faz “hat-trick” no Brasil e é reconhecida pela eficiência logística das operações",
+      "resumo": "A TAP Air Cargo foi distinguida pelo terceiro ano consecutivo com o Prémio de Eficiência Logística (PEL) do Aeroporto RIOgaleão, no Rio de Janeiro. A companhia aérea voltou a conquistar o primeiro lugar na categoria de Companhia Aérea, reforçando a sua posição no transporte aéreo de carga entre a Europa e o Brasil.",
+      "url": "https://executivedigest.sapo.pt/tap-air-cargo-faz-hat-trick-no-brasil-e-e-reconhecida-pela-eficiencia-logistica-das-operacoes/",
+      "fonte": "Executive Digest",
+      "pais": "Brasil",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-n-chandrasekaran-resigns-as-chairman-of-tata",
+      "titulo": "N Chandrasekaran resigns as chairman of Tata Sons before AGM",
+      "resumo": "N Chandrasekaran has stepped down as Tata Sons chairman, ending a significant tenure. ET had first reported Chandrasekaran is considering stepping down as Tata Sons chairman. His departure follows disagreements within Tata Trusts regarding business performance and capital needs. The group's revenue and profit saw su…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/n-chandrasekaran-resigns-as-chairman-of-tata-sons-before-agm/133172962",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-11-lisboa-mantem-dinamismo-no-mapa-iberico-do",
+      "titulo": "Lisboa mantém dinamismo no mapa ibérico do retalho de luxo",
+      "resumo": "O retalho de luxo está a redefinir as suas estratégias de expansão, num contexto marcado pela escassez de espaços nas principais ruas comerciais e pela concentração da procura em localizações prime . Segundo o relatório Global Luxury Retail Outlook 2026 , da Savills , citado pela infoRETAIL , a disponibilidade e a q…",
+      "url": "https://www.distribuicaohoje.com/retalho/lisboa-retalho-de-luxo/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-08-11"
+    },
+    {
+      "id": "2026-08-11-fnac-colombo-inaugura-area-dedicada-a-playstation",
+      "titulo": "FNAC Colombo inaugura área dedicada à PlayStation",
+      "resumo": "A FNAC vai inaugurar a 13 de agosto uma área dedicada à PlayStation na loja do Colombo, em Lisboa, reunindo consolas, jogos, acessórios e merchandising oficial num espaço imersivo. A abertura inclui uma talk com criadores de conteúdo, um quiz com prémio PS5 e uma campanha exclusiva em cartões PlayStation Network. O …",
+      "url": "https://grandeconsumo.com/fnac-colombo-inaugura-area-dedicada-a-playstation/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-11"
+    },
     {
       "id": "2026-08-11-novo-xpeng-g9l-estreia-se-hoje-suv",
       "titulo": "Novo XPENG G9L estreia-se hoje: SUV de cinco metros promete recuperar 450 km de autonomia em nove minutos",
