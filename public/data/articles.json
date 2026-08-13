@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-12T09:46:39.372Z",
+  "updatedAt": "2026-08-13T09:47:47.960Z",
   "articles": [
+    {
+      "id": "2026-08-13-jacinto-investe-tres-milhoes-em-unidade-para",
+      "titulo": "Jacinto investe três milhões em unidade para produzir veículos de defesa",
+      "resumo": "Com mira na defesa, “uma área com elevado potencial de crescimento”, a Jacinto avançou com uma nova unidade dedicada, a Jacinto Defense, na qual vai investir três milhões de euros numa unidade de produção que “deverá estar pronta a laborar no final do primeiro trimestre de 2027”. Veículos de defesa com proteção balí…",
+      "url": "https://eco.sapo.pt/2026/08/13/jacinto-investe-tres-milhoes-em-unidade-para-produzir-veiculos-de-defesa/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-13"
+    },
+    {
+      "id": "2026-08-13-sair-das-acoes-em-tempos-de-crise",
+      "titulo": "Sair das ações em tempos de crise pode ser o pior erro dos investidores. Especialista explica",
+      "resumo": "A turbulência geopolítica costuma provocar uma reação imediata nos mercados financeiros: os investidores procuram reduzir o risco, vendendo ações e transferindo o dinheiro para liquidez ou ativos considerados mais seguros.",
+      "url": "https://executivedigest.sapo.pt/sair-das-acoes-em-tempos-de-crise-pode-ser-o-pior-erro-dos-investidores-especialista-explica/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-13"
+    },
+    {
+      "id": "2026-08-12-consumidores-aceitam-ia-no-servico-ao-cliente",
+      "titulo": "Consumidores aceitam IA no serviço ao cliente, mas preferem contacto humano",
+      "resumo": "Os consumidores mostram abertura ao uso de inteligência artificial no serviço ao cliente, mas continuam a valorizar o contacto humano quando a interação exige confiança, resolução de problemas ou apoio mais complexo. Segundo um estudo da Five9 , citado pela Retail Gazette , oito em cada dez consumidores estão dispos…",
+      "url": "https://www.distribuicaohoje.com/customer-experience/consumidores-ia-contacto-humano/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-inditex-leva-bershka-ao-retalho-fisico-norte",
+      "titulo": "Inditex leva Bershka ao retalho físico norte-americano",
+      "resumo": "A Bershka vai abrir a sua primeira loja física nos Estados Unidos , no centro comercial SoHo Broadway , em Nova Iorque , reforçando a aposta da Inditex no mercado norte-americano. A abertura marca a entrada da insígnia jovem do grupo espanhol no retalho físico dos EUA, depois de operar no país através do canal online.",
+      "url": "https://www.distribuicaohoje.com/retalho/inditex-leva-bershka-ao-retalho-fisico-norte-americano/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-grupo-dhl-aumenta-lucro-operacional-em-30",
+      "titulo": "Grupo DHL aumenta lucro operacional em 30% no segundo trimestre",
+      "resumo": "O Grupo DHL registou um forte crescimento no segundo trimestre de 2026, com as receitas a aumentarem 13%, para 22,4 mil milhões de euros. O lucro operacional (EBIT) aumentou 30%, para 1,9 mil milhões de euros, enquanto a margem EBIT subiu de 7,2% para 8,3%. O conteúdo Grupo DHL aumenta lucro operacional em 30% no se…",
+      "url": "https://grandeconsumo.com/grupo-dhl-aumenta-lucro-operacional-em-30-no-segundo-trimestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-12"
+    },
+    {
+      "id": "2026-08-12-festive-hiring-set-to-rise-15-20",
+      "titulo": "Festive hiring set to rise 15-20 per cent as frontline roles get more specialised",
+      "resumo": "Temporary festive hiring is expected to grow15-20%across retail, ecommerce, quick commerce, logistics, FMCG and consumer durables, TeamLease said. Hiring is shifting towards specialised frontline roles. Ecommerce, quick commerce and logistics will see strong demand, while frontline salaries may rise8-10%in H2 2026. …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/festive-hiring-set-to-rise-15-20-per-cent-as-frontline-roles-get-more-specialised/133178752",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-12"
+    },
     {
       "id": "2026-08-12-portugal-entre-os-mercados-de-data-centres",
       "titulo": "Portugal entre os mercados de data centres que mais crescem",
