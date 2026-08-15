@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-14T09:42:34.063Z",
+  "updatedAt": "2026-08-15T07:19:40.735Z",
   "articles": [
+    {
+      "id": "2026-08-15-lola-casademunt-ja-abriu-a-primeira-loja",
+      "titulo": "Lola Casademunt já abriu a primeira loja outlet em Portugal",
+      "resumo": "Se tem uma peça da Lola Casademunt guardada na wishlist, há agora uma nova morada onde vale a pena procurar. A marca espanhola abriu, a 1 de agosto, a primeira loja outlet em Portugal, no Vila do Conde Porto Fashion Outlet, em Modivas, Vila do Conde. O espaço, com cerca de 135 metros quadrados, é […] The post Lola C…",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/lola-casademunt-ja-abriu-a-primeira-loja-outlet-em-portugal",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-beyond-the-ticket-how-food-brands-and",
+      "titulo": "Beyond the ticket: How food, brands and premium experiences are changing multiplex economics",
+      "resumo": "The landscape of Indian multiplexes is shifting as operators focus more on food and beverage revenues rather than just movie ticket sales. Companies like PVR INOX report that F&B income is on the rise, outstripping ticket earnings. Moviegoers are now embracing a broader variety of food options, generating significan…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/beyond-the-ticket-how-food-brands-and-premium-experiences-are-changing-multiplex-economics/133245721",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-15"
+    },
     {
       "id": "2026-08-14-adc-aprova-venda-de-11-lojas-staples",
       "titulo": "AdC aprova venda de 11 lojas Staples à Darty",
