@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-15T07:19:40.735Z",
+  "updatedAt": "2026-08-16T07:45:21.302Z",
   "articles": [
+    {
+      "id": "2026-08-15-plenergy-abre-em-guimaraes-18-posto-em",
+      "titulo": "Plenergy abre em Guimarães 18.º posto em Portugal e prevê atingir 30 até final do ano",
+      "resumo": "A nova unidade, localizada na freguesia de Silvares, junto à superfície comercial Leroy Merlin, marca a estreia da marca na integração de postos de abastecimento no interior de parques comerciais.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/plenergy-abre-em-guimaraes-18-o-posto-em-portugal-e-preve-atingir-30-ate-final-do-ano/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-ds-private-regista-crescimento-de-49-na",
+      "titulo": "DS Private regista crescimento de 49% na faturação no primeiro semestre de 2026",
+      "resumo": "O número de imóveis vendidos registou uma subida de 16% face aos primeiros seis meses de 2025, enquanto o valor médio dos imóveis transacionados cresceu 26%, refletindo a procura contínua por ativos de elevado valor.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/ds-private-regista-crescimento-de-49-na-faturacao-no-primeiro-semestre-de-2026/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-15"
+    },
+    {
+      "id": "2026-08-15-angola-inaugura-nova-fabrica-de-lapidacao-de",
+      "titulo": "Angola inaugura nova fábrica de lapidação de diamantes com 130 postos de trabalho",
+      "resumo": "Esta é a sexta unidade de lapidação a entrar em funcionamento no local e resulta de um investimento da Diarough Angola, do grupo internacional com sede na Bélgica e presença em quatro continentes.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/angola-inaugura-nova-fabrica-de-lapidacao-de-diamantes-com-130-postos-de-trabalho/",
+      "fonte": "Jornal Económico",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-15"
+    },
     {
       "id": "2026-08-15-lola-casademunt-ja-abriu-a-primeira-loja",
       "titulo": "Lola Casademunt já abriu a primeira loja outlet em Portugal",
