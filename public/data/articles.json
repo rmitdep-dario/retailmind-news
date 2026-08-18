@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-08-17T08:08:15.690Z",
+  "updatedAt": "2026-08-18T08:03:41.442Z",
   "articles": [
+    {
+      "id": "2026-08-18-corum-investments-reforca-presenca-em-portugal-e",
+      "titulo": "Corum Investments reforça presença em Portugal e Grupo ultrapassa 155 mil clientes",
+      "resumo": "Gestora mantém atividade estável no mercado português e continua a expandir a sua operação imobiliária a nível internacional",
+      "url": "https://executivedigest.sapo.pt/corum-investments-reforca-presenca-em-portugal-e-grupo-ultrapassa-155-mil-clientes/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-18"
+    },
+    {
+      "id": "2026-08-17-burger-king-veste-colaboradores-com-pijama-para",
+      "titulo": "Burger King veste colaboradores com pijama para comunicar serviço 24/7",
+      "resumo": "A Burger King França lançou uma campanha para comunicar a abertura de 63 restaurantes em funcionamento 24 horas por dia , recorrendo a uma ação criada pela agência Buzzman : equipar os colaboradores do turno da noite com pijamas nas cores da marca.",
+      "url": "https://www.distribuicaohoje.com/retalho/burger-king-pijama-24-7/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-bodyconcept-lanca-campanha-de-verao-e-reforca",
+      "titulo": "BodyConcept lança campanha de verão e reforça estratégia comercial da rede de franchising",
+      "resumo": "A BodyConcept lançou uma nova campanha nacional para o mês de agosto, reforçando a utilização de ações comerciais sazonais como ferramenta para dinamizar a atividade das clínicas e apoiar o desempenho da sua rede de franchising em Portugal. Sob o conceito Saldos de Verão, a campanha decorre até 31 de agosto e oferec…",
+      "url": "https://www.infofranchising.pt/bodyconcept-campanha-verao-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-k-beauty-chega-a-rua-de-santa",
+      "titulo": "K-Beauty chega à Rua de Santa Catarina com a primeira loja MOIDA em Portugal",
+      "resumo": "O centro do Porto tem uma nova atração, desta vez para os fãs dos cosméticos e skincare coreanos. A MOIDA estreia-se em Portugal com a sua primeira loja, trazendo da Coreia os produtos e cuidados que têm conquistado as rotinas dos portugueses. A inauguração aconteceu a 15 de agosto, sábado, na Rua de Santa Catarina,…",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/a-k-beauty-chegou-a-rua-de-santa-catarina-com-a-primeira-loja-moida-em-portugal",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-17"
+    },
+    {
+      "id": "2026-08-17-festive-season-hiring-expected-to-generate-up",
+      "titulo": "​Festive season hiring expected to generate up to 2.7 lakh gig jobs",
+      "resumo": "India’s festive season is expected to create 2.5-2.7 lakh temporary and gig jobs, with hiring projected to rise 15-20%, Adecco India said. E-commerce, logistics, quick commerce, retail and BFSI will lead demand, with 45% coming from tier-II and III cities.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/festive-season-hiring-expected-to-generate-up-to-2-7-lakh-gig-jobs-report/133296438",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-17"
+    },
     {
       "id": "2026-08-17-imobiliaria-participada-pelo-estado-mocambicano-preve-dificuldades",
       "titulo": "Imobiliária participada pelo Estado moçambicano prevê dificuldades apesar dos lucros",
