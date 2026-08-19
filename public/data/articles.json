@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-18T08:03:41.442Z",
+  "updatedAt": "2026-08-19T07:57:48.316Z",
   "articles": [
+    {
+      "id": "2026-08-18-grupo-dhl-aumenta-lucro-operacional-em-30",
+      "titulo": "Grupo DHL aumenta lucro operacional em 30% no segundo trimestre",
+      "resumo": "O Grupo DHL aumentou o lucro operacional (EBIT) em 30% no segundo trimestre de 2026, para 1,9 mil milhões de euros, com as receitas a crescerem 13%, para 22,4 mil milhões de euros.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/grupo-dhl-resultados/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-18"
+    },
+    {
+      "id": "2026-08-18-publicidade-ooh-devera-atingir-56-4-mil",
+      "titulo": "Publicidade OOH deverá atingir 56,4 mil milhões de dólares em 2026",
+      "resumo": "O investimento global em publicidade exterior deverá atingir 56,4 mil milhões de dólares em 2026 , segundo o Global Out of Home Expenditure Report 2026 , da World Out of Home Organization . Em 2025, o mercado global de out-of-home chegou aos 54,2 mil milhões de dólares , um crescimento de 15% face ao ano anterior.",
+      "url": "https://www.distribuicaohoje.com/retalho/ooh-564-mil-milhoes/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-18"
+    },
+    {
+      "id": "2026-08-18-action-abre-nova-loja-no-alentejo-com",
+      "titulo": "Action abre nova loja no Alentejo com milhares de produtos e preços abaixo dos 2 euros",
+      "resumo": "6.000 produtos, preços abaixo dos 2 euros. A nova loja abre portas a 20 de agosto, com 848 metros quadrados e uma equipa de 20 colaboradores. O espaço estará aberto todos os dias, entre as 9h00 e as 21h00.",
+      "url": "https://marketeer.sapo.pt/action-abre-nova-loja-no-alentejo-com-milhares-de-produtos-e-precos-abaixo-dos-2-euros/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-18"
+    },
+    {
+      "id": "2026-08-18-midas-reforca-rede-nacional-com-nova-unidade",
+      "titulo": "Midas reforça rede nacional com nova unidade em Esposende",
+      "resumo": "A Midas continua a concretizar a sua estratégia de crescimento em território nacional. Recentemente, a marca formalizou a assinatura de um contrato de franchising para a instalação de um novo centro de serviço em Esposende, dando as boas-vindas ao novo parceiro. A assinatura do contrato, que teve lugar no passado di…",
+      "url": "https://www.infofranchising.pt/midas-esposende-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-18"
+    },
+    {
+      "id": "2026-08-18-francisco-fevereiro-estreia-novas-cartas-no-troia",
+      "titulo": "Francisco Fevereiro estreia novas cartas no Tróia Design Hotel",
+      "resumo": "O Tróia Design Hotel renovou a sua oferta gastronómica com a apresentação das primeiras cartas assinadas por Francisco Fevereiro, novo chef executivo da unidade, que passa a liderar as propostas do B&G Restaurante e do Paprika Pool Bar. A nova abordagem aposta nos produtos de proximidade e na sazonalidade, combinand…",
+      "url": "https://www.ambitur.pt/francisco-fevereiro-estreia-novas-cartas-no-troia-design-hotel/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-18"
+    },
+    {
+      "id": "2026-08-18-epm-nutresa-y-exito-lideran-el-ranking",
+      "titulo": "EPM, Nutresa y Éxito lideran el ranking de ingresos para el primer semestre",
+      "resumo": "Las tres compañías en el podio facturaron $40 billones a junio. Energía lidera por el tamaño de los ingresos entre las empresas de la lista, seguida de retail",
+      "url": "https://www.larepublica.co/empresas/epm-nutresa-y-exito-lideran-el-ranking-de-ingresos-para-el-primer-semestre-4460647",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-18"
+    },
     {
       "id": "2026-08-18-corum-investments-reforca-presenca-em-portugal-e",
       "titulo": "Corum Investments reforça presença em Portugal e Grupo ultrapassa 155 mil clientes",
