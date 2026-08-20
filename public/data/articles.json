@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-08-19T07:57:48.316Z",
+  "updatedAt": "2026-08-20T08:09:34.488Z",
   "articles": [
+    {
+      "id": "2026-08-20-promigas-reporta-utilidad-consolidada-de-524-259",
+      "titulo": "Promigas reporta utilidad consolidada de $524.259 millones en primer semestre de 2026, con moderación en resultados, pero crecimiento en expansión de activos",
+      "resumo": "Promigas concretó la adquisición de Zelestra LatAm, operación que aportó $2.047 millones a la utilidad consolidada del grupo.",
+      "url": "https://www.valoraanalitik.com/promigas-reporta-utilidad-consolidada-de-524-259-millones-en-primer-semestre-de-2026-con-moderacion-en-resultados-pero-crecimiento-en-expansion-de-activos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-19-coca-cola-portugal-anuncia-nomeacao-de-novo",
+      "titulo": "Coca-Cola Portugal anuncia nomeação de novo diretor geral",
+      "resumo": "Diogo Gioia é o novo diretor-geral da Coca-Cola em Portugal e assume a liderança da operação portuguesa a partir de agosto de 2026, anunciou a empresa em nota de imprensa. O gestor brasileiro soma mais de 20 anos de percurso no Sistema Coca-Cola, com experiência internacional em gestão de negócio, estratégia e opera…",
+      "url": "https://www.distribuicaohoje.com/producao/diogo-gioia/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-ds-private-aumenta-a-faturacao-em-49",
+      "titulo": "DS PRIVATE aumenta a faturação em 49% no primeiro semestre de 2026",
+      "resumo": "A DS PRIVATE, marca do Grupo DECISÕES E SOLUÇÕES especializada na compra e venda de imóveis de luxo e do segmento premium, encerrou o primeiro semestre de 2026 com um crescimento na faturação de 49% na área da mediação imobiliária, face ao período homólogo. Também o número de imóveis vendidos registou uma evolução p…",
+      "url": "https://www.infofranchising.pt/ds-private-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo",
+        "resultados"
+      ],
+      "data": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-from-11-5-million-to-over-18",
+      "titulo": "From 11.5 million to over 18 million sq ft: Phoenix Mills bets big on India’s consumption boom",
+      "resumo": "Phoenix Mills plans to expand its retail space to over eighteen million square feet by 2030. The company is also repositioning mature malls and enhancing its F&B and entertainment offerings. Recent growth in Q1 FY27 shows over thirty percent consumption increase across its properties. Immediate expansion includes Ko…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/from-11-5-million-to-over-18-million-sq-ft-phoenix-mills-bets-big-on-indias-consumption-boom/133341592",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-19"
+    },
+    {
+      "id": "2026-08-19-megaproyectos-en-west-palm-beach-atraen-a",
+      "titulo": "Megaproyectos en West Palm Beach atraen a inversionistas colombianos: así es la nueva apuesta inmobiliaria de Florida",
+      "resumo": "West Palm Beach gana protagonismo entre los inversionistas colombianos que buscan nuevas oportunidades inmobiliarias en Florida, más allá de Miami.",
+      "url": "https://www.valoraanalitik.com/megaproyectos-en-west-palm-beach-atraen-a-inversionistas-colombianos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-19"
+    },
     {
       "id": "2026-08-18-grupo-dhl-aumenta-lucro-operacional-em-30",
       "titulo": "Grupo DHL aumenta lucro operacional em 30% no segundo trimestre",
