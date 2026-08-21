@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-08-20T08:09:34.488Z",
+  "updatedAt": "2026-08-21T08:05:18.890Z",
   "articles": [
+    {
+      "id": "2026-08-21-corficolombiana-alcanzo-ingresos-por-6-billones-y",
+      "titulo": "Corficolombiana alcanzó ingresos por $6 billones y aumentó su apuesta energética",
+      "resumo": "La compañía destacó avances en proyectos como SPEC y el nuevo Campín, además de nuevas inversiones y movimientos financieros que buscan diversificar su portafolio",
+      "url": "https://www.larepublica.co/empresas/corficolombiana-alcanzo-ingresos-por-6-billones-y-aumento-su-apuesta-energetica-4463421",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-21"
+    },
+    {
+      "id": "2026-08-21-ingresos-de-fondo-inmobiliario-tin-crecieron-3",
+      "titulo": "Ingresos de fondo inmobiliario TIN crecieron 3,5 % en el primer semestre de 2026; vendría nueva emisión de títulos",
+      "resumo": "TIN mejoró sus márgenes operativos y mantiene en estudio una emisión por cerca de $208.000 millones, cuyos recursos se destinarían principalmente a pagar deuda.",
+      "url": "https://www.valoraanalitik.com/fondo-inmobiliario-tin-primer-semestre/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "fundos",
+        "resultados"
+      ],
+      "data": "2026-08-21"
+    },
+    {
+      "id": "2026-08-20-amazon-quer-levar-entregas-por-drone-a",
+      "titulo": "Amazon quer levar entregas por drone a quase 500 cidades nos EUA",
+      "resumo": "A Amazon pretende expandir o serviço de entregas por drone Prime Air para quase 500 cidades e localidades nos Estados Unidos até ao final de 2026. A expansão deverá permitir que milhões de consumidores adicionais recebam pequenas encomendas por via aérea, reforçando a aposta da tecnológica em soluções de entrega ult…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/amazon-drone-cidades-eua/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-mercadona-abre-loja-em-alhos-vedros-apos",
+      "titulo": "Mercadona abre loja em Alhos Vedros após investimento de 10 milhões",
+      "resumo": "A Mercadona abriu, a 20 de agosto, uma nova loja em Alhos Vedros, no concelho da Moita, num investimento de 10 milhões de euros. O supermercado conta com uma equipa de 74 trabalhadores, com contratos sem termo desde o primeiro dia.",
+      "url": "https://www.distribuicaohoje.com/retalho/mercadona/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-ikea-prepara-marketplace-de-artigos-usados-no",
+      "titulo": "IKEA prepara marketplace de artigos usados no Reino Unido",
+      "resumo": "A IKEA vai lançar no Reino Unido uma plataforma online de compra e venda de artigos usados da marca, permitindo que clientes inscritos no programa de fidelização IKEA Family negoceiem diretamente entre si.",
+      "url": "https://www.distribuicaohoje.com/retalho/ikea-marketplace/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-retalho-em-expansao-marcas-aceleram-aberturas-a",
+      "titulo": "Retalho em expansão: Marcas aceleram aberturas à boleia do verão",
+      "resumo": "O retalho português continua a evidenciar uma dinâmica de expansão, com várias insígnias a reforçarem redes de lojas, formatos de proximidade e conceitos orientados para conveniência, experiência e especialização. Este movimento mostra que o espaço físico mantém relevância na estratégia dos operadores, mesmo num con…",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-56/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-consumidores-usam-mais-ia-generativa-a-medida",
+      "titulo": "Consumidores usam mais IA generativa à medida que ganham competências",
+      "resumo": "A utilização de inteligência artificial (IA) generativa pelos consumidores está a tornar-se mais frequente, impulsionada por melhores resultados, poupança de tempo e maior capacidade dos utilizadores para tirar partido das ferramentas.",
+      "url": "https://www.distribuicaohoje.com/customer-experience/consumidores-ia-generativa-3/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-autoridade-da-concorrencia-defende-abertura-da-ferrovia",
+      "titulo": "Autoridade da Concorrência defende abertura da ferrovia à concorrência e entrada de novos operadores",
+      "resumo": "A Autoridade da Concorrência (AdC) defende a abertura da ferrovia à concorrência e a entrada de novos operadores, recomendando ao Governo que apenas prorrogue o contrato com a CP pelo tempo “estritamente necessário” à amortização dos investimentos. “A AdC recomenda que a prorrogação do contrato de serviço público da…",
+      "url": "https://www.forbespt.com/autoridade-da-concorrencia-defende-abertura-da-ferrovia-a-concorrencia-e-entrada-de-novos-operadores/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-action-abriu-31-lojas-em-dois-anos",
+      "titulo": "Action abriu 31 lojas em dois anos. O modelo por trás dos preços de dois euros",
+      "resumo": "Preço médio abaixo de dois euros, 6.000 produtos e 150 artigos novos por semana. O que sustenta a cadeia que abriu quase uma loja por mês desde que chegou.",
+      "url": "https://marketeer.sapo.pt/action-o-modelo-que-pos-31-lojas-em-portugal-em-dois-anos/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-20"
+    },
+    {
+      "id": "2026-08-20-mcdonald-s-abre-novo-restaurante-em-viseu",
+      "titulo": "McDonald’s abre novo restaurante em Viseu, o terceiro na cidade. Em Portugal, já são 222 lojas da rede.",
+      "resumo": "O restaurante McDonald’s Viseu Norte já abriu. Trata-se do terceiro restaurante na cidade e o 222.º restaurante da McDonald’s a nível nacional, reforçando o compromisso contínuo da marca com o crescimento e investimento em Portugal. Localizado na zona norte de Viseu, uma área em franca expansão, o novo restaurante M…",
+      "url": "https://www.infofranchising.pt/mc-donalds-viseu-novo-restaurante-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao",
+        "investidores"
+      ],
+      "data": "2026-08-20"
+    },
     {
       "id": "2026-08-20-promigas-reporta-utilidad-consolidada-de-524-259",
       "titulo": "Promigas reporta utilidad consolidada de $524.259 millones en primer semestre de 2026, con moderación en resultados, pero crecimiento en expansión de activos",
