@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-08-21T08:05:18.890Z",
+  "updatedAt": "2026-08-22T07:45:34.339Z",
   "articles": [
+    {
+      "id": "2026-08-21-cloud-e-ia-crescem-45-na-alibaba",
+      "titulo": "Cloud e IA crescem 45% na Alibaba, apesar da queda de 75% nos lucros",
+      "resumo": "A Alibaba registou uma queda de 75% no lucro líquido trimestral, penalizada pelo aumento do investimento em infraestrutura de inteligência artificial , apesar do crescimento das receitas e da forte procura por serviços de cloud e IA. Segundo a Reuters , o lucro líquido caiu para 11,04 mil milhões de yuan , cerca de …",
+      "url": "https://www.distribuicaohoje.com/retalho/cloud-queda-nos-lucros/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores",
+        "resultados"
+      ],
+      "data": "2026-08-21"
+    },
+    {
+      "id": "2026-08-21-estudo-inovacao-alimentar-ganha-abertura-na-europa",
+      "titulo": "Estudo: Inovação alimentar ganha abertura na Europa",
+      "resumo": "Os consumidores europeus estão mais abertos à inovação alimentar do que no passado, mas a aceitação de novos produtos e tecnologias continua dependente de fatores como confiança, transparência e relevância cultural , segundo um estudo do EIT Food Consumer Observatory citado pela ESM Magazine .",
+      "url": "https://www.distribuicaohoje.com/retalho/estudo-inovacao-alimentar/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-21"
+    },
+    {
+      "id": "2026-08-21-aos-27-anos-nelson-galhofo-investe-2",
+      "titulo": "Aos 27 anos, Nelson Galhofo investe 2 milhões de euros na criação da GALHOFO REAL ESTATE",
+      "resumo": "‘’Não queremos criar apenas mais uma imobiliária. Queremos construir uma marca com identidade, estrutura e pessoas capazes de elevar o nível do mercado.’’ É desta forma que Nelson Galhofo apresenta a GALHOFO REAL ESTATE, o projeto mais ambicioso do seu percurso profissional. Aos 27 anos, o empresário transforma oito…",
+      "url": "https://www.forbespt.com/nelson-galhofo-investe-2-milhoes-de-euros-na-criacao-da-galhofo-real-estate/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-21"
+    },
+    {
+      "id": "2026-08-21-vinha-boutique-hotel-nomeado-para-portugal-s",
+      "titulo": "Vinha Boutique Hotel nomeado para Portugal’s Best Boutique Hotel nos World Travel Awards 2026",
+      "resumo": "O Vinha Boutique Hotel, em Vila Nova de Gaia, foi nomeado para os World Travel Awards 2026, na categoria Portugal’s Best Boutique Hotel, distinção que reconhece algumas das principais unidades do segmento boutique em Portugal. A nomeação surge como reconhecimento do trabalho desenvolvido pelo hotel na criação de uma…",
+      "url": "https://www.ambitur.pt/vinha-boutique-hotel-nomeado-para-portugals-best-boutique-hotel-nos-world-travel-awards-2026/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-08-21"
+    },
+    {
+      "id": "2026-08-21-piyush-goyal-pushes-for-greater-india-singapore",
+      "titulo": "Piyush Goyal pushes for greater India-Singapore economic, investment ties",
+      "resumo": "Commerce Minister Piyush Goyal met Singapore leaders to boost trade and investment. Discussions focused on strengthening business-to-business engagement and unlocking new economic opportunities. Temasek Holdings CEO and Fortis Healthcare Chairman also held discussions with Goyal. The minister addressed the India-Sin…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/piyush-goyal-pushes-for-greater-india-singapore-economic-investment-ties/133399687",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investidores",
+        "investimento-estrangeiro"
+      ],
+      "data": "2026-08-21"
+    },
     {
       "id": "2026-08-21-corficolombiana-alcanzo-ingresos-por-6-billones-y",
       "titulo": "Corficolombiana alcanzó ingresos por $6 billones y aumentó su apuesta energética",
