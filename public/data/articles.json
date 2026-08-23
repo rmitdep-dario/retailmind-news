@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-22T07:45:34.339Z",
+  "updatedAt": "2026-08-23T07:48:16.331Z",
   "articles": [
+    {
+      "id": "2026-08-22-food-fund-nace-en-colombia-el-primer",
+      "titulo": "Food Fund: nace en Colombia el primer vehículo de inversión para acelerar marcas gastronómicas en una industria que ya supera los US$13.000 millones anuales",
+      "resumo": "El fondo busca acelerar hasta 15 marcas gastronómicas colombianas que ya cuentan con resultados financieros positivos.",
+      "url": "https://www.valoraanalitik.com/food-fund-vehiculoi-inversion-gastronomia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-22"
+    },
     {
       "id": "2026-08-21-cloud-e-ia-crescem-45-na-alibaba",
       "titulo": "Cloud e IA crescem 45% na Alibaba, apesar da queda de 75% nos lucros",
