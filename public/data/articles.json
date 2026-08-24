@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T07:48:16.331Z",
+  "updatedAt": "2026-08-24T08:28:12.997Z",
   "articles": [
+    {
+      "id": "2026-08-24-paramount-pede-1-8-mil-milhoes-aos",
+      "titulo": "Paramount pede 1,8 mil milhões aos 12 estados norte-americanos que querem impedir fusão com Warner Bros",
+      "resumo": "Em junho os estados da Califórnia, Nova Iorque, Washington, Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, Nova Jérsia, Novo México e Oregon defenderam, na ação entregue no Tribunal Distrital dos Estados Unidos para o Distrito Norte da Califórnia, que o negócio que juntaria a Warner Bros Discovery…",
+      "url": "https://jornaleconomico.sapo.pt/noticias/paramount-pede-18-mil-milhoes-aos-12-estados-norte-americanos-que-querem-impedir-fusao-com-warner-bros/",
+      "fonte": "Jornal Económico",
+      "pais": "Internacional",
+      "temas": [
+        "ma-operadores"
+      ],
+      "data": "2026-08-24"
+    },
+    {
+      "id": "2026-08-24-grasim-eyes-rs-2-lakh-crore-revenue",
+      "titulo": "Grasim eyes Rs 2 lakh crore revenue in FY27 as growth platforms scale up: KM Birla",
+      "resumo": "Grasim Industries anticipates reaching Rs 2 lakh crore revenue by FY27. This growth stems from its diverse businesses including cement and financial services. UltraTech Cement capacity has surpassed 200 million tonnes per annum. Birla Opus paints business secured a significant market share within two years.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/grasim-eyes-rs-2-lakh-crore-revenue-in-fy27-as-growth-platforms-scale-up-km-birla/133449881",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-08-24"
+    },
     {
       "id": "2026-08-22-food-fund-nace-en-colombia-el-primer",
       "titulo": "Food Fund: nace en Colombia el primer vehículo de inversión para acelerar marcas gastronómicas en una industria que ya supera los US$13.000 millones anuales",
