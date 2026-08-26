@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-25T06:51:07.150Z",
+  "updatedAt": "2026-08-26T06:52:19.680Z",
   "articles": [
+    {
+      "id": "2026-08-26-guerra-e-escassez-de-avioes-reduzem-para",
+      "titulo": "Guerra e escassez de aviões reduzem para metade lucros das companhias aéreas",
+      "resumo": "O conflito no Médio Oriente e os atrasos nas entregas de aeronaves deverão reduzir para metade os lucros da aviação comercial global, avisou hoje a Associação Internacional do Transporte Aéreo (IATA, na sigla em inglês). Numa sessão organizada pela Câmara de Comércio França-Macau, o gestor regional da IATA para Hong…",
+      "url": "https://eco.sapo.pt/2026/08/26/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas/",
+      "fonte": "ECO",
+      "pais": "Internacional",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-from-apocalypse-to-renaissance-can-ai-be",
+      "titulo": "From Apocalypse to Renaissance: Can AI be the catalyst for retail’s return to glory?",
+      "resumo": "India experienced a similar rollercoaster, compressed into a much tighter timeframe. Lacking the capital flexibility of Western giants - partly due to restrictive FDI policies protecting localkiranastores - organized retail peaked at roughly 15% penetration before e-commerce arrived. Yet its cycle echoed the West: e…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/from-apocalypse-to-renaissance-can-ai-be-the-catalyst-for-retails-return-to-glory/133529918",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investimento-estrangeiro"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-minimum-wage-hikes-add-to-cost-pressures",
+      "titulo": "Minimum wage hikes add to cost pressures for retailers and gig firms ahead of festive season",
+      "resumo": "This comes as a double whammy as companies are already grappling with higher commodity prices and freight rates along with rupee depreciation, senior executives at Eternal, Swiggy, V-Mart Retail, Vishal Mega Mart, Delhivery and Amber Enterprises told analysts recently. Several companies across retail, ecommerce, log…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/minimum-wage-hikes-add-to-cost-pressures-for-retailers-and-gig-firms-ahead-of-festive-season/133528308",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-25-alibaba-angaria-7-5-mil-milhoes-para",
+      "titulo": "Alibaba angaria 7,5 mil milhões para acelerar aposta na IA",
+      "resumo": "A Alibaba vai angariar cerca de 7,5 mil milhões de libras (aproximadamente 8,8 mil milhões de euros) através de uma emissão de novas ações em Hong Kong, uma operação destinada a acelerar o investimento do grupo de retalho e tecnologia em inteligência artificial (IA).",
+      "url": "https://www.distribuicaohoje.com/retalho/alibaba/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-25"
+    },
+    {
+      "id": "2026-08-25-porque-que-o-franchising-continua-a-ser",
+      "titulo": "Porque que o franchising continua a ser uma das formas mais seguras de empreender?",
+      "resumo": "Empreender envolve sempre risco. Mas há modelos de negócio que permitem reduzir parte da incerteza inicial, sobretudo quando o empreendedor não precisa de começar tudo do zero. É precisamente aí que o franchising continua a destacar-se como uma das formas mais estruturadas de criar um negócio próprio em Portugal. Ao…",
+      "url": "https://www.infofranchising.pt/expofranchise2026-empreendedorismo-em-portugal/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-25"
+    },
+    {
+      "id": "2026-08-25-top-atlantico-abre-nova-loja-no-amoreiras",
+      "titulo": "Top Atlântico abre nova loja no Amoreiras Shopping",
+      "resumo": "A Top Atlântico acaba de inaugurar uma nova loja no Amoreiras Shopping Center, em Lisboa, reforçando a sua presença na capital e a estratégia de proximidade com os clientes. Localizada no piso 1, junto à entrada para a zona de restauração, a nova loja foi pensada para proporcionar um atendimento personalizado num es…",
+      "url": "https://www.ambitur.pt/top-atlantico-abre-nova-loja-no-amoreiras-shopping/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-25"
+    },
+    {
+      "id": "2026-08-25-inorbit-malls-expands-footprint-with-acquisition-of",
+      "titulo": "Inorbit Malls expands footprint with acquisition of Prozone malls in Coimbatore and Chhatrapati Sambhaji Nagar",
+      "resumo": "Rajneesh Mahajan, CEO, Inorbit Malls (India), said ,\"The acquisition marks an important milestone in the company’s growth journey.\"",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/inorbit-malls-expands-footprint-with-acquisition-of-prozone-malls-in-coimbatore-and-chhatrapati-sambhaji-nagar/133498015",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "aquisicoes"
+      ],
+      "data": "2026-08-25"
+    },
     {
       "id": "2026-08-25-consumer-giants-forex-earnings-shine-despite-gobal",
       "titulo": "Consumer giants' forex earnings shine despite gobal woes",
