@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-08-26T06:52:19.680Z",
+  "updatedAt": "2026-08-27T17:25:48.064Z",
   "articles": [
+    {
+      "id": "2026-08-27-id-logistics-aumenta-receitas-em-18-3",
+      "titulo": "ID Logistics aumenta receitas em 18,3% no primeiro semestre",
+      "resumo": "A ID Logistics registou receitas de 2.084,6 milhões de euros no primeiro semestre de 2026, um aumento de 18,3% face ao mesmo período do ano anterior. Em termos comparáveis, ajustados ao efeito cambial desfavorável, o crescimento foi de 20,0%.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/id-logistics-resultados-5/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-poder-de-compra-aumenta-na-europa-mas",
+      "titulo": "Poder de compra aumenta na Europa, mas retalho abranda em 2025",
+      "resumo": "O volume de negócios do retalho na União Europeia (UE) cresceu 2,1% em 2025, abaixo do aumento de 3,3% registado no poder de compra médio per capita, segundo o estudo European Retail in 2025 and 2026 , da NIQ Geomarketing.",
+      "url": "https://www.distribuicaohoje.com/retalho/poder-de-compra-retalho/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-investimento-estrangeiro-imobiliario-recebeu-1-7-mil",
+      "titulo": "Investimento estrangeiro: Imobiliário recebeu 1,7 mil milhões de euros no primeiro semestre",
+      "resumo": "O Investimento Direto Estrangeiro (IDE) totalizou no primeiro semestre deste ano cerca de 6,7 mil milhões de euros, o que representa uma pequena quebra de aproximadamente 200 milhões de euros face ao período homólogo. Os dados, que foram ontem divulgados pelo Banco de Portugal, revelam ainda que o investimento total…",
+      "url": "https://www.forbespt.com/investimento-estrangeiro-imobiliario-recebeu-17-mil-milhoes-de-euros-no-primeiro-semestre/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores",
+        "investimento-estrangeiro"
+      ],
+      "data": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-melom-alerta-para-importancia-de-avaliar-a",
+      "titulo": "MELOM alerta para importância de avaliar a reabilitação urbana como investimento de longo prazo",
+      "resumo": "A reabilitação urbana deve ser encarada como um investimento orientado para a criação de valor a longo prazo e não apenas como uma alternativa de menor custo à construção nova. A análise é de Vasco Magalhães, Diretor-Geral da MELOM, que alerta para os riscos de decisões baseadas exclusivamente na redução do investim…",
+      "url": "https://www.infofranchising.pt/melom-franchising-reabilitacao-urbana/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-27"
+    },
+    {
+      "id": "2026-08-27-india-s-luxury-opportunity-hinges-on-experience",
+      "titulo": "India’s luxury opportunity hinges on experience, infrastructure and frontline talent",
+      "resumo": "At the trialogue “The Luxury Consumer Reset: Decoding The New Era of Premium Consumption” at the 4th ETRetail ShopFWD Summit 2026, Mallikarjuna Yarabolu, Managing Director, Forevermark, De Beers India and Sanjeev Mehra, CEO & ED, Quest Properties India, said India has no shortage of aspirational luxury consumers, bu…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-luxury-opportunity-hinges-on-experience-infrastructure-and-frontline-talent/133564648",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-08-27"
+    },
+    {
+      "id": "2026-08-26-dhl-reforca-logistica-de-saude-em-espanha",
+      "titulo": "DHL reforça logística de saúde em Espanha com dois novos centros",
+      "resumo": "A DHL vai construir dois novos centros logísticos em Espanha destinados ao setor farmacêutico, com aberturas previstas em Madrid e Barcelona num prazo máximo de três anos.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/dhl-reforca-logistica-de-saude-em-espanha-com-dois-novos-centros/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Espanha",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-como-a-inteligencia-artificial-transforma-a-estrategia",
+      "titulo": "Como a Inteligência Artificial transforma a estratégia e o relacionamento no franchising brasileiro",
+      "resumo": "A Inteligência Artificial já deixou de ser uma promessa distante para se tornar uma ferramenta concreta em boa parte das redes brasileiras de franquias. Essa foi uma das principais conclusões do 1º Summit de IA da ABF – Associação Brasileira de Franchising, realizado em São Paulo, no dia 19 de agosto. Organizado pel…",
+      "url": "https://www.infofranchising.pt/inteligencia-artificial-franchising-brasil/",
+      "fonte": "Portal do Franchising",
+      "pais": "Brasil",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-india-s-d2c-boom-is-entering-a",
+      "titulo": "India's D2C boom is entering a new phase: Less big-money chasing, more business building",
+      "resumo": "India's direct-to-consumer sector is maturing, with investors becoming more selective. Funding has shifted towards younger companies and early-stage ventures. Established brands like Lenskart and Licious continue to lead in funding. The stock market and acquisitions by large firms are now key exit routes.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-d2c-boom-is-entering-a-new-phase-less-big-money-chasing-more-business-building/133545299",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-india-s-next-fashion-opportunity-lies-in",
+      "titulo": "India’s next fashion opportunity lies in profitable premium brands, not scale at any cost",
+      "resumo": "At the trialogue “From Managing Brands to Creating Brands: What Does It Take to Build the Next Fashion Success Story?” at the 4th ETRetail ShopFWD Summit 2026, Vineet Gautam, Founder, 91Brands, and Rajesh Narkar, Co-Founder & CEO, Confluxe, said India’s rising aspirations are opening room for multiple premium fashio…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-next-fashion-opportunity-lies-in-profitable-premium-brands-not-scale-at-any-cost/133543950",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "nova-loja",
+        "resultados"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-fashion-retail-s-inventory-race-is-shifting",
+      "titulo": "Fashion retail’s inventory race is shifting from ‘less stock’ to ‘smarter stock’",
+      "resumo": "At the panel discussion “Inventory in the Experience Era: Less Stock, More Stories?” at the 4th ETRetail ShopFWD Summit 2026, supply chain and merchandising leaders from Taniera, Bazaar Style Retail and Triumph Group said the real opportunity lies not in indiscriminately cutting inventory, but in improving availabil…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/fashion-retails-inventory-race-is-shifting-from-less-stock-to-smarter-stock/133542993",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-nuestro-bogota-preve-cerrar-en-94-de",
+      "titulo": "Nuestro Bogotá prevé cerrar en 94% de ocupación y anuncia nueva tienda de gran superficie",
+      "resumo": "la gerencia del centro comercial afirmó que se alista la llegada de un nuevo almacén de gran tamaño para el último trimestre del año",
+      "url": "https://www.larepublica.co/empresas/nuestro-bogota-preve-cerrar-en-98-de-ocupacion-y-anuncia-nueva-tienda-de-gran-superficie-4467465",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-26"
+    },
+    {
+      "id": "2026-08-26-nueva-marca-china-de-carros-electricos-llega",
+      "titulo": "Nueva marca china de carros eléctricos llega a Colombia: precios entre $99 millones y $144 millones",
+      "resumo": "Arcfox, la línea premium del gigante chino BAIC, arranca operación con Magma Automotive como importador y una inversión inicial de US$25 millones.",
+      "url": "https://www.valoraanalitik.com/nueva-marca-china-carros-electricos-colombi/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-08-26"
+    },
     {
       "id": "2026-08-26-guerra-e-escassez-de-avioes-reduzem-para",
       "titulo": "Guerra e escassez de aviões reduzem para metade lucros das companhias aéreas",
