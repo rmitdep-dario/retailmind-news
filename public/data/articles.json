@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-08-27T17:25:48.064Z",
+  "updatedAt": "2026-08-28T18:19:11.842Z",
   "articles": [
+    {
+      "id": "2026-08-28-retail-media-cresce-mais-depressa-do-que",
+      "titulo": "Retail media cresce mais depressa do que vendas de retalho na Walmart, Target e Amazon",
+      "resumo": "As receitas de retail media estão a crescer a um ritmo superior ao dos negócios principais de retalho na Walmart, Target e Amazon , apoiadas no tráfego, nas pesquisas e nos dados de transações gerados por lojas, sites e marketplaces .",
+      "url": "https://www.distribuicaohoje.com/retalho/retail-media-eua/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-lefties-aterra-no-reino-unido",
+      "titulo": "Lefties ‘aterra’ no Reino Unido",
+      "resumo": "A Inditex estreou a Lefties no Reino Unido com a abertura da primeira loja da marca em Liverpool, algumas semanas depois de ter lançado o site no país.",
+      "url": "https://www.distribuicaohoje.com/retalho/lefties-reino-unido/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-marks-spencer-expande-operacao-online-para-22",
+      "titulo": "Marks & Spencer expande operação online para 22 mercados europeus",
+      "resumo": "A Marks & Spencer (M&S) está a expandir a sua operação online na Europa através de uma parceria com a Zalando, que permite à cadeia britânica chegar a 22 mercados europeus.",
+      "url": "https://www.distribuicaohoje.com/retalho/marks-spencer-online/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-moida-chega-a-portugal-para-conquistar-fas",
+      "titulo": "MOIDA chega a Portugal para conquistar fãs de K-Beauty",
+      "resumo": "A MOIDA, marca sul-coreana especializada em cosmética e skincare, escolheu Portugal para iniciar uma nova etapa da sua expansão internacional. A estreia acontece com duas lojas físicas, instaladas em duas das principais cidades do país: Porto e Lisboa.",
+      "url": "https://marketeer.sapo.pt/moida-chega-a-portugal-e-aposta-no-porto-e-em-lisboa-para-conquistar-fas-de-k-beauty/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-tiktok-leva-o-conteudo-dos-criadores-para",
+      "titulo": "TikTok leva o conteúdo dos criadores para fora do telemóvel e abre nova “frente de batalha”para as marcas",
+      "resumo": "O TikTok quer que os vídeos dos seus criadores deixem de estar confinados aos ecrãs dos smartphones. A plataforma anunciou a expansão europeia do Out of Phone, programa que permite levar conteúdos criados para o TikTok para ecrãs instalados em espaços físicos.",
+      "url": "https://marketeer.sapo.pt/tiktok-leva-o-conteudo-dos-criadores-para-fora-do-telemovel-e-abre-nova-frente-de-batalhapara-as-marcas/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-3-campos-cobertos-e-quase-meio-milhao",
+      "titulo": "3 campos cobertos e quase meio milhão de euros: já abriu o novo centro de Padel do Alentejo",
+      "resumo": "Foram 400 mil euros de investimento para criar um novo espaço dedicado ao desporto em Castro Verde. O Castro Padel abriu portas a 11 de julho com o objetivo de preencher uma lacuna da região. Aposta, assim, numa modalidade que continua a crescer no mundo inteiro e, claro, em Portugal. Um dos responsáveis pelo projet…",
+      "url": "https://www.nit.pt/fit/ginasios-e-outdoor/3-campos-cobertos-e-quase-meio-milhao-de-euros-ja-abriu-o-novo-centro-de-padel-do-alentejo",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-famosa-marca-suica-de-chocolates-de-luxo",
+      "titulo": "Famosa marca suíça de chocolates de luxo abriu uma nova loja em Cascais",
+      "resumo": "Para alguns, escolher o tipo de chocolate favorito é uma decisão simples: preto, de leite ou branco. Na Läderach, porém, a escolha complica-se quando entram em cena pistácios, avelãs, amêndoas, frutos vermelhos ou pedaços de bolacha. E nem sequer é preciso levar uma tablete inteira para casa. A marca suíça de chocol…",
+      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/famosa-marca-suica-de-chocolates-de-luxo-abriu-uma-loja-em-cascais",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-28"
+    },
+    {
+      "id": "2026-08-27-llega-nueva-edicion-del-congreso-de-inversion",
+      "titulo": "Llega nueva edición del Congreso de Inversión y Desarrollo Inmobiliario de ColCapital y Camacol ByC en Bogotá",
+      "resumo": "Representantes públicos y privados analizarán las condiciones para movilizar capital, impulsar proyectos urbanos y responder a las necesidades del país.",
+      "url": "https://www.valoraanalitik.com/llega-nueva-edicion-del-congreso-de-inversion-y-desarrollo-inmobiliario-de-colcapital-y-camacol-byc-en-bogota/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-27"
+    },
     {
       "id": "2026-08-27-id-logistics-aumenta-receitas-em-18-3",
       "titulo": "ID Logistics aumenta receitas em 18,3% no primeiro semestre",
