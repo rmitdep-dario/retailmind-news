@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-28T18:19:11.842Z",
+  "updatedAt": "2026-08-29T12:27:46.671Z",
   "articles": [
+    {
+      "id": "2026-08-29-from-nike-to-starbucks-some-american-brands",
+      "titulo": "From Nike to Starbucks, some American brands are losing aura in China",
+      "resumo": "Global companies once relied on China for consistent growth and expansion. Economic challenges and strong local competitors now impact foreign brands significantly. Brands like Nike and Starbucks are losing market share to domestic rivals. However, some companies succeed by adapting to local tastes and preferences. …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/from-nike-to-starbucks-some-american-brands-are-losing-aura-in-china/133602933",
+      "fonte": "ET Retail",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-08-29"
+    },
     {
       "id": "2026-08-28-retail-media-cresce-mais-depressa-do-que",
       "titulo": "Retail media cresce mais depressa do que vendas de retalho na Walmart, Target e Amazon",
