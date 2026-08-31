@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-08-30T11:28:41.835Z",
+  "updatedAt": "2026-08-31T13:00:17.186Z",
   "articles": [
+    {
+      "id": "2026-08-31-grupo-do-lidl-quer-ganhar-peso-fora",
+      "titulo": "Grupo do Lidl quer ganhar peso ‘fora do retalho’ e investe 5,6 mil milhões",
+      "resumo": "O Schwarz Group , dono do Lidl e da Kaufland , vai investir até 5,6 mil milhões de euros na construção de um data center no norte da Alemanha até 2033, num novo sinal da diversificação do grupo para além do retalho alimentar. O investimento será realizado no estado de Mecklenburg-Vorpommern e insere-se na estratégia…",
+      "url": "https://www.distribuicaohoje.com/retalho/lidl-investe/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-inpost-aumenta-receitas-em-24-no-primeiro",
+      "titulo": "InPost aumenta receitas em 24% no primeiro semestre de 2026",
+      "resumo": "A InPost aumentou as receitas em 24% no primeiro semestre de 2026, para 1.890,8 milhões de euros, com 740 milhões de encomendas processadas, mais 23% do que no mesmo período do ano anterior, num crescimento impulsionado sobretudo pelos mercados internacionais.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/inpost/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-druni-nao-abranda-cadeia-espanhola-soma-duas",
+      "titulo": "Druni não abranda: cadeia espanhola soma duas novas lojas em Portugal",
+      "resumo": "A Druni está a ganhar rapidamente escala em Portugal. Menos de um ano depois de ter entrado no mercado nacional, a cadeia espanhola de perfumaria e cosmética chegou às nove lojas, depois de inaugurar dois novos espaços durante o mês de agosto.",
+      "url": "https://marketeer.sapo.pt/druni-nao-abranda-cadeia-espanhola-soma-duas-novas-lojas-em-portugal/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-mayoral-reforca-presenca-em-portugal-com-nova",
+      "titulo": "Mayoral reforça presença em Portugal com nova abertura",
+      "resumo": "A moda infantil espanhola acaba de ganhar mais espaço em Vila Nova de Gaia. A Mayoral é a mais recente marca a juntar-se à oferta do GaiaShopping, onde abriu uma nova loja no passado dia 10 de agosto.",
+      "url": "https://marketeer.sapo.pt/mayoral-reforca-presenca-em-portugal-com-nova-abertura/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-social-media-influencers-don-entrepreneurial-hat-launch",
+      "titulo": "Social media influencers don entrepreneurial hat; launch VC-backed consumer brands",
+      "resumo": "The rise of social media influencers has given birth to a new wave of consumer brands, garnering tremendous venture capital interest.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/social-media-influencers-don-entrepreneurial-hat-launch-vc-backed-consumer-brands/133643521",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "private-equity"
+      ],
+      "data": "2026-08-31"
+    },
+    {
+      "id": "2026-08-30-de-vender-inciensos-en-la-calle-a",
+      "titulo": "De vender inciensos en la calle a construir un exitoso hub inmobiliario que deja millonarias ganancias",
+      "resumo": "Brick Capital, la empresa de Karolina Ochoa que fue vendedora ambulante y tuvo dos fracasos empresariales hasta llegar al éxito.",
+      "url": "https://www.valoraanalitik.com/de-vender-inciensos-en-la-calle-a-construir-un-exitoso-hub-inmobiliario-que-deja-millonarias-ganancias/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-08-30"
+    },
     {
       "id": "2026-08-30-normal-a-expansao-em-portugal-e-para",
       "titulo": "NORMAL: a expansão em Portugal é para acelerar",
