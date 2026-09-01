@@ -1,6 +1,139 @@
 {
-  "updatedAt": "2026-08-31T13:00:17.186Z",
+  "updatedAt": "2026-09-01T11:17:14.607Z",
   "articles": [
+    {
+      "id": "2026-09-01-mc-investe-500-mil-euros-em-formacao",
+      "titulo": "MC investe 500 mil euros em formação em IA para 4000 colaboradores",
+      "resumo": "A MC vai investir cerca de 500 mil euros em formação em IA, destinada a capacitar cerca de 4000 colaboradores. Segundo a empresa, as iniciativas já em curso permitiram poupar cerca de 100 mil horas de trabalho no período de um ano.",
+      "url": "https://www.distribuicaohoje.com/retalho/formacao-em-ia/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-grupo-jom-investe-2-milhoes-e-aumenta",
+      "titulo": "Grupo JOM investe 2 milhões e aumenta capacidade produtiva em 20%",
+      "resumo": "O Grupo JOM anunicou um investimento de 2 milhões de euros para concluir a ampliação de uma das suas unidades, operação que vai acrescentar cerca de 2.000 m² à atual área fabril de 15.000 m², permitindo ultrapassar os 70 mil móveis produzidos por ano. O projeto de investimento integra um ciclo que abrange também o i…",
+      "url": "https://www.distribuicaohoje.com/retalho/grupo-jom/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-avicasal-lanca-marca-lacarte-com-estreia-na",
+      "titulo": "Avicasal lança marca LaCarte com estreia na charcutaria",
+      "resumo": "A Avicasal lançou a LaCarte, uma nova marca que se estreia no mercado com uma gama de charcutaria e que pretende vir a reunir, de forma gradual, diferentes categorias de produtos alimentares.",
+      "url": "https://www.distribuicaohoje.com/producao/lacarte-avicasal/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-marca-propria-up-preve-chegar-aos-20",
+      "titulo": "Marca própria UP prevê chegar aos 20 milhões de euros em 2026",
+      "resumo": "A marca própria UP, da UNIMARK , prevê crescer cerca de 5% em receitas em 2026 e atingir um volume de negócios próximo dos 20 milhões de euros. A marca quer ainda aumentar em 10% o número de referências, terminando o ano com cerca de 750 produtos em portefólio.",
+      "url": "https://www.distribuicaohoje.com/retalho/marca-propria-up/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-shein-cai-na-estreia-em-bolsa-de",
+      "titulo": "Shein cai na estreia em bolsa de Hong Kong",
+      "resumo": "As ações da Shein caíram na estreia na bolsa de Hong Kong , refletindo as dúvidas dos investidores sobre o crescimento, a avaliação e os riscos regulatórios que continuam a pressionar o modelo de negócio da retalhista online de fast fashion . Segundo a Reuters , os títulos recuavam cerca de 8% na primeira sessão, pa…",
+      "url": "https://www.distribuicaohoje.com/retalho/shein-cai-estreia-em-bolsa/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-parfois-esta-de-cara-renovada-nova-loja",
+      "titulo": "Parfois está de cara renovada: nova loja aposta numa experiência de compra diferente",
+      "resumo": "A Parfois está a mudar por dentro e o resultado já pode ser visto em Lisboa. A marca portuguesa de moda e acessórios reabriu a loja no Amoreiras Shopping Center com uma nova imagem comercial, integrada num processo de renovação do seu parque de lojas.",
+      "url": "https://marketeer.sapo.pt/parfois-esta-de-cara-renovada-nova-loja-aposta-numa-experiencia-de-compra-diferente/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-abriu-portas-no-final-de-agosto-ja",
+      "titulo": "Abriu portas no final de agosto: já conhece a nova loja da Mercadona?",
+      "resumo": "A nova superfície comercial abriu portas a 20 de agosto e criou 74 postos de trabalho com contratos sem termo, reforçando a presença da cadeia no distrito de Setúbal.",
+      "url": "https://marketeer.sapo.pt/abriu-portas-no-final-de-agosto-ja-conhece-a-nova-loja-da-mercadona/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-jason-marques-e-o-novo-diretor-geral",
+      "titulo": "Jason Marques é o novo diretor-geral do Tivoli Avenida Liberdade",
+      "resumo": "A Minor Hotels nomeou Jason Marques como novo diretor-geral do Tivoli Avenida Liberdade, em Lisboa, com efeitos a partir de 1 de setembro de 2026. Com mais de 20 anos de experiência internacional na hotelaria de luxo, Jason Marques desenvolveu a sua carreira em unidades na Europa, África, Oceano Índico e Médio Orien…",
+      "url": "https://www.ambitur.pt/jason-marques-e-o-novo-diretor-geral-do-tivoli-avenida-liberdade/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-falesia-hotel-adults-only-reforca-posicionamento-com",
+      "titulo": "Falésia Hotel Adults Only reforça posicionamento com investimento de 10 milhões de euros",
+      "resumo": "O Falésia Hotel Adults Only, em Albufeira, concluiu um investimento de 10 milhões de euros destinado a reforçar o posicionamento da unidade junto do segmento adulto, com novas propostas nas áreas do bem-estar, gastronomia, alojamento e experiências. Entre as principais novidades está a ampliação do Ambar Spa, que pa…",
+      "url": "https://www.ambitur.pt/falesia-hotel-adults-only-reforca-posicionamento-com-investimento-de-10-milhoes-de-euros/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-08-31-investimento-em-imobiliario-comercial-cresce-14-ate",
+      "titulo": "Investimento em imobiliário comercial cresce 14% até junho",
+      "resumo": "Resiliência tem sido a imagem de marca do setor do imobiliário português nos últimos anos e os primeiros meses de 2026 não são exceção. O relatório ‘WMarket Mid-year 2026’, publicado pela WORX Real Estate Consultants, conclui que o investimento comercial ultrapassou os 1.410 milhões de euros no primeiro semestre, nu…",
+      "url": "https://www.forbespt.com/investimento-em-imobiliario-comercial-cresce-14-ate-junho/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-31"
+    },
+    {
+      "id": "2026-08-31-inversionistas-tienen-una-fuerte-apuesta-por-acciones",
+      "titulo": "Inversionistas tienen una fuerte apuesta por acciones colombianas, según encuesta Davivienda; estas son las favoritas",
+      "resumo": "La Gran Encuesta de Activos Financieros también encontró que crece la percepción de que el dólar en Colombia está barato.",
+      "url": "https://www.valoraanalitik.com/inversionistas-apuesta-acciones-colombianas/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-08-31"
+    },
     {
       "id": "2026-08-31-grupo-do-lidl-quer-ganhar-peso-fora",
       "titulo": "Grupo do Lidl quer ganhar peso ‘fora do retalho’ e investe 5,6 mil milhões",
