@@ -1,6 +1,104 @@
 {
-  "updatedAt": "2026-09-01T11:17:14.607Z",
+  "updatedAt": "2026-09-02T10:51:38.247Z",
   "articles": [
+    {
+      "id": "2026-09-02-nestle-vende-marcas-de-vitaminas-por-mil",
+      "titulo": "Nestlé vende marcas de vitaminas por mil milhões de dólares",
+      "resumo": "A Nestlé chegou a acordo para vender o seu negócio de vitaminas, minerais e suplementos de grande consumo à sociedade de private equity Yellow Wood Partners, por mil milhões de dólares (cerca de 860 milhões de euros), anunciou a empresa. A operação insere-se na estratégia do CEO Philipp Navratil de concentrar o port…",
+      "url": "https://www.distribuicaohoje.com/producao/nestle/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "private-equity"
+      ],
+      "data": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-ikea-investe-1-2-mil-milhoes-para",
+      "titulo": "IKEA investe 1,2 mil milhões para reduzir preços até 25% na Europa",
+      "resumo": "A IKEA vai reduzir preços até 25% numa gama alargada de produtos selecionados na Europa a partir de 1 de setembro, num investimento total de cerca de 1,2 mil milhões de euros em preços mais baixos para os clientes.",
+      "url": "https://www.distribuicaohoje.com/retalho/ikea/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-the-lince-braga-estreia-nova-carta-no",
+      "titulo": "The Lince Braga estreia nova carta no Wine Bar",
+      "resumo": "O The Lince Braga, unidade do grupo The Lince Hotels integrada na envolvente verde da Falperra, reforça a sua proposta gastronómica com a estreia de uma nova carta no Wine Bar e o anúncio do Sunset – Goodbye Summer, evento que vai reunir hóspedes e visitantes numa noite de despedida do verão junto à piscina […] O co…",
+      "url": "https://www.briefing.pt/out-of-office/the-lince-braga-estreia-nova-carta-no-wine-bar/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-02"
+    },
+    {
+      "id": "2026-09-01-rockport-abre-primeira-loja-em-portugal-e",
+      "titulo": "Rockport abre primeira loja em Portugal e prepara mais duas em Lisboa",
+      "resumo": "A Rockport abriu a primeira loja física em Portugal, no Almada Forum, e prepara a abertura de mais duas lojas em Lisboa. O regresso da marca de calçado ao retalho físico nacional inclui a retoma da produção de alguns modelos em Portugal.",
+      "url": "https://www.distribuicaohoje.com/retalho/rockport/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-mota-engil-investe-25-milhoes-de-euros",
+      "titulo": "Mota-Engil investe 25 milhões de euros em unidades de biometano",
+      "resumo": "A Mota-Engil Ambiente e Energia garantiu um investimento de 25 milhões de euros para a construção de cinco unidades de produção de biometano renovável que estarão operacionais até ao final do ano. O grupo detalha que este é “um projeto pioneiro que permitirá realizar a primeira injeção de biometano em escala na Rede…",
+      "url": "https://www.forbespt.com/mota-engil-investe-25-milhoes-de-euros-em-unidades-de-biometano/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-veja-quais-sao-as-marcas-ja-confirmadas",
+      "titulo": "Veja quais são as marcas já confirmadas para a EXPOFRANCHISE 2026",
+      "resumo": "A EXPOFRANCHISE está de volta! A maior feira de empreendedorismo e franchising da Península Ibérica, promovida pela Associação Portuguesa de Franchising, terá lugar nos dias 23 e 24 de outubro, no Pátio da Galé, em Lisboa. A 29ª edição da EXPOFRANCHISE reunirá marcas nacionais e internacionais em Portugal. Trata-se …",
+      "url": "https://www.infofranchising.pt/expofranchise-2026-marcas-confirmadas/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-09-01-la-disponibilidad-de-oficinas-premium-en-bogota",
+      "titulo": "La disponibilidad de oficinas premium en Bogotá cayó a un mínimo histórico de 5,4%",
+      "resumo": "Más de 80% de la demanda capitalina se concentró en los corredores de Salitre, Centro y Chicó",
+      "url": "https://www.larepublica.co/empresas/la-disponibilidad-de-oficinas-premium-en-bogota-cayo-a-un-minimo-de-5-4-4471845",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-09-01"
+    },
+    {
+      "id": "2026-08-31-aumento-da-procura-internacional-por-imoveis-de",
+      "titulo": "Aumento da procura internacional por imóveis de luxo reforça oportunidade para empreendedores no franchising imobiliário em Portugal",
+      "resumo": "Dados da Coldwell Banker Global Luxury mostram que Portugal concentra 5,7% da procura internacional por imóveis de luxo. O crescimento do segmento abre novas perspectivas para investidores e empreendedores interessados no franchising imobiliário. Portugal consolidou-se como um dos principais destinos internacionais …",
+      "url": "https://www.infofranchising.pt/coldwell-banker-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "franchising",
+        "investidores"
+      ],
+      "data": "2026-08-31"
+    },
     {
       "id": "2026-09-01-mc-investe-500-mil-euros-em-formacao",
       "titulo": "MC investe 500 mil euros em formação em IA para 4000 colaboradores",
