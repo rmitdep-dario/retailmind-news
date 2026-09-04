@@ -1,6 +1,117 @@
 {
-  "updatedAt": "2026-09-03T10:51:34.488Z",
+  "updatedAt": "2026-09-04T10:50:16.705Z",
   "articles": [
+    {
+      "id": "2026-09-04-entre-lula-e-bolsonaro-os-investidores-querem",
+      "titulo": "Entre Lula e Bolsonaro, os investidores querem � o controlo da d�vida do Brasil",
+      "resumo": "Uma corrida presidencial mais disputada do que o esperado est� a provocar um forte aumento na especula��o na bolsa do pa�s. A prazo, o que vai ditar o sentimento em rela��o aos ativos brasileiros ser� a capacidade de fazer retomar a economia sem disparar a despesa p�blica.",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/entre-lula-e-bolsonaro-os-investidores-querem-e-o-controlo-da-divida-do-brasil",
+      "fonte": "Jornal de Negócios",
+      "pais": "Brasil",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-04-reno-e-danubio-secam-e-colocam-logistica",
+      "titulo": "Reno e Danúbio secam e colocam logística, energia e indústria europeias sob pressão",
+      "resumo": "O nível do Reno caiu para apenas 8 centímetros em Kaub, na Alemanha, em agosto, obrigando algumas barcaças a navegar com apenas 20% da carga habitual. A Coface alerta para efeitos que podem prolongar-se nos próximos meses e atingir o crescimento económico.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/reno-e-danubio-secam-e-colocam-logistica-energia-e-industria-europeias-sob-pressao/",
+      "fonte": "Jornal Económico",
+      "pais": "Internacional",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-04-investimento-imobiliario-de-87-milhoes-de-euros",
+      "titulo": "Investimento imobiliário de 87 milhões de euros chega a Portugal para construir 245 habitações",
+      "resumo": "Uma nova promotora imobiliária de capitais israelo-europeus prepara um investimento de cerca de 87 milhões de euros em Portugal para desenvolver 245 habitações em três projetos residenciais localizados em Sintra, Vila Nova de Gaia e Viana do Castelo.",
+      "url": "https://executivedigest.sapo.pt/investimento-imobiliario-de-87-milhoes-de-euros-chega-a-portugal-para-construir-245-habitacoes/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt",
+        "investidores"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-03-continente-e-dos-primeiros-anunciantes-portugueses-no",
+      "titulo": "Continente é dos primeiros anunciantes portugueses no ChatGPT",
+      "resumo": "O Continente estreia-se na publicidade no ChatGPT, tornando-se um dos primeiros anunciantes nacionais a investir numa das plataformas de inteligência artificial (IA) mais utilizadas pelos consumidores, anunciou a insígnia de retalho alimentar da MC.",
+      "url": "https://www.distribuicaohoje.com/retalho/continente/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-retalho-em-expansao-action-e-primark-somam",
+      "titulo": "Retalho em expansão: Action e Primark somam mais duas novas lojas em Portugal",
+      "resumo": "As marcas continuam a apostar na expansão física como forma de reforçar proximidade com o consumidor, testar novos formatos e consolidar presença em zonas estratégicas. Entre novas aberturas, renovações e conceitos mais adaptados aos hábitos de consumo atuais, o retalho mantém a loja como ponto central de contacto, …",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-action/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-compare-group-entra-em-portugal-espanha-italia",
+      "titulo": "Compare Group entra em Portugal, Espanha, Itália e Áustria",
+      "resumo": "A Compare Group , que detém várias plataformas de comparação de preços, entra em Portugal, Espanha, Itália e Áustria a 7 de setembro, passando a operar em 12 países europeus.",
+      "url": "https://www.distribuicaohoje.com/retalho/compare-group/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-ds-travel-reforca-expansao-com-abertura-de",
+      "titulo": "DS TRAVEL reforça expansão com abertura de duas novas lojas em Santa Iria de Azóia e na Covilhã",
+      "resumo": "A DS TRAVEL vai inaugurar duas novas lojas durante o mês de setembro, em Santa Iria de Azóia e na Covilhã. As aberturas assinalam uma nova fase de expansão da rede de agências de viagens do Grupo Decisões e Soluções. A primeira inauguração está marcada para 18 de setembro, às 14h30, em Santa Iria de […] O conteúdo D…",
+      "url": "https://www.infofranchising.pt/dstravel-azoia-covilha/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-renato-brasil-assume-coordenacao-nacional-da-ds",
+      "titulo": "Renato Brasil assume coordenação nacional da DS TRAVEL numa nova fase de expansão da rede",
+      "resumo": "Renato Brasil é o novo Diretor Coordenador Nacional da DS TRAVEL, rede de agências de viagens integrada no Grupo Decisões e Soluções. A entrada do responsável, com 36 anos de experiência no setor, coincide com uma nova etapa de crescimento da marca, que inaugura este mês lojas em Santa Iria de Azóia e na Covilhã […]…",
+      "url": "https://www.ambitur.pt/renato-brasil-assume-coordenacao-nacional-da-ds-travel-numa-nova-fase-de-expansao-da-rede/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-grupo-exito-acelera-su-plan-de-renovacion",
+      "titulo": "Grupo Éxito acelera su plan de renovación de tiendas con inversión de $292.000 millones",
+      "resumo": "La compañía intervendrá 230.000 m² en 2026, con inversiones por $292.000 millones y más de 5.000 empleos asociados a las obras.",
+      "url": "https://www.valoraanalitik.com/grupo-exito-acelera-su-plan-de-renovacion-de-tiendas-con-inversion-de-292-000-millones/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-03"
+    },
     {
       "id": "2026-09-03-moida-k-beauty-expande-para-portugal-com",
       "titulo": "MOIDA K-Beauty expande para Portugal com assessoria da Oporto Accounting",
