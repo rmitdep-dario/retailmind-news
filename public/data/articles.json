@@ -1,6 +1,140 @@
 {
-  "updatedAt": "2026-09-04T10:50:16.705Z",
+  "updatedAt": "2026-09-05T10:09:00.795Z",
   "articles": [
+    {
+      "id": "2026-09-04-grupo-mosqueteiros-investe-mais-de-4-milhoes",
+      "titulo": "Grupo Mosqueteiros investe mais de 4 milhões de euros em Felgueiras",
+      "resumo": "O Grupo Mosqueteiros reforçou a sua presença no distrito do Porto com a abertura de uma nova loja Bricomarché e de um Roady Centro-Auto, em Felgueiras. As duas unidades representam um investimento global de mais de 4 milhões de euros e criam 31 postos de trabalho. O conteúdo Grupo Mosqueteiros investe mais de 4 milh…",
+      "url": "https://grandeconsumo.com/grupo-mosqueteiros-investe-mais-de-4-milhoes-de-euros-em-felgueiras/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-04-revolut-avanca-para-banco-nos-eua",
+      "titulo": "Revolut avança para banco nos EUA",
+      "resumo": "Autorização abre caminho ao banco nacional da Revolut nos EUA, e a empresa já prepara as aprovações finais para iniciar operações em 2027 O conteúdo Revolut avança para banco nos EUA aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/revolut-avanca-para-banco-nos-eua/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-04-continente-chega-ao-chatgpt",
+      "titulo": "Continente chega ao ChatGPT",
+      "resumo": "O Continente estreia-se no ChatGPT em Portugal, tornando-se num dos primeiros anunciantes nacionais a investir em publicidade numa das plataformas de Inteligência Artificial mais utilizadas pelos consumidores atualmente. O conteúdo Continente chega ao ChatGPT aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/continente-chega-ao-chatgpt/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-04-a-courir-esta-de-volta-a-marca",
+      "titulo": "A Courir está de volta: a marca de sneakers que saiu de Portugal regressa com nova loja",
+      "resumo": "A marca francesa de sneakers escolheu novamente o Porto para o regresso, com uma nova loja de 200 metros quadrados no Parque Nascente.",
+      "url": "https://marketeer.sapo.pt/a-courir-esta-de-volta-a-marca-de-sneakers-que-saiu-de-portugal-regressa-com-nova-loja/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-04"
+    },
+    {
+      "id": "2026-09-03-aeg-leva-novas-solucoes-a-ifa",
+      "titulo": "AEG leva novas soluções à IFA",
+      "resumo": "Na IFA 2026, a AEG estreia nova placa para cozinhar massa sem vigilância constante e mostra novas soluções para a casa e o cuidado da roupa O conteúdo AEG leva novas soluções à IFA aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/aeg-leva-novas-solucoes-a-ifa/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-europa-enfrenta-defice-de-investimento-de-700",
+      "titulo": "Europa enfrenta défice de investimento de 700 mil milhões",
+      "resumo": "Europa precisa de mais investimento produtivo para travar a estagnação, enquanto Portugal combina menos dívida pública com perda de riqueza O conteúdo Europa enfrenta défice de investimento de 700 mil milhões aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/europa-enfrenta-defice-de-investimento-de-700-mil-milhoes/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-joao-brigido-vai-liderar-a-maior-fabrica",
+      "titulo": "João Brígido vai liderar a maior fábrica mundial da Philip Morris International",
+      "resumo": "João Brígido, até agora diretor da fábrica da Tabaqueira, foi nomeado diretor da unidade da Philip Morris International (PMI) em Crespellano, Bolonha, a maior unidade industrial do grupo a nível mundial. O conteúdo João Brígido vai liderar a maior fábrica mundial da Philip Morris International aparece primeiro em Gr…",
+      "url": "https://grandeconsumo.com/joao-brigido-vai-liderar-a-maior-fabrica-mundial-da-philip-morris-international/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-03-primark-abre-nova-loja-em-castelo-branco",
+      "titulo": "Primark abre nova loja em Castelo Branco",
+      "resumo": "A Primark inaugurou esta quarta-feira, 2 de setembro, a sua nova loja no centro comercial Forum Castelo Branco. Trata-se da 14.ª loja da marca em Portugal e da primeira no distrito de Castelo Branco. O conteúdo Primark abre nova loja em Castelo Branco aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/primark-abre-nova-loja-em-castelo-branco/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-03"
+    },
+    {
+      "id": "2026-09-02-grupo-jom-reforca-investimento-industrial-e-imobiliario",
+      "titulo": "Grupo JOM reforça investimento industrial e imobiliário",
+      "resumo": "O Grupo JOM está a concretizar, em 2026, um dos principais ciclos de investimento da sua história, três décadas depois da abertura da primeira loja. O conteúdo Grupo JOM reforça investimento industrial e imobiliário aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/grupo-jom-reforca-investimento-industrial-e-imobiliario/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-rockport-regressa-as-lojas-em-portugal",
+      "titulo": "Rockport regressa às lojas em Portugal",
+      "resumo": "Após o regresso online em 2025, a marca retoma a presença física e prepara duas novas lojas em Lisboa, além de recuperar a produção local O conteúdo Rockport regressa às lojas em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/rockport-regressa-as-lojas-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-02"
+    },
+    {
+      "id": "2026-09-02-nestle-vende-marcas-de-vitaminas-e-suplementos",
+      "titulo": "Nestlé vende marcas de vitaminas e suplementos por 1.000 milhões de dólares",
+      "resumo": "A Nestlé vai vender ao fundo de private equity Yellow Wood Partners várias das suas principais marcas de vitaminas e suplementos por 1.000 milhões de dólares (cerca de 850 milhões de euros). O conteúdo Nestlé vende marcas de vitaminas e suplementos por 1.000 milhões de dólares aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/nestle-vende-marcas-de-vitaminas-e-suplementos-por-1-000-milhoes-de-dolares/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "private-equity"
+      ],
+      "data": "2026-09-02"
+    },
     {
       "id": "2026-09-04-entre-lula-e-bolsonaro-os-investidores-querem",
       "titulo": "Entre Lula e Bolsonaro, os investidores querem � o controlo da d�vida do Brasil",
