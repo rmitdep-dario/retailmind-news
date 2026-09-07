@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-05T10:09:00.795Z",
+  "updatedAt": "2026-09-07T11:52:45.847Z",
   "articles": [
+    {
+      "id": "2026-09-07-ikea-investe-1-2-mil-milhoes-de",
+      "titulo": "IKEA investe 1,2 mil milhões de euros para baixar preços na Europa",
+      "resumo": "A IKEA vai investir 1,2 mil milhões de euros na redução de preços de centenas de produtos na Europa, numa estratégia destinada a reforçar a acessibilidade dos seus artigos num contexto de pressão sobre o custo de vida. O conteúdo IKEA investe 1,2 mil milhões de euros para baixar preços na Europa aparece primeiro em …",
+      "url": "https://grandeconsumo.com/ikea-investe-12-mil-milhoes-de-euros-para-baixar-precos-na-europa/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-plenergy-chega-aos-20-postos-em-portugal",
+      "titulo": "Plenergy chega aos 20 postos em Portugal",
+      "resumo": "Expansão acelera com duas novas estações, em Castelo Branco e Ponte de Lima, enquanto a empresa aponta para 30 postos em Portugal em 2026 O conteúdo Plenergy chega aos 20 postos em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/plenergy-chega-aos-20-postos-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-amanhecer-abre-loja-no-tramagal",
+      "titulo": "Amanhecer abre loja no Tramagal",
+      "resumo": "O Amanhecer reforçou a sua presença em Abrantes com a inauguração de uma nova loja da rede. Trata-se do Supermercado Amanhecer A Vila, localizado na Rua do Bairro Azul, 17, no Tramagal. O conteúdo Amanhecer abre loja no Tramagal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/amanhecer-abre-loja-no-tramagal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-oliveira-da-serra-estreia-se-no-tiktok",
+      "titulo": "Oliveira da Serra estreia-se no TikTok em Portugal",
+      "resumo": "Oliveira da Serra chega ao TikTok em Portugal para aproximar a nova geração do universo do azeite, através do entretenimento e da literacia alimentar. Com esta estreia, a marca líder de mercado no segmento passa a estar presente numa plataforma onde os consumidores descobrem hoje receitas, ingredientes e inspiração,…",
+      "url": "https://www.briefing.pt/cetera/oliveira-da-serra-estreia-se-no-tiktok-em-portugal/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-quase-tudo-por-menos-de-2-euros",
+      "titulo": "Quase tudo por menos de 2 euros? A Action abre nova loja em Portugal",
+      "resumo": "A Action vai reforçar a sua presença em Portugal com a abertura de uma nova loja em Vialonga, a 10 de setembro. Com esta inauguração, a cadeia de discount stores de produtos não alimentares passa a contar com 34 espaços no mercado português, pouco mais de dois anos depois da entrada no país.",
+      "url": "https://marketeer.sapo.pt/quase-tudo-por-menos-de-2-euros-a-action-abre-nova-loja-em-portugal/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-07"
+    },
+    {
+      "id": "2026-09-07-riu-estreia-se-na-tailandia-com-novo",
+      "titulo": "RIU estreia-se na Tailândia com novo hotel de cinco estrelas em Phuket",
+      "resumo": "A RIU Hotels & Resorts abriu o seu primeiro hotel na Tailândia, o Riu Palace Phuket, uma unidade de cinco estrelas localizada em Mai Khao, na costa noroeste de Phuket, junto ao Parque Nacional Sirinat. O novo hotel dispõe de 504 quartos distribuídos por vários edifícios e apresenta o conceito Tudo Incluído 24 Horas …",
+      "url": "https://www.ambitur.pt/riu-estreia-se-na-tailandia-com-novo-hotel-de-cinco-estrelas-em-phuket/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-07"
+    },
+    {
+      "id": "2026-09-06-colecao-city-exclusive-da-le-labo-chega",
+      "titulo": "Coleção “City Exclusive” da Le Labo chega a Portugal",
+      "resumo": "2Setembro é o mês do regresso às aulas ou ao trabalho, marca o final do verão e a chegada do outono e, para muitos, é um momento de reorganização, um pouco à imagem do que acontece quando um ano termina e outro começa. Na Le Labo há ainda um outro momento para juntar a esta […] The post Coleção “City Exclusive” da L…",
+      "url": "https://www.forbespt.com/colecao-city-exclusive-da-le-labo-chega-a-portugal/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-06"
+    },
     {
       "id": "2026-09-04-grupo-mosqueteiros-investe-mais-de-4-milhoes",
       "titulo": "Grupo Mosqueteiros investe mais de 4 milhões de euros em Felgueiras",
