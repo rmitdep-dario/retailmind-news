@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-09-07T11:52:45.847Z",
+  "updatedAt": "2026-09-08T10:49:24.883Z",
   "articles": [
+    {
+      "id": "2026-09-08-marketplace-da-kiabi-chega-a-portugal-com",
+      "titulo": "Marketplace da KIABI chega a Portugal com novas marcas e categorias",
+      "resumo": "O marketplace da KIABI já está disponível em Portugal. A nova funcionalidade, integrada na plataforma kiabi.pt, permite incorporar produtos de outras marcas e vendedores terceiros na loja online da insígnia de moda, que alarga assim o seu modelo de negócio digital.",
+      "url": "https://www.distribuicaohoje.com/retalho/marketplace-da-kiabi/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-oliveira-da-serra-estreia-se-no-tiktok",
+      "titulo": "Oliveira da Serra estreia-se no TikTok em Portugal",
+      "resumo": "A marca Oliveira da Serra estreia-se no TikTok em Portugal com o objetivo de aproximar a nova geração do universo do azeite, através de conteúdos de entretenimento e literacia alimentar. O conteúdo Oliveira da Serra estreia-se no TikTok em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/oliveira-da-serra-estreia-se-no-tiktok-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-sport-zone-reforca-presenca-no-interior",
+      "titulo": "Sport Zone reforça presença no interior",
+      "resumo": "A Sport Zone acaba de inaugurar uma nova na Covilhã. Localizada no City Center Retail Park, possui uma superfície de 830m² e vem substituir o espaço anteriormente ocupado no Serra Shopping. O objetivo, segundo a marca, é reforçar a presença no município. O conteúdo Sport Zone reforça presença no interior aparece pri…",
+      "url": "https://grandeconsumo.com/sport-zone-reforca-presenca-no-interior/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "retail-parks"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-nova-loja-action-em-vialonga",
+      "titulo": "Nova loja Action em Vialonga",
+      "resumo": "A Action, discount store de produtos não alimentares, alcança esta quinta-feira, 10 de setembro, as 34 lojas em Portugal, tendo escolhido Vialonga para a nova abertura. O conteúdo Nova loja Action em Vialonga aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/nova-loja-action-em-vialonga/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-banco-best-aposta-na-literacia-financeira-para",
+      "titulo": "Banco Best aposta na literacia financeira para investimento em criptoativos através de ETCs e ETNs",
+      "resumo": "Num comunicado divulgado hoje, o banco sublinha que, apesar do interesse crescente por criptomoedas, persistem desafios relacionados com a complexidade operacional, a custódia dos ativos e a compreensão dos riscos. Neste contexto, os ETCs e os ETNs - valores mobiliários negociados em bolsas regulamentadas europeias …",
+      "url": "https://jornaleconomico.sapo.pt/noticias/banco-best-aposta-na-literacia-financeira-para-investimento-em-criptoativos-atraves-de-etcs-e-etns/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-porto-business-school-investe-mais-de-70",
+      "titulo": "Porto Business School investe mais de 70 mil euros em novo auditório com o nome do Grupo ACA",
+      "resumo": "A Porto Business School (PBS) inaugurou o Auditório ACA, um novo espaço com mais de 170 metros quadrados e capacidade para cerca de 100 pessoas, que resulta de uma parceria com a ACA Construction.",
+      "url": "https://executivedigest.sapo.pt/porto-business-school-investe-mais-de-70-mil-euros-em-novo-auditorio-com-o-nome-do-grupo-aca/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-twinkloo-acelera-para-o-elms-marca-estreia",
+      "titulo": "Twinkloo acelera para o ELMS: marca estreia-se no patrocínio desportivo com José Cautela",
+      "resumo": "A Twinkloo, intermediário de crédito especializado em crédito habitação, estreia-se no território do patrocínio desportivo ao associar-se ao piloto português José Cautela, que disputa em 2026 o European Le Mans Series (ELMS) na categoria LMP3.",
+      "url": "https://marketeer.sapo.pt/twinkloo-acelera-para-o-elms-marca-estreia-se-no-patrocinio-desportivo-com-jose-cautela/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-kiabi-ja-nao-quer-ser-apenas-uma",
+      "titulo": "Kiabi já não quer ser apenas uma marca de moda: eis a nova aposta que chega a Portugal",
+      "resumo": "A Kiabi está a reforçar a sua estratégia de transformação digital com o lançamento do seu marketplace em Portugal, integrado diretamente na plataforma kiabi.pt. A nova funcionalidade permite incorporar produtos de marcas e vendedores terceiros, alargando a oferta disponível aos clientes.",
+      "url": "https://marketeer.sapo.pt/kiabi-ja-nao-quer-ser-apenas-uma-marca-de-moda-eis-a-nova-aposta-que-chega-a-portugal/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-07-stef-cresce-8-6-no-primeiro-semestre",
+      "titulo": "STEF cresce 8,6% no primeiro semestre de 2026",
+      "resumo": "A STEF , grupo europeu de transporte e logística de produtos alimentares sob temperatura controlada, fechou o primeiro semestre de 2026 com um volume de negócios de 2.687,1 milhões de euros, mais 8,6% do que no período homólogo, e um resultado operacional de 102,9 milhões de euros, uma subida de 84,1%.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/stef/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica",
+        "resultados"
+      ],
+      "data": "2026-09-07"
+    },
     {
       "id": "2026-09-07-ikea-investe-1-2-mil-milhoes-de",
       "titulo": "IKEA investe 1,2 mil milhões de euros para baixar preços na Europa",
