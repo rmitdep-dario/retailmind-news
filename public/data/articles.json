@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-09-08T10:49:24.883Z",
+  "updatedAt": "2026-09-09T10:55:37.473Z",
   "articles": [
+    {
+      "id": "2026-09-09-lojas-moveis-podem-aumentar-lucros-do-retalho",
+      "titulo": "Lojas móveis podem aumentar lucros do retalho, diz estudo",
+      "resumo": "Lojas móveis que se reposicionam de forma contínua em função da procura podem aumentar os lucros do retalho em 2,56% face a estratégias de localização convencionais, conclui um estudo publicado na Manufacturing & Service Operations Management , com base em dados do setor do retalho de Toronto, no Canadá.",
+      "url": "https://www.distribuicaohoje.com/retalho/lojas-moveis/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-jeronimo-martins-reforca-autoconsumo-solar-com-greenyellow",
+      "titulo": "Jerónimo Martins reforça autoconsumo solar com GreenYellow",
+      "resumo": "A GreenYellow concluiu a implementação de 18 centrais solares fotovoltaicas em regime de autoconsumo para o Grupo Jerónimo Martins, num modelo de contrato de aquisição de energia (PPA) on-site com a duração de 15 anos. O conteúdo Jerónimo Martins reforça autoconsumo solar com GreenYellow aparece primeiro em Grande C…",
+      "url": "https://grandeconsumo.com/jeronimo-martins-reforca-autoconsumo-solar-com-greenyellow/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-3-em-4-portugueses-consomem-bebidas-alcoolicas",
+      "titulo": "3 em 4 portugueses consomem bebidas alcoólicas",
+      "resumo": "De acordo com os resultados da vaga de 2025 do estudo TGI da Marktest, 3 em cada 4 portugueses consomem bebidas alcoólicas. O conteúdo 3 em 4 portugueses consomem bebidas alcoólicas aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/3-em-4-portugueses-consomem-bebidas-alcoolicas/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-empresas-espaciais-europeias-captam-mais-de-20",
+      "titulo": "Empresas espaciais europeias captam mais de 20% do investimento de capital de risco",
+      "resumo": "Para o espaço e mais além parece ser o comportamento dos investidores de capital de risco, com menos negócios, mas cheques mais chorudos a serem passados. Até junho, globalmente, as empresas do setor já captaram 11,3 mil milhões de dólares de investimento, num total de 244 operações, valor que supera os 10,1 mil mil…",
+      "url": "https://eco.sapo.pt/especiais/empresas-espaciais-europeias-captam-mais-de-20-do-investimento-de-capital-de-risco/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "private-equity",
+        "investidores"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-schroders-etf-ganham-maior-relevo-nas-carteiras",
+      "titulo": "Schroders: ETF ganham maior relevo nas carteiras de investimento",
+      "resumo": "O inquérito anual aos investidores da Schroders revelou que 94% dos inquiridos dizem que os ETF ativos têm um papel nas suas carteiras de investimento. Cerca de 70% dos inquiridos disse que um custo mais baixo, face a fundos de investimento, foi o motivo para a escolha.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/schroders-etf-ganham-maior-relevo-nas-carteiras-de-investimento/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-falta-de-oferta-leva-a-subida-de",
+      "titulo": "Falta de oferta leva a subida de 2% na ocupação industrial e logística no primeiro semestre",
+      "resumo": "Alexandra Gomes, Head of Research da Savills Portugal, refere que \"com mais de metade do pipeline da Grande Lisboa já comprometido antes da conclusão, antecipamos uma pressão crescente sobre as rendas prime.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/falta-de-oferta-leva-a-subida-de-2-na-ocupacao-industrial-e-logistica-no-primeiro-semestre/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-esta-tudo-pronto-primark-abre-nova-loja",
+      "titulo": "Está tudo pronto: Primark abre nova loja amanhã (e recebe coleção outono/inverno)",
+      "resumo": "A marca irlandesa instala-se no Alegro Setúbal com uma loja de mais de 1.600 metros quadrados e mais de 50 novos empregos.",
+      "url": "https://marketeer.sapo.pt/esta-tudo-pronto-primark-abre-nova-loja-amanha-e-recebe-nova-colecao/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-09-the-big-gen-z-market-taking-over",
+      "titulo": "The big Gen Z market taking over how India spends, saves and strategises",
+      "resumo": "India's youngest generation now leads consumption spending with unique preferences. Gen Z's influence is reshaping brand strategies and investment patterns significantly. This demographic is embracing early credit access and design-led purchases. Their spending power is projected to grow substantially in the coming …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/the-big-gen-z-market-taking-over-how-india-spends-saves-and-strategises/133949804",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-09"
+    },
+    {
+      "id": "2026-09-08-colruyt-testa-camioes-a-hidrogenio-em-operacao",
+      "titulo": "Colruyt testa camiões a hidrogénio em operação logística diária",
+      "resumo": "O Colruyt Group iniciou, em parceria com a Scania , um ensaio com dois camiões elétricos a célula de combustível de hidrogénio na sua operação logística diária na Bélgica. O grupo belga de retalho alimentar é o primeiro e único cliente da Scania no país a integrar estes veículos no dia a dia da distribuição, no âmbi…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/colruyt-testa-hidrogenio/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-08"
+    },
+    {
+      "id": "2026-09-08-marco-rubio-llega-a-colombia-para-reforzar",
+      "titulo": "Marco Rubio llega a Colombia para reforzar alianza con De la Espriella: seguridad, aranceles y comercio en la agenda",
+      "resumo": "La visita de Rubio también se produce después del giro que ha dado la política de seguridad del Gobierno de De la Espriella hacia Washington.",
+      "url": "https://www.valoraanalitik.com/marco-rubio-llega-a-colombia-para-reforzar-alianza-con-de-la-espriella-seguridad-aranceles-y-comercio-en-la-agenda/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-08"
+    },
     {
       "id": "2026-09-08-marketplace-da-kiabi-chega-a-portugal-com",
       "titulo": "Marketplace da KIABI chega a Portugal com novas marcas e categorias",
