@@ -1,6 +1,151 @@
 {
-  "updatedAt": "2026-09-10T10:52:00.854Z",
+  "updatedAt": "2026-09-11T10:48:35.910Z",
   "articles": [
+    {
+      "id": "2026-09-11-pizza-hut-abre-novo-restaurante-no-mira",
+      "titulo": "Pizza Hut abre novo restaurante no Mira Maia Shopping",
+      "resumo": "A Pizza Hut abriu um novo restaurante no Mira Maia Shopping, na Maia, numa operação do Grupo Ibersol que marca também a estreia de uma nova experiência de marca e serviço. O conteúdo Pizza Hut abre novo restaurante no Mira Maia Shopping aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/pizza-hut-abre-novo-restaurante-no-mira-maia-shopping/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11-pepco-chega-as-31-lojas-em-portugal",
+      "titulo": "Pepco chega às 31 lojas em Portugal",
+      "resumo": "A Pepco vai abrir quatro novas lojas em Portugal durante o mês de setembro, elevando para 31 o número de espaços da cadeia de retalho no país. O conteúdo Pepco chega às 31 lojas em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/pepco-chega-as-31-lojas-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11-bel-portugal-define-nova-ambicao-para-os",
+      "titulo": "Bel Portugal define nova ambição para os Snacks Saudáveis",
+      "resumo": "A Bel Portugal quer fazer crescer o peso dos Snacks Saudáveis de 6,4% para 10% até 2030 e atingir 100% de “Receitas Positivas” no seu portefólio. A ambição integra a nova visão da Bel para os Snacks Saudáveis. O conteúdo Bel Portugal define nova ambição para os Snacks Saudáveis aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/bel-portugal-define-nova-ambicao-para-os-snacks-saudaveis/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11-a-quinta-do-vallado-anuncia-a-um",
+      "titulo": "A Quinta do Vallado anuncia a um novo CEO",
+      "resumo": "Joe Álvares Ribeiro conta com 20 anos de eperiência no setor vínico como diretor da Symington Family Estates. Neste cargo, desenvolveu competências em vendas, distribuição, enoturismo, gestão de pessoas e na concretização de projetos. Tem ainda nove anos de experiência em Private Equity a ajudar empresas a encontrar…",
+      "url": "https://www.briefing.pt/noticias/a-quinta-do-vallado-anuncia-a-um-novo-ceo/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11-matosinhos-entra-no-radar-da-papaya-management",
+      "titulo": "Matosinhos entra no radar da Papaya Management: agência abre escritório e procura novos talentos",
+      "resumo": "A agência de moda, publicidade e representação artística assinala três anos em Portugal com a abertura de um segundo escritório. Matosinhos é a nova morada e marca o início de uma nova fase de expansão.",
+      "url": "https://marketeer.sapo.pt/matosinhos-entra-no-radar-da-papaya-management-agencia-abre-escritorio-e-procura-novos-talentos/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "escritorios"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11-em-duas-semanas-duas-estreias-mercadona-abre",
+      "titulo": "Em duas semanas, duas estreias: Mercadona abre mais um loja no norte do País",
+      "resumo": "A expansão da Mercadona em Portugal continua a todo o gás. Em 2026, a retalhista já abriu sete lojas — e não vai ficar por aqui. A inauguração mais recente aconteceu esta quinta-feira, 10 de setembro, em Vila Real. O novo supermercado, localizado na Rua das Camélias, marca a estreia da cadeia espanhola no distrito. …",
+      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/em-duas-semanas-duas-estreias-mercadona-abre-mais-um-loja-no-norte-do-pais",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-10-fnac-testa-venda-de-livros-e-outros",
+      "titulo": "FNAC testa venda de livros e outros produtos em vending machine",
+      "resumo": "A FNAC Portugal lançou a FNAC Express , um novo conceito de venda automática desenvolvido em parceria com a My Break Vending by Delta Cafés , que permite comprar produtos como livros, acessórios tecnológicos ou jogos de forma rápida e conveniente.",
+      "url": "https://www.distribuicaohoje.com/retalho/fnac-vending-machine/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-09-10"
+    },
+    {
+      "id": "2026-09-10-primark-abre-15-loja-em-portugal-no",
+      "titulo": "Primark abre 15.ª loja em Portugal no Alegro Setúbal",
+      "resumo": "A Primark abriu a 10 de setembro a sua 15.ª loja em Portugal, no Alegro Setúbal, a primeira da marca na cidade e a terceira no distrito, depois de Almada e Montijo.",
+      "url": "https://www.distribuicaohoje.com/retalho/primark/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-10"
+    },
+    {
+      "id": "2026-09-10-mercadona-abre-primeira-loja-no-distrito-de",
+      "titulo": "Mercadona abre primeira loja no distrito de Vila Real",
+      "resumo": "A Mercadona abriu hoje a sua primeira loja no distrito de Vila Real, chegando a mais um distrito nacional e alcançando as 76 lojas em Portugal. O conteúdo Mercadona abre primeira loja no distrito de Vila Real aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/mercadona-abre-primeira-loja-no-distrito-de-vila-real/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-10"
+    },
+    {
+      "id": "2026-09-10-carolina-afonso-integra-comissao-executiva-da-portugal",
+      "titulo": "Carolina Afonso integra comissão executiva da Portugal Sotheby’s",
+      "resumo": "Depois de um percurso de mais de 18 anos que incluiu a liderança da marca de mobiliário Gato Preto, Carolina Afonso entra agora no setor do imobiliário de luxo. A gestora foi nomeada pela Portugal Sotheby’s International Realty para o cargo de diretora de marketing e tecnologia, passando também a integrar a comissão…",
+      "url": "https://www.forbespt.com/carolina-afonso-integra-comissao-executiva-da-portugal-sothebys/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-09-10"
+    },
+    {
+      "id": "2026-09-10-gs1-portugal-apresenta-resultados-da-14-edicao",
+      "titulo": "GS1 Portugal apresenta resultados da 14.ª edição do Benchmarking Supply Chain",
+      "resumo": "A GS1 Portugal promove, no dia 17 de setembro, a sessão de apresentação dos resultados e premiados da14.ª sessão do Benchmarking Supply Chain, o estudo anual de referência que avalia o nível de eficiência, a capacidade de resposta e a colaboração ao longo de toda a cadeia de valor do setor de grande consumo em […] O…",
+      "url": "https://www.briefing.pt/cetera/gs1-portugal-apresenta-resultados-da-14-a-edicao-do-benchmarking-supply-chain/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-10"
+    },
+    {
+      "id": "2026-09-10-la-mafia-se-sienta-a-la-mesa",
+      "titulo": "La Mafia se sienta a la mesa em Portugal celebra 4 anos de abertura do primeiro restaurante em Lisboa",
+      "resumo": "Há 4 anos o La Mafia se sienta a la mesa em Portugal abria as portas do primeiro restaurante, em Lisboa, no Parque das Nações. Nessa altura, era um conceito novo a chegar a um mercado que já conhecia bem a sua comida italiana. O desafio não era convencer, era conquistar espaço com identidade própria. […] O conteúdo …",
+      "url": "https://www.infofranchising.pt/la-mafia-se-sienta-a-la-mesa-lisboa/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-10"
+    },
     {
       "id": "2026-09-10-historica-garagem-atlantico-devolvida-ao-porto-como",
       "titulo": "Histórica Garagem Atlântico ‘devolvida’ ao Porto como espaço criativo após investimento de 10 milhões",
