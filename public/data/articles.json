@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-11T10:48:35.910Z",
+  "updatedAt": "2026-09-12T10:17:11.203Z",
   "articles": [
+    {
+      "id": "2026-09-11-logistica-circular-da-faber-group-evita-mais",
+      "titulo": "Logística circular da Faber Group evita mais de 40 mil toneladas de CO₂",
+      "resumo": "A Faber Group, empresa-mãe da IPP Pooling, evitou aos seus clientes mais de 40 mil toneladas de emissões de CO₂ em 2025 através da logística circular, ao substituir embalagens de utilização única por equipamentos de carga reutilizáveis, segundo o Relatório de Progresso em Sustentabilidade 2025 agora divulgado pela e…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/logistica-circular/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11-primark-abre-15-loja-em-portugal-no",
+      "titulo": "Primark abre 15.ª loja em Portugal no Alegro Setúbal",
+      "resumo": "A Primark abriu esta quarta-feira a sua nova loja no Alegro Setúbal, a primeira da marca na cidade, a terceira no distrito de Setúbal e a 15.ª em Portugal. O conteúdo Primark abre 15.ª loja em Portugal no Alegro Setúbal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/primark-abre-15-a-loja-em-portugal-no-alegro-setubal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-11"
+    },
     {
       "id": "2026-09-11-pizza-hut-abre-novo-restaurante-no-mira",
       "titulo": "Pizza Hut abre novo restaurante no Mira Maia Shopping",
