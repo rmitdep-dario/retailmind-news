@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-09-12T10:17:11.203Z",
+  "updatedAt": "2026-09-13T11:17:19.197Z",
   "articles": [
+    {
+      "id": "2026-09-12-plmj-assessora-davidson-kempner-e-ecs-em",
+      "titulo": "PLMJ assessora Davidson Kempner e ECS em joint venture logística na Península Ibérica",
+      "resumo": "A PLMJ assessorou a gestora de ativos norte-americana Davidson Kempner e a sociedade de private equity portuguesa ECS Capital na criação de uma joint venture com a Magna Industrial, promotora e construtora ibérica especializada em ativos logísticos, industriais e infraestruturas. A assessoria da PLMJ foi coordenada …",
+      "url": "https://eco.sapo.pt/2026/09/12/plmj-assessora-davidson-kempner-e-ecs-em-joint-venture-logistica-na-peninsula-iberica/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-12"
+    },
+    {
+      "id": "2026-09-12-turismo-nautico-cresce-mas-falta-de-infraestruturas",
+      "titulo": "Turismo náutico cresce, mas falta de infraestruturas trava expansão",
+      "resumo": "O turismo náutico mantém uma trajetória de crescimento em Portugal, mas a falta de infraestruturas ameaça limitar a expansão do setor. No Douro, um dos principais polos de turismo fluvial do país, os operadores apontam para uma época alta positiva, mas identificam as eclusas e os cais como alguns dos principais cons…",
+      "url": "https://eco.sapo.pt/2026/09/12/turismo-nautico-cresce-mas-falta-de-infraestruturas-trava-expansao/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-12"
+    },
+    {
+      "id": "2026-09-12-pepco-reforca-presenca-em-portugal-e-chega",
+      "titulo": "Pepco reforça presença em Portugal e chega às 31 lojas",
+      "resumo": "A Pepco, retalhista de artigos têxteis e decorativos fundada na Polónia, está a reforçar a expansão em Portugal com a abertura, ao longo de setembro, de quatro lojas. A retalhista revela que, três anos depois de entrar no mercado português, está a caminho de totalizar 31 lojas no território nacional. Com as novas ab…",
+      "url": "https://www.forbespt.com/pepco-reforca-presenca-em-portugal-e-chega-as-31-lojas/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-12"
+    },
+    {
+      "id": "2026-09-12-f45-la-cadena-internacional-de-gimnasios-presente",
+      "titulo": "F45, la cadena internacional de gimnasios presente en 66 países, llega a Colombia con millonaria inversión: así será su expansión",
+      "resumo": "En diálogo con Valora Analitik, Johan Cediel, gerente de F45 Training Colombia, dio detalles sobre la inversión, precios y expansión de la cadena en el país.",
+      "url": "https://www.valoraanalitik.com/f45-la-cadena-internacional-de-gimnasios-presente-en-66-paises-llega-a-colombia-con-millonaria-inversion-asi-sera-su-expansion/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao",
+        "marca-internacional-pt",
+        "investidores"
+      ],
+      "data": "2026-09-12"
+    },
+    {
+      "id": "2026-09-12-reconocida-marca-de-ropa-colombiana-tendra-ambicioso",
+      "titulo": "Reconocida marca de ropa colombiana tendrá ambicioso plan de expansión con millonaria inversión",
+      "resumo": "La marca de ropa antioqueña tendría su expansión en estas ciudades del país.",
+      "url": "https://www.valoraanalitik.com/reconocida-marca-de-ropa-colombiana-tendra-ambicioso-plan-de-expansion-con-millonaria-inversion/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao",
+        "investidores"
+      ],
+      "data": "2026-09-12"
+    },
     {
       "id": "2026-09-11-logistica-circular-da-faber-group-evita-mais",
       "titulo": "Logística circular da Faber Group evita mais de 40 mil toneladas de CO₂",
