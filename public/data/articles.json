@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-09-14T12:07:28.838Z",
+  "updatedAt": "2026-09-15T11:19:11.121Z",
   "articles": [
+    {
+      "id": "2026-09-15-mercadona-chega-ao-algarve-com-abertura-em",
+      "titulo": "Mercadona chega ao Algarve com abertura em Portimão",
+      "resumo": "A Mercadona vai abrir o novo supermercado de Portimão no dia 15 de outubro, integrado no Nova Vila Retail Park, numa abertura que marca a chegada da insígnia ao Algarve.",
+      "url": "https://www.distribuicaohoje.com/retalho/mercadona-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "retail-parks"
+      ],
+      "data": "2026-09-15"
+    },
+    {
+      "id": "2026-09-15-telepizza-estreia-conceito-grab-go-em-portugal",
+      "titulo": "Telepizza estreia conceito Grab&Go em Portugal",
+      "resumo": "A Telepizza estreia em Portugal o conceito Grab&Go com a abertura, a 16 de setembro, de uma nova loja na Avenida de Roma, em Lisboa. O conteúdo Telepizza estreia conceito Grab&Go em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/telepizza-estreia-conceito-grabgo-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-15"
+    },
+    {
+      "id": "2026-09-15-telepizza-muda-o-jogo-e-estreia-pizza",
+      "titulo": "Telepizza muda o jogo e estreia pizza à fatia num novo formato",
+      "resumo": "A Telepizza prepara-se para testar um novo formato de loja em Portugal. A marca abre, a 16 de setembro, uma unidade na Avenida de Roma, em Lisboa, que será a primeira a implementar o conceito Telepizza Grab&Go, pensado para responder a consumidores que procuram soluções rápidas, práticas e acessíveis.",
+      "url": "https://marketeer.sapo.pt/telepizza-muda-o-jogo-e-estreia-pizza-a-fatia-num-novo-formato/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-15"
+    },
+    {
+      "id": "2026-09-14-colgate-palmolive-avalia-venda-de-marcas-de",
+      "titulo": "Colgate-Palmolive avalia venda de marcas de cuidado pessoal",
+      "resumo": "A Colgate-Palmolive está a estudar a venda de algumas marcas do seu portefólio de cuidado pessoal , incluindo Softsoap, Irish Spring e Speed Stick , segundo fontes conhecedoras do processo citadas pela Reuters . A multinacional norte-americana estará a trabalhar com o banco de investimento Goldman Sachs para avaliar…",
+      "url": "https://www.distribuicaohoje.com/producao/colgate-palmolive-venda/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo",
+        "investidores"
+      ],
+      "data": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-jungheinrich-lanca-fundo-de-100-milhoes-de",
+      "titulo": "Jungheinrich lança fundo de 100 milhões de euros para Deep Tech",
+      "resumo": "A Uplift Ventures, unidade independente de corporate venturing criada pela Jungheinrich , lançou o seu primeiro fundo de capital de risco, no valor de 100 milhões de euros, destinado a apoiar a próxima geração de fundadores de empresas de Deep Tech na Europa.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/uplift-ventures/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "private-equity"
+      ],
+      "data": "2026-09-14"
+    },
+    {
+      "id": "2026-09-14-open-cosmos-recebe-300-milhoes-de-euros",
+      "titulo": "Open Cosmos recebe 300 milhões de euros de financiamento. Há capital português entre os investidores",
+      "resumo": "A Open Cosmos, empresa de space tech fundada em 2015 no Reino Unido por Rafel Jorda Siquier, acaba de anunciar que recolheu 300 milhões de euros de financiamento para acelerar a sua atividade na área da entrega de informação em tempo real e conectividade a partir do espaço. A empresa que tem instalações físicas no […",
+      "url": "https://www.forbespt.com/open-cosmos-recebe-300-milhoes-de-euros-de-financiamento-ha-capital-portugues-entre-os-investidores/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-14"
+    },
     {
       "id": "2026-09-14-lidl-atinge-marco-de-13-mil-lojas",
       "titulo": "Lidl atinge marco de 13 mil lojas em 32 países",
