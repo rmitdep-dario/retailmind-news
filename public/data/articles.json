@@ -1,6 +1,179 @@
 {
-  "updatedAt": "2026-09-15T11:19:11.121Z",
+  "updatedAt": "2026-09-16T11:02:07.102Z",
   "articles": [
+    {
+      "id": "2026-09-16-bizum-chega-a-portugal-e-abre-comercio",
+      "titulo": "Bizum chega a Portugal e abre comércio online a 30 milhões de espanhóis",
+      "resumo": "A Eupago lançou o Bizum em Portugal, passando o comércio online nacional a poder aceitar o meio de pagamento utilizado por mais de 30 milhões de consumidores em Espanha, segundo a empresa. A decisão parte, segundo a instituição de pagamentos portuguesa, da procura registada junto dos comerciantes nacionais que vende…",
+      "url": "https://www.distribuicaohoje.com/pagamentos/bizum/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-aldi-compra-participacao-na-filipina-dali-e",
+      "titulo": "Aldi compra participação na filipina Dali e reforça presença na Ásia",
+      "resumo": "O Aldi Süd adquiriu uma participação minoritária na cadeia filipina de discount Dali, num investimento estratégico cujo valor não foi divulgado. Com cerca de 1.300 lojas e mais de um milhão de clientes diários, a Dali continuará independente, enquanto o grupo alemão partilha conhecimento e reforça a sua expansão asi…",
+      "url": "https://grandeconsumo.com/aldi-compra-participacao-na-filipina-dali-e-reforca-presenca-na-asia/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao",
+        "investidores",
+        "aquisicoes"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-druni-aumenta-vendas-24-para-1-39",
+      "titulo": "Druni aumenta vendas 24% para 1,39 mil milhões de euros após integração da Arenal",
+      "resumo": "A Druni aumentou o volume de negócios consolidado em 24% em 2025, para 1.386,4 milhões de euros, impulsionada pela expansão da rede e pela integração da Arenal. O lucro líquido ultrapassou 50 milhões, com a cadeia galega a contribuir com quase um quarto desse resultado. O grupo terminou o ano com mais de 520 lojas e…",
+      "url": "https://grandeconsumo.com/druni-aumenta-vendas-24-para-139-mil-milhoes-de-euros-apos-integracao-da-arenal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-revolut-reforca-expansao-bancaria",
+      "titulo": "Revolut reforça expansão bancária",
+      "resumo": "Revolut reforça a expansão internacional, com nova licença bancária na Colômbia e pedido na Suíça, onde prevê investir 150 milhões de CHF O conteúdo Revolut reforça expansão bancária aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/revolut-reforca-expansao-bancaria/",
+      "fonte": "Grande Consumo",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-f-brica-de-100-milh-es-nos",
+      "titulo": "F�brica de 100 milh�es nos EUA aumenta at� 10% receitas da Hovione",
+      "resumo": "Expans�o da unidade em Nova J�rsia inaugurada um quarto de s�culo ap�s a chegada a terras do “Tio Sam” duplica a capacidade de secagem por pulveriza��o, tecnologia em que a Hovione � pioneira.",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/fabrica-de-100-milhoes-nos-eua-aumenta-ate-10-receitas-da-hovione",
+      "fonte": "Jornal de Negócios",
+      "pais": "Internacional",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-hovione-inaugura-fabrica-de-100-milhoes-em",
+      "titulo": "Hovione inaugura fábrica de 100 milhões em Nova Jérsia e duplica capacidade de secagem nos EUA",
+      "resumo": "A farmacêutica Hovione inaugurou a nova fábrica nos Estados Unidos, com cerca de 2.900 metros quadrados (m2), para duplicar a capacidade de spray drying (secagem por atomização) de forma a produzir outros medicamentos. A unidade de produção em Nova Jérsia, chamada 89 Twin Rivers, abre portas após um investimento tot…",
+      "url": "https://eco.sapo.pt/2026/09/16/hovione-inaugura-fabrica-de-100-milhoes-em-nova-jersia-e-duplica-capacidade-de-secagem-nos-eua/",
+      "fonte": "ECO",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-hovione-conclui-investimento-de-85-milhoes-de",
+      "titulo": "Hovione conclui investimento de 85 milhões de euros e duplica capacidade nos EUA",
+      "resumo": "A Hovione inaugurou uma nova unidade no campus de East Windsor, em Nova Jérsia, nos Estados Unidos, num investimento que duplica a capacidade de produção de spray drying da farmacêutica no país.",
+      "url": "https://executivedigest.sapo.pt/hovione-conclui-investimento-de-85-milhoes-de-euros-e-duplica-capacidade-nos-eua/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-homycasa-reforca-estrategia-de-marketing-com-nova",
+      "titulo": "HOMYCASA reforça estratégia de marketing com nova direção",
+      "resumo": "A HOMYCASA reforça a sua estrutura de marketing com a entrada de Carla Bastos da Fonseca para o cargo de diretora de Marketing e Digital. A profissional inicia assim um novo desafio no setor do mobiliário e decoração, onde ficará responsável por contribuir para a estratégia de marketing e presença digital da marca.",
+      "url": "https://marketeer.sapo.pt/homycasa-reforca-estrategia-de-marketing-com-nova-direcao/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-kosta-azul-espera-concluir-2026-con-casi",
+      "titulo": "Kosta Azul espera concluir 2026 con casi 20 tiendas a nivel nacional tras nuevas aperturas",
+      "resumo": "John Jairo Pulgarín, gerente general de Kosta Azul, habló sobre cómo está cambiando el perfil de sus clientes hacia una población más joven que busca versatilidad",
+      "url": "https://www.larepublica.co/empresas/kosta-azul-espera-cerrar-2026-con-19-tiendas-tras-nuevas-aperturas-4482573",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-tyba-supera-us-2-000-millones-en",
+      "titulo": "tyba supera US$2.000 millones en activos administrados de inversionistas en Colombia, Perú y Chile",
+      "resumo": "La plataforma de inversiones de Credicorp Capital cumple siete años en Colombia, donde más de 120.000 clientes han invertido a través de sus servicios.",
+      "url": "https://www.valoraanalitik.com/tyba-activos-administrados-colombia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-16"
+    },
+    {
+      "id": "2026-09-15-ikea-investe-34-milhoes-de-euros-para",
+      "titulo": "IKEA investe 34 milhões de euros para reduzir preços em Portugal",
+      "resumo": "A IKEA anunciou um investimento de 34 milhões de euros na redução dos preços de uma vasta gama de produtos no ano fiscal iniciado a 1 de setembro, num contexto em que o aumento do custo de vida continua a pesar nas decisões das famílias em Portugal.",
+      "url": "https://www.distribuicaohoje.com/retalho/ikea-3/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-15"
+    },
+    {
+      "id": "2026-09-15-marca-da-distribuicao-podera-atingir-44-das",
+      "titulo": "Marca da distribuição poderá atingir 44% das vendas na Europa Ocidental até 2030",
+      "resumo": "A marca da distribuição deverá aumentar a sua quota média na Europa Ocidental de 41% para cerca de 44% até 2030, segundo o Rabobank. O crescimento será sustentado pela maior confiança dos consumidores, expansão do discount, consolidação do retalho e profissionalização dos fabricantes de marca própria. O conteúdo Mar…",
+      "url": "https://grandeconsumo.com/marca-da-distribuicao-podera-atingir-44-das-vendas-na-europa-ocidental-ate-2030/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-15"
+    },
+    {
+      "id": "2026-09-15-srs-legal-assessora-addlife-na-aquisicao-da",
+      "titulo": "SRS Legal assessora Addlife na aquisição da Unicam Sistemas Analíticos",
+      "resumo": "A SRS Legal assessorou a AddLife na aquisição de 100% do capital social da Unicam Sistemas Analíticos, empresa portuguesa especializada na distribuição de equipamento laboratorial analítico avançado. A equipa da SRS Legal envolvida na operação foi liderada por Alexandra Valente, sócia responsável pelo Departamento d…",
+      "url": "https://www.infofranchising.pt/srs-legal-adlife/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-09-15"
+    },
+    {
+      "id": "2026-09-15-dhl-supply-chain-anuncio-la-adquisicion-del",
+      "titulo": "DHL Supply Chain anunció la adquisición del operador logístico Open Market",
+      "resumo": "La integración de Open Market añadirá a la red de DHL 21 almacenes con una superficie total de 120.000 metros cuadrados",
+      "url": "https://www.larepublica.co/empresas/dhl-supply-chain-anuncio-la-adquisicion-del-operador-logistico-open-market-4482509",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-09-15"
+    },
     {
       "id": "2026-09-15-mercadona-chega-ao-algarve-com-abertura-em",
       "titulo": "Mercadona chega ao Algarve com abertura em Portimão",
