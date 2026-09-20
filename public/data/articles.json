@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-09-19T10:29:43.637Z",
+  "updatedAt": "2026-09-20T10:51:37.057Z",
   "articles": [
+    {
+      "id": "2026-09-20-nissan-investe-200-m-para-produzir-novo",
+      "titulo": "Nissan investe 200 M€ para produzir novo modelo Kicks no Reino Unido",
+      "resumo": "A Nissan vai investir 170 milhões de libras (200 milhões de euros) na fábrica de Sunderland, no Reino Unido, para preparar a produção do novo Kicks, modelo que será lançado no mercado europeu. O investimento surge no ano em que a unidade britânica assinala quatro décadas de atividade e reforça o seu papel na estraté…",
+      "url": "https://www.forbespt.com/nissan-investe-200-me-para-produzir-novo-modelo-kicks-no-reino-unido/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-20"
+    },
+    {
+      "id": "2026-09-20-o-que-tem-no-carro-o-pingo",
+      "titulo": "“O que tem no carro? O Pingo Doce”. Já abriu o novo supermercado em Portugal",
+      "resumo": "O Pingo Doce tornou-se protagonista de um dos vídeos mais virais dos últimos dias, mas não por causa de uma nova campanha. Durante uma atuação de Bluay num evento no Cais do Sodré, em Lisboa, uma mulher aproximou-se do cantor, pegou no microfone e começou a cantar “O que tem no carro? O Pingo Doce.” […] The post “O …",
+      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/o-que-tem-no-carro-o-pingo-doce-ja-abriu-o-novo-supermercado-em-portugal",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-20"
+    },
+    {
+      "id": "2026-09-19-lider-da-paul-weiss-investe-em-luxo",
+      "titulo": "Líder da Paul Weiss investe em luxo no Algarve",
+      "resumo": "Neel Sachdev, vice-presidente global da sociedade de advogados Paul Weiss e responsável pelo escritório de Londres, está a investir num empreendimento de 11 moradias de luxo em Santa Bárbara de Nexe, no Algarve, segundo o Financial Times (acesso pago, em inglês). O advogado britânico acredita que a região pode torna…",
+      "url": "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-19"
+    },
+    {
+      "id": "2026-09-19-a-marca-de-beleza-que-esta-a",
+      "titulo": "A marca de beleza que está a conquistar Lisboa prepara mais uma abertura",
+      "resumo": "A Primor continua a acelerar a expansão da sua rede em Portugal e prepara uma nova abertura na região de Lisboa. A cadeia espanhola de perfumaria e cosmética inaugura, hoje, uma loja no Campera Outlet Shopping, no Carregado, reforçando a presença numa das principais zonas comerciais do país.",
+      "url": "https://marketeer.sapo.pt/a-marca-de-beleza-que-esta-a-conquistar-lisboa-prepara-mais-uma-abertura/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-19"
+    },
     {
       "id": "2026-09-19-noel-tata-raises-strong-objection-to-tata",
       "titulo": "Noel Tata raises ‘strong objection’ to Tata Sons conduct, calls Chandra vote ‘null and void’",
