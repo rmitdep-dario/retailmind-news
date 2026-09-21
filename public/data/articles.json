@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-09-20T10:51:37.057Z",
+  "updatedAt": "2026-09-21T12:16:59.694Z",
   "articles": [
+    {
+      "id": "2026-09-21-google-retira-carrosseis-de-produtos-dos-resultados",
+      "titulo": "Google retira carrosséis de produtos dos resultados de pesquisa na Europa",
+      "resumo": "A Google começou a retirar quase totalmente os carrosséis e grelhas de produtos dos resultados de pesquisa relacionados com compras no Espaço Económico Europeu (EEE) , numa alteração destinada a cumprir as exigências do Digital Markets Act (DMA) . A mudança afeta os 27 Estados-membros da União Europeia, incluindo Po…",
+      "url": "https://www.distribuicaohoje.com/customer-experience/google-carrosseis-dma/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-festivais-impulsionam-consumo-local",
+      "titulo": "Festivais impulsionam consumo local",
+      "resumo": "Uma análise da UNICRE mostra que os festivais impulsionam significativamente o consumo local. O EDP Vilar de Mouros liderou o crescimento da faturação, com mais 36,79% em Caminha, enquanto o NOS Alive registou o maior aumento de transações. O conteúdo Festivais impulsionam consumo local aparece primeiro em Grande Co…",
+      "url": "https://grandeconsumo.com/festivais-impulsionam-consumo-local/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-a-logistica-ja-nao-deve-ser-vista",
+      "titulo": "“A logística já não deve ser vista apenas como aquilo que acontece no final de uma compra”",
+      "resumo": "A DPD Portugal lança hoje o Singular, uma montra digital dedicada a pequenos e médios produtores portugueses do setor alimentar, que combina descoberta de produtos, venda direta e uma operação logística especializada através do DPD Fresh. O conteúdo “A logística já não deve ser vista apenas como aquilo que acontece …",
+      "url": "https://grandeconsumo.com/a-logistica-ja-nao-deve-ser-vista-apenas-como-aquilo-que-acontece-no-final-de-uma-compra/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-nos-no-centro-regressa-com-livro-de",
+      "titulo": "“Nós no Centro” regressa com livro de receitas e de memórias de colaboradores dos centros",
+      "resumo": "Depois de uma primeira edição dedicada aos rostos que dão vida aos seus espaços, o Freeport Lisboa Fashion Outlet e o Vila do Conde Porto Fashion Outlet apresentam uma nova edição de “Nós no Centro”, um projeto que continua a celebrar as pessoas que fazem parte das diferentes equipas dos dois centros. Desta vez, a […",
+      "url": "https://www.briefing.pt/cetera/nos-no-centro-regressa-com-livro-de-receitas-e-de-memorias-de-colaboradores-dos-centros/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-via-outlets-transforma-memorias-dos-colaboradores-em",
+      "titulo": "VIA Outlets transforma memórias dos colaboradores em livro de receitas",
+      "resumo": "Depois de uma primeira edição dedicada aos rostos das equipas, o Freeport Lisboa Fashion Outlet e o Vila do Conde Porto Fashion Outlet dão continuidade ao projeto “Nós no Centro” com “Sabores Que Nos Unem”, um livro que reúne receitas, memórias e histórias pessoais dos colaboradores dos dois centros.",
+      "url": "https://marketeer.sapo.pt/via-outlets-transforma-memorias-dos-colaboradores-em-livro-de-receitas/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-a-manicure-tambem-tem-dress-code-5",
+      "titulo": "A manicure também tem dress code: 5 regras para acertar no escritório",
+      "resumo": "Regressar ao trabalho depois das férias costuma significar voltar a reuniões e longas horas em frente ao computador. E, se o guarda-roupa também se adapta ao ambiente profissional, a manicure pode seguir a mesma lógica. Não existe um “nail code” com regras obrigatórias para o escritório, mas há escolhas que podem to…",
+      "url": "https://www.nit.pt/compras/beleza/do-comprimento-a-cor-5-regras-para-uma-manicure-de-escritorio",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-logistics-firms-bulk-up-hiring-capacity-to",
+      "titulo": "Logistics firms bulk up hiring, capacity to carry heavier festival loads",
+      "resumo": "As the festive season approaches, Indian logistics firms are bracing for a notable spike in shipment volumes. Companies like DTDC and Blue Dart are ramping up their workforce, bringing in temporary employees to handle the anticipated delivery surge. Amazon is also enhancing its fulfillment and delivery networks to a…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/logistics-firms-bulk-up-hiring-capacity-to-carry-heavier-festival-loads/134379123",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-21-revolut-aterriza-en-colombia-con-cinco-planes",
+      "titulo": "Revolut aterriza en Colombia con cinco planes de suscripción y una propuesta de libre elección para los usuarios",
+      "resumo": "Colombia será el primer mercado en el que Revolut lanzará desde el primer día el portafolio integral que ofrece en Europa.",
+      "url": "https://www.valoraanalitik.com/revolut-aterriza-en-colombia-con-cinco-planes-de-suscripcion-y-una-propuesta-de-libre-eleccion-para-los-usuarios/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-21"
+    },
+    {
+      "id": "2026-09-20-mas-de-3-800-empresas-colombianas-ya",
+      "titulo": "Más de 3.800 empresas colombianas ya venden en EE.UU. y la demanda crece en tecnología, logística y salud",
+      "resumo": "Cerca de una tercera parte de las firmas exportadoras del país ya está en ese mercado, pese a la percepción de que se trata de un destino saturado.",
+      "url": "https://www.valoraanalitik.com/exportaciones-colombia-estados-unidos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-20"
+    },
     {
       "id": "2026-09-20-nissan-investe-200-m-para-produzir-novo",
       "titulo": "Nissan investe 200 M€ para produzir novo modelo Kicks no Reino Unido",
