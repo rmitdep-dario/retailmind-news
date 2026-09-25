@@ -1,6 +1,103 @@
 {
-  "updatedAt": "2026-09-24T11:18:43.703Z",
+  "updatedAt": "2026-09-25T11:23:38.631Z",
   "articles": [
+    {
+      "id": "2026-09-25-grupo-mosqueteiros-valorizou-86-dos-residuos-na",
+      "titulo": "Grupo Mosqueteiros valorizou 86% dos resíduos na logística em 2025",
+      "resumo": "O Grupo Mosqueteiros valorizou 86% dos resíduos gerados nas suas bases logísticas em Portugal em 2025, o equivalente a mais de 1.700 toneladas. O dado consta do balanço da estratégia de sustentabilidade divulgado pelo grupo, que abrange áreas como a economia circular, a eficiência energética e operacional, a mobilid…",
+      "url": "https://www.distribuicaohoje.com/retalho/mosqueteiros-residuos/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-starbucks-fecha-cerca-de-250-lojas-e",
+      "titulo": "Starbucks fecha cerca de 250 lojas e revê expansão global",
+      "resumo": "A Starbucks vai encerrar cerca de 250 lojas na América do Norte, após identificar espaços onde não considera possível alcançar o desempenho financeiro ou proporcionar a experiência de cliente pretendidos. A decisão , anunciada a 24 de setembro, integra a estratégia «Back to Starbucks» e leva a empresa a reduzir a pr…",
+      "url": "https://www.distribuicaohoje.com/retalho/starbucks-fecha-250-lojas/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-marc-jacobs-escolhe-novo-lider-de-marketing",
+      "titulo": "Marc Jacobs escolhe novo líder de marketing para acelerar expansão global",
+      "resumo": "A Marc Jacobs vai ter um novo responsável pela estratégia de marketing. John Wattiker assume o cargo de Chief Marketing Officer (CMO) a 28 de setembro, sucedendo a Kristin Patrick e reportando diretamente ao CEO da marca, Eric Marechalle.",
+      "url": "https://marketeer.sapo.pt/marc-jacobs-escolhe-novo-lider-de-marketing-para-acelerar-expansao-global/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-marca-italiana-de-moda-chega-a-portugal",
+      "titulo": "Marca italiana de moda chega a Portugal pela primeira vez e escolhe o Algarve para abrir loja",
+      "resumo": "O Designer Outlet Algarve acaba de ganhar uma nova marca internacional. A italiana Harmont & Blaine abriu no espaço comercial a sua primeira loja própria em Portugal, numa área de 78,50 m².",
+      "url": "https://marketeer.sapo.pt/marca-italiana-de-moda-chega-a-portugal-pela-primeira-vez-e-escolhe-o-algarve-para-abrir-loja/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-gen-z-prioritises-quality-transparency-as-ai",
+      "titulo": "Gen Z prioritises quality, transparency as AI reshapes shopping behaviour: Study",
+      "resumo": "AI is also becoming part of the evaluation process. Nearly six in 10 respondents said they use AI at least occasionally for product research, primarily to compare products, evaluate options and find prices. While 70 per cent said they were comfortable with AI recommending products and services, only 49 per cent were…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/gen-z-prioritises-quality-transparency-as-ai-reshapes-shopping-behaviour-study/134480217",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "licenciamento"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-india-records-highest-ever-fdi-of-94",
+      "titulo": "India records highest-ever FDI of $94.53 billion in FY26, inflows since 2014 reach $843 billion: Piyush Goyal",
+      "resumo": "India achieved its highest-ever annual Foreign Direct Investment of USD 94.53 billion in FY 2025-26. Cumulative FDI inflows from FY 2014-15 to FY 2025-26 reached USD 843 billion. The Production Linked Incentive schemes have attracted significant investments and generated millions of jobs. Key sectors benefited inclu…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/india-records-highest-ever-fdi-of-94-53-billion-in-fy26-inflows-since-2014-reach-843-billion-piyush-goyal/134477658",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investidores",
+        "investimento-estrangeiro"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-24-a-inovacao-tecnologica-e-a-ia-assumem",
+      "titulo": "“A inovação tecnológica e a IA assumem um papel cada vez mais relevante na evolução da operação dos CTT”",
+      "resumo": "Ao fim de seis anos de operação conjunta, os CTT Logística e a note! mantêm uma parceria assente num modelo de fulfillment integrado que cobre toda a cadeia logística dos manuais escolares, desde a receção e gestão de stocks à preparação de encomendas, distribuição e logística inversa. A operação tem vindo a adaptar…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/inovacao-ia-ctt/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-24"
+    },
+    {
+      "id": "2026-09-24-isagen-vendio-activos-de-generacion-hidroelectrica-y",
+      "titulo": "Isagen vendió activos de generación hidroeléctrica y solar a BTG Pactual y EDF",
+      "resumo": "La compañía suscribió un acuerdo para la venta las centrales El Popal, El Molino, San Miguel y San Matías, así como por los parques solares Llanos I, II, III, IV y V",
+      "url": "https://www.larepublica.co/empresas/veta-de-activos-de-generacion-de-isagen-4489380",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-09-24"
+    },
     {
       "id": "2026-09-24-ia-disponibilidade-e-personalizacao-estudo-mostra-como",
       "titulo": "IA, disponibilidade e personalização: Estudo mostra como consumidores olham para o futuro da alimentação",
@@ -6025,46 +6122,6 @@
         "compra-venda-ativo"
       ],
       "data": "2026-05-11"
-    },
-    {
-      "id": "2026-03-16-mercadona-viseu-covilha",
-      "titulo": "Mercadona com novas lojas em Viseu e na Covilhã",
-      "resumo": "A cadeia Mercadona abriu novas lojas em Viseu e na Covilhã, dando continuidade ao plano de expansão em Portugal.",
-      "url": "https://hipersuper.pt/2026/03/16/mercadona-com-novas-lojas-em-viseu-e-na-covilha",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-03-16"
-    },
-    {
-      "id": "2026-03-02-investimento-retalho-840me",
-      "titulo": "Investimento no retalho em Portugal atinge 840M€ em 2025",
-      "resumo": "O segmento de retalho atraiu 840 milhões de euros de investimento em Portugal em 2025, um dos valores mais expressivos dos últimos anos.",
-      "url": "https://www.construir.pt/2026/03/02/investimento-no-retalho-em-portugal-atinge-840me-em-2025",
-      "fonte": "Construir",
-      "pais": "Portugal",
-      "temas": [
-        "investidores",
-        "compra-venda-ativo"
-      ],
-      "data": "2026-03-02"
-    },
-    {
-      "id": "2024-12-03-retail-mind-quatro-retail-parks",
-      "titulo": "Retail Mind desenvolve quatro novos retail parks em Portugal até 2027",
-      "resumo": "A Retail Mind desenvolve quatro novos retail parks em Portugal — em Póvoa de Varzim, Ponta Delgada, Felgueiras e Cantanhede — num investimento de 150 milhões de euros e cerca de 2.000 postos de trabalho.",
-      "url": "https://www.construir.pt/2024/12/03/retail-mind-desenvolve-quatro-novos-retail-parks-em-portugal-ate-2027",
-      "fonte": "Construir",
-      "pais": "Portugal",
-      "temas": [
-        "retail-parks",
-        "promotores",
-        "licenciamento"
-      ],
-      "data": "2024-12-03"
     }
   ]
 }
