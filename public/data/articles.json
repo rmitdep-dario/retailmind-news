@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-09-25T11:23:38.631Z",
+  "updatedAt": "2026-09-26T10:59:30.926Z",
   "articles": [
+    {
+      "id": "2026-09-26-fusao-paramount-e-warner-bros-cria-gigante",
+      "titulo": "Fusão Paramount e Warner Bros cria gigante nos media",
+      "resumo": "Fusão entre as duas empresas cria o segundo maior operador no streaming e pode igualar a liderança da Disney nos cinemas.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/fusao-paramount-e-warner-bros-cria-gigante-nos-media/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "ma-operadores"
+      ],
+      "data": "2026-09-26"
+    },
+    {
+      "id": "2026-09-26-weekly-expansion-recap-third-wave-coffee-targets",
+      "titulo": "Weekly expansion recap: Third Wave Coffee targets 320 cafés, Pepe Jeans expands Bengaluru footprint",
+      "resumo": "Retail and consumer brands across coffee, fashion, FMCG, salon, jewellery and paints are stepping up expansion, with plans spanning new stores, manufacturing capacity, category diversification and deeper penetration into emerging markets.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/weekly-expansion-recap-third-wave-coffee-targets-320-cafs-pepe-jeans-expands-bengaluru-footprint/134501126",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-09-26"
+    },
+    {
+      "id": "2026-09-25-chanel-mantem-investimento-na-china-apesar-do",
+      "titulo": "Chanel mantém investimento na China apesar do abrandamento do luxo",
+      "resumo": "A Chanel vai manter o investimento na China, apesar do abrandamento do consumo de luxo no país, e defende uma estratégia de longo prazo naquele que considera um dos seus principais mercados.",
+      "url": "https://www.distribuicaohoje.com/retalho/chanel/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-nestle-reforca-descarbonizacao-das-operacoes-em-portugal",
+      "titulo": "Nestlé reforça descarbonização das operações em Portugal",
+      "resumo": "A Nestlé Portugal reforçou o investimento em eficiência energética e descarbonização das suas operações industriais, com projetos nas fábricas de cereais de Avanca e de café torrado do Porto, as duas unidades que a empresa aponta como estratégicas na operação nacional. O anúncio foi feito em comunicado divulgado no …",
+      "url": "https://www.distribuicaohoje.com/producao/nestle-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-starbucks-fecha-250-lojas-e-abranda-expansao",
+      "titulo": "Starbucks fecha 250 lojas e abranda expansão global",
+      "resumo": "A Starbucks vai fechar 250 lojas com desempenho abaixo do esperado na América do Norte, no âmbito do plano de recuperação liderado pelo CEO Brian Niccol. O conteúdo Starbucks fecha 250 lojas e abranda expansão global aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/starbucks-fecha-250-lojas-e-abranda-expansao-global/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-25"
+    },
+    {
+      "id": "2026-09-25-a-adega-do-cartaxo-estreia-se-nos",
+      "titulo": "A Adega do Cartaxo estreia-se nos vinhos desalcoolizados",
+      "resumo": "Com esta nova insígnia, a Adega do Cartaxo pretende entrar num mercado em crescimento, num contexto em que os hábitos de consumo de vinho estão a mudar e em que cresce a procura por produtos com baixo teor alcoólico. O diretor de enologia afirma que foi um “desafio grande” avançar com este projeto, porque ainda […] …",
+      "url": "https://www.briefing.pt/noticias/a-adega-do-cartaxo-estreia-se-nos-vinhos-desalcoolizados/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-25"
+    },
     {
       "id": "2026-09-25-grupo-mosqueteiros-valorizou-86-dos-residuos-na",
       "titulo": "Grupo Mosqueteiros valorizou 86% dos resíduos na logística em 2025",
@@ -6044,84 +6117,6 @@
         "nova-loja"
       ],
       "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-17-mo-alegro-alfragide",
-      "titulo": "MO reforça plano de expansão com nova loja no Alegro Alfragide",
-      "resumo": "A MO inaugurou uma nova loja no Alegro Alfragide — a quinta abertura da marca em 2026 — reforçando a expansão na Grande Lisboa.",
-      "url": "https://hipersuper.pt/2026/07/17/mo-reforca-plano-de-expansao-com-nova-loja-no-alegro-alfragide",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-07-17"
-    },
-    {
-      "id": "2026-07-16-meu-super-miranda-corvo",
-      "titulo": "Meu Super abre nova loja em Miranda do Corvo",
-      "resumo": "A insígnia de proximidade Meu Super continua a expansão da rede com uma nova loja em Miranda do Corvo.",
-      "url": "https://hipersuper.pt/2026/07/16/meu-super-abre-nova-loja-em-miranda-do-corvo",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-16"
-    },
-    {
-      "id": "2026-07-09-mo-nova-arcada",
-      "titulo": "MO abre loja no Nova Arcada e chega a 135 espaços em Portugal",
-      "resumo": "A MO abriu uma loja no centro comercial Nova Arcada, em Braga, atingindo 135 espaços no país, no âmbito do plano de modernização e expansão.",
-      "url": "https://hipersuper.pt/2026/07/09/mo-abre-loja-no-nova-arcada-e-chega-a-135-espacos-em-portugal",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-07-09"
-    },
-    {
-      "id": "2026-07-07-springfield-atrium-saldanha",
-      "titulo": "Springfield abre nova loja no Atrium Saldanha",
-      "resumo": "A Springfield inaugurou uma nova loja no centro comercial Atrium Saldanha, no centro de Lisboa.",
-      "url": "https://hipersuper.pt/2026/07/07/springfield-abre-nova-loja-no-atrium-saldanha",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-07"
-    },
-    {
-      "id": "2026-05-28-primaprix-lisboa-savills",
-      "titulo": "PrimaPrix abre quarta loja em Lisboa com apoio da Savills",
-      "resumo": "A cadeia espanhola de descontos PrimaPrix abriu a quarta loja em Lisboa, numa operação com assessoria da Savills, reforçando a entrada no mercado português.",
-      "url": "https://hipersuper.pt/2026/05/28/primaprix-abre-quarta-loja-em-lisboa-com-apoio-da-savills",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao",
-        "marca-internacional-pt"
-      ],
-      "data": "2026-05-28"
-    },
-    {
-      "id": "2026-05-11-investimento-comercial-1t",
-      "titulo": "Investimento imobiliário comercial em Portugal cresce 35% no primeiro trimestre face a 2025",
-      "resumo": "O investimento em imobiliário comercial arrancou 2026 com 311 milhões de euros no primeiro trimestre (+35% face a 2025), com hotelaria e retalho como segmentos em destaque.",
-      "url": "https://www.construir.pt/2026/05/11/investimento-imobiliario-comercial-em-portugal-cresce-35-no-primeiro-trimestre-face-a-2025",
-      "fonte": "Construir",
-      "pais": "Portugal",
-      "temas": [
-        "investidores",
-        "investimento-estrangeiro",
-        "compra-venda-ativo"
-      ],
-      "data": "2026-05-11"
     }
   ]
 }
