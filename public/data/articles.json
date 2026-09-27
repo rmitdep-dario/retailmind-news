@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-26T10:59:30.926Z",
+  "updatedAt": "2026-09-27T11:37:31.458Z",
   "articles": [
+    {
+      "id": "2026-09-27-sabseg-ultrapassa-12-milhoes-de-euros-de",
+      "titulo": "Sabseg ultrapassa 12 milhões de euros de faturação na Madeira",
+      "resumo": "A corretora de seguros Sabseg já fatura mais de 12 milhões de euros na Madeira, numa operação que conta atualmente com dois escritórios e oito colaboradores no arquipélago. A revelação foi feita por Ricardo Vieira, coordenador da operação da corretora, durante a visita do presidente do Governo Regional, Miguel Albuq…",
+      "url": "https://eco.sapo.pt/2026/09/27/sabseg-ultrapassa-12-milhoes-de-euros-de-faturacao-na-madeira/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-27"
+    },
     {
       "id": "2026-09-26-fusao-paramount-e-warner-bros-cria-gigante",
       "titulo": "Fusão Paramount e Warner Bros cria gigante nos media",
@@ -6102,19 +6114,6 @@
       "pais": "Portugal",
       "temas": [
         "ceo-direcao"
-      ],
-      "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-23-retalho-expansao-verao",
-      "titulo": "Retalho em expansão: Verão acelera aberturas em Portugal",
-      "resumo": "As marcas intensificam a abertura de lojas durante o verão, sobretudo em zonas turísticas, onde a experiência em loja assume maior peso.",
-      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-55/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao",
-        "nova-loja"
       ],
       "data": "2026-07-23"
     }
