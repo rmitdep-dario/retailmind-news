@@ -1,6 +1,117 @@
 {
-  "updatedAt": "2026-09-27T11:37:31.458Z",
+  "updatedAt": "2026-09-28T13:12:47.239Z",
   "articles": [
+    {
+      "id": "2026-09-28-dhl-logistics-trend-radar-ia-passa-da",
+      "titulo": "DHL Logistics Trend Radar: IA passa da assistência à ação",
+      "resumo": "A inteligência artificial (IA) está a deixar de ser apenas um assistente digital e começa a planear e executar ações nas cadeias de abastecimento, conclui o DHL Logistics Trend Radar 8.0, que sublinha, ao mesmo tempo, que as pessoas continuam no centro da logística.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/dhl-logistics-trend-radar/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-pepco-lanca-ursinhos-solidarios-para-apoiar-aldeias",
+      "titulo": "Pepco lança ursinhos solidários para apoiar Aldeias de Crianças SOS",
+      "resumo": "A Pepco lançou, nos 19 mercados onde está presente, uma nova edição dos seus ursinhos de peluche solidários, com 100% do lucro das vendas destinado a causas de apoio a crianças e jovens. O conteúdo Pepco lança ursinhos solidários para apoiar Aldeias de Crianças SOS aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/pepco-lanca-ursinhos-solidarios-para-apoiar-aldeias-de-criancas-sos/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-amanhecer-com-nova-loja-no-barreiro",
+      "titulo": "Amanhecer com nova loja no Barreiro",
+      "resumo": "Nova unidade reforça a presença da rede no distrito de Setúbal, com foco na proximidade, no atendimento personalizado e no comércio local O conteúdo Amanhecer com nova loja no Barreiro aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/amanhecer-com-nova-loja-no-barreiro/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-palletways-reforca-rede-em-portugal",
+      "titulo": "Palletways reforça rede em Portugal",
+      "resumo": "Expansão acrescenta capacidade em Arruda dos Vinhos, São Domingos de Rana e Perafita, reforçando a cobertura e tempos de trânsito no país O conteúdo Palletways reforça rede em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/palletways-reforca-rede-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-corum-adquire-em-seis-ativos-imobiliarios-em",
+      "titulo": "Corum adquire em seis ativos imobiliários em cinco países europeus",
+      "resumo": "As operações foram realizadas sem custos de aquisição e abrangem diferentes segmentos, incluindo escritórios, retalho e educação, numa estratégia de diversificação geográfica e setorial.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/corum-adquire-em-seis-ativos-imobiliarios-em-cinco-paises-europeus/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-large-malls-to-dominate-india-s-retail",
+      "titulo": "Large malls to dominate India's retail pipeline; 51.1 million sq. ft. expansion likely by 2031",
+      "resumo": "Indian real estate developers are expected to add nearly 51.1 million sq. ft. of new shopping mall space over the next five years, propelling the total shopping mall stock to 143.2 million sq. ft. by the end of 2031, a report said on Monday.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/large-malls-to-dominate-indias-retail-pipeline-51-1-million-sq-ft-expansion-likely-by-2031/134535460",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "promotores"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-el-16-de-noviembre-tendra-lugar-la",
+      "titulo": "El 16 de noviembre tendrá lugar la primera Milagro Week, encuentro de Colombia con inversionistas del mundo",
+      "resumo": "El vicepresidente, José Manuel Restrepo, ya había presentado un portafolio compuesto por 176 proyectos en la Asamblea General de la ONU.",
+      "url": "https://www.valoraanalitik.com/el-16-de-noviembre-tendra-lugar-la-primera-milagro-week-encuentro-de-colombia-con-inversionistas-del-mundo/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-27-aicep-abre-escritorio-para-apoiar-negocios-entre",
+      "titulo": "AICEP abre escritório para apoiar negócios entre empresas lusas e venezuelanas",
+      "resumo": "A Agência para o Investimento e Comércio Externo de Portugal (AICEP), vai abrir em breve um escritório comercial junto da embaixada lusa em Caracas para servir de apoio a negócios entre empresas portuguesas e venezuelanas. O anúncio foi feito em Caracas pelo assessor do Conselho da Administração da AICEP, João Mota …",
+      "url": "https://www.forbespt.com/aicep-abre-escritorio-para-apoiar-negocios-entre-empresas-lusas-e-venezuelanas/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "escritorios"
+      ],
+      "data": "2026-09-27"
+    },
+    {
+      "id": "2026-09-27-de-la-espriella-anuncia-una-inversion-de",
+      "titulo": "De la Espriella anuncia una inversión de US$1.000 millones por parte de PepsiCo en el país",
+      "resumo": "La compañía ya cuenta con dos plantas de producción en Colombia, una en Funza, en Cundinamarca, y otra más en Guarne, Antioquia, además de varios centros de distribución y un portafolio de más de 20 marcas.",
+      "url": "https://www.larepublica.co/empresas/de-la-espriella-anuncia-inversion-de-us-1-000-millones-por-parte-de-pepsico-en-colombia-4491464",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-27"
+    },
     {
       "id": "2026-09-27-sabseg-ultrapassa-12-milhoes-de-euros-de",
       "titulo": "Sabseg ultrapassa 12 milhões de euros de faturação na Madeira",
@@ -6000,122 +6111,6 @@
         "investidores"
       ],
       "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-24-mercado-imobiliario-arranque-robusto",
-      "titulo": "Mercado imobiliário comercial em Portugal com arranque robusto e positivo em 2026",
-      "resumo": "O mercado de imobiliário comercial português arrancou 2026 em força, com retalho e hotelaria a concentrarem mais de 70% do investimento e o capital estrangeiro a representar 58% do volume.",
-      "url": "https://imobiliario.publico.pt/noticias/mercado-imobiliario-comercial-portugal-com-arranque-robusto-positivo-2026/",
-      "fonte": "Público Imobiliário",
-      "pais": "Portugal",
-      "temas": [
-        "investidores",
-        "investimento-estrangeiro"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-24-by-velcheva-cascaishopping",
-      "titulo": "By Velcheva abre segunda boutique portuguesa no CascaiShopping",
-      "resumo": "A marca de perfumaria ucraniana By Velcheva inaugurou a sua segunda loja em Portugal, no CascaiShopping, com foco em fragrâncias premium e experiências sensoriais.",
-      "url": "https://www.nit.pt/compras/lojas-e-marcas/a-segunda-boutique-da-by-velcheva-ja-abriu-no-cascaishopping",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "cc-novas-entradas",
-        "marca-internacional-pt"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-24-cttexpress-entregas-fora-casa",
-      "titulo": "CTTexpress cresce 64% nas entregas fora de casa na Península Ibérica",
-      "resumo": "A CTTexpress registou 4,8 milhões de envios fora de casa no primeiro semestre (+64%), sinal da nova dinâmica logística do e-commerce ibérico.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/nova-dinamica-entregas-ctt/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica",
-        "resultados"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-24-cayet-popup-quinta-do-lago",
-      "titulo": "Cayet abre pop-up de verão na Quinta do Lago",
-      "resumo": "A marca portuguesa de moda feminina Cayet apresenta a coleção de verão num espaço pop-up no BeCode Quinta do Lago, no Algarve.",
-      "url": "https://www.nit.pt/compras/lojas-e-marcas/marca-portuguesa-adorada-por-georgina-rodriguez-abre-pop-up-de-verao-no-algarve",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-23-mcdonalds-pib-777m",
-      "titulo": "McDonald's contribuiu com 777 milhões de euros para o PIB português em 2025",
-      "resumo": "A McDonald's Portugal sustentou 16.900 postos de trabalho e gerou mais de 197,6 milhões de euros em receitas públicas em 2025.",
-      "url": "https://www.distribuicaohoje.com/retalho/mcdonalds-pib-em-2025/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-24-nestle-venda-aguas",
-      "titulo": "Nestlé reestrutura portefólio com venda parcial da divisão de águas",
-      "resumo": "A Nestlé avança com a venda parcial da divisão de águas, numa reestruturação de portefólio; registou 43,1 mil milhões de francos suíços de vendas no primeiro semestre, com crescimento orgânico de 3,6%.",
-      "url": "https://www.distribuicaohoje.com/producao/nestle-portefolio/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-23-max-mara-avenida-liberdade",
-      "titulo": "Savills assessora Max Mara na abertura de nova loja na Avenida da Liberdade",
-      "resumo": "A Weekend Max Mara abriu uma loja de cerca de 360 m² na Avenida da Liberdade, em Lisboa, numa operação assessorada pela Savills.",
-      "url": "https://hipersuper.pt/2026/07/23/savills-assessora-max-mara-na-abertura-de-nova-loja-na-avenida-da-liberdade",
-      "fonte": "Hipersuper",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-internacional-pt",
-        "investidores"
-      ],
-      "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-23-id-logistics-2t",
-      "titulo": "ID Logistics cresce 22,4% no segundo trimestre",
-      "resumo": "A operadora logística ID Logistics registou receitas de 1.093,9 milhões de euros no segundo trimestre, com crescimento comparável de 22,6%.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/id-logistics-2o-trimestre/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "logistica",
-        "resultados"
-      ],
-      "data": "2026-07-23"
-    },
-    {
-      "id": "2026-07-23-sumol-compal-comissao-executiva",
-      "titulo": "Sumol Compal renova Comissão Executiva para o ciclo estratégico 2026-2028",
-      "resumo": "A Sumol Compal reestruturou a comissão executiva, alinhada com um plano estratégico que visa 20% de crescimento das receitas até 2028, atingindo 500 milhões de euros.",
-      "url": "https://www.distribuicaohoje.com/producao/sumol-compal-comissao-executiva/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-07-23"
     }
   ]
 }
