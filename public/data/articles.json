@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-28T13:12:47.239Z",
+  "updatedAt": "2026-09-29T12:20:59.753Z",
   "articles": [
+    {
+      "id": "2026-09-29-o-espaco-nunca-teve-tanto-dinheiro-mas",
+      "titulo": "“O espaço nunca teve tanto dinheiro”, mas Portugal precisa de escala para transformar investimento em capacidade",
+      "resumo": "“O espaço nunca teve tanto dinheiro. Desde 2023 até agora, teve quase 700 milhões de euros“, destacou Ricardo Conde, presidente da Agência Espacial Portuguesa, durante no painel da talk eRadar – Portugal na Era da Defesa, com o tema “Drones, Espaço e Novos Materiais: Onde Pode Portugal Ser Estratégico para a Defesa …",
+      "url": "https://eco.sapo.pt/2026/09/29/o-espaco-nunca-teve-tanto-dinheiro-mas-portugal-precisa-de-escala-para-transformar-investimento-em-capacidade/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-ahm-vai-buscar-novo-diretor-de-marketing",
+      "titulo": "AHM vai buscar novo diretor de marketing ao grupo dono do Vitaminas e Wok to Walk",
+      "resumo": "O profissional deixa o grupo Plateform, onde era marketing and communication director, para assumir a estratégia e o posicionamento das marcas da AHM - Ace Hospitality Management, que gere atualmente 15 hotéis, 13 restaurantes e três spas em Portugal.",
+      "url": "https://marketeer.sapo.pt/ahm-vai-buscar-novo-diretor-de-marketing-ao-grupo-dono-do-vitaminas-e-wok-to-walk/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-09-29"
+    },
+    {
+      "id": "2026-09-28-distribuicao-hoje-junta-retalho-marcas-e-tecnologia",
+      "titulo": "Distribuição Hoje junta retalho, marcas e tecnologia no In Retail, Brands & CX",
+      "resumo": "O In Retail, Brands & CX , evento organizado pela Distribuição Hoje e a Skolae Formação , volta a realizar-se nos dias 20, 21 e 22 de outubro , no Lagoas Park , em Oeiras, este ano com o tema End-to-End Commerce . O evento, que vai já na sua 16.º edição, vai reunir retalhistas, marcas e especialistas para debater a …",
+      "url": "https://www.distribuicaohoje.com/retalho/in-retail-marcas-retalho/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-dos-detergentes-ao-espaco-henkel-celebra-150",
+      "titulo": "Dos detergentes ao espaço: Henkel celebra 150 anos de transformação",
+      "resumo": "A Henkel celebra 150 anos de atividade com uma trajetória que liga marcas de consumo a soluções para mobilidade elétrica, eletrónica, construção e indústria aeroespacial. Na Península Ibérica, investiu mais de 100 milhões de euros, reforçando Montornès del Vallès, unidade neutra em carbono que produz para clientes c…",
+      "url": "https://grandeconsumo.com/dos-detergentes-ao-espaco-henkel-celebra-150-anos-de-transformacao/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-28"
+    },
+    {
+      "id": "2026-09-28-ia-agentica-e-robos-humanoides-entre-as",
+      "titulo": "IA agêntica e robôs humanoides entre as tendências que vão transformar a logística",
+      "resumo": "O \"DHL Logistics Trend Radar 8.0\" identifica a IA agêntica, o comércio suportado por IA, a economia da capacidade computacional e os robôs humanoides como tendências capazes de transformar a logística na próxima década. O conteúdo IA agêntica e robôs humanoides entre as tendências que vão transformar a logística apa…",
+      "url": "https://grandeconsumo.com/ia-agentica-e-robos-humanoides-entre-as-tendencias-que-vao-transformar-a-logistica/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-28"
+    },
     {
       "id": "2026-09-28-dhl-logistics-trend-radar-ia-passa-da",
       "titulo": "DHL Logistics Trend Radar: IA passa da assistência à ação",
@@ -6042,73 +6102,6 @@
       "pais": "Portugal",
       "temas": [
         "logistica"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-24-house-comfort-reforca-presenca-no-norte-com",
-      "titulo": "House Comfort reforça presença no Norte com unidade na Maia",
-      "resumo": "A House Comfort continua a reforçar a sua presença em Portugal com a abertura da nova unidade House Comfort Maia S. João, que chega à região com o objetivo de prestar um acompanhamento próximo, humanizado e adaptado às necessidades de cada pessoa e família. À frente da direção técnica está Mariana Santos Silva (foto…",
-      "url": "https://www.infofranchising.pt/house-comfort-maia/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-24-torel-boutiques-abre-novo-hotel-de-cinco",
-      "titulo": "Torel Boutiques abre novo hotel de cinco estrelas no Porto",
-      "resumo": "O grupo Torel Boutiques abriu o Torel Private Collection, uma nova unidade de cinco estrelas no Porto, instalada num edifício do final do século XIX e destinada exclusivamente a adultos. O hotel conta com 16 quartos e suites, cada um inspirado num estado de espírito distinto, e apresenta-se como uma “galeria habitad…",
-      "url": "https://www.ambitur.pt/torel-boutiques-abre-novo-hotel-de-cinco-estrelas-no-porto/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-24"
-    },
-    {
-      "id": "2026-07-08-pluricosmetica-continente-portimao",
-      "titulo": "Pluricosmética a caminho do Centro Comercial Continente de Portimão",
-      "resumo": "O Centro Comercial Continente de Portimão prepara-se para receber uma loja da Pluricosmética, cadeia de produtos capilares e cosmética.",
-      "url": "https://www.algarvemarafado.com/2026/07/08/ha-uma-nova-loja-a-caminho-de-centro-comercial-de-portimao/",
-      "fonte": "Algarve Marafado",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "cc-novas-entradas"
-      ],
-      "data": "2026-07-08"
-    },
-    {
-      "id": "2026-06-25-retalho-expansao-12-aberturas",
-      "titulo": "Retalho em expansão: LEFTIES, JYSK, Michael Kors e Dyson entre 12 novas aberturas em Portugal",
-      "resumo": "Ronda de aberturas: LEFTIES no AlgarveShopping (~2.000 m²), JYSK no Maia Shopping (37.ª loja), Michael Kors no Freeport (~500 m²), Dyson Demo Store no Colombo, Broolls em Cascais, MiiN em Braga, MO em Ovar, Lidl em Grândola e na Sertã, entre outras.",
-      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-53/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao",
-        "cc-novas-entradas",
-        "marca-internacional-pt"
-      ],
-      "data": "2026-06-25"
-    },
-    {
-      "id": "2026-07-24-portefolio-gaiashopping-arrabida-280m",
-      "titulo": "Portefólio com GaiaShopping, ArrábidaShopping e Matosinhos Retail Park transacionado por 280 milhões",
-      "resumo": "O retalho captou 340 milhões de euros no 1.º trimestre de 2026 (37% do investimento total de 930 milhões), impulsionado pela transação de um portefólio de centros comerciais e retail parks por 280 milhões, incluindo o GaiaShopping, o ArrábidaShopping e o Matosinhos Retail Park.",
-      "url": "https://dinheirovivo.dn.pt/empresas/investimento-em-imobilirio-comercial-cresce-37-para-930-milhes-no-1-trimestre",
-      "fonte": "Dinheiro Vivo",
-      "pais": "Portugal",
-      "temas": [
-        "fundo-portefolio",
-        "compra-venda-ativo",
-        "investidores"
       ],
       "data": "2026-07-24"
     }
