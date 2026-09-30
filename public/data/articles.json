@@ -1,6 +1,165 @@
 {
-  "updatedAt": "2026-09-29T12:20:59.753Z",
+  "updatedAt": "2026-09-30T12:07:28.884Z",
   "articles": [
+    {
+      "id": "2026-09-30-la-redoute-abre-primeiro-showroom-para-clientes",
+      "titulo": "La Redoute abre primeiro showroom para clientes profissionais",
+      "resumo": "A La Redoute inaugurou em Leiria o primeiro showroom da marca em Portugal dedicado a clientes profissionais. O espaço, com 90 m², destina-se a arquitetos, designers de interiores, promotores imobiliários e gestores de espaços hoteleiros ou de escritórios, que passam a poder conhecer e experimentar os produtos de perto.",
+      "url": "https://www.distribuicaohoje.com/retalho/la-redoute-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "escritorios"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-terra-alegre-recebe-3-estrela-lean-green",
+      "titulo": "Terra Alegre recebe 3.ª estrela Lean & Green após reduzir emissões em 35%",
+      "resumo": "A Terra Alegre recebeu a 3.ª estrela Lean & Green , atribuída pela GS1 Portugal, depois de comprovar uma redução acumulada de 35% nas emissões de CO2 da sua operação de transporte e logística. A distinção reconhece o trabalho de descarbonização da empresa de laticínios da Jerónimo Martins Agro-Alimentar (JMA).",
+      "url": "https://www.distribuicaohoje.com/retalho/terra-alegre-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-pepco-preve-receitas-acima-de-4-5",
+      "titulo": "Pepco prevê receitas acima de 4,5 mil milhões de euros em 2026",
+      "resumo": "A Pepco Group prevê terminar o exercício fiscal de 2026 com receitas acima de 4,5 mil milhões de euros, no limite superior do intervalo previsto. A retalhista anunciou ainda um novo programa plurianual de recompra de ações, no valor máximo de 400 milhões de euros.",
+      "url": "https://www.distribuicaohoje.com/retalho/pepco-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-igus-estreia-bicicleta-eletrica-reciclada",
+      "titulo": "Igus estreia bicicleta elétrica reciclada",
+      "resumo": "Nova e-bike combina plástico proveniente de redes de pesca recuperadas com uma autonomia de 120 quilómetros e baixa necessidade de manutenção O conteúdo Igus estreia bicicleta elétrica reciclada aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/igus-estreia-bicicleta-eletrica-reciclada/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-receita-da-taxa-sobre-lucros-extraordinarios-do",
+      "titulo": "Receita da taxa sobre lucros extraordinários do retalho continua congelada",
+      "resumo": "Pelo terceiro ano consecutivo, o Tribunal de Contas voltou a alertar, no parecer à Conta Geral do Estado de 2025 (CGE2025) divulgado esta terça-feira, que o despacho que define os beneficiários finais da receita que o Estado arrecadou com a contribuição extraordinária sobre os lucros da distribuição alimentar durant…",
+      "url": "https://eco.sapo.pt/2026/09/30/receita-da-taxa-sobre-lucros-extraordinarios-do-retalho-continua-congelada/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-marketers-planeiam-aumentar-investimento-de-meios-em",
+      "titulo": "Marketers planeiam aumentar investimento de meios em IA em 2027",
+      "resumo": "Os marketers planeiam, na sua maioria, reforçar em 2027 o investimento para dar visibilidade às marcas nos assistentes de inteligência artificial (IA), incluindo em anúncios pagos. Em termos líquidos, 75% planeiam aumentá-lo, segundo a edição de 2026 do estudo Media Reactions, da Kantar. Mais de seis em cada dez pro…",
+      "url": "https://eco.sapo.pt/2026/09/30/marketers-planeiam-aumentar-investimento-de-meios-em-ia-em-2027/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-volume-de-negocios-no-comercio-avanca-1",
+      "titulo": "Volume de negócios no comércio avança 1,7% em agosto",
+      "resumo": "Esta evolução refletiu comportamentos distintos entre o comércio a retalho, que cresceu 2,4% (desaceleração de 0,2 p.p. face a julho), e o comércio por grosso, que aumentou 1,5%, após a contração de 0,3% observada no mês anterior.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/volume-de-negocios-no-comercio-avanca-17-em-agosto/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-kitchenette-expande-atuacao-como-agencia-criativa-para",
+      "titulo": "Kitchenette expande atuação como agência criativa para marcas de todos os setores",
+      "resumo": "Gosto pela comida e pela criatividade. É a partir destes dois universos que a Kitchenette consolida a sua evolução para agência criativa e assume um novo posicionamento, colocando a food culture no centro da forma como pensa, comunica e desenvolve projetos para marcas. Mais do que uma categoria, a comida é, para a a…",
+      "url": "https://www.briefing.pt/cetera/kitchenette-expande-atuacao-como-agencia-criativa-para-marcas-de-todos-os-setores/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-grupo-nutresa-adquirio-100-de-las-acciones",
+      "titulo": "Grupo Nutresa adquirió 100% de las acciones de Empaques Industriales de Colombia S.A.S.",
+      "resumo": "El conglomerado sumó a su portafolio sociedad domiciliada en Bogotá dedicada a la fabricación de empaques y complementos en cartón corrugado",
+      "url": "https://www.larepublica.co/empresas/compra-de-empaques-industriales-de-colombia-por-nutresa-4493344",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-grupo-nutresa-sigue-en-expansion-y-adquiere",
+      "titulo": "Grupo Nutresa sigue en expansión y adquiere nueva compañía en Colombia",
+      "resumo": "Desde que cayó en manos del Grupo Gilinski, Nutresa ha venido implementando un plan de expansión a través de la compra de activos.",
+      "url": "https://www.valoraanalitik.com/grupo-nutresa-sigue-en-expansion-y-adquiere-nueva-compania-en-colombia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao",
+        "aquisicoes"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-29-jd-sports-fatura-6-88-mil-milhoes",
+      "titulo": "JD Sports fatura 6,88 mil milhões de euros, mas lucro ajustado cai 19,7%",
+      "resumo": "A JD Sports fechou o primeiro semestre do exercício 2026/27 com vendas de 5,9 mil milhões de libras, cerca de 6,88 mil milhões de euros, menos 0,7% em termos homólogos. O lucro antes de impostos e itens de ajustamento recuou 19,7%, para 282 milhões de libras, aproximadamente 328,7 milhões de euros, num período condi…",
+      "url": "https://grandeconsumo.com/jd-sports-resultados-semestre-vendas-lucro-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-expofranchise-2026-conheca-os-principais-destaques-desta",
+      "titulo": "ExpoFranchise 2026: conheça os principais destaques desta edição",
+      "resumo": "Quem procura abrir um negócio próprio ou investir numa rede de franchising terá dois dias para conhecer e comparar oportunidades na ExpoFranchise 2026, promovida pela Associação Portuguesa de Franchising (APF). Nos dias 23 e 24 de Outubro, o Pátio da Galé, em Lisboa, reúne marcas, investidores, empreendedores e espe…",
+      "url": "https://www.infofranchising.pt/expofranchise2026-destaques/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising",
+        "investidores"
+      ],
+      "data": "2026-09-29"
+    },
+    {
+      "id": "2026-09-29-comfandi-confirmo-venta-de-sus-farmacias-al",
+      "titulo": "Comfandi confirmó venta de sus farmacias al dueño de cadena de Droguería Alemana",
+      "resumo": "La caja de compensación indicó que la salida del negocio obedece a una decisión estratégica para concentrarse en su core",
+      "url": "https://www.larepublica.co/empresas/comfandi-confirmo-la-venta-de-sus-farmacias-a-dueno-de-drogueria-alemana-4492935",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-09-29"
+    },
     {
       "id": "2026-09-29-o-espaco-nunca-teve-tanto-dinheiro-mas",
       "titulo": "“O espaço nunca teve tanto dinheiro”, mas Portugal precisa de escala para transformar investimento em capacidade",
@@ -5943,167 +6102,6 @@
         "aquisicoes"
       ],
       "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-equanto-adquire-goldnutrition-e-reforca-posicao-na",
-      "titulo": "Equanto adquire GoldNutrition e reforça posição na alimentação saudável e nutrição desportiva",
-      "resumo": "A Equanto – Intercâmbio Comercial e Industrial, S.A., grupo português com atividade nas áreas da alimentação saudável, biológica e funcional, anuncia a aquisição da Eco-Nutracêuticos, S.A., empresa detentora da GoldNutrition, uma das marcas de referência em suplementação alimentar e nutrição desportiva em Portugal. …",
-      "url": "https://www.briefing.pt/cetera/equanto-adquire-goldnutrition-e-reforca-posicao-na-alimentacao-saudavel-e-nutricao-desportiva/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-eurostars-hotel-company-abre-novo-boutique-hotel",
-      "titulo": "Eurostars Hotel Company abre novo boutique hotel em San Sebastián",
-      "resumo": "A Eurostars Hotel Company, cadeia hoteleira do Grupo Hotusa, reforçou a sua presença no País Basco com a abertura do Eurostars Villa Itziar 4*, um boutique hotel localizado em frente à baía de San Sebastián e a poucos minutos do Paseo de La Concha. A nova unidade, integrada no portefólio da cadeia em regime de […] O…",
-      "url": "https://www.ambitur.pt/eurostars-hotel-company-abre-novo-boutique-hotel-em-san-sebastian/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-nova-identidade-global-da-coca-cola-chega",
-      "titulo": "Nova identidade global da Coca-Cola chega a Portugal de forma faseada",
-      "resumo": "A Coca-Cola iniciou a implementação de um novo sistema global de identidade visual, que será aplicado de forma faseada em mais de 200 mercados , incluindo Portugal. A atualização procura reforçar os principais ativos visuais da marca, como a tipografia Spencerian, a onda dinâmica e o fundo vermelho, mantendo inalter…",
-      "url": "https://www.distribuicaohoje.com/producao/nova-identidade-coca-cola/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-internacional-pt",
-        "resultados"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-27-portugal-cresce-9-e-impulsiona-desempenho-europeu",
-      "titulo": "Portugal cresce 9% e impulsiona desempenho europeu da Fnac Darty",
-      "resumo": "A Fnac Darty encerrou o primeiro semestre de 2026 com receitas de 4.457 milhões de euros , um crescimento de 0,6% numa base comparável face ao mesmo período de 2025. O grupo confirmou as perspetivas para o conjunto do ano, num semestre marcado pelo crescimento do canal online, pela melhoria da margem bruta e por um …",
-      "url": "https://www.distribuicaohoje.com/retalho/portugal-cresce-fnac-darty/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-portugal-e-espanha-impulsionam-crescimento-internacional-da",
-      "titulo": "Portugal e Espanha impulsionam crescimento internacional da STEF",
-      "resumo": "A STEF registou uma evolução positiva em Portugal e Espanha no segundo trimestre de 2026, com os dois mercados a contribuírem para o crescimento internacional do grupo. A empresa, especializada em transporte e logística de produtos alimentares sob temperatura controlada, alcançou um volume de negócios de 1.417,7 mil…",
-      "url": "https://www.distribuicaohoje.com/supply-chain/portugal-e-espanha-stef/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica",
-        "resultados"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-espanha-devera-somar-800-novas-lojas-proximidade",
-      "titulo": "Espanha deverá somar 800 novas lojas. Proximidade e conveniência lideram",
-      "resumo": "A distribuição alimentar em Espanha deverá terminar 2026 com cerca de 800 novas lojas , dando continuidade ao ciclo de expansão registado no ano anterior. Segundo dados do V Informe de Distribución Alimentaria de Proximidad en España , apresentado pela Asedas e elaborado pela Retail Data , o setor encerrou 2025 com …",
-      "url": "https://www.distribuicaohoje.com/retalho/espanha-novas-lojas/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Espanha",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-equanto-adquire-a-goldnutrition",
-      "titulo": "Equanto adquire a GoldNutrition",
-      "resumo": "A Equanto anunciou a aquisição da Eco-Nutracêuticos, dona da GoldNutrition, reforçando a sua estratégia de crescimento no setor da alimentação e nutrição. Com esta operação, o grupo passa a integrar seis marcas, amplia a presença internacional para 26 países e aposta na inovação, na nutrição desportiva e no mercado …",
-      "url": "https://grandeconsumo.com/equanto-adquire-a-goldnutrition/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-grupo-nevoa-inaugura-retail-park-beja-jardim",
-      "titulo": "Grupo Névoa inaugura retail park Beja Jardim",
-      "resumo": "O Grupo Névoa anunciou a abertura do Beja Jardim, um novo retail park que pretende afirmar-se como uma nova centralidade comercial para a cidade de Beja e para toda a região do Baixo Alentejo, sob o conceito “O seu novo retail no coração do Alentejo”. O conteúdo Grupo Névoa inaugura retail park Beja Jardim aparece p…",
-      "url": "https://grandeconsumo.com/grupo-nevoa-inaugura-retail-park-beja-jardim/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "retail-parks"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-ferrero-investe-86-milhoes-de-dolares-para",
-      "titulo": "Ferrero investe 86 milhões de dólares para reforçar produção no México",
-      "resumo": "A Ferrero vai investir 86 milhões de dólares na expansão da capacidade produtiva da sua fábrica em San José Iturbide, no estado mexicano de Guanajuato, com o objetivo de reforçar a produção de Nutella e aumentar as exportações da unidade. O conteúdo Ferrero investe 86 milhões de dólares para reforçar produção no Méx…",
-      "url": "https://grandeconsumo.com/ferrero-investe-86-milhoes-de-dolares-para-reforcar-producao-no-mexico/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao",
-        "investidores"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-heineken-adquire-rainforest-water-na-costa-rica",
-      "titulo": "Heineken adquire RainForest Water na Costa Rica",
-      "resumo": "A Heineken, através da sua subsidiária costa-riquenha Distribuidora La Florida, assinou um acordo para adquirir a RainForest Water, marca premium de água artesiana engarrafada na origem, na região de Sarapiquí, na Costa Rica. O conteúdo Heineken adquire RainForest Water na Costa Rica aparece primeiro em Grande Consu…",
-      "url": "https://grandeconsumo.com/heineken-adquire-rainforest-water-na-costa-rica/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-the-editory-collection-hotels-ja-canta-em",
-      "titulo": "The Editory Collection Hotels já canta em Coimbra com aquisição de hotel a André Sardet",
-      "resumo": "Marca de hotelaria do grupo Sonae anunciou a aquisição do Sapientia Boutique Hotel – Books & Wine que, até agora, pertencia ao músico André Sardet e ao jornalista José Manuel Portugal.",
-      "url": "https://marketeer.sapo.pt/the-editory-collection-hotels-ja-canta-em-coimbra-com-aquisicao-de-hotel-a-andre-sardet/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-27-the-editory-collection-hotels-chega-a-coimbra",
-      "titulo": "The Editory Collection Hotels chega a Coimbra com aquisição do Sapientia Boutique Hotel",
-      "resumo": "O Grupo The Editory Collection Hotels vai integrar o Sapientia Boutique Hotel – Books & Wine no seu portefólio, assinalando a entrada da marca em Coimbra. O processo de aquisição será realizado de forma gradual, com conclusão prevista até ao final de 2026. Localizada na Alta de Coimbra, classificada como Património …",
-      "url": "https://www.ambitur.pt/the-editory-collection-hotels-chega-a-coimbra-com-aquisicao-do-sapientia-boutique-hotel/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-27"
-    },
-    {
-      "id": "2026-07-24-cttexpress-com-mais-64-de-entregas-fora",
-      "titulo": "CTTexpress com mais 64% de entregas fora de casa na Península Ibérica",
-      "resumo": "A CTTexpress, marca ibérica de logística de comércio eletrónico do Grupo CTT, registou um aumento de 64% nas entregas fora de casa (OOH) na Península Ibérica no primeiro semestre deste ano, face ao período homólogo de 2025. O conteúdo CTTexpress com mais 64% de entregas fora de casa na Península Ibérica aparece prim…",
-      "url": "https://grandeconsumo.com/cttexpress-com-mais-64-de-entregas-fora-de-casa-na-peninsula-iberica/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-07-24"
     }
   ]
 }
