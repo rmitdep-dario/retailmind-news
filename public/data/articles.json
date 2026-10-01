@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-09-30T12:07:28.884Z",
+  "updatedAt": "2026-10-01T12:39:47.177Z",
   "articles": [
+    {
+      "id": "2026-10-01-auchan-negoceia-venda-de-17-supermercados-ao",
+      "titulo": "Auchan negoceia venda de 17 supermercados ao Lidl em França",
+      "resumo": "A Auchan está em negociações exclusivas com o Lidl para a venda de 17 supermercados em França. A operação integra o plano de transformação da rede da insígnia no mercado francês, que abrange 266 lojas e prevê também conversões para Intermarché e Netto. O conteúdo Auchan negoceia venda de 17 supermercados ao Lidl em …",
+      "url": "https://grandeconsumo.com/auchan-venda-17-supermercados-lidl-franca/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-mars-shot-preve-crescer-200-em-2026",
+      "titulo": "Mars Shot prevê crescer 200% em 2026 e entra no mercado do Médio Oriente",
+      "resumo": "A consultora portuguesa Mars Shot prevê fechar 2026 com um crescimento da faturação na ordem dos 200% face ao ano anterior. A empresa, que conta atualmente com 20 colaboradores e mais de 70 clientes e organizações na carteira de projetos, acaba também de entrar no Médio Oriente através de uma adjudicação no sector b…",
+      "url": "https://grandeconsumo.com/mars-shot-crescimento-200-2026-medio-oriente/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-a-melhor-loja-de-portugal-abre-votacoes",
+      "titulo": "A Melhor Loja de Portugal abre votações com 321 marcas em 36 categorias",
+      "resumo": "A Melhor Loja de Portugal abriu as votações para a edição de 2026, com 321 marcas distribuídas por 36 categorias, dos supermercados à moda, tecnologia, serviços e plataformas digitais. Os consumidores podem avaliar lojas físicas e online através do site oficial até 31 de dezembro, contribuindo para distinguir as ins…",
+      "url": "https://grandeconsumo.com/a-melhor-loja-de-portugal-abre-votacoes-com-321-marcas-em-36-categorias/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-prejuizo-da-greenvolt-aumenta-para-54-7",
+      "titulo": "Prejuízo da Greenvolt aumenta para 54,7 milhões no semestre com menos rotação de ativos",
+      "resumo": "A Greenvolt registou um prejuízo de 54,7 milhões de euros nos primeiros seis meses do ano, face às perdas de 14,5 milhões no período homólogo, pressionado por uma queda nos rendimentos operacionais devido a um menor volume de rotação de ativos, informou a empresa esta quinta-feira. Os rendimentos operacionais totais…",
+      "url": "https://eco.sapo.pt/2026/10/01/prejuizo-da-greenvolt-aumenta-para-547-milhoes-no-semestre-com-menos-rotacao-de-ativos/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-delta-cafes-reforca-presenca-digital-com-novo",
+      "titulo": "Delta Cafés reforça presença digital com novo website",
+      "resumo": "Para assinalar o Dia Internacional do Café, a Delta Cafés renova a sua presença digital com uma nova versão do seu website. Com uma nova imagem ajustada ao seu posicionamento, reúne num único espaço o universo da marca e coloca a experiência do utilizador no centro da navegação. A arquitetura mais intuitiva e pensad…",
+      "url": "https://www.briefing.pt/cetera/delta-cafes-reforca-presenca-digital-com-novo-website/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-01"
+    },
+    {
+      "id": "2026-10-01-expofranchise-2026-apresenta-ciclo-de-palestras-para",
+      "titulo": "ExpoFranchise 2026 apresenta ciclo de palestras para quem quer conhecer, investir e crescer no franchising",
+      "resumo": "Do primeiro contacto com o modelo à escolha de uma marca, passando por gestão, marketing, inovação e tendências, a ExpoFranchise 2026 terá dois dias de conteúdos dedicados a quem pretende conhecer melhor o sector ou já faz parte de uma rede. Quem pensa em investir num franchising tem muitas perguntas antes de tomar …",
+      "url": "https://www.infofranchising.pt/expofranchise-2026-palestras/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-10-01"
+    },
+    {
+      "id": "2026-09-30-explora-journeys-estreia-se-nos-cruzeiros-fluviais",
+      "titulo": "Explora Journeys estreia-se nos cruzeiros fluviais de luxo",
+      "resumo": "A Explora Journeys, marca de viagens oceânicas de estilo de vida de luxo do MSC Group, assinou uma carta de intenção com o estaleiro holandês Den Breejen Shipyard para a construção dos seus primeiros navios fluviais de luxo, assinalando a entrada da marca no segmento dos cruzeiros fluviais de luxo. A marca pretende,…",
+      "url": "https://www.forbespt.com/explora-journeys-estreia-se-nos-cruzeiros-fluviais-de-luxo/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-mcdonald-s-portugal-abre-mais-de-2",
+      "titulo": "McDonald’s Portugal abre mais de 2.650 vagas em todo o país",
+      "resumo": "A McDonald’s Portugal está a recrutar mais de 2.650 pessoas até ao final do ano, para integrarem as equipas dos seus restaurantes de norte a sul do país e ilhas. As oportunidades abrangem equipas operacionais e funções de gestão e destinam-se a reforçar as equipas da marca a nível nacional. Com mais de 12.000 pessoa…",
+      "url": "https://www.infofranchising.pt/mcdonalds-portugal-geracao-de-empregos/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-aimra-announces-nationwide-no-upi-day-on",
+      "titulo": "AIMRA announces nationwide 'No UPI Day' on October 2 to protest against proposed MDR for UPI transactions",
+      "resumo": "AIMRA is organizing a 'No UPI Day' on October 2 to protest against the proposed Merchant Discount Rate. The proposed charges are anticipated to burden small businesses and reduce their profit margins significantly. Retailers argue that routine digital payments should remain free for micro and small enterprises. The …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/aimra-announces-nationwide-no-upi-day-on-october-2-to-protest-against-proposed-mdr-for-upi-transactions/134594501",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-09-30"
+    },
     {
       "id": "2026-09-30-la-redoute-abre-primeiro-showroom-para-clientes",
       "titulo": "La Redoute abre primeiro showroom para clientes profissionais",
@@ -5994,114 +6102,6 @@
         "nova-loja"
       ],
       "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-28-unilever-regista-melhor-trimestre-em-volume-de",
-      "titulo": "Unilever regista melhor trimestre em volume de vendas em mais de uma década",
-      "resumo": "A Unilever registou no segundo trimestre de 2026 o maior crescimento de volume de vendas em mais de uma década, com vendas subjacentes a subir 5,8% e a faturação a atingir 13 mil milhões de euros. O desempenho foi liderado por mercados emergentes e pelas divisões de cuidados para o lar, beleza e cuidados pessoais. O…",
-      "url": "https://grandeconsumo.com/unilever-regista-melhor-trimestre-em-volume-de-vendas-em-mais-de-uma-decada/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-vusion-acorda-aquisicao-da-in-store-media",
-      "titulo": "Vusion acorda aquisição da In-Store Media",
-      "resumo": "A Vusion chegou a acordo para adquirir a In-Store Media, especialista em publicidade nos pontos de venda, numa operação que visa criar uma plataforma global de retail media digital em loja. O conteúdo Vusion acorda aquisição da In-Store Media aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/vusion-acorda-aquisicao-da-in-store-media/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-mango-cresce-7-2-e-mantem-meta",
-      "titulo": "Mango cresce 7,2% e mantém meta de faturar 4 mil milhões de euros em 2026",
-      "resumo": "As vendas online da Mango cresceram a dois dígitos e já representam 32% da faturação, enquanto a rede mundial superou 2.960 pontos de venda. O conteúdo Mango cresce 7,2% e mantém meta de faturar 4 mil milhões de euros em 2026 aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/mango-cresce-72-e-mantem-meta-de-faturar-4-mil-milhoes-de-euros-em-2026/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-nobu-de-robert-de-niro-investe-em",
-      "titulo": "Nobu de Robert De Niro investe em hotel de luxo no Algarve",
-      "resumo": "A Nobu, marca de lifestyle de luxo fundada pelo ator Robert De Niro, o chef Nobu Matsuhisa e o produtor de cinema Meir Teper, anunciou o reforço da presença em Portugal, desta vez no sotavento algarvio. Depois do anunciado projeto de restaurante em Lisboa, a marca vai investir no resort Monte Rei, com uma unidade [……",
-      "url": "https://www.forbespt.com/nobu-de-robert-de-niro-investe-em-hotel-de-luxo-no-algarve/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-distribuicao-hoje-procura-business-developer-para-reforcar",
-      "titulo": "Distribuição Hoje procura Business Developer para reforçar área comercial",
-      "resumo": "A Distribuição Hoje abriu uma vaga para Business Developer , em Lisboa, com o objetivo de reforçar a sua área comercial e apoiar o crescimento das soluções de comunicação dirigidas ao ecossistema do retalho. A oportunidade foi publicada no LinkedIn e está associada a uma função a tempo inteiro, de nível mid-senior, …",
-      "url": "https://www.distribuicaohoje.com/retalho/distribuicao-hoje-procura-business-developer-para-reforcar-area-comercial/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-beleza-coreana-acelera-no-mercado-norte-americano",
-      "titulo": "Beleza coreana acelera no mercado norte-americano e chega a mais lojas físicas",
-      "resumo": "A expansão da K-Beauty nos Estados Unidos da América (EUA) está a ganhar escala no retalho, com impacto na oferta das lojas físicas, nas plataformas digitais e na forma como os consumidores descobrem e compram produtos de beleza.",
-      "url": "https://www.distribuicaohoje.com/retalho/beleza-coreana-lojas/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-investimento-em-imobiliario-comercial-sobe-14",
-      "titulo": "Investimento em imobiliário comercial sobe 14%",
-      "resumo": "O investimento em imobiliário comercial em Portugal atingiu cerca de 1,4 mil milhões de euros no primeiro semestre de 2026, uma subida de 14% face ao período homólogo, segundo o relatório Capital Markets H1 2026 da Savills Portugal .",
-      "url": "https://www.distribuicaohoje.com/retalho/imobiliario-comercial-2/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-id-logistics-aumenta-receitas-22-4-no",
-      "titulo": "ID Logistics aumenta receitas 22,4% no segundo trimestre de 2026",
-      "resumo": "A ID Logistics registou receitas de 1.093,9 milhões de euros no segundo trimestre de 2026, um aumento de 22,4% face ao mesmo período do ano anterior. Em termos comparáveis, excluindo o impacto cambial, o crescimento foi de 22,6%. O conteúdo ID Logistics aumenta receitas 22,4% no segundo trimestre de 2026 aparece pri…",
-      "url": "https://grandeconsumo.com/id-logistics-aumenta-receitas-224-no-segundo-trimestre-de-2026/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-28"
-    },
-    {
-      "id": "2026-07-28-grupo-arie-compra-operacao-portuguesa-da-primor",
-      "titulo": "Grupo Arié compra operação portuguesa da Primor",
-      "resumo": "O Grupo Arié, dono da Perfumes Companhia, adquiriu a operação da Primor em Portugal, incluindo 25 lojas, o comércio eletrónico e a marca no mercado nacional. O conteúdo Grupo Arié compra operação portuguesa da Primor aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/grupo-arie-compra-operacao-portuguesa-da-primor/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-28"
     }
   ]
 }
