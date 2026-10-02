@@ -1,6 +1,189 @@
 {
-  "updatedAt": "2026-10-01T12:39:47.177Z",
+  "updatedAt": "2026-10-02T12:04:22.362Z",
   "articles": [
+    {
+      "id": "2026-10-02-logistica-inversa-quando-devolver-e-apenas-o",
+      "titulo": "Logística inversa: Quando devolver é apenas o início",
+      "resumo": "Gerir o regresso de um produto é menos previsível do que entregá-lo. Entre direitos do consumidor, custos ocultos, triagem e recuperação de valor, a logística inversa desafia retalhistas e cadeias de abastecimento. Venha com a DISTRIBUIÇÃO HOJE ver o que se passa nos “bastidores das devoluções”.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/logistica-inversa-devolver/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-o-ar-que-transportamos-o-ppwr-e",
+      "titulo": "O ar que transportamos: o PPWR e o vazio na cadeia de abastecimento",
+      "resumo": "Todos os dias, milhares de camiões, contentores e paletes atravessam a Europa a transportar, em boa parte, ar. Caixas sobredimensionadas, paletes mal aproveitadas, material de enchimento a proteger… o vazio. Esse espaço vazio é uma externalidade negativa com fatura dupla: ambiental, porque significa mais combustível…",
+      "url": "https://www.distribuicaohoje.com/supply-chain/ar-transportamos-ppwr-vazio/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-quem-escolhe-por-nos-os-agentes-de",
+      "titulo": "Quem escolhe por nós? Os agentes de inteligência artificial e as decisões dos consumidores",
+      "resumo": "Quando os primeiros modelos de linguagem de grande escala (conhecidos como LLM, do inglês Large Language Model ) chegaram ao mercado, a curiosidade do que poderiam fazer e como os utilizar pautaram a imaginação de muitos de nós. Surgiram debates sobre questões éticas e deontológicas sobre o seu papel e contributo, q…",
+      "url": "https://www.distribuicaohoje.com/opiniao/agentes-ia-decisoes-consumidores/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-premium-acessivel-quando-a-qualidade-ainda-cabe",
+      "titulo": "Premium acessível: quando a qualidade ainda cabe no orçamento",
+      "resumo": "Numa época de grandes constrangimentos económicos, o premium acessível é visto pelos consumidores como alternativas mais saudáveis, mas a um preço que cabe no orçamento das famílias. Isso obriga a um investimento consciente em várias frentes por parte das marcas e retalhistas.",
+      "url": "https://www.distribuicaohoje.com/producao/premium-acessivel-qualidade/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-kave-abre-primeira-loja-propria-em-portugal",
+      "titulo": "Kave abre primeira loja própria em Portugal com espaço de 1.110 m² em Matosinhos",
+      "resumo": "A Kave abriu em Matosinhos a sua primeira loja própria em Portugal. O novo espaço tem 1.110 metros quadrados, dos quais 759 metros quadrados dedicados à exposição e venda, e inclui um atelier para projetos de personalização e aconselhamento de interiores. O conteúdo Kave abre primeira loja própria em Portugal com es…",
+      "url": "https://grandeconsumo.com/kave-primeira-loja-portugal-matosinhos/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-lusiaves-compra-maioria-da-padesa-e-passa",
+      "titulo": "Lusiaves compra maioria da Padesa e passa a projetar 1,5 mil milhões de euros em vendas",
+      "resumo": "O Grupo Lusiaves concluiu a aquisição da maioria do capital da Padesa, um dos principais operadores avícolas de Espanha. Com a operação, o grupo português passa a contar com cerca de nove mil colaboradores em Portugal, Espanha e França e projeta um volume de negócios de aproximadamente 1,5 mil milhões de euros em 20…",
+      "url": "https://grandeconsumo.com/lusiaves-compra-maioria-padesa-15-mil-milhoes-vendas/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes",
+        "resultados"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-vendas-de-alimentos-caem-pela-primeira-vez",
+      "titulo": "Vendas de alimentos caem pela primeira vez em quase três anos",
+      "resumo": "O volume de negócios do comércio de produtos alimentares, bebidas e tabaco recuou 0,3% em agosto face ao mesmo mês de 2025. A quebra foi especialmente expressiva no comércio especializado, como frutarias, talhos, peixarias e padarias, onde as vendas caíram 6,5%. O conteúdo Vendas de alimentos caem pela primeira vez …",
+      "url": "https://grandeconsumo.com/vendas-alimentos-caem-primeira-vez-tres-anos/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-taurus-adquire-movilfrit",
+      "titulo": "Taurus adquire Movilfrit",
+      "resumo": "O Taurus Group adquiriu a marca espanhola Movilfrit, especializada em fritadeiras industriais e equipamento para hotelaria. A operação reforça a estratégia de diversificação do grupo, que fechou 2025 com uma faturação consolidada de 245 milhões de euros. O conteúdo Taurus adquire Movilfrit aparece primeiro em Grande…",
+      "url": "https://grandeconsumo.com/taurus-adquire-movilfrit/",
+      "fonte": "Grande Consumo",
+      "pais": "Espanha",
+      "temas": [
+        "aquisicoes",
+        "resultados"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-darty-prepara-expansao-em-portugal",
+      "titulo": "DARTY prepara expansão em Portugal",
+      "resumo": "Insígnia registou um crescimento de 11% nas vendas no primeiro ano e prevê integrar 11 lojas Staples a partir de outubro O conteúdo DARTY prepara expansão em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/darty-prepara-expansao-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-tiffany-co-estreia-se-em-portugal-em",
+      "titulo": "Tiffany & Co estreia-se em Portugal em 2027 com loja no antigo edifício sede do BES",
+      "resumo": "A Tiffany & Co. vai inaugurar a primeira loja própria da marca em Portugal no próximo ano. A marca norte-americana de joias vai ocupar um dos quatro espaços comerciais que vão ficar disponíveis no edifício onde ficava a sede do BES, na Avenida da Liberdade, avança o Expresso. O Edifício Liberdade 201 faz parte do […]",
+      "url": "https://eco.sapo.pt/2026/10/02/tiffany-co-estreia-se-em-portugal-em-2027-com-loja-no-antigo-edificio-sede-do-bes/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-preparar-os-transportes-para-o-clima-extremo",
+      "titulo": "Preparar os transportes para o clima extremo exige dados, investimento e decisões partilhadas",
+      "resumo": "Uma estrada cortada por uma cheia pode impedir a chegada de equipas de emergência, assim como uma falha elétrica pode parar uma linha de transporte e afetar milhares de deslocações. Estes efeitos em cadeia estiveram no centro da conversa no painel “Perceber os riscos & preparar para ameaças climáticas”, que encerrou…",
+      "url": "https://eco.sapo.pt/2026/10/02/preparar-os-transportes-para-o-clima-extremo-exige-dados-investimento-e-decisoes-partilhadas/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-o-luxo-da-tiffany-chega-a-lisboa",
+      "titulo": "O luxo da Tiffany chega a Lisboa: marca abre primeira loja em Portugal em 2027",
+      "resumo": "O luxo da joalharia norte-americana Tiffany & Co. vai chegar a Portugal em 2027, com a abertura da primeira loja da marca em Lisboa. O espaço ficará localizado na Avenida da Liberdade, uma das principais artérias comerciais da capital e morada de várias insígnias internacionais de luxo.",
+      "url": "https://marketeer.sapo.pt/o-luxo-da-tiffany-chega-a-lisboa-marca-abre-primeira-loja-em-portugal-em-2027/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-el-negocio-del-internet-ya-pone-mas",
+      "titulo": "El negocio del Internet ya pone más de 70% de los ingresos para operadores",
+      "resumo": "Para 2025, la demanda por conectividad jalonó al sector. Según informe de la CRC telefonía fija, TV y radio registraron retroceso y la economía se torna más digital",
+      "url": "https://www.larepublica.co/empresas/el-negocio-del-internet-ya-pone-mas-de-70-de-los-ingresos-para-operadores-4494918",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-primicia-pei-sumara-un-segundo-formador-de",
+      "titulo": "Primicia | Pei sumará un segundo formador de liquidez para sus títulos; quiere más inversionistas extranjeros",
+      "resumo": "Jairo Corrales, presidente de Pei, reveló la firma que ayudará a fortalecer la negociación en bolsa; dio detalles sobre la compra de activos de Terranum.",
+      "url": "https://www.valoraanalitik.com/pei-segundo-formador-liquidez-extranjeros/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-01-comissao-europeia-autoriza-aquisicao-da-stahl-pela",
+      "titulo": "Comissão Europeia autoriza aquisição da Stahl pela Henkel",
+      "resumo": "A Comissão Europeia aprovou a aquisição do controlo exclusivo da neerlandesa Stahl Parent pela Henkel, ao abrigo do Regulamento das Concentrações da União Europeia. A operação incide sobretudo nos mercados de revestimentos industriais e adesivos. O conteúdo Comissão Europeia autoriza aquisição da Stahl pela Henkel a…",
+      "url": "https://grandeconsumo.com/comissao-europeia-aprova-aquisicao-stahl-henkel/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-01"
+    },
     {
       "id": "2026-10-01-auchan-negoceia-venda-de-17-supermercados-ao",
       "titulo": "Auchan negoceia venda de 17 supermercados ao Lidl em França",
@@ -5913,195 +6096,6 @@
         "investidores"
       ],
       "data": "2026-07-30"
-    },
-    {
-      "id": "2026-07-30-burritos-tacos-e-nachos-ja-abriu-a",
-      "titulo": "Burritos, tacos e nachos. Já abriu a nova Taco Bell do Algarve",
-      "resumo": "As férias no Algarve acabaram de ficar melhores para quem não resiste a comida mexicana. Esta quarta-feira, 29 de julho, foi inaugurado o novo restaurante da Taco Bell na região. Fica, mais especificamente, no Forum Algarve, em Faro. É o 29.º espaço da marca no País. Na nova loja, vai encontrar otacos crocantes com …",
-      "url": "https://www.nit.pt/comida/restaurantes/burritos-tacos-e-nachos-ja-abriu-a-nova-taco-bell-do-algarve",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-30"
-    },
-    {
-      "id": "2026-07-29-sonae-cresce-6-3-e-atinge-volume",
-      "titulo": "Sonae cresce 6,3% e atinge volume de negócios de 5,6 mil milhões de euro",
-      "resumo": "A Sonae registou um volume de negócios consolidado de 5,6 mil milhões de euros no primeiro semestre de 2026, um crescimento homólogo de 6,3% , impulsionado sobretudo pelos negócios de retalho, pelo crescimento orgânico e pela expansão da rede de lojas.",
-      "url": "https://www.distribuicaohoje.com/retalho/sonae-primeiro-semestre/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao",
-        "resultados"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-inflexor-ventures-announces-first-close-of-fund",
-      "titulo": "Inflexor Ventures announces first close of Fund III around Rs 400 cr",
-      "resumo": "Inflexor Ventures has secured Rs 400 crore for its Fund III. This initial close was anchored by Indian institutional investors, including the SRI Fund. The venture capital firm plans a final fund closure within the next year. Inflexor Ventures will invest in twenty-two to twenty-five technology-focused companies. Th…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/inflexor-ventures-announces-first-close-of-fund-iii-around-rs-400-cr/132698678",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "private-equity",
-        "investidores"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-fnp-targets-over-rs-1-400-crore",
-      "titulo": "FNP targets over Rs 1,400 crore revenue this fiscal as quick commerce, global expansion gather pace",
-      "resumo": "\"We closed FY26 at ₹1,005 crore and this year we are expecting to cross ₹1,400 crore,\" Pawan Gadia, global CEO and director, FNP, said in an interaction with ETRetail.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/fnp-targets-over-rs-1400-crore-revenue-this-fiscal-as-quick-commerce-global-expansion-gather-pace/132697831",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao",
-        "resultados"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-brico-depot-abre-nova-loja-em-portugal",
-      "titulo": "Brico Depôt abre nova loja em Portugal 10 anos depois da última inauguração",
-      "resumo": "A Brico Depôt abre esta quinta-feira uma nova loja no Seixal , num investimento de 9,3 milhões de euros . A unidade assinala a quarta loja da insígnia em Portugal, juntando-se às localizações de Loures, Vila Nova de Gaia e Sintra , e surge dez anos depois da última abertura da marca no mercado nacional.",
-      "url": "https://www.distribuicaohoje.com/retalho/brico-depot-nova-loja/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "investidores"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-eua-travam-entrada-de-robots-estrangeiros-e",
-      "titulo": "EUA travam entrada de ‘robots estrangeiros’ e reacendem debate sobre automação",
-      "resumo": "A decisão da Federal Communications Commission ( FCC ) dos Estados Unidos de incluir robots avançados produzidos no estrangeiro na lista de equipamentos considerados de risco para a segurança nacional pode ter impacto no desenvolvimento da automação logística e operacional no retalho. A medida abrange robots móveis,…",
-      "url": "https://www.distribuicaohoje.com/retalho/eua-robots-estrangeiros/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-amazon-investe-mais-de-mil-milhoes-para",
-      "titulo": "Amazon investe mais de mil milhões para criar novo centro de distribuição",
-      "resumo": "A Amazon está a preparar a expansão da sua rede logística nos Estados Unidos, com dois novos projetos nos estados de Nova Iorque e Texas . A empresa confirmou à Supply Chain Dive que está numa fase inicial de planeamento de uma unidade operacional em Holbrook , em Long Island, e de um centro de distribuição em Terre…",
-      "url": "https://www.distribuicaohoje.com/supply-chain/amazon-operacao-logistica/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao",
-        "logistica",
-        "investidores"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-food-to-go-impulsiona-crescimento-do-retalho",
-      "titulo": "Food-to-go impulsiona crescimento do retalho de conveniência",
-      "resumo": "O mercado de retalho de conveniência no Reino Unido deverá atingir 49,1 mil milhões de libras em 2026, com o food-to-go , o investimento em loja e a evolução das missões de compra a assumirem-se como principais motores de crescimento, apesar da pressão económica e dos desafios regulatórios.",
-      "url": "https://www.distribuicaohoje.com/retalho/food-to-go-conveniencia/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "investidores",
-        "aquisicoes"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-brico-depot-investe-mais-de-nove-milhoes",
-      "titulo": "Brico Depôt investe mais de nove milhões de euros na nova loja no Seixal",
-      "resumo": "A Brico Depôt abriu uma nova loja no Seixal, o primeiro investimento da marca em Portugal em 10 anos, no valor de 9,3 milhões de euros. Com 5.192 m² e 74 postos de trabalho, a quarta loja no país reforça a presença na Margem Sul e aposta em soluções para profissionais e famílias, com foco em remodelação, DIY e servi…",
-      "url": "https://grandeconsumo.com/brico-depot-investe-mais-de-nove-milhoes-de-euros-na-nova-loja-no-seixal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao",
-        "investidores"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-dia-avalia-venda-total-ou-entrada-de",
-      "titulo": "DIA avalia venda total ou entrada de sócio no negócio argentino",
-      "resumo": "O Grupo DIA está a avaliar alternativas estratégicas para a operação na Argentina, incluindo a venda total do negócio ou a entrada de um parceiro no capital. A filial, que soma mais de mil lojas, registou vendas de 1.510 milhões de euros em 2025 e prejuízo de 51,3 milhões, num contexto de consumo fraco, desvalorizaç…",
-      "url": "https://grandeconsumo.com/dia-avalia-venda-total-ou-entrada-de-socio-no-negocio-argentino/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-pedro-redol-e-o-novo-ceo-da",
-      "titulo": "Pedro Redol é o novo CEO da Neutroplast",
-      "resumo": "Pedro Redol foi nomeado CEO da Neutroplast, empresa portuguesa com mais de trinta anos de experiência na produção de embalagens customizadas para sectores como a saúde e o bem-estar, a indústria farmacêutica, a dermocosmética e a beleza. O conteúdo Pedro Redol é o novo CEO da Neutroplast aparece primeiro em Grande C…",
-      "url": "https://grandeconsumo.com/pedro-redol-e-o-novo-ceo-da-neutroplast/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-lucro-do-deutsche-bank-aumenta-9-entre",
-      "titulo": "Lucro do Deutsche Bank aumenta 9% entre janeiro e junho para 3,96 mil milh�es",
-      "resumo": "Os ativos sob gest�o aumentaram 13% em termos hom�logos e atingiram os 732.000 milh�es de euros.",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/lucro-do-deutsche-bank-aumenta-9-entre-janeiro-e-junho-para-3-96-mil-milhoes",
-      "fonte": "Jornal de Negócios",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-lucro-da-porsche-aumenta-49-1-at",
-      "titulo": "Lucro da Porsche aumenta 49,1% at� junho e ultrapassa os mil milh�es",
-      "resumo": "Nos �ltimos anos, as vendas de autom�veis Porsche na China passaram de 100.000 unidades anuais para cerca de 25.000 previstas para o presente exerc�cio.",
-      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/lucro-da-porsche-aumenta-49-1-ate-junho-e-ultrapassa-os-mil-milhoes",
-      "fonte": "Jornal de Negócios",
-      "pais": "Internacional",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-brico-depot-investe-9-m-em-loja",
-      "titulo": "Brico Depôt investe 9 M€ em loja no Seixal",
-      "resumo": "A loja de bricolage britânica Brico Depôt investiu nove milhões de euros na quarta loja em Portugal no Seixal, em Setúbal, que cria 74 postos de trabalho diretos, informou hoje a empresa.",
-      "url": "https://executivedigest.sapo.pt/brico-depot-investe-9-me-em-loja-no-seixal/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-07-29"
-    },
-    {
-      "id": "2026-07-29-o-vivant-inaugura-um-novo-capitulo-de",
-      "titulo": "O Vivant inaugura um novo capítulo de “sofisticação” no Algarve",
-      "resumo": "Há lugares onde se vai para jantar. Outros onde se vai para celebrar. O VIVANT nasce para unir ambos os momentos numa experiência contínua, onde a elegância da mesa se prolonga naturalmente para o ritmo da noite. Com uma identidade renovada, o espaço reabriu portas a 17 de julho, afirmando-se como um novo ponto de […",
-      "url": "https://www.briefing.pt/noticias/o-vivant-inaugura-um-novo-capitulo-de-sofisticacao-no-algarve/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-29"
     }
   ]
 }
