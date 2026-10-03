@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-02T12:04:22.362Z",
+  "updatedAt": "2026-10-03T11:16:09.427Z",
   "articles": [
+    {
+      "id": "2026-10-02-makro-apresenta-novo-posicionamento-centrado-na-restauracao",
+      "titulo": "Makro apresenta novo posicionamento centrado na restauração",
+      "resumo": "A makro apresentou um novo posicionamento de marca, traduzido na assinatura “Sabemos o que é preciso”, que estreia a 2 de outubro uma campanha multimeios dirigida aos profissionais da restauração, com presença em televisão, rádio, digital e outdoor.",
+      "url": "https://www.distribuicaohoje.com/retalho/makro/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-grupo-lusiaves-conclui-aquisicao-da-maioria-da",
+      "titulo": "Grupo Lusiaves conclui aquisição da maioria da espanhola Padesa",
+      "resumo": "O Grupo Lusiaves concluiu a aquisição da maioria do capital da espanhola Padesa, depois de obtida a aprovação da autoridade da concorrência espanhola ( CNMC ). Com a operação, o grupo passa a contar com cerca de 9.000 colaboradores em Portugal, Espanha e França e um volume de negócios de cerca de 1.500 milhões de eu…",
+      "url": "https://www.distribuicaohoje.com/producao/lusiaves/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes",
+        "resultados"
+      ],
+      "data": "2026-10-02"
+    },
+    {
+      "id": "2026-10-02-los-dos-megaproyectos-que-se-construiran-en",
+      "titulo": "Los dos megaproyectos que se construirán en el Gran Malecón de Barranquilla: inversión supera el billón de pesos",
+      "resumo": "Arquitectura y Concreto busca aprovechar la transformación del sector y ampliar la oferta de comercio, entretenimiento y vivienda alrededor del río Magdalena.",
+      "url": "https://www.valoraanalitik.com/los-dos-megaproyectos-que-se-construiran-en-el-gran-malecon-de-barranquilla-inversion-supera-el-billon-de-pesos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-02"
+    },
     {
       "id": "2026-10-02-logistica-inversa-quando-devolver-e-apenas-o",
       "titulo": "Logística inversa: Quando devolver é apenas o início",
@@ -6058,42 +6095,6 @@
       "temas": [
         "nova-loja",
         "marca-internacional-pt"
-      ],
-      "data": "2026-07-30"
-    },
-    {
-      "id": "2026-07-30-mercedes-benz-abre-encomendas-do-novo-gla",
-      "titulo": "Mercedes-Benz abre encomendas do novo GLA elétrico com até 654 km de autonomia desde 55.400 euros",
-      "resumo": "Em comunicado, a marca afirma que o novo GLA estará inicialmente disponível em duas versões 100% elétricas, destacando uma autonomia de até 654 quilómetros (ciclo WLTP, valor provisório) e uma arquitetura elétrica de 800 volts",
-      "url": "https://executivedigest.sapo.pt/mercedes-benz-abre-encomendas-do-novo-gla-eletrico-com-ate-654-km-de-autonomia-desde-55-400-euros/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-30"
-    },
-    {
-      "id": "2026-07-30-zu-continua-estrategia-de-crescimento-com-com",
-      "titulo": "ZU continua estratégia de crescimento com com aquisição de 7 lojas PetOutlet",
-      "resumo": "“Este passo insere-se numa estratégia de expansão acelerada no mercado português, com o objetivo de aproximar a ZU de cada vez mais clientes e dos seus animais de companhia\", afirma Tobias Azevedo, Head of Iberia Musti Group.",
-      "url": "https://marketeer.sapo.pt/zu-continua-estrategia-de-crescimento-com-com-aquisicao-de-7-lojas-petoutlet/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-07-30"
-    },
-    {
-      "id": "2026-07-30-dils-recap-investimento-em-hotelaria-supera-em",
-      "titulo": "Dils Recap: Investimento em hotelaria supera em seis meses os volumes anuais de 2024 e 2025",
-      "resumo": "O investimento em hotelaria realizado em Portugal durante o primeiro semestre de 2026 superou já os volumes anuais registados em 2024 e 2025, impulsionado por várias operações de grande dimensão, revela o mais recente relatório Dils Recap. No segundo trimestre do ano, a hotelaria foi o segmento que mais capital atra…",
-      "url": "https://www.ambitur.pt/dils-recap-investimento-em-hotelaria-supera-em-seis-meses-os-volumes-anuais-de-2024-e-2025/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
       ],
       "data": "2026-07-30"
     }
