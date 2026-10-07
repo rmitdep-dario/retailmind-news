@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-06T12:57:39.656Z",
+  "updatedAt": "2026-10-07T12:51:33.206Z",
   "articles": [
+    {
+      "id": "2026-10-07-inpost-atinge-14-mil-pontos-de-entrega",
+      "titulo": "InPost atinge 14 mil pontos de entrega na Península Ibérica",
+      "resumo": "A InPost atingiu os 14.000 pontos de entrega fora de casa (Out of Home, OOH) na Península Ibérica, entre Lockers e Pontos Pack, um reforço de capacidade logística que chega com a Peak Season do comércio eletrónico já em curso. A empresa apresenta esta infraestrutura como uma das maiores redes desta natureza na região.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/inpost-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-07"
+    },
+    {
+      "id": "2026-10-07-mcdonald-s-preve-7-3-mil-milhoes",
+      "titulo": "McDonald’s prevê 7,3 mil milhões de euros para modernizar restaurantes",
+      "resumo": "A McDonald’s prevê disponibilizar cerca de 7,3 mil milhões de euros de apoio aos franchisados até 2036 para financiar melhorias nos restaurantes da sua rede global. O conteúdo McDonald’s prevê 7,3 mil milhões de euros para modernizar restaurantes aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/mcdonalds-preve-73-mil-milhoes-de-euros-para-modernizar-restaurantes/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-10-07"
+    },
+    {
+      "id": "2026-10-07-black-friday-e-natal-procura-por-perfis",
+      "titulo": "Black Friday e Natal: procura por perfis de logística cresce 150%",
+      "resumo": "A aproximação da Black Friday e do Natal deverá aumentar a procura por profissionais nas áreas do comércio e da logística, seguindo-se a consultoria e as indústrias extrativas. O conteúdo Black Friday e Natal: procura por perfis de logística cresce 150% aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/black-friday-e-natal-procura-por-perfis-de-logistica-cresce-150/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-07"
+    },
+    {
+      "id": "2026-10-07-volume-de-negocios-das-empresas-cresce-5",
+      "titulo": "Volume de negócios das empresas cresce 5,2% em 2025 com construção e imobiliário à cabeça",
+      "resumo": "Esta evolução foi suportada pelo mercado interno, que cresceu 7,1%, com quase todos os setores a apresentarem uma melhoria em relação ao ano anterior.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/volume-de-negocios-das-empresas-cresce-52-em-2025-com-construcao-e-imobiliario-a-cabeca/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-07"
+    },
+    {
+      "id": "2026-10-06-black-friday-faz-crescer-150-a-procura",
+      "titulo": "Black Friday faz crescer 150% a procura por perfis de logística",
+      "resumo": "A campanha de Black Friday e Natal de 2026 deverá voltar a concentrar a contratação nas áreas do comércio e da logística , antecipa a Eurofirms, depois de a procura por operários de montagem e de armazém ter crescido 150% em novembro de 2025 face a outubro.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/black-friday/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-06"
+    },
+    {
+      "id": "2026-10-06-o-que-acontece-a-origem-portuguesa-quando",
+      "titulo": "O que acontece à origem portuguesa quando ganha escala ibérica?",
+      "resumo": "A expansão ibérica da Mercadona cria oportunidades para fornecedores portugueses, mas exige qualidade, regularidade, inovação e capacidade produtiva. Em 2025, a empresa afirma ter comprado 1.500 milhões de euros a produtores nacionais e investido 140 milhões em Portugal. A escala pode ampliar mercados sem apagar a o…",
+      "url": "https://grandeconsumo.com/mercadona-fornecedores-portugueses-escala-iberica/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-06"
+    },
+    {
+      "id": "2026-10-06-homecenter-sodimac-colombia-adquiere-participacion-mayoritaria-en",
+      "titulo": "Homecenter Sodimac Colombia adquiere participación mayoritaria en Sumatec",
+      "resumo": "Sumatec operará con su marca mientras trabaja con Homecenter Sodimac Colombia por el desarrollo del negocio",
+      "url": "https://www.larepublica.co/empresas/homecenter-sodimac-colombia-adquiere-participacion-mayoritaria-en-sumatec-4497634",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-06"
+    },
+    {
+      "id": "2026-10-06-de-la-espriella-promete-hoja-de-ruta",
+      "titulo": "De La Espriella promete hoja de ruta de megaobras, inversión y empleo para Colombia en Plan de Desarrollo",
+      "resumo": "Planeación Nacional ha identificado hasta ahora un portafolio de 334 grandes proyectos, cuyo valor asciende a $535,1 billones.",
+      "url": "https://www.valoraanalitik.com/de-la-espriella-promete-hoja-de-ruta-de-megaobras-inversion-y-empleo-para-colombia-en-plan-de-desarrollo/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-06"
+    },
     {
       "id": "2026-10-06-um-em-cada-tres-consumidores-esta-financeiramente",
       "titulo": "Um em cada três consumidores está financeiramente pior, revela estudo global",
@@ -5995,104 +6091,6 @@
         "logistica"
       ],
       "data": "2026-08-02"
-    },
-    {
-      "id": "2026-08-01-top-of-the-week-investimento-patrimonio-e",
-      "titulo": "TOP of the WEEK: Investimento, património e influência",
-      "resumo": "🗞️ 7 notícias a não esquecer Portugal continua a reforçar o seu posicionamento como um dos destinos residenciais e de investimento mais competitivos da Europa, beneficiando da capacidade de resposta de diferentes regiões, refere um relatório da consultora imobiliária Engel e Volkers. Conheça o perfil do comprador i…",
-      "url": "https://www.forbespt.com/top-of-the-week-investimento-patrimonio-e-influencia/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-01"
-    },
-    {
-      "id": "2026-08-01-abriu-a-mina-de-ouro-para-amantes",
-      "titulo": "Abriu a “mina de ouro” para amantes de porcelana: Costa Verde inaugura outlet com (incríveis) preços de fábrica",
-      "resumo": "A Costa Verde acaba de inaugurar a Costa Verde Outlet, a nova loja de fábrica da marca, instalada na unidade de produção da empresa, na Zona Industrial de Vagos.",
-      "url": "https://marketeer.sapo.pt/abriu-a-mina-de-ouro-para-amantes-de-porcelana-costa-verde-inaugura-outlet-com-incriveis-precos-de-fabrica/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-01"
-    },
-    {
-      "id": "2026-07-31-retalho-soma-417-milhoes-de-euros-em",
-      "titulo": "Retalho soma 417 milhões de euros em investimento imobiliário no primeiro semestre",
-      "resumo": "O mercado imobiliário português registou um volume de investimento de 1,4 mil milhões de euros no primeiro semestre de 2026, um crescimento de 11% face ao período homólogo, segundo o mais recente Dils Recap . Apesar da evolução positiva no acumulado do semestre, o segundo trimestre fixou-se em 462 milhões de euros ,…",
-      "url": "https://www.distribuicaohoje.com/retalho/retalho-investimento-imob/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-07-31"
-    },
-    {
-      "id": "2026-07-31-last-mile-summit-regressa-a-cascais-para",
-      "titulo": "Last Mile Summit regressa a Cascais para debater futuro da última milha",
-      "resumo": "O Last Mile Summit regressa a 23 de setembro, no Arriba Guincho , em Cascais, para a sua segunda edição. O encontro, organizado pela Delivery Express e pela PwC , arranca às 09h00 e deverá reunir mais de 150 convidados para debater temas como micrologística urbana, sustentabilidade, inovação, desenvolvimento das cid…",
-      "url": "https://www.distribuicaohoje.com/supply-chain/last-mile-summit-cascais/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-07-31"
-    },
-    {
-      "id": "2026-07-31-kiabi-entra-na-argentina-com-plano-para",
-      "titulo": "Kiabi entra na Argentina com plano para abrir 20 lojas",
-      "resumo": "A Kiabi vai entrar na Argentina através de um acordo de franchising com o Grupo One, com um investimento de 20 milhões de dólares e a abertura de até 20 lojas nos próximos cinco anos. O conteúdo Kiabi entra na Argentina com plano para abrir 20 lojas aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/kiabi-entra-na-argentina-com-plano-para-abrir-20-lojas/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "nova-loja",
-        "franchising",
-        "investidores"
-      ],
-      "data": "2026-07-31"
-    },
-    {
-      "id": "2026-07-31-ab-inbev-cresce-5-6-no-segundo",
-      "titulo": "AB InBev cresce 5,6% no segundo trimestre",
-      "resumo": "A AB InBev fechou o segundo trimestre de 2026 com um crescimento orgânico de 5,6% nas receitas, impulsionado pela evolução positiva do negócio da cerveja e pelo desempenho das suas marcas premium. O volume total aumentou 0,9%, com o volume de cerveja a crescer 1,1%. O conteúdo AB InBev cresce 5,6% no segundo trimest…",
-      "url": "https://grandeconsumo.com/ab-inbev-cresce-56-no-segundo-trimestre/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-07-31"
-    },
-    {
-      "id": "2026-07-31-pingo-doce-abre-nova-loja-em-sesimbra",
-      "titulo": "Pingo Doce abre nova loja em Sesimbra",
-      "resumo": "O Pingo Doce inaugurou, hoje, uma nova loja de proximidade na Avenida dos Náufragos, em Sesimbra, criando 16 novos postos de trabalho. Com uma área de vendas de 210 metros quadrados, esta abertura vem reforçar a presença do Pingo Doce no distrito de Setúbal, onde passa a contar com 33 lojas. O conteúdo Pingo Doce ab…",
-      "url": "https://grandeconsumo.com/pingo-doce-abre-nova-loja-em-sesimbra/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-31"
-    },
-    {
-      "id": "2026-07-31-nova-loja-em-centro-comercial-promete-revolucionar",
-      "titulo": "Nova loja em centro comercial promete revolucionar o padel em Portugal",
-      "resumo": "A marca portuguesa QUAD acaba de dar um passo decisivo na sua expansão ao inaugurar a primeira loja própria em contexto de centro comercial, escolhendo o NorteShopping como palco para este novo conceito que promete marcar tendência no setor desportivo.",
-      "url": "https://marketeer.sapo.pt/nova-loja-em-centro-comercial-promete-revolucionar-o-padel-em-portugal/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-07-31"
     }
   ]
 }
