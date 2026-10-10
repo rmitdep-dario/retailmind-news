@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-09T12:46:35.232Z",
+  "updatedAt": "2026-10-10T12:04:55.626Z",
   "articles": [
+    {
+      "id": "2026-10-10-connaught-place-shuts-ahead-of-cjp-protest",
+      "titulo": "Connaught Place shuts ahead of CJP protest, traders brace for Rs 2,000 crore hit",
+      "resumo": "Connaught Place market is set to be shut on Saturday in anticipation of a planned protest. The New Delhi Traders Association fears significant losses, estimating nearly Rs 2,000 crore. While acknowledging the right to protest, concerns about public safety and business disruption have been raised. Delhi Police has de…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/connaught-place-shuts-ahead-of-cjp-protest-traders-brace-for-rs-2000-crore-hit/134846886",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "loja-encerrada"
+      ],
+      "data": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-grupo-smile-aterriza-en-cartagena-con-verano",
+      "titulo": "Grupo Smile aterriza en Cartagena con Verano y le apunta a llegar a 10 restaurantes",
+      "resumo": "María Camila de Francisco, gerente del Grupo Smile, habló de las próximas aperturas y de lo que representa su nueva apertura fuera de Bogotá con Verano",
+      "url": "https://www.larepublica.co/empresas/entrevista-con-maria-camila-de-francisco-gerente-de-grupo-smile-4500068",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-la-falta-de-locales-comerciales-podria-frenar",
+      "titulo": "La falta de locales comerciales podría frenar la expansión de Juan Valdez en España",
+      "resumo": "La disponibilidad de locales comerciales continúa en mínimos históricos, situándose en torno a 1% en Madrid y 2% en Barcelona",
+      "url": "https://www.larepublica.co/empresas/la-falta-de-locales-comerciales-frena-la-expansion-de-juan-valdez-en-espana-4500764",
+      "fonte": "La República",
+      "pais": "Espanha",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-10"
+    },
+    {
+      "id": "2026-10-09-retalhistas-lucram-mais-com-promocoes-dirigidas-a",
+      "titulo": "Retalhistas lucram mais com promoções dirigidas a consumidores menos sensíveis ao orçamento, diz estudo",
+      "resumo": "As promoções associadas a um valor mínimo de compra tendem a gerar maior lucro junto dos consumidores menos sensíveis ao planeamento de gastos, que são também os mais propensos a receber códigos de desconto personalizados dos retalhistas, conclui um estudo liderado pela Durham University Business School.",
+      "url": "https://www.distribuicaohoje.com/retalho/promocoes-com-compra-minima/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-pedro-moura-o-novo-diretor-nacional-da",
+      "titulo": "Pedro Moura � o novo diretor nacional da PSP",
+      "resumo": "At� agora coordenador-geral da Unidade de Coordena��o de Fronteiras e Estrangeiros do Sistema de Seguran�a Interna, Pedro Moura substitui Lu�s Carrilho, que estava no cargo desde maio de 2024.",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/pedro-moura-e-o-novo-diretor-nacional-da-psp",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-cadena-hotelera-colombiana-oxohotel-inicia-expansion-en",
+      "titulo": "Cadena hotelera colombiana OxoHotel inicia expansión en Perú y abrirá Hilton Garden Inn en Pereira",
+      "resumo": "La compañía operará dos hoteles que suman 339 habitaciones. En su primera etapa, las propiedades proyectan 140 empleos directos entre Colombia y Perú.",
+      "url": "https://www.valoraanalitik.com/cadena-hotelera-colombiana-oxohotel-inicia-expansion-en-peru-y-abrira-hilton-garden-inn-en-pereira/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-primicia-bbva-colombia-relanza-oferta-para-clientes",
+      "titulo": "Primicia | BBVA Colombia relanza oferta para clientes premium y ultra premium; abrirá nuevas oficinas especializadas",
+      "resumo": "La oferta contempla clientes que comienzan a construir patrimonio hasta grandes familias empresarias, con foco en necesidades de clientes locales.",
+      "url": "https://www.valoraanalitik.com/bbva-colombia-oferta-clientes-premium/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-10-09"
+    },
+    {
+      "id": "2026-10-09-cox-cerro-contrato-de-venta-de-energia",
+      "titulo": "Cox cerró contrato de venta de energía a largo plazo con EPM y busca fortalecerse en Colombia y la región",
+      "resumo": "La compañía gestiona activos de agua y energía solar y tiene una cartera de 20 proyectos fotovoltaicos en Colombia.",
+      "url": "https://www.valoraanalitik.com/cox-cerro-contrato-de-venta-de-energia-a-largo-plazo-con-epm-y-busca-fortalecerse-en-colombia-y-la-region/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-10-09"
+    },
     {
       "id": "2026-10-09-retalho-cria-21-900-postos-de-trabalho",
       "titulo": "Retalho cria 21.900 postos de trabalho entre 2020 e 2025",
@@ -5993,106 +6089,6 @@
         "nova-loja"
       ],
       "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-04-tedi-compra-76-lojas-woolworth-e-reforca",
-      "titulo": "TEDi compra 76 lojas Woolworth e reforça presença na Polónia",
-      "resumo": "A TEDi vai assumir 76 lojas da Woolworth na Polónia, numa operação que fará a cadeia alemã abandonar o mercado polaco e elevar a rede da TEDi para cerca de 372 unidades. O conteúdo TEDi compra 76 lojas Woolworth e reforça presença na Polónia aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/tedi-compra-76-lojas-woolworth-e-reforca-presenca-na-polonia/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-04"
-    },
-    {
-      "id": "2026-08-04-jungheinrich-adquire-participacao-na-ep-equipment",
-      "titulo": "Jungheinrich adquire participação na EP Equipment",
-      "resumo": "A Jungheinrich AG adquiriu uma participação de 4,9% na EP Equipment, fabricante chinesa de equipamentos de movimentação de cargas. O investimento reforça a cooperação entre as duas empresas e integra a implementação da Estratégia 2030+. O conteúdo Jungheinrich adquire participação na EP Equipment aparece primeiro em…",
-      "url": "https://grandeconsumo.com/jungheinrich-adquire-participacao-na-ep-equipment/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "investidores",
-        "aquisicoes"
-      ],
-      "data": "2026-08-04"
-    },
-    {
-      "id": "2026-08-04-vinted-acelera-expansao-nos-estados-unidos",
-      "titulo": "Vinted acelera expansão nos Estados Unidos",
-      "resumo": "A Vinted está a reforçar a aposta na internacionalização com a expansão nos Estados Unidos, procurando replicar o modelo que a tornou uma das maiores plataformas europeias de compra e venda de artigos em segunda mão. O conteúdo Vinted acelera expansão nos Estados Unidos aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/vinted-acelera-expansao-nos-estados-unidos/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao",
-        "compra-venda-ativo"
-      ],
-      "data": "2026-08-04"
-    },
-    {
-      "id": "2026-08-04-mathilde-aponte-faucherie-lidera-rh-da-danone",
-      "titulo": "Mathilde Aponte Faucherie lidera RH da Danone Portugal",
-      "resumo": "A Danone Portugal nomeou Mathilde Aponte Faucherie como nova diretora de Recursos Humanos. A responsável assume a liderança da gestão de pessoas, tendo como principal missão impulsionar o desenvolvimento das equipas e o crescimento sustentável do negócio. O conteúdo Mathilde Aponte Faucherie lidera RH da Danone Port…",
-      "url": "https://grandeconsumo.com/mathilde-aponte-faucherie-lidera-rh-da-danone-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-08-04"
-    },
-    {
-      "id": "2026-08-04-amanhecer-reforca-rede-com-novas-lojas-em",
-      "titulo": "Amanhecer reforça rede com novas lojas em Anadia e Lisboa",
-      "resumo": "O Amanhecer reforçou a sua rede de retalho tradicional com a abertura de duas novas lojas, em Anadia e Lisboa, dando continuidade à expansão da insígnia em diferentes regiões do país. O conteúdo Amanhecer reforça rede com novas lojas em Anadia e Lisboa aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/amanhecer-reforca-rede-com-novas-lojas-em-anadia-e-lisboa/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-08-04"
-    },
-    {
-      "id": "2026-08-03-iservices-vende-mais-de-1-200-cartoes",
-      "titulo": "iServices vende mais de 1.200 cartões pré-pagos da NOS desde janeiro",
-      "resumo": "A parceria permite à iServices juntar cartões móveis aos serviços de reparação, acessórios e venda de equipamentos recondicionados. O conteúdo iServices vende mais de 1.200 cartões pré-pagos da NOS desde janeiro aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/iservices-vende-mais-de-1-200-cartoes-pre-pagos-da-nos-desde-janeiro/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "compra-venda-ativo"
-      ],
-      "data": "2026-08-03"
-    },
-    {
-      "id": "2026-08-03-retail-parks-lideram-nova-oferta-de-retalho",
-      "titulo": "Retail parks lideram nova oferta de retalho com mais de 77 mil metros quadrados em desenvolvimento",
-      "resumo": "O investimento em retalho atingiu 417 milhões de euros no primeiro semestre, enquanto os retail parks lideram o pipeline de nova oferta comercial em Portugal. O conteúdo Retail parks lideram nova oferta de retalho com mais de 77 mil metros quadrados em desenvolvimento aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/retail-parks-lideram-nova-oferta-de-retalho-com-mais-de-77-mil-metros-quadrados-em-desenvolvimento/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "retail-parks",
-        "investidores"
-      ],
-      "data": "2026-08-03"
-    },
-    {
-      "id": "2026-08-03-action-abre-em-esposende-a-30-loja",
-      "titulo": "Action abre em Esposende a 30.ª loja em Portugal",
-      "resumo": "A Action vai abrir a 30.ª loja em Portugal, desta vez em Esposende, no dia 6 de agosto. A nova unidade terá 806 metros quadrados e cerca de seis mil produtos de 14 categorias, com preços médios abaixo de dois euros. O conteúdo Action abre em Esposende a 30.ª loja em Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/action-abre-em-esposende-a-30-a-loja-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-03"
     }
   ]
 }
