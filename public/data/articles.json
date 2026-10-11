@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-10T12:04:55.626Z",
+  "updatedAt": "2026-10-11T12:18:23.602Z",
   "articles": [
+    {
+      "id": "2026-10-11-pinterest-abre-a-porta-as-marcas-para",
+      "titulo": "Pinterest abre a porta às marcas para promover conteúdos de criadores sem parcerias prévias",
+      "resumo": "As marcas passam a poder patrocinar Pins elegíveis de criadores no Pinterest, mesmo sem uma colaboração formal previamente estabelecida. A novidade alarga as oportunidades de monetização para os criadores.",
+      "url": "https://marketeer.sapo.pt/pinterest-abre-a-porta-as-marcas-para-promover-conteudos-de-criadores-sem-parcerias-previas/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-11"
+    },
+    {
+      "id": "2026-10-11-weekly-funding-recap-reliance-consumer-dailyobjects-lead",
+      "titulo": "Weekly funding recap: Reliance Consumer, DailyObjects lead investment activity",
+      "resumo": "This week’s funding activity extended beyond startup fundraising to include investments in manufacturing capacity and business expansion. The combined disclosed investment and fundraising amount stood at approximately Rs 1,343 crore.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/weekly-funding-recap-reliance-consumer-dailyobjects-lead-investment-activity/134866690",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "investidores"
+      ],
+      "data": "2026-10-11"
+    },
     {
       "id": "2026-10-10-connaught-place-shuts-ahead-of-cjp-protest",
       "titulo": "Connaught Place shuts ahead of CJP protest, traders brace for Rs 2,000 crore hit",
@@ -6063,30 +6088,6 @@
       "pais": "Colômbia",
       "temas": [
         "resultados"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-las-propuestas-de-la-bolsa-de-colombia",
-      "titulo": "Las propuestas de la Bolsa de Colombia a De La Espriella para elevar la inversión: ISA, OPAs, impuestos y más",
-      "resumo": "Elevar el flotante de Ecopetrol al 20 %, habilitar SAS en el mercado de valores y permitir activos digitales, entre las iniciativas.",
-      "url": "https://www.valoraanalitik.com/propuestas-bolsa-colombia-de-la-espriella/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-mipymes-podran-comprar-empaques-personalizados-premium-desde",
-      "titulo": "Mipymes podrán comprar empaques personalizados premium desde 20 unidades con la nueva tienda virtual de Smurfit Westrock",
-      "resumo": "Las referencias disponibles se desarrollan con las mismas referencias de calidad aplicados para clientes multinacionales y empresas exportadoras.",
-      "url": "https://www.valoraanalitik.com/mipymes-podran-comprar-empaques-personalizados-desde-20-unidades-con-la-nueva-tienda-virtual-de-smurfit-westrock/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "nova-loja"
       ],
       "data": "2026-08-05"
     }
