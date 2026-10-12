@@ -1,6 +1,139 @@
 {
-  "updatedAt": "2026-10-11T12:18:23.602Z",
+  "updatedAt": "2026-10-12T14:43:53.091Z",
   "articles": [
+    {
+      "id": "2026-10-12-80-dos-operadores-logisticos-planeiam-expandir-armazens",
+      "titulo": "80% dos operadores logísticos planeiam expandir armazéns em Portugal",
+      "resumo": "A maioria dos operadores logísticos a operar em Portugal prepara uma nova fase de expansão: 80% planeiam aumentar o espaço de armazenamento nos próximos 12 meses, com a Grande Lisboa e o Grande Porto como principais regiões alvo.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/operadores-logisticos/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-coca-cola-volta-a-tentar-vender-a",
+      "titulo": "Coca-Cola volta a tentar vender a Costa Coffee",
+      "resumo": "A Coca-Cola está a tentar vender a Costa Coffee, a cadeia britânica de cafetarias que adquiriu em 2018 por 5,1 mil milhões de dólares (cerca de 4,5 mil milhões de euros), avança a Semafor , publicação norte-americana de informação económica e política, que cita fontes próximas do processo.",
+      "url": "https://www.distribuicaohoje.com/retalho/costa-coffee/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-logistica-emprega-mais-de-246-mil-profissionais",
+      "titulo": "Logística emprega mais de 246 mil profissionais e representa 4,6% do emprego em Portugal",
+      "resumo": "O setor logístico em Portugal emprega 246,5 mil profissionais, o equivalente a 4,6% do emprego total nacional, segundo uma análise da Randstad Research. Numa década, a capacidade laboral das empresas de transportes e armazenagem cresceu 60,9%, de 150,9 mil para 242,8 mil pessoas ao serviço.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/setor-logistico/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-bce-prepara-piloto-do-euro-digital-em",
+      "titulo": "BCE prepara piloto do euro digital em 2027 e aponta para possível emissão em 2029",
+      "resumo": "O Banco Central Europeu (BCE) pretende estar preparado para uma potencial primeira emissão do euro digital em 2029, caso o processo legislativo esteja concluído até ao final de 2026. A indicação foi deixada por Piero Cipollone, membro da Comissão Executiva do BCE, num discurso sobre o papel dos bancos centrais na er…",
+      "url": "https://www.distribuicaohoje.com/pagamentos/euro-digital-bce/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-primark-estreia-repair-workshops-em-portugal",
+      "titulo": "Primark estreia Repair Workshops em Portugal",
+      "resumo": "A Primark vai realizar, pela primeira vez em Portugal, os seus Repair Workshops, com o objetivo de ajudar os clientes a aprender técnicas práticas de costura para reparar, personalizar e renovar as suas roupas. O conteúdo Primark estreia Repair Workshops em Portugal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/primark-estreia-repair-workshops-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-jose-maria-bettencourt-assume-direcao-de-enologia",
+      "titulo": "José Maria Bettencourt assume direção de enologia da José Maria da Fonseca",
+      "resumo": "José Maria Bettencourt é o novo diretor de enologia da José Maria da Fonseca, sucedendo a Paulo Hortas, que se reforma após quatro décadas na empresa. O conteúdo José Maria Bettencourt assume direção de enologia da José Maria da Fonseca aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/jose-maria-bettencourt-assume-direcao-de-enologia-da-jose-maria-da-fonseca/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-boa-hotels-prepara-resort-de-luxo-no",
+      "titulo": "Boa Hotels prepara resort de luxo no Douro e abertura na Grécia",
+      "resumo": "Kura é o nome do resort destinado ao segmento alto que o grupo hoteleiro Boa Hotels prepara para 2029 no Douro. A empresa prevê também a abertura da primeira unidade fora de portas, o boutique hotel Oscuro, em Paros, na Grécia, em 2028. Este será o segundo projeto da empresa em Portugal, depois do Village […]",
+      "url": "https://eco.sapo.pt/2026/10/12/boa-hotels-prepara-resort-de-luxo-no-douro-e-abertura-na-grecia/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-flying-tiger-oferece-sacos-surpresa-aos-primeiros",
+      "titulo": "Flying Tiger oferece sacos-surpresa aos primeiros 100 clientes que gastem 10 euros na nova loja que está prestes a abrir",
+      "resumo": "A loja da marca dinamarquesa reabre a 13 de outubro, após obras de remodelação. Os primeiros 100 clientes que gastem pelo menos 10 euros recebem um saco-surpresa gratuito.",
+      "url": "https://marketeer.sapo.pt/flying-tiger-oferece-sacos-surpresa-aos-primeiros-100-clientes-que-gastem-10-euros-na-nova-loja-que-esta-prestes-a-abrir/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-grupo-ds-acelera-expansao-nacional-com-novas",
+      "titulo": "Grupo DS acelera expansão nacional com novas lojas e reforço de um modelo integrado",
+      "resumo": "O Grupo DS está a reforçar a sua presença de norte a sul do país com um conjunto de novas aberturas e mudanças de instalações que traduzem a estratégia de crescimento e expansão da rede. Durante o mês de setembro, o Grupo reforça a sua presença em diferentes territórios, com novas unidades das áreas de […] O conteúd…",
+      "url": "https://www.infofranchising.pt/grupo-ds-novas-lojas/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-india-s-office-hubs-turn-into-retail",
+      "titulo": "India’s office hubs turn into retail hotspots as developers tap captive shoppers",
+      "resumo": "Office clusters in cities like Gurugram and Mumbai are increasingly becoming retail hubs that serve employees. Retail spaces within office developments have surged significantly, catering to rising consumer demand for lifestyle services. Developers are adapting to this shift by integrating retail areas into office s…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-office-hubs-turn-into-retail-hotspots-as-developers-tap-captive-shoppers/134888271",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "promotores"
+      ],
+      "data": "2026-10-12"
+    },
+    {
+      "id": "2026-10-12-top-shelf-with-forever-new-20-years",
+      "titulo": "Top Shelf with Forever New: 20 years of fashion, scale and staying relevant",
+      "resumo": "As the Australian-born fashion brand turns 20, founder and CEO Dipendra Goenka and Managing Director Carolyn Mackenzie sit down for the latest edition of ETRetail signature digital cover story - Top Shelf - and decode how Forever New plans to double its global business in the next three to five years, while protecti…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/top-shelf-with-forever-new-20-years-of-fashion-scale-and-staying-relevant/134885595",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-12"
+    },
     {
       "id": "2026-10-11-pinterest-abre-a-porta-as-marcas-para",
       "titulo": "Pinterest abre a porta às marcas para promover conteúdos de criadores sem parcerias prévias",
@@ -5958,138 +6091,6 @@
         "investimento-estrangeiro"
       ],
       "data": "2026-08-06"
-    },
-    {
-      "id": "2026-08-05-coca-cola-europacific-partners-atinge-1-639",
-      "titulo": "Coca-Cola Europacific Partners atinge 1.639 milhões de euros na Península Ibérica",
-      "resumo": "A Coca-Cola Europacific Partners registou receitas de 1.639 milhões de euros na Península Ibérica no primeiro semestre de 2026, um crescimento de 5,4% face ao período homólogo. No segundo trimestre, as receitas ascenderam a 955 milhões de euros, mais 4,6%.",
-      "url": "https://www.distribuicaohoje.com/producao/coca-cola-resultados-2/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-casa-mendes-goncalves-compra-diese-e-reforca",
-      "titulo": "Casa Mendes Gonçalves compra Diese e reforça aposta na alimentação saudável",
-      "resumo": "A Casa Mendes Gonçalves anunciou a aquisição da Diese, marca portuguesa de alimentação saudável com quase sete décadas de história, e prepara uma nova fase assente numa identidade renovada, novas gamas de produto e uma abordagem atualizada à nutrição consciente e ao bem-estar.",
-      "url": "https://www.distribuicaohoje.com/producao/casa-mendes-goncalves-compra-diese-e-reforca-aposta-na-alimentacao-saudavel/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-carrefour-recruta-candidatos-a-franchising-atraves-de",
-      "titulo": "Carrefour recruta candidatos a franchising através de WhatsApp e IA",
-      "resumo": "A Carrefour Belgium lançou um processo digital de recrutamento de candidatos a franchising através de WhatsApp e inteligência artificial , com o objetivo de reduzir barreiras à entrada de potenciais empreendedores interessados em gerir uma loja da insígnia.",
-      "url": "https://www.distribuicaohoje.com/retalho/carrefour-recruta-por-whatsapp/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "franchising"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-p-g-compra-fabricante-de-suplementos-nutricionais",
-      "titulo": "P&G compra fabricante de suplementos nutricionais por 3,8 mil milhões de dólares",
-      "resumo": "A Procter & Gamble (P&G) anunciou a aquisição da Thorne, fabricante de suplementos nutricionais, por 3,8 mil milhões de dólares, cerca de 3,3 mil milhões de euros.",
-      "url": "https://www.distribuicaohoje.com/producao/pg-fabricante-suplementos/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-casa-mendes-goncalves-compra-e-relanca-a",
-      "titulo": "Casa Mendes Gonçalves compra e relança a Diese",
-      "resumo": "A aquisição marca a entrada da Casa Mendes Gonçalves na nutrição consciente e inicia uma nova fase para a Diese, fundada em 1955. O conteúdo Casa Mendes Gonçalves compra e relança a Diese aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/casa-mendes-goncalves-compra-e-relanca-a-diese/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-quatro-prioridades-para-enfrentar-a-volatilidade",
-      "titulo": "Quatro prioridades para enfrentar a volatilidade",
-      "resumo": "A ERA Group identifica quatro áreas prioritárias para ajudar as empresas a enfrentar a volatilidade dos mercados e a pressão sobre os custos: controlo da despesa logística, maior agilidade nas compras, adaptação das cadeias de abastecimento e revisão dos planos de continuidade e gestão do risco. O conteúdo Quatro pr…",
-      "url": "https://grandeconsumo.com/quatro-prioridades-para-enfrentar-a-volatilidade/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-heineken-aumenta-lucro-em-51-2-no",
-      "titulo": "Heineken aumenta lucro em 51,2% no primeiro semestre",
-      "resumo": "A Heineken registou um lucro líquido de 1.125 milhões de euros no primeiro semestre de 2026, um aumento de 51,2% face ao período homólogo. A receita líquida cresceu 2,7% em termos orgânicos, para 14.834 milhões de euros, impulsionada pelo desempenho dos mercados prioritários, entre os quais Vietname, Etiópia, Índia,…",
-      "url": "https://grandeconsumo.com/heineken-aumenta-lucro-em-512-no-primeiro-semestre/",
-      "fonte": "Grande Consumo",
-      "pais": "Índia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-iberdrola-bp-pulse-capta-ate-230-milhoes",
-      "titulo": "Iberdrola | bp pulse capta até 230 milhões para expansão da rede",
-      "resumo": "A Iberdrola | bp pulse assegurou um financiamento bancário de 130 milhões de euros, com possibilidade de ampliação até 230 milhões, destinado a sustentar o plano de crescimento da empresa nos próximos anos. O conteúdo Iberdrola | bp pulse capta até 230 milhões para expansão da rede aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/iberdrola-bp-pulse-capta-ate-230-milhoes-para-expansao-da-rede/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-coca-cola-europacific-partners-cresce-5-4",
-      "titulo": "Coca-Cola Europacific Partners cresce 5,4% no mercado ibérico",
-      "resumo": "A Coca-Cola Europacific Partners aumentou as receitas 5,4% na Península Ibérica no primeiro semestre de 2026, para 1.639 milhões de euros, impulsionada por bebidas desportivas, RTD tea, Flavours e Monster. O conteúdo Coca-Cola Europacific Partners cresce 5,4% no mercado ibérico aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/coca-cola-europacific-partners-cresce-54-no-mercado-iberico/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-ifthenpay-aumenta-faturacao-em-13-no-primeiro",
-      "titulo": "Ifthenpay aumenta faturação em 13% no primeiro semestre",
-      "resumo": "A Ifthenpay registou um crescimento de 13% no volume de negócios no primeiro semestre de 2026, face ao mesmo período do ano anterior, alcançando 4,5 milhões de euros de faturação. O conteúdo Ifthenpay aumenta faturação em 13% no primeiro semestre aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/ifthenpay-aumenta-faturacao-em-13-no-primeiro-semestre/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-05"
-    },
-    {
-      "id": "2026-08-05-cenco-malls-aumento-mas-de-25-sus",
-      "titulo": "Cenco Malls aumentó más de 25% sus utilidades netas durante el segundo trimestre del año",
-      "resumo": "El operador de centros comerciales reportó un crecimiento de 9,3 % en sus ingresos interanuales, alcanzando US$110,5 millones",
-      "url": "https://www.larepublica.co/empresas/cenco-malls-aumento-mas-de-25-sus-utilidades-netas-durante-el-segundo-trimestre-del-ano-4452151",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-05"
     }
   ]
 }
