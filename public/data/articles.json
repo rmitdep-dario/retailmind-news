@@ -1,6 +1,216 @@
 {
-  "updatedAt": "2026-10-14T11:24:12.798Z",
+  "updatedAt": "2026-10-15T11:01:12.993Z",
   "articles": [
+    {
+      "id": "2026-10-15-bel-cria-gemeo-digital-de-a-vaca",
+      "titulo": "Bel cria gémeo digital de ‘A Vaca que Ri’ para testar novas receitas",
+      "resumo": "A Bel desenvolveu um gémeo digital do queijo fundido \"A Vaca que Ri\", em parceria com a Dassault Systèmes, que permite modelar virtualmente o produto e testar combinações de receitas antes da experimentação física.",
+      "url": "https://www.distribuicaohoje.com/producao/gemeo-digital/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-retalho-dos-estados-unidos-prepara-natal-com",
+      "titulo": "Retalho dos Estados Unidos prepara Natal com menos contratações sazonais",
+      "resumo": "O retalho norte-americano deverá criar cerca de 450 mil empregos sazonais no quarto trimestre de 2026, abaixo dos 461,5 mil registados em 2025. A tendência contrasta com Portugal, onde os sinais disponíveis apontam para manutenção do reforço temporário de equipas na peak season, sobretudo em retalho, logística e e-c…",
+      "url": "https://grandeconsumo.com/retalho-eua-menos-contratacoes-sazonais-portugal-peak-season/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-mercadona-chega-ao-algarve",
+      "titulo": "Mercadona chega ao Algarve",
+      "resumo": "A cadeia espanhola investiu mais de 6,5 milhões de euros na primeira loja algarvia, em Portimão, criando 100 postos de trabalho com contratos sem termo. A abertura eleva para 77 o número de supermercados da insígnia em Portugal, estando já confirmada a inauguração de Faro para 12 de novembro. O conteúdo Mercadona ch…",
+      "url": "https://grandeconsumo.com/mercadona-algarve-portimao-77-lojas-faro/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-tiktok-lanca-shopping-assistant-com-ia-e",
+      "titulo": "TikTok lança Shopping Assistant com IA e reforça aposta no comércio agêntico",
+      "resumo": "O TikTok apresentou novas ferramentas de inteligência artificial e automação para anunciantes, entre as quais o Shopping Assistant, um agente conversacional que acompanha os utilizadores ao longo do processo de compra. A plataforma está também a aprofundar a automatização de campanhas e a integração entre descoberta…",
+      "url": "https://grandeconsumo.com/tiktok-shopping-assistant-ia-agentic-commerce/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-uniqlo-aproxima-se-da-h-m-e",
+      "titulo": "Uniqlo aproxima-se da H&M e ameaça alterar hierarquia mundial do retalho de moda",
+      "resumo": "A Fast Retailing, proprietária da Uniqlo, registou receitas recorde de 3,96 biliões de ienes (22,39 mil milhões de euros) em 2026, aproximando-se da rival sueca em dimensão de negócio. O crescimento na Europa e na América do Norte está a transformar o equilíbrio competitivo do sector, embora a Inditex continue a lid…",
+      "url": "https://grandeconsumo.com/uniqlo-aproxima-se-da-hm-e-ameaca-alterar-hierarquia-mundial-do-retalho-de-moda/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-radio-popular-chega-as-70-lojas-com",
+      "titulo": "Radio Popular chega às 70 lojas com abertura em Miraflores",
+      "resumo": "A Radio Popular inaugura esta quinta-feira, 15 de outubro, a sua 70.ª loja em Portugal. Localizada no New Life Miraflores, em Algés, a nova unidade conta com cerca de 450 metros quadrados e reforça a presença da retalhista na região de Lisboa. O conteúdo Radio Popular chega às 70 lojas com abertura em Miraflores apa…",
+      "url": "https://grandeconsumo.com/radio-popular-chega-as-70-lojas-com-abertura-em-miraflores/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-bruxelas-aprova-aquisicao-da-kenvue-pela-kimberly",
+      "titulo": "Bruxelas aprova aquisição da Kenvue pela Kimberly-Clark, mas impõe condições",
+      "resumo": "A Comissão Europeia autorizou a concentração entre duas multinacionais de produtos de consumo, condicionando a operação a medidas destinadas a preservar a concorrência no mercado europeu de produtos de higiene feminina. O conteúdo Bruxelas aprova aquisição da Kenvue pela Kimberly-Clark, mas impõe condições aparece p…",
+      "url": "https://grandeconsumo.com/bruxelas-aprova-aquisicao-kenvue-kimberly-clark/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-albertsons-suspende-previsoes-para-2026-apos-lucros",
+      "titulo": "Albertsons suspende previsões para 2026 após lucros caírem quase 70%",
+      "resumo": "A cadeia norte-americana de supermercados anunciou uma revisão estratégica para recuperar a competitividade e reduzir os custos. As vendas comparáveis recuaram 0,8% no segundo trimestre, apesar do crescimento de 11% no canal digital. O conteúdo Albertsons suspende previsões para 2026 após lucros caírem quase 70% apa…",
+      "url": "https://grandeconsumo.com/albertsons-suspende-previsoes-queda-lucros-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-powerdot-da-ideia-de-carregamento-no-destino",
+      "titulo": "Powerdot: da ideia de carregamento no destino à expansão internacional",
+      "resumo": "Luis Santiago Pinto, licenciado e mestre em engenharia civil, desenvolveu uma carreira na área da gestão com responsabilidades no desenvolvimento das operações da UBER, em Portugal, na implantação e logistica da Lime e co fundador da Powerdot. A Powerdot nasceu em Portugal, a partir de uma necessidade sentida pelos …",
+      "url": "https://eco.sapo.pt/2026/10/15/powerdot-da-ideia-de-carregamento-no-destino-a-expansao-internacional/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-mercadona-investe-mais-de-6-5-milhoes",
+      "titulo": "Mercadona investe mais de 6,5 milhões de euros e abre a primeira loja no Algarve",
+      "resumo": "A Mercadona abriu o seu primeiro supermercado no Algarve, localizado em Portimão. A nova loja, instalada no Nova Vila Retail Park, representa um investimento superior a 6,5 milhões de euros.",
+      "url": "https://executivedigest.sapo.pt/mercadona-investe-mais-de-65-milhoes-de-euros-e-abre-a-primeira-loja-no-algarve/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-fundos-concentram-78-do-investimento-imobiliario-em",
+      "titulo": "Fundos concentram 78% do investimento imobiliário em Portugal e capital estrangeiro supera metade",
+      "resumo": "O capital internacional representou 55% do investimento imobiliário em Portugal no primeiro semestre de 2026, enquanto os fundos de investimento concentraram 78% do volume transacionado.",
+      "url": "https://executivedigest.sapo.pt/fundos-concentram-78-do-investimento-imobiliario-em-portugal-e-capital-estrangeiro-supera-metade/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "investidores",
+        "investimento-estrangeiro"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-mercadona-estreia-se-num-novo-distrito-e",
+      "titulo": "Mercadona estreia-se num novo distrito e reforça expansão em Portugal",
+      "resumo": "A Mercadona abriu a primeira loja num novo distrito, reforçando a presença da cadeia espanhola no mercado nacional. O novo supermercado representou um investimento superior a 6,5 milhões de euros e conta com uma equipa de 100 trabalhadores.",
+      "url": "https://marketeer.sapo.pt/mercadona-entra-num-novo-distrito-e-reforca-expansao-em-portugal/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-de-la-espriella-confirma-que-colombia-avanza",
+      "titulo": "De la Espriella confirma que Colombia avanza en acuerdos comerciales con el gobierno Trump para atraer inversión",
+      "resumo": "El ministro de Comercio y la embajadora en Washington adelantan conversaciones con el representante comercial de Estados Unidos, Jamieson Greer.",
+      "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-que-colombia-avanza-en-acuerdos-comerciales-con-el-gobierno-trump-para-atraer-inversion/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-14-recrutar-rapido-sem-falhar-no-servico-a",
+      "titulo": "Recrutar rápido sem falhar no serviço: A estratégia da DHL e da Worten para a peak season",
+      "resumo": "A Black Friday e o Natal, entre outros períodos de maior pressão operacional, obrigam retalhistas e operadores logísticos a reforçar equipas com vários meses de antecedência, num contexto em que a rapidez de recrutamento tem de ser equilibrada com a qualidade da integração. Na Worten e na DHL Express Portugal, os pe…",
+      "url": "https://www.distribuicaohoje.com/retalho/dhl-worten-peak-season/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-jysk-abandona-franchising-em-tres-mercados-europeus",
+      "titulo": "JYSK abandona franchising em três mercados europeus e assume 25 lojas",
+      "resumo": "A JYSK vai terminar o modelo de franchising no Kosovo, Albânia e Macedónia do Norte e passar a gerir diretamente 25 lojas a partir de 2027. A decisão reforça a estratégia de expansão direta da cadeia escandinava, que já opera mais de 3.700 lojas e webshops em 49 países. O conteúdo JYSK abandona franchising em três m…",
+      "url": "https://grandeconsumo.com/jysk-compra-25-lojas-operacao-propria-balcas/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "franchising"
+      ],
+      "data": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-80-per-cent-of-msmes-expect-better",
+      "titulo": "80 per cent of MSMEs expect better festive season, 66 per cent report additional funding needs: NeoGrowth",
+      "resumo": "To prepare for anticipated demand, 55 per cent of MSMEs are increasing inventory, 31 per cent are introducing new products, and 25 per cent are expanding their businesses. Consumer durables and electronics, fashion and lifestyle, and FMCG businesses are among the sectors strengthening their product offerings, while …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/80-per-cent-of-msmes-expect-better-festive-season-66-per-cent-report-additional-funding-needs-neogrowth/134942745",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-64-per-cent-of-experimental-shoppers-in",
+      "titulo": "64 per cent of experimental shoppers in India are willing to try new brands: Report",
+      "resumo": "According to the report, challenger brands are growing two to three times faster than their broader categories, with some reaching Rs 100 crore in annual revenue within two to four years. Their growth is attributed to addressing specific consumer needs, faster product launches and digital-led distribution.",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/64-per-cent-of-experimental-shoppers-in-india-are-willing-to-try-new-brands-report/134940292",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-14"
+    },
     {
       "id": "2026-10-14-logicor-reconstroi-plataforma-logistica-na-povoa-de",
       "titulo": "Logicor reconstrói plataforma logística na Póvoa de Santa Iria",
@@ -5886,211 +6096,6 @@
       "pais": "Portugal",
       "temas": [
         "investidores"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-inditex-reforca-presenca-no-mexico-com-novas",
-      "titulo": "Inditex reforça presença no México com novas lojas",
-      "resumo": "A Inditex reforçou a presença no México com a abertura de três novas lojas em Los Cabos, no estado de Baja California. As unidades estão localizadas no centro comercial Anima Village e incluem Zara e Zara Home, Massimo Dutti e Oysho.",
-      "url": "https://www.distribuicaohoje.com/retalho/inditex-mexico-lojas/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-conhecidos-os-finalistas-dos-effie-awards-portugal",
-      "titulo": "Conhecidos os finalistas dos Effie Awards Portugal 2026",
-      "resumo": "Já são conhecidos os finalistas dos Effie Awards Portugal 2026, numa edição que reforçou o processo de avaliação com mais de 80 profissionais da indústria. Os prémios distinguem campanhas que transformam criatividade em resultados mensuráveis, e os casos finalistas seguem agora para o júri principal, que atribuirá O…",
-      "url": "https://grandeconsumo.com/conhecidos-os-finalistas-dos-effie-awards-portugal-2026/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-empresas-de-ia-aceleram-entrada-no-mercado",
-      "titulo": "Empresas de IA aceleram entrada no mercado global de escritórios prime",
-      "resumo": "As empresas de inteligência artificial (IA) estão a ganhar peso no mercado global de escritórios prime. No primeiro semestre de 2026, representaram 17% dos negócios prime do setor tecnológico, face a 3% em 2024, segundo a Savills. O conteúdo Empresas de IA aceleram entrada no mercado global de escritórios prime apar…",
-      "url": "https://grandeconsumo.com/empresas-de-ia-aceleram-entrada-no-mercado-global-de-escritorios-prime/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "escritorios"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-aldi-abre-nova-loja-em-viseu-e",
-      "titulo": "ALDI abre nova loja em Viseu e chega às 167 unidades em Portugal",
-      "resumo": "A ALDI vai inaugurar, a 14 de agosto, uma nova loja em Repeses, no distrito de Viseu, reforçando a presença da insígnia no distrito. Localizada na Avenida Luís Martins, esta será a 167.ª loja da ALDI em Portugal e a segunda no concelho de Viseu. O conteúdo ALDI abre nova loja em Viseu e chega às 167 unidades em Port…",
-      "url": "https://grandeconsumo.com/aldi-abre-nova-loja-em-viseu-e-chega-as-167-unidades-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-burger-king-junta-se-a-patrulha-pata",
-      "titulo": "Burger King junta-se à Patrulha Pata",
-      "resumo": "O Burger King lançou uma coleção exclusiva da Patrulha Pata no Menu King Jr., com seis figuras colecionáveis inspiradas na série infantil. A campanha acompanha a estreia de Patrulha Pata: o Filme dos Dinossauros nos cinemas e está disponível até 7 de setembro. O conteúdo Burger King junta-se à Patrulha Pata aparece …",
-      "url": "https://grandeconsumo.com/burger-king-junta-se-a-patrulha-pata/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-revolut-obtem-licenca-bancaria-em-franca",
-      "titulo": "Revolut obtém licença bancária em França",
-      "resumo": "A Revolut obteve uma licença bancária plena em França para a Revolut Bank S.A., reforçando a sua expansão na Europa Ocidental. O conteúdo Revolut obtém licença bancária em França aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/revolut-obtem-licenca-bancaria-em-franca/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-uma-unidade-de-franchising-nem-sempre-comeca",
-      "titulo": "Uma unidade de franchising nem sempre começa do zero: o caso da Telepizza em Tondela",
-      "resumo": "Entrar no franchising é frequentemente associado à procura de um espaço, à negociação do contrato de arrendamento, à realização de obras, à compra de equipamentos e ao recrutamento de uma equipa. Contudo, nem todas as oportunidades obrigam o empreendedor a percorrer este caminho desde o início. Existem situações em …",
-      "url": "https://www.infofranchising.pt/telepizza-franchising-tondela/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-mercadona-vai-abrir-em-setembro-a-primeira",
-      "titulo": "Mercadona vai abrir em setembro a primeira loja no distrito de Vila Real",
-      "resumo": "A Mercadona vai inaugurar, a 10 de setembro, o primeiro supermercado no distrito de Vila Real. É o 74.º espaço em Portugal, reforçando a presença nacional da cadeia espanhola. A nova loja será na Rua das Camélias, N.º 2, precisamente em Vila Real. Esta é a quinta inauguração da Mercadona em 2026, depois de ter […] T…",
-      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/mercadona-vai-abrir-a-primeira-loja-no-distrito-de-vila-real-em-setembro",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-porvenir-anuncia-cierre-temporal-de-oficinas-en",
-      "titulo": "Porvenir anuncia cierre temporal de oficinas en cinco ciudades tras terremoto registrado en el país",
-      "resumo": "La AFP adelanta revisiones preventivas de infraestructura y señaló que sus canales digitales y la Línea de Servicio al Cliente operan con normalidad.",
-      "url": "https://www.valoraanalitik.com/porvenir-anuncia-cierre-temporal-de-oficinas-en-cinco-ciudades-tras-terremoto/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "escritorios"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-utilidad-neta-de-grupo-cibest-bancolombia-crecio",
-      "titulo": "Utilidad neta de Grupo Cibest (Bancolombia) creció 52,4 % en el segundo trimestre de 2026; cartera también subió",
-      "resumo": "Al cierre de junio, Bancolombia tenía 9,5 millones de clientes activos digitales en su aplicación, mientras que Nequi cerró con 28,8 millones de cuentas.",
-      "url": "https://www.valoraanalitik.com/utilidad-grupo-cibest-2t-2026/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-07-jmv-inaugura-academia-barista-torrie-by-normanvi",
-      "titulo": "JMV inaugura Academia Barista Torrié by Normanvi em Rio Tinto",
-      "resumo": "O novo espaço recebe até quatro participantes e disponibiliza formações sobre extração de expresso, moagem, leite, latte art e manutenção. O conteúdo JMV inaugura Academia Barista Torrié by Normanvi em Rio Tinto aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/jmv-inaugura-academia-barista-torrie-by-normanvi-em-rio-tinto/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-07"
-    },
-    {
-      "id": "2026-08-07-lego-insiders-chega-a-portugal",
-      "titulo": "LEGO Insiders chega a Portugal",
-      "resumo": "Os pontos LEGO Insiders podem ser acumulados nas quatro lojas certificadas em Portugal e trocados por descontos, produtos e experiências. O conteúdo LEGO Insiders chega a Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/lego-insiders-chega-a-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-08-07"
-    },
-    {
-      "id": "2026-08-07-ceva-conclui-compra-da-paack-iberia-e",
-      "titulo": "CEVA conclui compra da Paack Ibéria e França e reforça operação de última milha",
-      "resumo": "A aquisição acrescenta cerca de 490 trabalhadores e uma rede ibérica de 82 instalações e mais de cinco mil pontos de recolha. O conteúdo CEVA conclui compra da Paack Ibéria e França e reforça operação de última milha aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/ceva-conclui-compra-da-paack-iberia-e-franca-e-reforca-operacao-de-ultima-milha/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-08-07"
-    },
-    {
-      "id": "2026-08-07-magnum-cresce-4-7",
-      "titulo": "Magnum cresce 4,7%",
-      "resumo": "As receitas da Magnum atingiram 4,7 mil milhões de euros, enquanto a Ben & Jerry’s cresceu 9,2% no segundo trimestre e as poupanças chegaram aos 90 milhões. O conteúdo Magnum cresce 4,7% aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/magnum-cresce-47/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-07"
-    },
-    {
-      "id": "2026-08-10-apenas-2-das-empresas-de-logistica-estao",
-      "titulo": "Apenas 2% das empresas de logística estão preparadas para o futuro da IA",
-      "resumo": "A maioria das empresas de logística reconhece a importância da inteligência artificial (IA) no trabalho, mas ainda não tem uma estratégia clara para adaptar equipas e modelos operacionais à tecnologia, segundo uma investigação do Grupo Adecco, empresa global de recursos humanos e gestão de talento.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/empresas-logistica-ia-2/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-fam-lias-j-puseram-mais-de-mil",
-      "titulo": "Fam�lias j� puseram mais de mil milh�es de euros este ano em fundos de investimento",
-      "resumo": "Apesar de as entradas de poupan�as no primeiro semestre de 2026 serem inferiores ao ano passado, a tend�ncia positiva mant�m-se e os ativos sob gest�o est�o mesmo nos n�veis mais elevados dos �ltimos 20 anos.",
-      "url": "https://www.jornaldenegocios.pt/mercados/fundos-de-investimento/detalhe/familias-ja-puseram-mais-de-mil-milhoes-de-euros-este-ano-em-fundos-de-investimento",
-      "fonte": "Jornal de Negócios",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-10"
-    },
-    {
-      "id": "2026-08-10-primark-revela-datas-de-abertura-em-castelo",
-      "titulo": "Primark revela datas de abertura em Castelo Branco e Setúbal: novas lojas criam mais de 80 postos de trabalho",
-      "resumo": "As duas aberturas fazem parte do investimento superior a 45 milhões de euros anunciado pela Primark para expandir a sua rede em Portugal.",
-      "url": "https://executivedigest.sapo.pt/primark-revela-datas-de-abertura-em-castelo-branco-e-setubal-novas-lojas-criam-mais-de-80-postos-de-trabalho/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
       ],
       "data": "2026-08-10"
     }
