@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-10-15T11:01:12.993Z",
+  "updatedAt": "2026-10-16T10:56:52.491Z",
   "articles": [
+    {
+      "id": "2026-10-16-quantal-de-s-rgio-monteiro-e-moreira",
+      "titulo": "Quantal de S�rgio Monteiro e Moreira da Silva inaugura f�brica de sete milh�es",
+      "resumo": "A empresa de metalomec�nica foi adquirida pela Horizon Capital Equity, fundada por S�rgio Monteiro e Carlos Moreira da Silva, em 2024. Esta � a terceira unidade industrial no polo de Vila do Conde.",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/quantal-de-sergio-monteiro-e-moreira-da-silva-inaugura-fabrica-de-sete-milhoes",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-msc-world-asia-estreia-novos-espetaculos-e",
+      "titulo": "MSC World Asia estreia novos espetáculos e restaurante Eataly no Mediterrâneo",
+      "resumo": "O novo MSC World Asia, que inicia a sua operação no Mediterrâneo a 4 de dezembro, vai contar com seis produções de entretenimento no World Theatre e no Panorama Lounge, incluindo quatro estreias, e mais de 40 espaços de restauração e bebidas. Entre as novidades anunciadas pela MSC Cruzeiros está também a abertura de…",
+      "url": "https://www.ambitur.pt/msc-world-asia-estreia-novos-espetaculos-e-restaurante-eataly-no-mediterraneo/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-16"
+    },
+    {
+      "id": "2026-10-16-festive-marketing-faces-an-roi-test-as",
+      "titulo": "Festive marketing faces an ROI test as brands shift towards creators, targeted digital",
+      "resumo": "Brands are raising spends on creators and messaging platforms, while focusing more on conversions, customer acquisition and measurable sales outcomes",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/festive-marketing-faces-an-roi-test-as-brands-shift-towards-creators-targeted-digital/134986203",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-16"
+    },
+    {
+      "id": "2026-10-15-retalho-em-expansao-wells-zu-e-miin",
+      "titulo": "Retalho em expansão: Wells, ZU e MiiN reforçam presença em centros comerciais",
+      "resumo": "As marcas continuam a avançar com novas aberturas, remodelações e reforço de presença no mercado nacional, embora nas últimas duas semanas a expansão tenha surgido a um ritmo mais moderado.",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-59/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-mercadona-aterra-no-algarve-com-abertura-da",
+      "titulo": "Mercadona ‘aterra’ no Algarve com abertura da primeira loja em Portimão",
+      "resumo": "A Mercadona abriu esta quinta-feira, dia 15 de outubro, a primeira loja no Algarve, localizada em Portimão, no Nova Vila Retail Park. Com esta abertura, a cadeia de supermercados passa a estar presente num novo distrito e soma 77 lojas em Portugal.",
+      "url": "https://www.distribuicaohoje.com/retalho/mercadona-4/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "retail-parks"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-oriflame-anuncia-kenneth-benaim-campbell-como-novo",
+      "titulo": "Oriflame anuncia Kenneth Benaim Campbell como novo CEO",
+      "resumo": "A Oriflame anunciou a nomeação de Kenneth Benaim Campbell como novo CEO. O gestor soma mais de 30 anos de experiência em liderança internacional, a maior parte na indústria da beleza, segundo o comunicado divulgado pela empresa.",
+      "url": "https://www.distribuicaohoje.com/retalho/oriflame/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-too-good-to-go-expande-marketplace-a",
+      "titulo": "Too Good To Go expande marketplace à beleza, produtos para o lar e animais de companhia",
+      "resumo": "A plataforma, conhecida pelo combate ao desperdício alimentar, está a alargar o seu modelo de negócio a novas categorias de consumo. Mais de 8.500 lojas já disponibilizam produtos destas áreas e, em Portugal, a expansão inclui parceiros como Decathlon, Tibi, Lev e Castelbel. O conteúdo Too Good To Go expande marketp…",
+      "url": "https://grandeconsumo.com/too-good-to-go-marketplace-beleza-produtos-lar-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-depil-express-experiencia-brasileira-impulsiona-um-novo",
+      "titulo": "DEPIL EXPRESS: experiência brasileira impulsiona um novo conceito de franchising em Portugal",
+      "resumo": "Com mais de 20 anos de experiência no setor da estética e no desenvolvimento de redes de franchising no Brasil, José Rocco escolheu Portugal para iniciar um novo capítulo empresarial e desenvolver a expansão europeia da DEPIL EXPRESS, a mais nova marca associada da APF – Associação Portuguesa de Franchising. A marca…",
+      "url": "https://www.infofranchising.pt/depil-express-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "franchising"
+      ],
+      "data": "2026-10-15"
+    },
+    {
+      "id": "2026-10-15-tata-sons-pays-rs-4-475-crore",
+      "titulo": "Tata Sons pays Rs 4,475 crore in annual dividends; hypothetical investment could generate Rs 82,000 crore for philanthropy, says Harsh Goenka",
+      "resumo": "RPG Enterprises Chairman Harsh Goenka shared a hypothetical thought experiment on X regarding Tata Sons. He noted that selling Tata Sons' Rs 11.68 lakh crore listed equity portfolio and reinvesting in 6-7% safe yield instruments could generate up to Rs 82,000 crore annually for philanthropy, compared to its current …",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/tata-sons-pays-rs-4475-crore-in-annual-dividends-hypothetical-investment-could-generate-rs-82000-crore-for-philanthropy-says-harsh-goenka/134967173",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-15"
+    },
     {
       "id": "2026-10-15-bel-cria-gemeo-digital-de-a-vaca",
       "titulo": "Bel cria gémeo digital de ‘A Vaca que Ri’ para testar novas receitas",
@@ -5989,115 +6099,6 @@
         "marca-expansao"
       ],
       "data": "2026-08-12"
-    },
-    {
-      "id": "2026-08-12-folgosa-i-e-ii-chegam-ao-mercado",
-      "titulo": "Folgosa I e II chegam ao mercado logístico da Maia",
-      "resumo": "Os dois ativos somam mais de 11.000 m² e podem ser ocupados em conjunto ou de forma independente, após um plano de modernização O conteúdo Folgosa I e II chegam ao mercado logístico da Maia aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/folgosa-i-e-ii-chegam-ao-mercado-logistico-da-maia/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-12"
-    },
-    {
-      "id": "2026-08-12-open-cosmos-abre-no-porto-e-esta",
-      "titulo": "Open Cosmos abre no Porto e está a recrutar. Tem 50 vagas",
-      "resumo": "A Open Cosmos está a expandir a sua operação em Portugal com a abertura de um escritório no Porto. O objetivo é duplicar a equipa no mercado nacional para 100 pessoas. E para isso está a contratar. Tem 50 vagas. “Queremos duplicar o número de colaboradores, para cerca de 100”, adianta Tiago Rebelo, Chief Revenue […]",
-      "url": "https://eco.sapo.pt/2026/08/12/open-cosmos-abre-no-porto-e-esta-a-recrutar-tem-50-vagas/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-12"
-    },
-    {
-      "id": "2026-08-12-tap-air-cargo-faz-hat-trick-no",
-      "titulo": "TAP Air Cargo faz “hat-trick” no Brasil e é reconhecida pela eficiência logística das operações",
-      "resumo": "A TAP Air Cargo foi distinguida pelo terceiro ano consecutivo com o Prémio de Eficiência Logística (PEL) do Aeroporto RIOgaleão, no Rio de Janeiro. A companhia aérea voltou a conquistar o primeiro lugar na categoria de Companhia Aérea, reforçando a sua posição no transporte aéreo de carga entre a Europa e o Brasil.",
-      "url": "https://executivedigest.sapo.pt/tap-air-cargo-faz-hat-trick-no-brasil-e-e-reconhecida-pela-eficiencia-logistica-das-operacoes/",
-      "fonte": "Executive Digest",
-      "pais": "Brasil",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-12"
-    },
-    {
-      "id": "2026-08-12-n-chandrasekaran-resigns-as-chairman-of-tata",
-      "titulo": "N Chandrasekaran resigns as chairman of Tata Sons before AGM",
-      "resumo": "N Chandrasekaran has stepped down as Tata Sons chairman, ending a significant tenure. ET had first reported Chandrasekaran is considering stepping down as Tata Sons chairman. His departure follows disagreements within Tata Trusts regarding business performance and capital needs. The group's revenue and profit saw su…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/n-chandrasekaran-resigns-as-chairman-of-tata-sons-before-agm/133172962",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-12"
-    },
-    {
-      "id": "2026-08-11-lisboa-mantem-dinamismo-no-mapa-iberico-do",
-      "titulo": "Lisboa mantém dinamismo no mapa ibérico do retalho de luxo",
-      "resumo": "O retalho de luxo está a redefinir as suas estratégias de expansão, num contexto marcado pela escassez de espaços nas principais ruas comerciais e pela concentração da procura em localizações prime . Segundo o relatório Global Luxury Retail Outlook 2026 , da Savills , citado pela infoRETAIL , a disponibilidade e a q…",
-      "url": "https://www.distribuicaohoje.com/retalho/lisboa-retalho-de-luxo/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-08-11"
-    },
-    {
-      "id": "2026-08-11-fnac-colombo-inaugura-area-dedicada-a-playstation",
-      "titulo": "FNAC Colombo inaugura área dedicada à PlayStation",
-      "resumo": "A FNAC vai inaugurar a 13 de agosto uma área dedicada à PlayStation na loja do Colombo, em Lisboa, reunindo consolas, jogos, acessórios e merchandising oficial num espaço imersivo. A abertura inclui uma talk com criadores de conteúdo, um quiz com prémio PS5 e uma campanha exclusiva em cartões PlayStation Network. O …",
-      "url": "https://grandeconsumo.com/fnac-colombo-inaugura-area-dedicada-a-playstation/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-11"
-    },
-    {
-      "id": "2026-08-11-novo-xpeng-g9l-estreia-se-hoje-suv",
-      "titulo": "Novo XPENG G9L estreia-se hoje: SUV de cinco metros promete recuperar 450 km de autonomia em nove minutos",
-      "resumo": "O G9L tem vindo a ser antecipado pela XPENG desde o início de agosto e é apresentado pela fabricante como um \"topo de gama tecnológico global de cinco lugares\". A intenção da marca é posicioná-lo como uma referência tecnológica no segmento chinês em torno dos 300 mil yuan, aproximadamente 36 mil euros à taxa de câmb…",
-      "url": "https://executivedigest.sapo.pt/novo-xpeng-g9l-estreia-se-hoje-suv-de-cinco-metros-promete-recuperar-450-km-de-autonomia-em-nove-minutos/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-11"
-    },
-    {
-      "id": "2026-08-11-ondc-to-launch-digidukaan-in-mumbai-by",
-      "titulo": "ONDC to launch DigiDukaan in Mumbai by September, enter Bengaluru and Delhi this fiscal",
-      "resumo": "ONDC's DigiDukaan B2B procurement network is expanding to Mumbai soon. Bengaluru and Delhi will also see launches this fiscal year. This initiative digitizes kirana procurement while preserving existing distributor networks. The platform aims to connect retailers, distributors, and brands efficiently. ONDC expects w…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/ondc-to-launch-digidukaan-in-mumbai-by-september-enter-bengaluru-and-delhi-this-fiscal/133140924",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-11"
-    },
-    {
-      "id": "2026-08-10-shein-prepara-entrada-em-bolsa-com-avaliacao",
-      "titulo": "Shein prepara entrada em bolsa com avaliação 70% abaixo do pico",
-      "resumo": "A Shein está a ser apresentada a potenciais investidores com uma avaliação inferior a 30 mil milhões de dólares , antes da esperada entrada em bolsa em Hong Kong , segundo o Financial Times . O valor representa uma queda de cerca de 70% face ao pico de valorização da retalhista de moda, que chegou a ser avaliada em …",
-      "url": "https://www.distribuicaohoje.com/retalho/shein-entrada-em-bolsa/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-10"
     }
   ]
 }
