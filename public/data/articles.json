@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-17T10:18:21.457Z",
+  "updatedAt": "2026-10-18T10:34:00.944Z",
   "articles": [
+    {
+      "id": "2026-10-17-fifa-paga-milhoes-por-escritorio-quase-vazio",
+      "titulo": "FIFA paga milhões por escritório quase vazio na torre de Trump: quem ganha com este negócio?",
+      "resumo": "A FIFA comprometeu-se a pagar cerca de quatro milhões de dólares (3,6 milhões de euros) por um escritório na Trump Tower, em Nova Iorque, que permanece praticamente vazio.",
+      "url": "https://marketeer.sapo.pt/fifa-paga-milhoes-por-escritorio-quase-vazio-na-torre-de-trump-quem-ganha-com-este-negocio/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-10-17"
+    },
     {
       "id": "2026-10-16-intersport-aposta-em-adrien-silva-para-reforcar",
       "titulo": "INTERSPORT aposta em Adrien Silva para reforçar presença em Portugal",
@@ -6084,19 +6096,6 @@
       "pais": "Portugal",
       "temas": [
         "resultados"
-      ],
-      "data": "2026-08-13"
-    },
-    {
-      "id": "2026-08-13-primark-abre-lojas-em-castelo-branco-e",
-      "titulo": "Primark abre lojas em Castelo Branco e Setúbal em setembro",
-      "resumo": "As novas lojas do Forum Castelo Branco e Alegro Setúbal integram o investimento de 45 milhões de euros da Primark para expandir a rede em Portugal. O conteúdo Primark abre lojas em Castelo Branco e Setúbal em setembro aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/primark-abre-lojas-em-castelo-branco-e-setubal-em-setembro/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "investidores"
       ],
       "data": "2026-08-13"
     }
