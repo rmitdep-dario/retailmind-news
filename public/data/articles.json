@@ -1,6 +1,212 @@
 {
-  "updatedAt": "2026-10-19T12:28:52.160Z",
+  "updatedAt": "2026-10-20T11:05:12.936Z",
   "articles": [
+    {
+      "id": "2026-10-20-vigor-estreia-conceito-de-loja-no-porto",
+      "titulo": "Vigor estreia conceito de loja no Porto para reforçar proximidade com consumidores",
+      "resumo": "A Latteria Vigor abriu portas no Porto, na Rua de Santa Catarina, e é o primeiro espaço físico próprio da marca de leite fresco da Lactogal . O projeto, desenvolvido em parceria com a Funky Chunky, pretende aproximar a marca dos consumidores para além dos lineares tradicionais de retalho.",
+      "url": "https://www.distribuicaohoje.com/customer-experience/latteria-vigor/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-carrefour-reforca-comercio-de-proximidade-em-franca",
+      "titulo": "Carrefour reforça comércio de proximidade em França com aquisição da Codifrance",
+      "resumo": "O Carrefour anunciou um acordo com o Colruyt Group para adquirir a Codifrance, empresa francesa especializada na distribuição alimentar de proximidade e no abastecimento de comerciantes independentes. A operação, que avalia a Codifrance em 152 milhões de euros , integra a estratégia Carrefour 2030 e deverá reforçar …",
+      "url": "https://www.distribuicaohoje.com/retalho/carrefour-codifrance/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-vinted-remove-anuncios-de-produtos-roubados-apos",
+      "titulo": "Vinted remove anúncios de produtos roubados após distúrbios em França",
+      "resumo": "A Vinted removeu anúncios relacionados com produtos roubados e intensificou a verificação de anúncios suspeitos na sequência dos distúrbios que atingiram França no fim de semana, anunciou a plataforma de compra e venda de roupa em segunda mão.",
+      "url": "https://www.distribuicaohoje.com/retalho/vinted/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-comissao-europeia-aprova-opa-de-daniel-kretinsky",
+      "titulo": "Comissão Europeia aprova OPA de Daniel Křetínský sobre a Fnac Darty",
+      "resumo": "A Comissão Europeia aprovou a aquisição da Fnac Darty pelo EP Group, liderado pelo empresário checo Daniel Křetínský. A operação prevê a compra das ações e das obrigações convertíveis em ações da retalhista francesa, no âmbito de uma oferta pública de aquisição (OPA). O conteúdo Comissão Europeia aprova OPA de Danie…",
+      "url": "https://grandeconsumo.com/comissao-europeia-aprova-opa-de-daniel-kretinsky-sobre-a-fnac-darty/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-vigor-abre-primeira-latteria-no-porto-em",
+      "titulo": "Vigor abre primeira Latteria no Porto em parceria com a Funky Chunky",
+      "resumo": "A Vigor abriu a sua primeira Latteria no Porto, um novo conceito de espaço próprio que combina bebidas à base de leite com uma oferta de cookies, em parceria com a Funky Chunky. O conteúdo Vigor abre primeira Latteria no Porto em parceria com a Funky Chunky aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/vigor-abre-primeira-latteria-no-porto-em-parceria-com-a-funky-chunky/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-lindt-sprungli-afasta-ceo-apos-quebra-de",
+      "titulo": "Lindt & Sprüngli afasta CEO após quebra de resultados na Europa",
+      "resumo": "A Lindt & Sprüngli anunciou a saída de Adalbert Lechner do cargo de CEO do grupo, na sequência de resultados fracos na Europa e de duas revisões em baixa das perspetivas de vendas para 2026. O conteúdo Lindt & Sprüngli afasta CEO após quebra de resultados na Europa aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/lindt-sprungli-afasta-ceo-apos-quebra-de-resultados-na-europa/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-leroy-merlin-estreia-camiao-pesado-eletrico",
+      "titulo": "Leroy Merlin estreia camião pesado elétrico",
+      "resumo": "Veículo percorre diariamente 545 quilómetros entre Castanheira do Ribatejo e Vila Nova de Gaia e deverá evitar 144 toneladas de CO₂ por ano O conteúdo Leroy Merlin estreia camião pesado elétrico aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/leroy-merlin-estreia-camiao-pesado-eletrico/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-srs-legal-reforca-departamento-de-direito-fiscal",
+      "titulo": "SRS Legal reforça Departamento de Direito Fiscal com nova liderança e integração de Isabel Miranda Alves",
+      "resumo": "A SRS Legal reforça o seu Departamento de Direito Fiscal, com Francisco Castro Guedes e Salomé Corte-Real a assumirem a corresponsabilidade pela área e com a integração de Isabel Miranda Alves, no escritório do Porto. A nova organização do Departamento de Direito Fiscal traduz a aposta da SRS Legal numa área estraté…",
+      "url": "https://www.infofranchising.pt/srs-legal-direito-fiscal/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-mercadona-esta-a-contratar-para-nova-loja",
+      "titulo": "Mercadona está a contratar para nova loja e os salários podem ultrapassar os 1.400€",
+      "resumo": "O ano ainda não terminou, mas a Mercadona já está a planear as aberturas para 2027. Atualmente com 75 lojas em Portugal, a retalhista espanhola já está a contratar para o próximo supermercado que irá abrir no Algarve. O novo espaço ficará situado em Olhão e faz parte do plano de expansão da cadeia. Embora […] The po…",
+      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/mercadona-esta-a-contratar-para-nova-loja-e-os-salarios-podem-ultrapassar-os-1-400e",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-20-fieldassist-appoints-tech-fmcg-veteran-ashley-dsouza",
+      "titulo": "FieldAssist appoints Tech & FMCG veteran Ashley DSouza as chief AI acceleration officer to power AI-Native CPG architecture",
+      "resumo": "Brand connect initiative",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/fieldassist-appoints-tech-fmcg-veteran-ashley-dsouza-as-chief-ai-acceleration-officer-to-power-ai-native-cpg-architecture/135063008",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-20"
+    },
+    {
+      "id": "2026-10-19-leroy-merlin-coloca-primeiro-camiao-eletrico-pesado",
+      "titulo": "Leroy Merlin coloca primeiro camião elétrico pesado a operar entre Lisboa e Porto",
+      "resumo": "A Leroy Merlin colocou em circulação o seu primeiro camião elétrico pesado, que assegura uma rota diária de 545 quilómetros entre o Centro de Distribuição Nacional, na Castanheira do Ribatejo, e a Plataforma Regional de Canelas, em Vila Nova de Gaia.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/camiao-eletrico/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-asae-alerta-que-fiscalizacao-nao-chega-para",
+      "titulo": "ASAE alerta que fiscalização não chega para impedir venda de álcool e tabaco a menores",
+      "resumo": "A fiscalização, por si só, não é suficiente para impedir o acesso de menores de idade a produtos como álcool, tabaco e nicotina. Esta foi uma das principais conclusões da conferência “A Idade Não se Vê: Encontro pela Proteção de Menores e pelas Vendas Responsáveis”, promovida pela Grande Consumo, que reuniu, em Lisb…",
+      "url": "https://grandeconsumo.com/asae-fiscalizacao-venda-alcool-tabaco-menores-grande-consumo/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-a-vaca-que-ri-ganha-gemeo-digital",
+      "titulo": "A Vaca que Ri ganha gémeo digital para acelerar desenvolvimento de novos queijos",
+      "resumo": "O grupo Bel, proprietário de marcas como A Vaca que Ri, Babybel, Kiri e Boursin, apresentou um projeto de investigação que pretende criar o primeiro gémeo digital de um queijo. Desenvolvida em parceria com a Dassault Systèmes, a tecnologia permitirá simular milhares de combinações de ingredientes e receitas antes do…",
+      "url": "https://grandeconsumo.com/vaca-que-ri-gemeo-digital-inteligencia-artificial-bel/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-cerealis-e-panzani-negoceiam-fusao-para-criar",
+      "titulo": "Cerealis e Panzani negoceiam fusão para criar grupo alimentar de 1,8 mil milhões de euros",
+      "resumo": "A portuguesa Cerealis, proprietária das marcas Milaneza e Nacional, e a francesa Panzani estão em negociações exclusivas para combinar as suas operações e criar um novo grupo alimentar europeu avaliado em cerca de 1,8 mil milhões de euros. A operação reunirá empresas com receitas anuais conjuntas superiores a mil mi…",
+      "url": "https://grandeconsumo.com/cerealis-panzani-fusao-grupo-alimentar-europeu/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "ma-operadores",
+        "resultados"
+      ],
+      "data": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-re-max-portugal-conquista-primeiros-lugares-na",
+      "titulo": "RE/MAX PORTUGAL conquista primeiros lugares na REUCON 26",
+      "resumo": "A RE/MAX, maior rede imobiliária a operar em Portugal, esteve em destaque na REUCON 26, convenção europeia da marca, realizada este ano em Florença, Itália. Agências, equipas e profissionais portugueses conquistaram os cinco primeiros lugares europeus em diferentes categorias de faturação. A RE/MAX Vantagem foi dist…",
+      "url": "https://www.infofranchising.pt/remax-reucon26/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-un-hotel-y-110-nuevos-locales-la",
+      "titulo": "Un hotel y 110 nuevos locales: la expansión de La Estación Ibagué de 32.210 metros cuadrados",
+      "resumo": "Con 15 años de trayectoria, La Estación Ibagué prepara su segunda etapa, la cual ya despierta el interés de más de 100 marcas que buscan espacio para instalarse o ampliar su presencia en el centro comercial",
+      "url": "https://www.larepublica.co/empresas/un-hotel-y-110-nuevos-locales-la-apuesta-de-expansion-de-la-estacion-ibague-4506271",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao",
+        "cc-novas-entradas"
+      ],
+      "data": "2026-10-19"
+    },
+    {
+      "id": "2026-10-19-se-concreta-movida-clave-en-cotizadas-torres",
+      "titulo": "Se concreta movida clave en cotizadas torres de oficinas de Medellín; negocio generó millonarios recursos",
+      "resumo": "La operación representará ingresos superiores a $207.000 millones, cifra que supera su avalúo comercial.",
+      "url": "https://www.valoraanalitik.com/movida-clave-cotizadas-torres-medellin/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-10-19"
+    },
     {
       "id": "2026-10-19-portugal-sobe-no-radar-da-logistica-europeia",
       "titulo": "Portugal sobe no radar da logística europeia, mas energia torna-se fator decisivo na escolha de armazéns",
@@ -5890,211 +6096,6 @@
         "resultados"
       ],
       "data": "2026-08-20"
-    },
-    {
-      "id": "2026-08-19-coca-cola-portugal-anuncia-nomeacao-de-novo",
-      "titulo": "Coca-Cola Portugal anuncia nomeação de novo diretor geral",
-      "resumo": "Diogo Gioia é o novo diretor-geral da Coca-Cola em Portugal e assume a liderança da operação portuguesa a partir de agosto de 2026, anunciou a empresa em nota de imprensa. O gestor brasileiro soma mais de 20 anos de percurso no Sistema Coca-Cola, com experiência internacional em gestão de negócio, estratégia e opera…",
-      "url": "https://www.distribuicaohoje.com/producao/diogo-gioia/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-08-19"
-    },
-    {
-      "id": "2026-08-19-ds-private-aumenta-a-faturacao-em-49",
-      "titulo": "DS PRIVATE aumenta a faturação em 49% no primeiro semestre de 2026",
-      "resumo": "A DS PRIVATE, marca do Grupo DECISÕES E SOLUÇÕES especializada na compra e venda de imóveis de luxo e do segmento premium, encerrou o primeiro semestre de 2026 com um crescimento na faturação de 49% na área da mediação imobiliária, face ao período homólogo. Também o número de imóveis vendidos registou uma evolução p…",
-      "url": "https://www.infofranchising.pt/ds-private-franchising/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "compra-venda-ativo",
-        "resultados"
-      ],
-      "data": "2026-08-19"
-    },
-    {
-      "id": "2026-08-19-from-11-5-million-to-over-18",
-      "titulo": "From 11.5 million to over 18 million sq ft: Phoenix Mills bets big on India’s consumption boom",
-      "resumo": "Phoenix Mills plans to expand its retail space to over eighteen million square feet by 2030. The company is also repositioning mature malls and enhancing its F&B and entertainment offerings. Recent growth in Q1 FY27 shows over thirty percent consumption increase across its properties. Immediate expansion includes Ko…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/from-11-5-million-to-over-18-million-sq-ft-phoenix-mills-bets-big-on-indias-consumption-boom/133341592",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-19"
-    },
-    {
-      "id": "2026-08-19-megaproyectos-en-west-palm-beach-atraen-a",
-      "titulo": "Megaproyectos en West Palm Beach atraen a inversionistas colombianos: así es la nueva apuesta inmobiliaria de Florida",
-      "resumo": "West Palm Beach gana protagonismo entre los inversionistas colombianos que buscan nuevas oportunidades inmobiliarias en Florida, más allá de Miami.",
-      "url": "https://www.valoraanalitik.com/megaproyectos-en-west-palm-beach-atraen-a-inversionistas-colombianos/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-19"
-    },
-    {
-      "id": "2026-08-18-grupo-dhl-aumenta-lucro-operacional-em-30",
-      "titulo": "Grupo DHL aumenta lucro operacional em 30% no segundo trimestre",
-      "resumo": "O Grupo DHL aumentou o lucro operacional (EBIT) em 30% no segundo trimestre de 2026, para 1,9 mil milhões de euros, com as receitas a crescerem 13%, para 22,4 mil milhões de euros.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/grupo-dhl-resultados/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-18-publicidade-ooh-devera-atingir-56-4-mil",
-      "titulo": "Publicidade OOH deverá atingir 56,4 mil milhões de dólares em 2026",
-      "resumo": "O investimento global em publicidade exterior deverá atingir 56,4 mil milhões de dólares em 2026 , segundo o Global Out of Home Expenditure Report 2026 , da World Out of Home Organization . Em 2025, o mercado global de out-of-home chegou aos 54,2 mil milhões de dólares , um crescimento de 15% face ao ano anterior.",
-      "url": "https://www.distribuicaohoje.com/retalho/ooh-564-mil-milhoes/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-18-action-abre-nova-loja-no-alentejo-com",
-      "titulo": "Action abre nova loja no Alentejo com milhares de produtos e preços abaixo dos 2 euros",
-      "resumo": "6.000 produtos, preços abaixo dos 2 euros. A nova loja abre portas a 20 de agosto, com 848 metros quadrados e uma equipa de 20 colaboradores. O espaço estará aberto todos os dias, entre as 9h00 e as 21h00.",
-      "url": "https://marketeer.sapo.pt/action-abre-nova-loja-no-alentejo-com-milhares-de-produtos-e-precos-abaixo-dos-2-euros/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-18-midas-reforca-rede-nacional-com-nova-unidade",
-      "titulo": "Midas reforça rede nacional com nova unidade em Esposende",
-      "resumo": "A Midas continua a concretizar a sua estratégia de crescimento em território nacional. Recentemente, a marca formalizou a assinatura de um contrato de franchising para a instalação de um novo centro de serviço em Esposende, dando as boas-vindas ao novo parceiro. A assinatura do contrato, que teve lugar no passado di…",
-      "url": "https://www.infofranchising.pt/midas-esposende-franchising/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-18-francisco-fevereiro-estreia-novas-cartas-no-troia",
-      "titulo": "Francisco Fevereiro estreia novas cartas no Tróia Design Hotel",
-      "resumo": "O Tróia Design Hotel renovou a sua oferta gastronómica com a apresentação das primeiras cartas assinadas por Francisco Fevereiro, novo chef executivo da unidade, que passa a liderar as propostas do B&G Restaurante e do Paprika Pool Bar. A nova abordagem aposta nos produtos de proximidade e na sazonalidade, combinand…",
-      "url": "https://www.ambitur.pt/francisco-fevereiro-estreia-novas-cartas-no-troia-design-hotel/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-18-epm-nutresa-y-exito-lideran-el-ranking",
-      "titulo": "EPM, Nutresa y Éxito lideran el ranking de ingresos para el primer semestre",
-      "resumo": "Las tres compañías en el podio facturaron $40 billones a junio. Energía lidera por el tamaño de los ingresos entre las empresas de la lista, seguida de retail",
-      "url": "https://www.larepublica.co/empresas/epm-nutresa-y-exito-lideran-el-ranking-de-ingresos-para-el-primer-semestre-4460647",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-18-corum-investments-reforca-presenca-em-portugal-e",
-      "titulo": "Corum Investments reforça presença em Portugal e Grupo ultrapassa 155 mil clientes",
-      "resumo": "Gestora mantém atividade estável no mercado português e continua a expandir a sua operação imobiliária a nível internacional",
-      "url": "https://executivedigest.sapo.pt/corum-investments-reforca-presenca-em-portugal-e-grupo-ultrapassa-155-mil-clientes/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-18"
-    },
-    {
-      "id": "2026-08-17-burger-king-veste-colaboradores-com-pijama-para",
-      "titulo": "Burger King veste colaboradores com pijama para comunicar serviço 24/7",
-      "resumo": "A Burger King França lançou uma campanha para comunicar a abertura de 63 restaurantes em funcionamento 24 horas por dia , recorrendo a uma ação criada pela agência Buzzman : equipar os colaboradores do turno da noite com pijamas nas cores da marca.",
-      "url": "https://www.distribuicaohoje.com/retalho/burger-king-pijama-24-7/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-17"
-    },
-    {
-      "id": "2026-08-17-bodyconcept-lanca-campanha-de-verao-e-reforca",
-      "titulo": "BodyConcept lança campanha de verão e reforça estratégia comercial da rede de franchising",
-      "resumo": "A BodyConcept lançou uma nova campanha nacional para o mês de agosto, reforçando a utilização de ações comerciais sazonais como ferramenta para dinamizar a atividade das clínicas e apoiar o desempenho da sua rede de franchising em Portugal. Sob o conceito Saldos de Verão, a campanha decorre até 31 de agosto e oferec…",
-      "url": "https://www.infofranchising.pt/bodyconcept-campanha-verao-franchising/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising"
-      ],
-      "data": "2026-08-17"
-    },
-    {
-      "id": "2026-08-17-k-beauty-chega-a-rua-de-santa",
-      "titulo": "K-Beauty chega à Rua de Santa Catarina com a primeira loja MOIDA em Portugal",
-      "resumo": "O centro do Porto tem uma nova atração, desta vez para os fãs dos cosméticos e skincare coreanos. A MOIDA estreia-se em Portugal com a sua primeira loja, trazendo da Coreia os produtos e cuidados que têm conquistado as rotinas dos portugueses. A inauguração aconteceu a 15 de agosto, sábado, na Rua de Santa Catarina,…",
-      "url": "https://www.nit.pt/compras/lojas-e-marcas/a-k-beauty-chegou-a-rua-de-santa-catarina-com-a-primeira-loja-moida-em-portugal",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-17"
-    },
-    {
-      "id": "2026-08-17-festive-season-hiring-expected-to-generate-up",
-      "titulo": "​Festive season hiring expected to generate up to 2.7 lakh gig jobs",
-      "resumo": "India’s festive season is expected to create 2.5-2.7 lakh temporary and gig jobs, with hiring projected to rise 15-20%, Adecco India said. E-commerce, logistics, quick commerce, retail and BFSI will lead demand, with 45% coming from tier-II and III cities.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/festive-season-hiring-expected-to-generate-up-to-2-7-lakh-gig-jobs-report/133296438",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-17"
-    },
-    {
-      "id": "2026-08-17-imobiliaria-participada-pelo-estado-mocambicano-preve-dificuldades",
-      "titulo": "Imobiliária participada pelo Estado moçambicano prevê dificuldades apesar dos lucros",
-      "resumo": "As cooperativas mineiras moçambicanas passam a ter prioridade no acesso a títulos para mineração artesanal, enquanto as cooperativas de crédito ficam sujeitas à supervisão do Banco de Moçambique como instituições financeiras, segundo o novo regulamento aprovado pelo Governo.",
-      "url": "https://executivedigest.sapo.pt/imobiliaria-participada-pelo-estado-mocambicano-preve-dificuldades-apesar-dos-lucros/",
-      "fonte": "Executive Digest",
-      "pais": "Internacional",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-17"
-    },
-    {
-      "id": "2026-08-15-plenergy-abre-em-guimaraes-18-posto-em",
-      "titulo": "Plenergy abre em Guimarães 18.º posto em Portugal e prevê atingir 30 até final do ano",
-      "resumo": "A nova unidade, localizada na freguesia de Silvares, junto à superfície comercial Leroy Merlin, marca a estreia da marca na integração de postos de abastecimento no interior de parques comerciais.",
-      "url": "https://jornaleconomico.sapo.pt/noticias/plenergy-abre-em-guimaraes-18-o-posto-em-portugal-e-preve-atingir-30-ate-final-do-ano/",
-      "fonte": "Jornal Económico",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-15"
     }
   ]
 }
