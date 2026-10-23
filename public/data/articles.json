@@ -1,6 +1,178 @@
 {
-  "updatedAt": "2026-10-22T11:21:12.241Z",
+  "updatedAt": "2026-10-23T11:11:32.618Z",
   "articles": [
+    {
+      "id": "2026-10-23-francisco-gutierrez-portugal-continua-a-ser-um",
+      "titulo": "Francisco Gutiérrez: Portugal “continua a ser um mercado estratégico para a Scalpers”",
+      "resumo": "A abertura da nova loja da Scalpers na Rua de Santa Catarina, no Porto, marca uma nova etapa na presença da marca em Portugal. O espaço, instalado num edifício histórico reabilitado, é a 20.ª loja da insígnia no mercado nacional e a sexta na região do Porto, reforçando a aposta em localizações de rua com maior capac…",
+      "url": "https://www.distribuicaohoje.com/retalho/portugal-mercado-scalpers/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-mastercard-leva-first-party-trust-a-europa",
+      "titulo": "Mastercard leva First-Party Trust à Europa contra devoluções indevidas",
+      "resumo": "A Mastercard vai alargar à Europa o First-Party Trust, um programa que ajuda comerciantes e bancos a distinguir a fraude dos casos em que os próprios titulares de cartões contestam compras que realmente fizeram. A expansão a todo o mercado europeu está prevista para julho de 2027.",
+      "url": "https://www.distribuicaohoje.com/pagamentos/first-party-trust/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-coviran-reforca-investimento-na-simplificacao-da-operacao",
+      "titulo": "Coviran reforça investimento na simplificação da operação de loja",
+      "resumo": "A Coviran anunciou o reforço do investimento no apoio aos associados, com destaque para a simplificação da operação de loja, na convenção anual realizada em Coimbra, que reuniu mais de uma centena de retalhistas da rede e a liderança da cooperativa.",
+      "url": "https://www.distribuicaohoje.com/retalho/coviran/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-europastry-investe-48-milhoes-de-euros-em",
+      "titulo": "Europastry investe 48 milhões de euros em nova fábrica no Carregado",
+      "resumo": "A Europastry recebeu, no dia 21 de outubro, uma comitiva de entidades públicas e institucionais na sua nova unidade industrial do Carregado. O conteúdo Europastry investe 48 milhões de euros em nova fábrica no Carregado aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/europastry-investe-48-milhoes-de-euros-em-nova-fabrica-no-carregado/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-homa-chega-as-51-unidades-com-nova",
+      "titulo": "hôma chega às 51 unidades com nova loja em Campo Novo",
+      "resumo": "A hôma inaugurou, a 22 de outubro, uma nova loja em Campo Novo, em Lisboa, reforçando a presença da marca na capital. O espaço, integrado no novo complexo comercial e residencial, representa a 51.ª loja da insígnia em Portugal e a terceira abertura realizada em 2026. O conteúdo hôma chega às 51 unidades com nova loj…",
+      "url": "https://grandeconsumo.com/homa-chega-as-51-unidades-com-nova-loja-em-campo-novo/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-navigator-aumenta-vendas-em-5-2-no",
+      "titulo": "Navigator aumenta vendas em 5,2% no terceiro trimestre",
+      "resumo": "A The Navigator Company registou um volume de negócios de 465 milhões de euros no terceiro trimestre de 2026, mais 5,2% face ao trimestre anterior. Nos primeiros nove meses do ano, o volume de negócios totalizou 1.333 milhões de euros. O conteúdo Navigator aumenta vendas em 5,2% no terceiro trimestre aparece primeir…",
+      "url": "https://grandeconsumo.com/navigator-aumenta-vendas-em-52-no-terceiro-trimestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-primark-abre-nova-loja-em-vila-nova",
+      "titulo": "Primark abre nova loja em Vila Nova de Gaia",
+      "resumo": "A Primark vai inaugurar a sua loja em Vila Nova de Gaia no dia 19 de novembro. Localizada no GaiaShopping, esta será a primeira loja da marca na cidade e a 16ª em Portugal. O conteúdo Primark abre nova loja em Vila Nova de Gaia aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/primark-abre-nova-loja-em-vila-nova-de-gaia/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-a-solo-maior-inaugura-enoturismo-em-casal",
+      "titulo": "A Solo Maior inaugura enoturismo em Casal de Loivos",
+      "resumo": "Este espaço ganha uma nova dimensão com A Sala, um lugar dedicado a provas guiadas, experiências gastronómicas harmonizadas e descoberta de vinhos. A carta reúne cerca de 90 referências, todas disponíveis a copo, enquanto a garrafeira ultrapassa os 100 vinhos, incluindo referências raras e de coleção O Restaurant Ma…",
+      "url": "https://www.briefing.pt/noticias/a-solo-maior-inaugura-enoturismo-em-casal-de-loivos/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-asus-estreia-um-novo-conceito-de-loja",
+      "titulo": "Asus estreia um novo conceito de loja para transformar a forma como descobrimos tecnologia",
+      "resumo": "A Asus estreou-se nos centros comerciais com um espaço dedicado ao novo Zenbook 14, que combina experiências imersivas, design e tecnologia. A pop-up store está aberta no Oeiras Parque até ao final de janeiro.",
+      "url": "https://marketeer.sapo.pt/asus-estreia-um-novo-conceito-de-loja-para-transformar-a-forma-como-descobrimos-tecnologia/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-spotify-facturo-en-tres-meses-casi-el",
+      "titulo": "Spotify facturó en tres meses casi el doble del presupuesto anual de Medellín: así fueron sus resultados globales del tercer trimestre",
+      "resumo": "Spotify aumentó sus ingresos un 16 % y llegó a 788 millones de usuarios activos mensuales. Estos son los resultados que muestran el tamaño de su negocio global.",
+      "url": "https://www.valoraanalitik.com/spotify-facturo-en-tres-meses-casi-el-doble-del-presupuesto-anual-de-medellin-asi-fueron-sus-resultados-globales-del-tercer-trimestre/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-22-infinitude-wines-quadruplica-vendas-e-prepara-expansao",
+      "titulo": "Infinitude Wines quadruplica vendas e prepara expansão internacional",
+      "resumo": "A Infinitude Wines quadruplicou as vendas de 2024 para 2025, atingindo 16 mil garrafas e um volume de negócios estimado de 150 mil euros. Com Rodrigo Jardim Gonçalves como CEO, a marca de Sintra e Colares pretende reforçar a presença em Portugal, avançar gradualmente para mercados internacionais, lançar novas referê…",
+      "url": "https://grandeconsumo.com/infinitude-wines-quadruplica-vendas-e-prepara-expansao-internacional/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22-ia-agentica-pode-transformar-o-retalho-e",
+      "titulo": "IA agêntica pode transformar o retalho e deslocar lucros para além da venda de produtos",
+      "resumo": "A inteligência artificial agêntica poderá alterar profundamente a forma como os retalhistas operam, interagem com os clientes e geram receita. Segundo a EY, 70% dos líderes do sector espera que o crescimento rentável venha cada vez mais de atividades fora do core tradicional, como retail media, subscrições, serviços…",
+      "url": "https://grandeconsumo.com/ia-agentica-transformar-modelo-negocio-retalho-ey/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo",
+        "resultados"
+      ],
+      "data": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22-nestle-cresce-4-no-terceiro-trimestre-e",
+      "titulo": "Nestlé cresce 4% no terceiro trimestre e recupera vendas em volume na Europa",
+      "resumo": "A Nestlé registou um crescimento orgânico de 4% no terceiro trimestre de 2026, impulsionado sobretudo pela recuperação do crescimento interno real, que atingiu 2,8%, enquanto o efeito dos preços se situou em 1,1%. Na Europa, o grupo apresentou um crescimento orgânico de 1,2%, com a Península Ibérica entre os mercado…",
+      "url": "https://grandeconsumo.com/nestle-resultados-terceiro-trimestre-2026-volumes/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22-apoio-domiciliario-e-o-motor-do-crescimento",
+      "titulo": "Apoio domiciliário é o motor do crescimento da Interdomicilio em Portugal",
+      "resumo": "A Interdomicilio, rede especializada em serviços domésticos e cuidados assistenciais, continua a reforçar a posição no mercado português e a impulsionar o crescimento da rede de franchising, através da abertura de novas unidades, do reforço da presença regional e da expansão do Serviço de Apoio Domiciliário (SAD), u…",
+      "url": "https://www.infofranchising.pt/interdomicilio-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao",
+        "franchising"
+      ],
+      "data": "2026-10-22"
+    },
     {
       "id": "2026-10-22-la-redoute-reforca-expansao-em-espanha-e",
       "titulo": "La Redoute reforça expansão em Espanha e mantém Portugal entre os principais mercados europeus",
@@ -5923,177 +6095,6 @@
         "marca-internacional-pt"
       ],
       "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-guerra-e-escassez-de-avioes-reduzem-para",
-      "titulo": "Guerra e escassez de aviões reduzem para metade lucros das companhias aéreas",
-      "resumo": "O conflito no Médio Oriente e os atrasos nas entregas de aeronaves deverão reduzir para metade os lucros da aviação comercial global, avisou hoje a Associação Internacional do Transporte Aéreo (IATA, na sigla em inglês). Numa sessão organizada pela Câmara de Comércio França-Macau, o gestor regional da IATA para Hong…",
-      "url": "https://eco.sapo.pt/2026/08/26/guerra-e-escassez-de-avioes-reduzem-para-metade-lucros-das-companhias-aereas/",
-      "fonte": "ECO",
-      "pais": "Internacional",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-from-apocalypse-to-renaissance-can-ai-be",
-      "titulo": "From Apocalypse to Renaissance: Can AI be the catalyst for retail’s return to glory?",
-      "resumo": "India experienced a similar rollercoaster, compressed into a much tighter timeframe. Lacking the capital flexibility of Western giants - partly due to restrictive FDI policies protecting localkiranastores - organized retail peaked at roughly 15% penetration before e-commerce arrived. Yet its cycle echoed the West: e…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/from-apocalypse-to-renaissance-can-ai-be-the-catalyst-for-retails-return-to-glory/133529918",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "investimento-estrangeiro"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-minimum-wage-hikes-add-to-cost-pressures",
-      "titulo": "Minimum wage hikes add to cost pressures for retailers and gig firms ahead of festive season",
-      "resumo": "This comes as a double whammy as companies are already grappling with higher commodity prices and freight rates along with rupee depreciation, senior executives at Eternal, Swiggy, V-Mart Retail, Vishal Mega Mart, Delhivery and Amber Enterprises told analysts recently. Several companies across retail, ecommerce, log…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/minimum-wage-hikes-add-to-cost-pressures-for-retailers-and-gig-firms-ahead-of-festive-season/133528308",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-25-alibaba-angaria-7-5-mil-milhoes-para",
-      "titulo": "Alibaba angaria 7,5 mil milhões para acelerar aposta na IA",
-      "resumo": "A Alibaba vai angariar cerca de 7,5 mil milhões de libras (aproximadamente 8,8 mil milhões de euros) através de uma emissão de novas ações em Hong Kong, uma operação destinada a acelerar o investimento do grupo de retalho e tecnologia em inteligência artificial (IA).",
-      "url": "https://www.distribuicaohoje.com/retalho/alibaba/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-25"
-    },
-    {
-      "id": "2026-08-25-porque-que-o-franchising-continua-a-ser",
-      "titulo": "Porque que o franchising continua a ser uma das formas mais seguras de empreender?",
-      "resumo": "Empreender envolve sempre risco. Mas há modelos de negócio que permitem reduzir parte da incerteza inicial, sobretudo quando o empreendedor não precisa de começar tudo do zero. É precisamente aí que o franchising continua a destacar-se como uma das formas mais estruturadas de criar um negócio próprio em Portugal. Ao…",
-      "url": "https://www.infofranchising.pt/expofranchise2026-empreendedorismo-em-portugal/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising"
-      ],
-      "data": "2026-08-25"
-    },
-    {
-      "id": "2026-08-25-top-atlantico-abre-nova-loja-no-amoreiras",
-      "titulo": "Top Atlântico abre nova loja no Amoreiras Shopping",
-      "resumo": "A Top Atlântico acaba de inaugurar uma nova loja no Amoreiras Shopping Center, em Lisboa, reforçando a sua presença na capital e a estratégia de proximidade com os clientes. Localizada no piso 1, junto à entrada para a zona de restauração, a nova loja foi pensada para proporcionar um atendimento personalizado num es…",
-      "url": "https://www.ambitur.pt/top-atlantico-abre-nova-loja-no-amoreiras-shopping/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-25"
-    },
-    {
-      "id": "2026-08-25-inorbit-malls-expands-footprint-with-acquisition-of",
-      "titulo": "Inorbit Malls expands footprint with acquisition of Prozone malls in Coimbatore and Chhatrapati Sambhaji Nagar",
-      "resumo": "Rajneesh Mahajan, CEO, Inorbit Malls (India), said ,\"The acquisition marks an important milestone in the company’s growth journey.\"",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/inorbit-malls-expands-footprint-with-acquisition-of-prozone-malls-in-coimbatore-and-chhatrapati-sambhaji-nagar/133498015",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao",
-        "aquisicoes"
-      ],
-      "data": "2026-08-25"
-    },
-    {
-      "id": "2026-08-25-consumer-giants-forex-earnings-shine-despite-gobal",
-      "titulo": "Consumer giants' forex earnings shine despite gobal woes",
-      "resumo": "Leading Indian manufacturers significantly increased exports in the last fiscal year. These companies collectively achieved net foreign exchange positive status. Export earnings grew by twenty-nine percent, reaching over one lakh crore rupees. Companies navigated import cost pressures through increased localization …",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/consumer-giants-forex-earnings-shine-despite-gobal-woes/133489511",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-25"
-    },
-    {
-      "id": "2026-08-24-re-max-regista-cerca-de-3-500",
-      "titulo": "RE/MAX regista cerca de 3.500 transações no Minho nos primeiros sete meses do ano",
-      "resumo": "O Minho mantém uma forte dinâmica no mercado imobiliário português. Nos primeiros sete meses do ano, a RE/MAX, maior rede imobiliária a operar em Portugal, registou cerca de 3.500 transações nos 24 concelhos das sub-regiões do Alto Minho, Cávado e Ave, reforçando a atratividade do território para habitação e investi…",
-      "url": "https://www.infofranchising.pt/remax-portugal-minho-franchising/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-24"
-    },
-    {
-      "id": "2026-08-24-vila-gale-reserva-do-paiva-abre-reservas",
-      "titulo": "Vila Galé Reserva do Paiva abre reservas e inicia operação a 15 de outubro",
-      "resumo": "O grupo Vila Galé abriu oficialmente as reservas para o Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA & Beach Club, a sua segunda unidade no Cabo de Santo Agostinho, no estado brasileiro de Pernambuco. O novo hotel inicia operações no próximo 15 de outubro, em regime de soft opening. A unidade r…",
-      "url": "https://www.ambitur.pt/vila-gale-reserva-do-paiva-abre-reservas-e-inicia-operacao-a-15-de-outubro/",
-      "fonte": "Ambitur",
-      "pais": "Brasil",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-24"
-    },
-    {
-      "id": "2026-08-24-godrej-industries-group-signs-pact-to-invest",
-      "titulo": "Godrej Industries group signs pact to invest Rs 20,000 crore in Haryana",
-      "resumo": "Godrej Industries Group plans a substantial Rs 20,000 crore investment in Haryana. This initiative is expected to generate approximately 40,000 new employment opportunities across the state. Godrej Properties Limited will lead this expansion, investing an additional Rs 16,000 crore by FY28. Godrej Ventures will also…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/godrej-industries-group-signs-pact-to-invest-rs-20000-crore-in-haryana/133457959",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao",
-        "investidores"
-      ],
-      "data": "2026-08-24"
-    },
-    {
-      "id": "2026-08-24-grupo-exito-refuerza-su-presencia-en-la",
-      "titulo": "Grupo Éxito refuerza su presencia en la Costa Caribe con inversiones por $42.700 millones",
-      "resumo": "Los recursos se han destinado a la apertura, renovación y reconversión de tiendas en la región.",
-      "url": "https://www.valoraanalitik.com/grupo-exito-refuerza-su-presencia-en-la-costa-caribe-con-inversiones-por-42-700-millones/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-24"
-    },
-    {
-      "id": "2026-08-24-paramount-pede-1-8-mil-milhoes-aos",
-      "titulo": "Paramount pede 1,8 mil milhões aos 12 estados norte-americanos que querem impedir fusão com Warner Bros",
-      "resumo": "Em junho os estados da Califórnia, Nova Iorque, Washington, Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, Nova Jérsia, Novo México e Oregon defenderam, na ação entregue no Tribunal Distrital dos Estados Unidos para o Distrito Norte da Califórnia, que o negócio que juntaria a Warner Bros Discovery…",
-      "url": "https://jornaleconomico.sapo.pt/noticias/paramount-pede-18-mil-milhoes-aos-12-estados-norte-americanos-que-querem-impedir-fusao-com-warner-bros/",
-      "fonte": "Jornal Económico",
-      "pais": "Internacional",
-      "temas": [
-        "ma-operadores"
-      ],
-      "data": "2026-08-24"
-    },
-    {
-      "id": "2026-08-24-grasim-eyes-rs-2-lakh-crore-revenue",
-      "titulo": "Grasim eyes Rs 2 lakh crore revenue in FY27 as growth platforms scale up: KM Birla",
-      "resumo": "Grasim Industries anticipates reaching Rs 2 lakh crore revenue by FY27. This growth stems from its diverse businesses including cement and financial services. UltraTech Cement capacity has surpassed 200 million tonnes per annum. Birla Opus paints business secured a significant market share within two years.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/grasim-eyes-rs-2-lakh-crore-revenue-in-fy27-as-growth-platforms-scale-up-km-birla/133449881",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao",
-        "resultados"
-      ],
-      "data": "2026-08-24"
     }
   ]
 }
