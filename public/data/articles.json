@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-23T11:11:32.618Z",
+  "updatedAt": "2026-10-24T10:29:46.552Z",
   "articles": [
+    {
+      "id": "2026-10-24-paris-fecha-portas-este-sabado-museus-lojas",
+      "titulo": "Paris fecha portas este sábado: museus, lojas Apple e grandes eventos cancelados por receio de violência",
+      "resumo": "Paris prepara-se para um sábado marcado pelo encerramento de alguns dos seus espaços mais conhecidos",
+      "url": "https://executivedigest.sapo.pt/paris-fecha-portas-este-sabado-museus-lojas-apple-e-grandes-eventos-cancelados-por-receio-de-violencia/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "loja-encerrada"
+      ],
+      "data": "2026-10-24"
+    },
+    {
+      "id": "2026-10-23-asus-lanca-zenbook-14-e-estreia-pop",
+      "titulo": "ASUS lança Zenbook 14 e estreia Pop-Up Store em Portugal",
+      "resumo": "A ASUS lançou em Portugal o novo Zenbook 14, a mais recente evolução da sua gama premium de portáteis Zenbook. O equipamento combina materiais inovadores, um design renovado e funcionalidades baseadas em inteligência artificial (IA). O conteúdo ASUS lança Zenbook 14 e estreia Pop-Up Store em Portugal aparece primeir…",
+      "url": "https://grandeconsumo.com/asus-lanca-zenbook-14-e-estreia-pop-up-store-em-portugal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-noori-leva-sushi-a-uma-nova-loja",
+      "titulo": "Noori leva sushi a uma nova loja na Margem Sul. E prepara mais aberturas",
+      "resumo": "O Noori reforçou a sua presença na Margem Sul, com a abertura de uma nova loja. A marca portuguesa de sushi mantém o plano de expansão e prevê abrir, pelo menos, mais três espaços até ao final de 2026.",
+      "url": "https://marketeer.sapo.pt/noori-leva-sushi-a-uma-nova-loja-na-margem-sul-e-prepara-mais-aberturas/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-23"
+    },
+    {
+      "id": "2026-10-23-arranca-a-expofranchise-2026-a-maior-feira",
+      "titulo": "Arranca a EXPOFRANCHISE 2026, a maior feira de empreendedorismo e franchising da Península Ibérica, promovida pela Associação Portuguesa de Franchising",
+      "resumo": "A EXPOFRANCHISE 2026 já está com as portas abertas! A EXPOFRANCHISE 2026, a maior feira de empreendedorismo e franchising da Península Ibérica, promovida pela Associação Portuguesa de Franchising, tem lugar nos dias 23 e 24 de outubro, no Pátio da Galé, em Lisboa. A 29ª edição da EXPOFRANCHISE reunirá marcas naciona…",
+      "url": "https://www.infofranchising.pt/expofranchise2026/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-10-23"
+    },
     {
       "id": "2026-10-23-francisco-gutierrez-portugal-continua-a-ser-um",
       "titulo": "Francisco Gutiérrez: Portugal “continua a ser um mercado estratégico para a Scalpers”",
@@ -6044,55 +6092,6 @@
       "pais": "Índia",
       "temas": [
         "investidores"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-india-s-next-fashion-opportunity-lies-in",
-      "titulo": "India’s next fashion opportunity lies in profitable premium brands, not scale at any cost",
-      "resumo": "At the trialogue “From Managing Brands to Creating Brands: What Does It Take to Build the Next Fashion Success Story?” at the 4th ETRetail ShopFWD Summit 2026, Vineet Gautam, Founder, 91Brands, and Rajesh Narkar, Co-Founder & CEO, Confluxe, said India’s rising aspirations are opening room for multiple premium fashio…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-next-fashion-opportunity-lies-in-profitable-premium-brands-not-scale-at-any-cost/133543950",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "nova-loja",
-        "resultados"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-fashion-retail-s-inventory-race-is-shifting",
-      "titulo": "Fashion retail’s inventory race is shifting from ‘less stock’ to ‘smarter stock’",
-      "resumo": "At the panel discussion “Inventory in the Experience Era: Less Stock, More Stories?” at the 4th ETRetail ShopFWD Summit 2026, supply chain and merchandising leaders from Taniera, Bazaar Style Retail and Triumph Group said the real opportunity lies not in indiscriminately cutting inventory, but in improving availabil…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/fashion-retails-inventory-race-is-shifting-from-less-stock-to-smarter-stock/133542993",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-nuestro-bogota-preve-cerrar-en-94-de",
-      "titulo": "Nuestro Bogotá prevé cerrar en 94% de ocupación y anuncia nueva tienda de gran superficie",
-      "resumo": "la gerencia del centro comercial afirmó que se alista la llegada de un nuevo almacén de gran tamaño para el último trimestre del año",
-      "url": "https://www.larepublica.co/empresas/nuestro-bogota-preve-cerrar-en-98-de-ocupacion-y-anuncia-nueva-tienda-de-gran-superficie-4467465",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-nueva-marca-china-de-carros-electricos-llega",
-      "titulo": "Nueva marca china de carros eléctricos llega a Colombia: precios entre $99 millones y $144 millones",
-      "resumo": "Arcfox, la línea premium del gigante chino BAIC, arranca operación con Magma Automotive como importador y una inversión inicial de US$25 millones.",
-      "url": "https://www.valoraanalitik.com/nueva-marca-china-carros-electricos-colombi/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "marca-internacional-pt"
       ],
       "data": "2026-08-26"
     }
