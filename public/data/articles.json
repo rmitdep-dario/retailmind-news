@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-24T10:29:46.552Z",
+  "updatedAt": "2026-10-25T10:56:15.083Z",
   "articles": [
+    {
+      "id": "2026-10-24-a-marca-portuguesa-que-esta-a-conquistar",
+      "titulo": "A marca portuguesa que está a conquistar os consumidores vai abrir duas novas lojas em apenas uma semana",
+      "resumo": "A marca portuguesa de moda masculina Zolf vai inaugurar duas novas lojas até ao final de outubro, em Penafiel e Vila do Conde, elevando para sete o número de espaços próprios em Portugal.",
+      "url": "https://marketeer.sapo.pt/a-marca-portuguesa-que-esta-a-conquistar-os-consumidores-vai-abrir-duas-novas-lojas-em-apenas-uma-semana/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-24"
+    },
     {
       "id": "2026-10-24-paris-fecha-portas-este-sabado-museus-lojas",
       "titulo": "Paris fecha portas este sábado: museus, lojas Apple e grandes eventos cancelados por receio de violência",
@@ -6080,18 +6092,6 @@
       "pais": "Brasil",
       "temas": [
         "franchising"
-      ],
-      "data": "2026-08-26"
-    },
-    {
-      "id": "2026-08-26-india-s-d2c-boom-is-entering-a",
-      "titulo": "India's D2C boom is entering a new phase: Less big-money chasing, more business building",
-      "resumo": "India's direct-to-consumer sector is maturing, with investors becoming more selective. Funding has shifted towards younger companies and early-stage ventures. Established brands like Lenskart and Licious continue to lead in funding. The stock market and acquisitions by large firms are now key exit routes.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-d2c-boom-is-entering-a-new-phase-less-big-money-chasing-more-business-building/133545299",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "investidores"
       ],
       "data": "2026-08-26"
     }
