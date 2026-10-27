@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-10-26T12:27:26.892Z",
+  "updatedAt": "2026-10-27T11:45:50.820Z",
   "articles": [
+    {
+      "id": "2026-10-27-investimento-em-tecnologia-nao-garante-diferenciacao-na",
+      "titulo": "Investimento em tecnologia não garante diferenciação na experiência de cliente, revela estudo",
+      "resumo": "Apenas cerca de 20% das empresas consideram oferecer uma experiência do cliente significativamente superior à da concorrência, apesar de uma década de investimento em automação, análise de dados e canais digitais, conclui um estudo da Foundever em parceria com a ISG.",
+      "url": "https://www.distribuicaohoje.com/customer-experience/experiencia-do-cliente-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-27"
+    },
+    {
+      "id": "2026-10-27-stef-aumenta-faturacao-em-12-no-terceiro",
+      "titulo": "STEF aumenta faturação em 12% no terceiro trimestre",
+      "resumo": "Grupo de transporte e logística alimentar alcançou 1.454,7 milhões de euros em receitas, impulsionado pelo crescimento internacional e pelos fluxos em Portugal O conteúdo STEF aumenta faturação em 12% no terceiro trimestre aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/stef-aumenta-faturacao-em-12-no-terceiro-trimestre/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica",
+        "resultados"
+      ],
+      "data": "2026-10-27"
+    },
+    {
+      "id": "2026-10-27-pmi-gera-343-mil-milhoes-de-euros",
+      "titulo": "PMI gera 343 mil milhões de euros na UE",
+      "resumo": "Estudo da EY-Parthenon destaca o papel da Tabaqueira nas exportações portuguesas, no emprego e no investimento em inteligência artificial O conteúdo PMI gera 343 mil milhões de euros na UE aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/pmi-gera-343-mil-milhoes-de-euros-na-ue/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-27"
+    },
+    {
+      "id": "2026-10-27-proenca-de-carvalho-abre-escritorio-no-porto",
+      "titulo": "Proença de Carvalho abre escritório no Porto e integra dois novos sócios",
+      "resumo": "A Proença de Carvalho abriu um novo escritório na cidade do Porto, localizado na zona da Boavista. Paralelamente, integrou como sócios Miguel Gonzalez Amado, que assumirá a coordenação do escritório do Porto, e Pedro Duarte Batista, ambos transitam da Vieira de Almeida. “A abertura do escritório no Porto é a respost…",
+      "url": "https://eco.sapo.pt/2026/10/27/proenca-de-carvalho-abre-escritorio-no-porto-e-integra-dois-novos-socios/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "escritorios"
+      ],
+      "data": "2026-10-27"
+    },
+    {
+      "id": "2026-10-27-funcionarios-presos-em-cabos-e-papelada-a",
+      "titulo": "Funcionários presos em cabos e papelada: a campanha que mostra o pesadelo dos escritórios antes da chegada da IA",
+      "resumo": "Funcionários amontoados entre cabos, computadores e pilhas de documentos dão o mote à nova campanha global da Factorial. Com humor e uma situação levada ao absurdo, a empresa espanhola de software quer mostrar como a desorganização e a informação dispersa podem bloquear o trabalho nas empresas.",
+      "url": "https://marketeer.sapo.pt/funcionarios-presos-em-cabos-e-papelada-a-campanha-que-mostra-o-pesadelo-dos-escritorios-antes-da-chegada-da-ia/",
+      "fonte": "Marketeer",
+      "pais": "Espanha",
+      "temas": [
+        "escritorios"
+      ],
+      "data": "2026-10-27"
+    },
+    {
+      "id": "2026-10-26-grupo-stef-aumenta-volume-de-negocios-em",
+      "titulo": "Grupo STEF aumenta volume de negócios em 12% no terceiro trimestre",
+      "resumo": "O Grupo STEF registou um volume de negócios de 1.454,7 milhões de euros no terceiro trimestre de 2026, um aumento de 12% face ao mesmo período do ano anterior (10,4% numa base comparável), impulsionado pelo crescimento da atividade internacional.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/grupo-stef/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-ministro-da-economia-visita-instalacoes-da-frutorra",
+      "titulo": "Ministro da Economia visita instalações da Frutorra em Condeixa-a-Nova",
+      "resumo": "O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, visitou a Frutorra, em Condeixa-a-Nova, no âmbito da Agenda de Proximidade Empresarial. A empresa investiu 10 milhões de euros numa nova unidade industrial de 7.000 m², reforçando a capacidade produtiva, a inovação tecnológica e a eficiência. Fun…",
+      "url": "https://grandeconsumo.com/ministro-da-economia-visita-instalacoes-da-frutorra-em-condeixa-a-nova/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-26"
+    },
+    {
+      "id": "2026-10-26-nueva-multinacional-de-tecnologia-llega-a-colombia",
+      "titulo": "Nueva multinacional de tecnología llega a Colombia tras recibir inversión de US$180 millones",
+      "resumo": "Una multinacional de tecnología aterriza en Colombia y busca transformar las decisiones de compra y venta en el comercio.",
+      "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-internacional-pt",
+        "investidores"
+      ],
+      "data": "2026-10-26"
+    },
     {
       "id": "2026-10-26-queremos-entrar-em-mais-insignias-dentro-e",
       "titulo": "“Queremos entrar em mais insígnias, dentro e fora de Portugal”",
@@ -5999,102 +6098,6 @@
         "resultados"
       ],
       "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-28-lefties-aterra-no-reino-unido",
-      "titulo": "Lefties ‘aterra’ no Reino Unido",
-      "resumo": "A Inditex estreou a Lefties no Reino Unido com a abertura da primeira loja da marca em Liverpool, algumas semanas depois de ter lançado o site no país.",
-      "url": "https://www.distribuicaohoje.com/retalho/lefties-reino-unido/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-28-marks-spencer-expande-operacao-online-para-22",
-      "titulo": "Marks & Spencer expande operação online para 22 mercados europeus",
-      "resumo": "A Marks & Spencer (M&S) está a expandir a sua operação online na Europa através de uma parceria com a Zalando, que permite à cadeia britânica chegar a 22 mercados europeus.",
-      "url": "https://www.distribuicaohoje.com/retalho/marks-spencer-online/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-28-moida-chega-a-portugal-para-conquistar-fas",
-      "titulo": "MOIDA chega a Portugal para conquistar fãs de K-Beauty",
-      "resumo": "A MOIDA, marca sul-coreana especializada em cosmética e skincare, escolheu Portugal para iniciar uma nova etapa da sua expansão internacional. A estreia acontece com duas lojas físicas, instaladas em duas das principais cidades do país: Porto e Lisboa.",
-      "url": "https://marketeer.sapo.pt/moida-chega-a-portugal-e-aposta-no-porto-e-em-lisboa-para-conquistar-fas-de-k-beauty/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-28-tiktok-leva-o-conteudo-dos-criadores-para",
-      "titulo": "TikTok leva o conteúdo dos criadores para fora do telemóvel e abre nova “frente de batalha”para as marcas",
-      "resumo": "O TikTok quer que os vídeos dos seus criadores deixem de estar confinados aos ecrãs dos smartphones. A plataforma anunciou a expansão europeia do Out of Phone, programa que permite levar conteúdos criados para o TikTok para ecrãs instalados em espaços físicos.",
-      "url": "https://marketeer.sapo.pt/tiktok-leva-o-conteudo-dos-criadores-para-fora-do-telemovel-e-abre-nova-frente-de-batalhapara-as-marcas/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-28-3-campos-cobertos-e-quase-meio-milhao",
-      "titulo": "3 campos cobertos e quase meio milhão de euros: já abriu o novo centro de Padel do Alentejo",
-      "resumo": "Foram 400 mil euros de investimento para criar um novo espaço dedicado ao desporto em Castro Verde. O Castro Padel abriu portas a 11 de julho com o objetivo de preencher uma lacuna da região. Aposta, assim, numa modalidade que continua a crescer no mundo inteiro e, claro, em Portugal. Um dos responsáveis pelo projet…",
-      "url": "https://www.nit.pt/fit/ginasios-e-outdoor/3-campos-cobertos-e-quase-meio-milhao-de-euros-ja-abriu-o-novo-centro-de-padel-do-alentejo",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-28-famosa-marca-suica-de-chocolates-de-luxo",
-      "titulo": "Famosa marca suíça de chocolates de luxo abriu uma nova loja em Cascais",
-      "resumo": "Para alguns, escolher o tipo de chocolate favorito é uma decisão simples: preto, de leite ou branco. Na Läderach, porém, a escolha complica-se quando entram em cena pistácios, avelãs, amêndoas, frutos vermelhos ou pedaços de bolacha. E nem sequer é preciso levar uma tablete inteira para casa. A marca suíça de chocol…",
-      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/famosa-marca-suica-de-chocolates-de-luxo-abriu-uma-loja-em-cascais",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-28"
-    },
-    {
-      "id": "2026-08-27-llega-nueva-edicion-del-congreso-de-inversion",
-      "titulo": "Llega nueva edición del Congreso de Inversión y Desarrollo Inmobiliario de ColCapital y Camacol ByC en Bogotá",
-      "resumo": "Representantes públicos y privados analizarán las condiciones para movilizar capital, impulsar proyectos urbanos y responder a las necesidades del país.",
-      "url": "https://www.valoraanalitik.com/llega-nueva-edicion-del-congreso-de-inversion-y-desarrollo-inmobiliario-de-colcapital-y-camacol-byc-en-bogota/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-27"
-    },
-    {
-      "id": "2026-08-27-id-logistics-aumenta-receitas-em-18-3",
-      "titulo": "ID Logistics aumenta receitas em 18,3% no primeiro semestre",
-      "resumo": "A ID Logistics registou receitas de 2.084,6 milhões de euros no primeiro semestre de 2026, um aumento de 18,3% face ao mesmo período do ano anterior. Em termos comparáveis, ajustados ao efeito cambial desfavorável, o crescimento foi de 20,0%.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/id-logistics-resultados-5/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-27"
     }
   ]
 }
