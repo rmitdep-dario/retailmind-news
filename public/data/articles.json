@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-10-27T11:45:50.820Z",
+  "updatedAt": "2026-10-28T12:19:55.041Z",
   "articles": [
+    {
+      "id": "2026-10-28-delta-cafes-inaugura-espaco-em-lisboa-para",
+      "titulo": "Delta Cafés inaugura espaço em Lisboa para reforçar ligação aos consumidores",
+      "resumo": "A Delta Cafés inaugurou o Delta Coffee Club, um espaço pop-up no centro de Lisboa pensado para transformar o café em ponto de partida para experiências que cruzam cultura, entretenimento, bem-estar e criatividade.",
+      "url": "https://www.distribuicaohoje.com/customer-experience/delta-coffee-club/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-28"
+    },
+    {
+      "id": "2026-10-28-geracao-x-quer-pagamentos-flexiveis-sem-abandonar",
+      "titulo": "Geração X quer pagamentos flexíveis sem abandonar os cartões",
+      "resumo": "A Geração X continua a privilegiar os cartões tradicionais e os bancos já estabelecidos, mas mostra abertura a formas mais flexíveis de pagar e de receber dinheiro, conclui um relatório da PYMNTS Intelligence dirigido ao mercado dos Estados Unidos da América (EUA).",
+      "url": "https://www.distribuicaohoje.com/pagamentos/geracao-x/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-28"
+    },
+    {
+      "id": "2026-10-28-delta-cafes-abre-coffee-club-no-centro",
+      "titulo": "Delta Cafés abre Coffee Club no centro de Lisboa",
+      "resumo": "A Delta Cafés inaugurou o Delta Coffee Club, um espaço temporário na Calçada Ribeiro Santos, n.º 31, em Lisboa, dedicado a iniciativas que cruzam cultura, entretenimento, criatividade e bem-estar. O conteúdo Delta Cafés abre Coffee Club no centro de Lisboa aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/delta-cafes-abre-coffee-club-no-centro-de-lisboa/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-28"
+    },
+    {
+      "id": "2026-10-28-sergio-rebollo-assume-direcao-geral-da-electrolux",
+      "titulo": "Sergio Rebollo assume direção-geral da Electrolux para Portugal e Espanha",
+      "resumo": "O Grupo Electrolux nomeou Sergio Rebollo como novo diretor-geral para Portugal e Espanha, com efeito a partir de 3 de novembro de 2026. O conteúdo Sergio Rebollo assume direção-geral da Electrolux para Portugal e Espanha aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/sergio-rebollo-assume-direcao-geral-da-electrolux-para-portugal-e-espanha/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-10-28"
+    },
+    {
+      "id": "2026-10-28-magural-oporto-hotel-abre-no-porto-com",
+      "titulo": "Magural Oporto Hotel abre no Porto com investimento de 20 milhões de euros",
+      "resumo": "O Magural Oporto Hotel, unidade de quatro estrelas do Grupo Magural Hotels, iniciou a sua atividade no Porto, em regime de soft opening, após um investimento de cerca de 20 milhões de euros. O hotel dispõe de 120 quartos e seis suites e emprega atualmente 50 colaboradores, estando previsto o reforço da equipa a curt…",
+      "url": "https://www.ambitur.pt/magural-oporto-hotel-abre-no-porto-com-investimento-de-20-milhoes-de-euros/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-10-28"
+    },
+    {
+      "id": "2026-10-27-ifc-aposta-em-agronegocio-turismo-e-logistica",
+      "titulo": "IFC aposta em agronegócio, turismo e logística para crescimento económico na África lusófona",
+      "resumo": "O diretor regional da Corporação Financeira Internacional (IFC) para a África Ocidental e Sahel disse à Lusa que a organização aposta no agronegócio, turismo e logística como setores capazes de impulsionar emprego e crescimento económico na África lusófona. “O agronegócio e o turismo são setores focais no BM [Banco …",
+      "url": "https://www.forbespt.com/ifc-aposta-em-agronegocio-turismo-e-logistica-para-crescimento-economico-na-africa-lusofona/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-27"
+    },
+    {
+      "id": "2026-10-27-frisby-espana-asegura-que-hay-colombianos-interesados",
+      "titulo": "Frisby España asegura que hay colombianos interesados en adquirir sus franquicias",
+      "resumo": "El CEO de la sociedad española dijo que el pleito con Frisby Colombia puede tardar 10 años y ellos seguirán expandiéndose",
+      "url": "https://www.larepublica.co/empresas/frisby-espana-asegura-que-hay-colombianos-interesados-en-sus-franquicias-4512134",
+      "fonte": "La República",
+      "pais": "Espanha",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-10-27"
+    },
     {
       "id": "2026-10-27-investimento-em-tecnologia-nao-garante-diferenciacao-na",
       "titulo": "Investimento em tecnologia não garante diferenciação na experiência de cliente, revela estudo",
@@ -6013,91 +6098,6 @@
         "resultados"
       ],
       "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-31-druni-nao-abranda-cadeia-espanhola-soma-duas",
-      "titulo": "Druni não abranda: cadeia espanhola soma duas novas lojas em Portugal",
-      "resumo": "A Druni está a ganhar rapidamente escala em Portugal. Menos de um ano depois de ter entrado no mercado nacional, a cadeia espanhola de perfumaria e cosmética chegou às nove lojas, depois de inaugurar dois novos espaços durante o mês de agosto.",
-      "url": "https://marketeer.sapo.pt/druni-nao-abranda-cadeia-espanhola-soma-duas-novas-lojas-em-portugal/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-31-mayoral-reforca-presenca-em-portugal-com-nova",
-      "titulo": "Mayoral reforça presença em Portugal com nova abertura",
-      "resumo": "A moda infantil espanhola acaba de ganhar mais espaço em Vila Nova de Gaia. A Mayoral é a mais recente marca a juntar-se à oferta do GaiaShopping, onde abriu uma nova loja no passado dia 10 de agosto.",
-      "url": "https://marketeer.sapo.pt/mayoral-reforca-presenca-em-portugal-com-nova-abertura/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-31-social-media-influencers-don-entrepreneurial-hat-launch",
-      "titulo": "Social media influencers don entrepreneurial hat; launch VC-backed consumer brands",
-      "resumo": "The rise of social media influencers has given birth to a new wave of consumer brands, garnering tremendous venture capital interest.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/social-media-influencers-don-entrepreneurial-hat-launch-vc-backed-consumer-brands/133643521",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "private-equity"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-30-de-vender-inciensos-en-la-calle-a",
-      "titulo": "De vender inciensos en la calle a construir un exitoso hub inmobiliario que deja millonarias ganancias",
-      "resumo": "Brick Capital, la empresa de Karolina Ochoa que fue vendedora ambulante y tuvo dos fracasos empresariales hasta llegar al éxito.",
-      "url": "https://www.valoraanalitik.com/de-vender-inciensos-en-la-calle-a-construir-un-exitoso-hub-inmobiliario-que-deja-millonarias-ganancias/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-30"
-    },
-    {
-      "id": "2026-08-30-normal-a-expansao-em-portugal-e-para",
-      "titulo": "NORMAL: a expansão em Portugal é para acelerar",
-      "resumo": "A NORMAL chegou a Portugal em 2022 quando abriu a primeira loja no Alegro Sintra em 28 de outubro e, desde então, tem vindo a abrir lojas de rua e de centros comerciais. Na altura, o país foi o sétimo mercado de expansão e é visto como um caso de sucesso no seio do grupo […] The post NORMAL: a expansão em Portugal é…",
-      "url": "https://www.forbespt.com/normal-a-expansao-em-portugal-e-para-acelerar/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-30"
-    },
-    {
-      "id": "2026-08-29-from-nike-to-starbucks-some-american-brands",
-      "titulo": "From Nike to Starbucks, some American brands are losing aura in China",
-      "resumo": "Global companies once relied on China for consistent growth and expansion. Economic challenges and strong local competitors now impact foreign brands significantly. Brands like Nike and Starbucks are losing market share to domestic rivals. However, some companies succeed by adapting to local tastes and preferences. …",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/from-nike-to-starbucks-some-american-brands-are-losing-aura-in-china/133602933",
-      "fonte": "ET Retail",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-08-29"
-    },
-    {
-      "id": "2026-08-28-retail-media-cresce-mais-depressa-do-que",
-      "titulo": "Retail media cresce mais depressa do que vendas de retalho na Walmart, Target e Amazon",
-      "resumo": "As receitas de retail media estão a crescer a um ritmo superior ao dos negócios principais de retalho na Walmart, Target e Amazon , apoiadas no tráfego, nas pesquisas e nos dados de transações gerados por lojas, sites e marketplaces .",
-      "url": "https://www.distribuicaohoje.com/retalho/retail-media-eua/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-08-28"
     }
   ]
 }
