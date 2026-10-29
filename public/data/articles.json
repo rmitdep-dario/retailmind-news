@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-28T12:19:55.041Z",
+  "updatedAt": "2026-10-29T12:28:49.519Z",
   "articles": [
+    {
+      "id": "2026-10-29-lucros-da-jeronimo-martins-caem-14-5",
+      "titulo": "Lucros da Jerónimo Martins caem 14,5% para 414 milhões de euros nos primeiros nove meses",
+      "resumo": "A Jerónimo Martins fechou os primeiros nove meses de 2026 com uma quebra de 14,5% nos lucros, para 414 milhões de euros, e um crescimento de 4,8% nas vendas, para 27,82 mil milhões de euros, informou a dona do Pingo Doce em comunicado de imprensa.",
+      "url": "https://www.distribuicaohoje.com/retalho/lucros-da-jeronimo-martins/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-29"
+    },
+    {
+      "id": "2026-10-28-mercado-logistico-89-das-empresas-preveem-mais",
+      "titulo": "Mercado logístico: 89% das empresas preveem mais necessidades de energia",
+      "resumo": "A procura no mercado logístico europeu mantém-se, mas está mais exigente, com a energia a tornar-se fator decisivo nas escolhas das empresas. Segundo o European Logistics Census 2026, da BGRE, antiga Brookfield Properties, e da Savills , 89% dos ocupantes preveem um aumento das necessidades de potência elétrica nos …",
+      "url": "https://www.distribuicaohoje.com/supply-chain/mercado-logistico-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-10-28"
+    },
+    {
+      "id": "2026-10-28-arturo-calle-invierte-2-045-millones-para",
+      "titulo": "Arturo Calle invierte $2.045 millones para renovar tienda en centro comercial de Barranquilla: incorpora concepto por primera vez en el país",
+      "resumo": "Esta reapertura responde a la evolución de marca para proyectar una imagen más moderna y contemporánea.",
+      "url": "https://www.valoraanalitik.com/arturo-calle-invierte-2-045-millones-para-renovar-tienda-en-centro-comercial-de-barranquilla-incorpora-concepto-por-primera-vez-en-el-pais/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-28"
+    },
     {
       "id": "2026-10-28-delta-cafes-inaugura-espaco-em-lisboa-para",
       "titulo": "Delta Cafés inaugura espaço em Lisboa para reforçar ligação aos consumidores",
@@ -6060,42 +6096,6 @@
       "pais": "Portugal",
       "temas": [
         "investidores"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-31-inversionistas-tienen-una-fuerte-apuesta-por-acciones",
-      "titulo": "Inversionistas tienen una fuerte apuesta por acciones colombianas, según encuesta Davivienda; estas son las favoritas",
-      "resumo": "La Gran Encuesta de Activos Financieros también encontró que crece la percepción de que el dólar en Colombia está barato.",
-      "url": "https://www.valoraanalitik.com/inversionistas-apuesta-acciones-colombianas/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-31-grupo-do-lidl-quer-ganhar-peso-fora",
-      "titulo": "Grupo do Lidl quer ganhar peso ‘fora do retalho’ e investe 5,6 mil milhões",
-      "resumo": "O Schwarz Group , dono do Lidl e da Kaufland , vai investir até 5,6 mil milhões de euros na construção de um data center no norte da Alemanha até 2033, num novo sinal da diversificação do grupo para além do retalho alimentar. O investimento será realizado no estado de Mecklenburg-Vorpommern e insere-se na estratégia…",
-      "url": "https://www.distribuicaohoje.com/retalho/lidl-investe/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-08-31-inpost-aumenta-receitas-em-24-no-primeiro",
-      "titulo": "InPost aumenta receitas em 24% no primeiro semestre de 2026",
-      "resumo": "A InPost aumentou as receitas em 24% no primeiro semestre de 2026, para 1.890,8 milhões de euros, com 740 milhões de encomendas processadas, mais 23% do que no mesmo período do ano anterior, num crescimento impulsionado sobretudo pelos mercados internacionais.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/inpost/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
       ],
       "data": "2026-08-31"
     }
