@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-10-29T12:28:49.519Z",
+  "updatedAt": "2026-10-30T12:20:32.251Z",
   "articles": [
+    {
+      "id": "2026-10-30-134-robots-aceleram-preparacao-de-encomendas-online",
+      "titulo": "134 robots aceleram preparação de encomendas online da Colruyt",
+      "resumo": "O Colruyt Group está a reforçar a automação da operação de e-commerce alimentar na Bélgica, com um investimento de 19 milhões de euros num sistema que deverá permitir duplicar a capacidade do centro de distribuição da Collect&Go, em Londerzeel, nos próximos cinco anos.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/134-robots-colruyt/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-unisana-investe-40-milhoes-para-triplicar-dimensao",
+      "titulo": "Unisana investe 40 milhões para triplicar dimensão do Hospital de Almada",
+      "resumo": "O Grupo Unisana Hospitais vai investir 40 milhões de euros para expandir o Hospital de Almada. O investimento prevê a construção de um novo edifício, que vai permitir triplicar a dimensão da unidade de saúde detida pelo grupo liderado por Eduardo Nuno Moniz. A obra será realizada em duas fases, com a conclusão globa…",
+      "url": "https://eco.sapo.pt/2026/10/30/unisana-investe-40-milhoes-para-triplicar-dimensao-do-hospital-de-almada/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-the-macallan-inaugura-espaco-exclusivo-na-boutique",
+      "titulo": "The Macallan inaugura espaço exclusivo na boutique TORRES JOALHEIROS",
+      "resumo": "Existem valores que transcendem fronteiras e indústrias. A busca pela excelência, o saber-fazer e, acima de tudo, o respeito pelo tempo unem TORRES JOALHEIROS e The Macallan numa parceria de longo-prazo que dá origem ao primeiro “Lar Espiritual” The Macallan em Portugal. Reconhecida pela sua excelência na alta joalh…",
+      "url": "https://www.briefing.pt/cetera/the-macallan-inaugura-espaco-exclusivo-na-boutique-torres-joalheiros/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-decathlon-abre-um-parque-desportivo-gratuito-para",
+      "titulo": "Decathlon abre um parque desportivo gratuito: para usar basta entrar",
+      "resumo": "A Decathlon renovou a loja da Maia e criou um parque desportivo gratuito, aberto à comunidade entre as 9h30 e as 21h. A iniciativa integra a remodelação do espaço comercial e pretende facilitar o acesso à prática desportiva.",
+      "url": "https://marketeer.sapo.pt/decathlon-abre-um-parque-desportivo-gratuito-para-usar-basta-entrar/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-vila-gale-inaugura-primeiro-hotel-no-maranhao",
+      "titulo": "Vila Galé inaugura primeiro hotel no Maranhão e reforça presença no Brasil",
+      "resumo": "A Vila Galé inaugurou, a 27 de outubro, o Vila Galé Collection Ópera São Luís, o primeiro hotel do grupo no estado do Maranhão, no Brasil. A unidade, com 43 quartos, está integrada num projeto de investimento de 100 milhões de reais no centro histórico de São Luís, que contempla outros dois empreendimentos. A inaugu…",
+      "url": "https://www.ambitur.pt/vila-gale-inaugura-primeiro-hotel-no-maranhao-e-reforca-presenca-no-brasil/",
+      "fonte": "Ambitur",
+      "pais": "Brasil",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-29-retalho-em-expansao-leroy-merlin-homa-e",
+      "titulo": "Retalho em expansão: Leroy Merlin, hôma e Roady reforçam presença em Portugal",
+      "resumo": "As marcas continuam a apostar na expansão das suas redes de lojas em Portugal, reforçando a presença no mercado nacional e contribuindo para a dinamização do setor do retalho . Entre novas aberturas, remodelações e entrada em novas localizações, os operadores procuram aproximar-se dos consumidores, aumentar a cobert…",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-60/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-29"
+    },
+    {
+      "id": "2026-10-29-economia-circular-gera-135-milhoes-na-sonae",
+      "titulo": "Economia circular gera 135 milhões na Sonae no 1.º semestre de 2026",
+      "resumo": "A economia circular gerou um volume de negócios de 135 milhões de euros no Grupo Sonae no primeiro semestre de 2026, o equivalente a mais de metade do total registado em todo o ano de 2025, segundo dados divulgados pelo grupo.",
+      "url": "https://www.distribuicaohoje.com/retalho/economia-circular/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-29"
+    },
+    {
+      "id": "2026-10-29-inpost-atinge-os-6-000-lockers-na",
+      "titulo": "InPost atinge os 6.000 Lockers na Península Ibérica",
+      "resumo": "A InPost atingiu os 6.000 Lockers na Península Ibérica, reforçando a sua rede de cacifos automáticos em Portugal e Espanha. O marco surge no âmbito da expansão das soluções de entrega fora de casa (Out of Home, OOH). O conteúdo InPost atinge os 6.000 Lockers na Península Ibérica aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/inpost-atinge-os-6-000-lockers-na-peninsula-iberica/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-29"
+    },
+    {
+      "id": "2026-10-29-mcdonald-s-abre-restaurante-em-almeirim-ja",
+      "titulo": "McDonald’s abre restaurante em Almeirim. Já são 223 restaurantes da marca em Portugal",
+      "resumo": "Abriu em Almeirim o primeiro restaurante McDonald’s, um novo ponto de encontro que traz à comunidade local mais dinamismo, novas oportunidades de emprego e uma nova opção de lazer para visitantes e famílias da região. A abertura consolida a presença da marca no país, onde atinge a marca de 223 restaurantes em Portug…",
+      "url": "https://www.infofranchising.pt/mcdonalds-almeirim/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-29"
+    },
     {
       "id": "2026-10-29-lucros-da-jeronimo-martins-caem-14-5",
       "titulo": "Lucros da Jerónimo Martins caem 14,5% para 414 milhões de euros nos primeiros nove meses",
@@ -5989,115 +6099,6 @@
         "investidores"
       ],
       "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-grupo-jom-investe-2-milhoes-e-aumenta",
-      "titulo": "Grupo JOM investe 2 milhões e aumenta capacidade produtiva em 20%",
-      "resumo": "O Grupo JOM anunicou um investimento de 2 milhões de euros para concluir a ampliação de uma das suas unidades, operação que vai acrescentar cerca de 2.000 m² à atual área fabril de 15.000 m², permitindo ultrapassar os 70 mil móveis produzidos por ano. O projeto de investimento integra um ciclo que abrange também o i…",
-      "url": "https://www.distribuicaohoje.com/retalho/grupo-jom/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-avicasal-lanca-marca-lacarte-com-estreia-na",
-      "titulo": "Avicasal lança marca LaCarte com estreia na charcutaria",
-      "resumo": "A Avicasal lançou a LaCarte, uma nova marca que se estreia no mercado com uma gama de charcutaria e que pretende vir a reunir, de forma gradual, diferentes categorias de produtos alimentares.",
-      "url": "https://www.distribuicaohoje.com/producao/lacarte-avicasal/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-marca-propria-up-preve-chegar-aos-20",
-      "titulo": "Marca própria UP prevê chegar aos 20 milhões de euros em 2026",
-      "resumo": "A marca própria UP, da UNIMARK , prevê crescer cerca de 5% em receitas em 2026 e atingir um volume de negócios próximo dos 20 milhões de euros. A marca quer ainda aumentar em 10% o número de referências, terminando o ano com cerca de 750 produtos em portefólio.",
-      "url": "https://www.distribuicaohoje.com/retalho/marca-propria-up/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-shein-cai-na-estreia-em-bolsa-de",
-      "titulo": "Shein cai na estreia em bolsa de Hong Kong",
-      "resumo": "As ações da Shein caíram na estreia na bolsa de Hong Kong , refletindo as dúvidas dos investidores sobre o crescimento, a avaliação e os riscos regulatórios que continuam a pressionar o modelo de negócio da retalhista online de fast fashion . Segundo a Reuters , os títulos recuavam cerca de 8% na primeira sessão, pa…",
-      "url": "https://www.distribuicaohoje.com/retalho/shein-cai-estreia-em-bolsa/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "investidores"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-parfois-esta-de-cara-renovada-nova-loja",
-      "titulo": "Parfois está de cara renovada: nova loja aposta numa experiência de compra diferente",
-      "resumo": "A Parfois está a mudar por dentro e o resultado já pode ser visto em Lisboa. A marca portuguesa de moda e acessórios reabriu a loja no Amoreiras Shopping Center com uma nova imagem comercial, integrada num processo de renovação do seu parque de lojas.",
-      "url": "https://marketeer.sapo.pt/parfois-esta-de-cara-renovada-nova-loja-aposta-numa-experiencia-de-compra-diferente/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-abriu-portas-no-final-de-agosto-ja",
-      "titulo": "Abriu portas no final de agosto: já conhece a nova loja da Mercadona?",
-      "resumo": "A nova superfície comercial abriu portas a 20 de agosto e criou 74 postos de trabalho com contratos sem termo, reforçando a presença da cadeia no distrito de Setúbal.",
-      "url": "https://marketeer.sapo.pt/abriu-portas-no-final-de-agosto-ja-conhece-a-nova-loja-da-mercadona/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-jason-marques-e-o-novo-diretor-geral",
-      "titulo": "Jason Marques é o novo diretor-geral do Tivoli Avenida Liberdade",
-      "resumo": "A Minor Hotels nomeou Jason Marques como novo diretor-geral do Tivoli Avenida Liberdade, em Lisboa, com efeitos a partir de 1 de setembro de 2026. Com mais de 20 anos de experiência internacional na hotelaria de luxo, Jason Marques desenvolveu a sua carreira em unidades na Europa, África, Oceano Índico e Médio Orien…",
-      "url": "https://www.ambitur.pt/jason-marques-e-o-novo-diretor-geral-do-tivoli-avenida-liberdade/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-falesia-hotel-adults-only-reforca-posicionamento-com",
-      "titulo": "Falésia Hotel Adults Only reforça posicionamento com investimento de 10 milhões de euros",
-      "resumo": "O Falésia Hotel Adults Only, em Albufeira, concluiu um investimento de 10 milhões de euros destinado a reforçar o posicionamento da unidade junto do segmento adulto, com novas propostas nas áreas do bem-estar, gastronomia, alojamento e experiências. Entre as principais novidades está a ampliação do Ambar Spa, que pa…",
-      "url": "https://www.ambitur.pt/falesia-hotel-adults-only-reforca-posicionamento-com-investimento-de-10-milhoes-de-euros/",
-      "fonte": "Ambitur",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-08-31-investimento-em-imobiliario-comercial-cresce-14-ate",
-      "titulo": "Investimento em imobiliário comercial cresce 14% até junho",
-      "resumo": "Resiliência tem sido a imagem de marca do setor do imobiliário português nos últimos anos e os primeiros meses de 2026 não são exceção. O relatório ‘WMarket Mid-year 2026’, publicado pela WORX Real Estate Consultants, conclui que o investimento comercial ultrapassou os 1.410 milhões de euros no primeiro semestre, nu…",
-      "url": "https://www.forbespt.com/investimento-em-imobiliario-comercial-cresce-14-ate-junho/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-08-31"
     }
   ]
 }
