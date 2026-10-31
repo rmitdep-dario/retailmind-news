@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-10-30T12:20:32.251Z",
+  "updatedAt": "2026-10-31T11:51:11.039Z",
   "articles": [
+    {
+      "id": "2026-10-31-ha-uma-nova-loja-vintage-em-lisboa",
+      "titulo": "Há uma nova loja vintage em Lisboa que vende ganga antiga e T-shirts raras",
+      "resumo": "Uma peça de roupa pode valer mais do que aquilo que mostra à primeira vista. Os sinais do tempo numa ganga, os remendos de um casaco antigo ou o grafismo de uma T-shirt de outra década contam histórias que dificilmente se encontram numa peça acabada de sair de fábrica. É precisamente essa ideia que Inês […] The post…",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/ha-uma-nova-loja-vintage-de-lisboa-que-vende-ganga-antiga-e-t-shirts-raras",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-31"
+    },
+    {
+      "id": "2026-10-30-retalhista-alema-de-moda-chega-a-portugal",
+      "titulo": "Retalhista alemã de moda chega a Portugal com expansão do comércio online",
+      "resumo": "A retalhista alemã de moda e lifestyle Breuninger está a expandir a sua operação de comércio eletrónico para 11 novos mercados europeus, incluindo Portugal, aumentando de 13 para 24 o número de países onde está presente. A estratégia de internacionalização inclui também o alargamento do seu marketplace a três mercad…",
+      "url": "https://www.distribuicaohoje.com/retalho/retalhista-alema-portugal/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "marca-internacional-pt"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-henkel-reve-previsoes-em-alta-apos-crescimento",
+      "titulo": "Henkel revê previsões em alta após crescimento orgânico de 6,5%",
+      "resumo": "A Henkel registou um crescimento orgânico das vendas de 6,5% no terceiro trimestre de 2026 e reviu em alta as previsões para o conjunto do ano, de acordo com os resultados preliminares divulgados a 30 de outubro. As vendas do grupo atingiram 5.713 milhões de euros, um aumento nominal de 11% face ao período homólogo.",
+      "url": "https://www.distribuicaohoje.com/producao/henkel/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-amazon-cresce-12-e-atinge-margem-operacional",
+      "titulo": "Amazon cresce 12% e atinge margem operacional recorde com expansão do retalho e da inteligência artificial",
+      "resumo": "A Amazon registou vendas de 201,9 mil milhões de dólares (181,4 mil milhões de euros) no terceiro trimestre de 2026, um crescimento homólogo de 12%, e alcançou a maior margem operacional da sua história, de 13,9%. O resultado operacional aumentou para 28,1 mil milhões de dólares (25,2 mil milhões de euros), impulsio…",
+      "url": "https://grandeconsumo.com/amazon-resultados-terceiro-trimestre-2026-retalho-ia/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-paula-rocha-lau-assume-a-lideranca-da",
+      "titulo": "Paula Rocha Lau assume a liderança da BAEBE Beauty Express",
+      "resumo": "Paula Rocha Lau é a nova CEO da BAEBE Beauty Express, assumindo a liderança da marca portuguesa de beleza e bem-estar participada pela Ó Capital. Com experiência na Sephora Portugal e no Grupo LVMH, irá conduzir a evolução do conceito Make-up Express, consolidar a presença nacional e preparar a expansão internaciona…",
+      "url": "https://grandeconsumo.com/paula-rocha-lau-assume-a-lideranca-da-baebe-beauty-express/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "ceo-direcao"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-como-a-educacao-molda-as-geracoes-futuras",
+      "titulo": "Como a educação molda as gerações futuras: Uri Poliavich",
+      "resumo": "Uri Poliavich defende a educação como um investimento de longo prazo, capaz de moldar gerações futuras e fortalecer comunidades. Além do conhecimento académico, as escolas devem desenvolver confiança, resiliência, curiosidade, pensamento crítico, responsabilidade e respeito, preparando os jovens para tomar decisões …",
+      "url": "https://grandeconsumo.com/uri-poliavich-a-educacao-como-responsabilidade-de-longo-prazo/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-10-30"
+    },
+    {
+      "id": "2026-10-30-jeronimo-martins-cria-laboratorio-para-desenvolver-alimentos",
+      "titulo": "Jerónimo Martins cria laboratório para desenvolver alimentos do futuro na Polónia",
+      "resumo": "A Biedronka, insígnia polaca da Jerónimo Martins, inaugurou um centro de inovação alimentar em parceria com a Universidade de Ciências da Vida de Varsóvia. O Biedronka LAB pretende acelerar o desenvolvimento de novos produtos, combinando investigação científica, conhecimento do mercado e participação dos consumidore…",
+      "url": "https://grandeconsumo.com/jeronimo-martins-biedronka-lab-inovacao-alimentar/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-10-30"
+    },
     {
       "id": "2026-10-30-134-robots-aceleram-preparacao-de-encomendas-online",
       "titulo": "134 robots aceleram preparação de encomendas online da Colruyt",
@@ -6013,92 +6099,6 @@
         "investidores"
       ],
       "data": "2026-09-02"
-    },
-    {
-      "id": "2026-09-02-the-lince-braga-estreia-nova-carta-no",
-      "titulo": "The Lince Braga estreia nova carta no Wine Bar",
-      "resumo": "O The Lince Braga, unidade do grupo The Lince Hotels integrada na envolvente verde da Falperra, reforça a sua proposta gastronómica com a estreia de uma nova carta no Wine Bar e o anúncio do Sunset – Goodbye Summer, evento que vai reunir hóspedes e visitantes numa noite de despedida do verão junto à piscina […] O co…",
-      "url": "https://www.briefing.pt/out-of-office/the-lince-braga-estreia-nova-carta-no-wine-bar/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-02"
-    },
-    {
-      "id": "2026-09-01-rockport-abre-primeira-loja-em-portugal-e",
-      "titulo": "Rockport abre primeira loja em Portugal e prepara mais duas em Lisboa",
-      "resumo": "A Rockport abriu a primeira loja física em Portugal, no Almada Forum, e prepara a abertura de mais duas lojas em Lisboa. O regresso da marca de calçado ao retalho físico nacional inclui a retoma da produção de alguns modelos em Portugal.",
-      "url": "https://www.distribuicaohoje.com/retalho/rockport/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-mota-engil-investe-25-milhoes-de-euros",
-      "titulo": "Mota-Engil investe 25 milhões de euros em unidades de biometano",
-      "resumo": "A Mota-Engil Ambiente e Energia garantiu um investimento de 25 milhões de euros para a construção de cinco unidades de produção de biometano renovável que estarão operacionais até ao final do ano. O grupo detalha que este é “um projeto pioneiro que permitirá realizar a primeira injeção de biometano em escala na Rede…",
-      "url": "https://www.forbespt.com/mota-engil-investe-25-milhoes-de-euros-em-unidades-de-biometano/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-veja-quais-sao-as-marcas-ja-confirmadas",
-      "titulo": "Veja quais são as marcas já confirmadas para a EXPOFRANCHISE 2026",
-      "resumo": "A EXPOFRANCHISE está de volta! A maior feira de empreendedorismo e franchising da Península Ibérica, promovida pela Associação Portuguesa de Franchising, terá lugar nos dias 23 e 24 de outubro, no Pátio da Galé, em Lisboa. A 29ª edição da EXPOFRANCHISE reunirá marcas nacionais e internacionais em Portugal. Trata-se …",
-      "url": "https://www.infofranchising.pt/expofranchise-2026-marcas-confirmadas/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-09-01-la-disponibilidad-de-oficinas-premium-en-bogota",
-      "titulo": "La disponibilidad de oficinas premium en Bogotá cayó a un mínimo histórico de 5,4%",
-      "resumo": "Más de 80% de la demanda capitalina se concentró en los corredores de Salitre, Centro y Chicó",
-      "url": "https://www.larepublica.co/empresas/la-disponibilidad-de-oficinas-premium-en-bogota-cayo-a-un-minimo-de-5-4-4471845",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "escritorios"
-      ],
-      "data": "2026-09-01"
-    },
-    {
-      "id": "2026-08-31-aumento-da-procura-internacional-por-imoveis-de",
-      "titulo": "Aumento da procura internacional por imóveis de luxo reforça oportunidade para empreendedores no franchising imobiliário em Portugal",
-      "resumo": "Dados da Coldwell Banker Global Luxury mostram que Portugal concentra 5,7% da procura internacional por imóveis de luxo. O crescimento do segmento abre novas perspectivas para investidores e empreendedores interessados no franchising imobiliário. Portugal consolidou-se como um dos principais destinos internacionais …",
-      "url": "https://www.infofranchising.pt/coldwell-banker-franchising/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "franchising",
-        "investidores"
-      ],
-      "data": "2026-08-31"
-    },
-    {
-      "id": "2026-09-01-mc-investe-500-mil-euros-em-formacao",
-      "titulo": "MC investe 500 mil euros em formação em IA para 4000 colaboradores",
-      "resumo": "A MC vai investir cerca de 500 mil euros em formação em IA, destinada a capacitar cerca de 4000 colaboradores. Segundo a empresa, as iniciativas já em curso permitiram poupar cerca de 100 mil horas de trabalho no período de um ano.",
-      "url": "https://www.distribuicaohoje.com/retalho/formacao-em-ia/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-01"
     }
   ]
 }
