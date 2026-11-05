@@ -1,6 +1,168 @@
 {
-  "updatedAt": "2026-11-04T13:56:01.120Z",
+  "updatedAt": "2026-11-05T14:13:09.203Z",
   "articles": [
+    {
+      "id": "2026-11-05-mercadona-abre-nova-loja-em-pedroucos-com",
+      "titulo": "Mercadona abre nova loja em Pedrouços com investimento de 11 milhões",
+      "resumo": "A Mercadona abriu, a 5 de novembro, um novo supermercado em Pedrouços, na Maia, num investimento de mais de 11 milhões de euros. Com esta abertura, a cadeia passa a contar com 28 lojas em funcionamento no distrito do Porto.",
+      "url": "https://www.distribuicaohoje.com/retalho/mercadona-5/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-continente-vai-abrir-14-lojas-em-tres",
+      "titulo": "Continente vai abrir 14 lojas em três meses e criar mais de 500 empregos",
+      "resumo": "O Continente vai abrir 14 novas lojas nos próximos três meses, distribuídas por oito distritos, num movimento de expansão que prevê a criação de mais de 500 postos de trabalho, anunciou a insígnia de retalho alimentar da MC.",
+      "url": "https://www.distribuicaohoje.com/retalho/continente-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-retalho-lidera-investimento-imobiliario-comercial-em-portugal",
+      "titulo": "Retalho lidera investimento imobiliário comercial em Portugal e logística mantém atividade elevada",
+      "resumo": "O mercado português de investimento imobiliário comercial atingiu cerca de 2.000 milhões de euros nos primeiros nove meses de 2026, mais 1% do que no período homólogo, com o retalho a assumir a liderança, concentrando 33% do capital investido. Na logística, a absorção de espaços atingiu aproximadamente 334 mil metro…",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-investimento-7/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-shein-investe-500-milhoes-de-euros-em",
+      "titulo": "Shein investe 500 milhões de euros em centro logístico na Polónia",
+      "resumo": "A Shein vai investir 500 milhões de euros na expansão do seu centro logístico europeu na Polónia, uma operação com que procura responder às novas taxas de importação da UE e acelerar as entregas dentro do bloco.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/shein/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "marca-expansao",
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-abreu-advogados-assessora-pure-planet-na-aquisicao",
+      "titulo": "Abreu Advogados assessora Pure Planet na aquisição da RDUZ",
+      "resumo": "A Abreu Advogados assessorou a Pure Planet, S.A., sociedade detida pelos grupos Jerónimo Martins, Visabeira e Black & Blue, na aquisição da totalidade do capital social da RDUZ – Gestão Global de Resíduos, S.A., operador português especializado na recolha, transporte, triagem e valorização de resíduos, incluindo res…",
+      "url": "https://eco.sapo.pt/2026/11/05/abreu-advogados-assessora-pure-planet-na-aquisicao-da-rduz/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-cms-portugal-assessora-atlas-copco-group-em",
+      "titulo": "CMS Portugal assessora Atlas Copco Group em nova aquisição em Portugal",
+      "resumo": "A CMS Portugal assessorou o Atlas Copco Group na aquisição dos ativos operacionais da Iberoair, empresa sediada em Águeda e especializada no fornecimento de equipamentos de ar comprimido e serviços associados. “A operação permitirá ao Grupo reforçar a sua presença no mercado português e expandir a sua oferta de serv…",
+      "url": "https://eco.sapo.pt/2026/11/05/cms-portugal-assessora-atlas-copco-group-em-nova-aquisicao-em-portugal/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-sempre-a-crescer-ja-abriu-a-nova",
+      "titulo": "Sempre a crescer. Já abriu a nova loja da Mercadona no Grande Porto",
+      "resumo": "Depois de, em outubro, ter inaugurado a primeira loja no Algarve, a Mercadona voltou a ter novidades no Norte do País. A cadeia espanhola inaugurou esta quinta-feira, 5 de novembro, um novo espaço em Pedrouços, na Maia. Desta forma, a cadeia espanhola reforça a sua presença no distrito do Porto, onde passa a contar …",
+      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/sempre-a-crescer-ja-abriu-a-nova-loja-da-mercadona-no-grande-porto",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-mallplaza-reporto-ingresos-cercanos-a-us-532",
+      "titulo": "Mallplaza reportó ingresos cercanos a US$532,6 millones hasta septiembre",
+      "resumo": "Mallplaza concretó la adquisición de ocho centros comerciales de la marca Gran Plaza que pertenecían a Pactia",
+      "url": "https://www.larepublica.co/empresas/mallplaza-reporto-ingresos-cercanos-a-us-532-6-millones-hasta-septiembre-4517643",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-pactia-redujo-su-deuda-un-45-tras",
+      "titulo": "Pactia redujo su deuda un 45 % tras la venta de los centros comerciales Gran Plaza en Colombia",
+      "resumo": "Uno de los principales efectos de la operación se evidencia en la reducción de sus obligaciones financieras.",
+      "url": "https://www.valoraanalitik.com/pactia-redujo-su-deuda-un-45-tras-la-venta-de-los-centros-comerciales-gran-plaza-en-colombia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-04-tras-venta-de-gran-plaza-pactia-quedo",
+      "titulo": "Tras venta de Gran Plaza, Pactia quedó con $2,6 billones en activos gestionados",
+      "resumo": "La compañía indicó que la desinversión en centros comerciales significó una reducción de 45% en el endeudamiento",
+      "url": "https://www.larepublica.co/empresas/tras-venta-de-gran-plaza-pactia-quedo-con-2-6-billones-en-activos-gestionados-4517709",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-11-04"
+    },
+    {
+      "id": "2026-11-04-la-cadena-chilena-casaideas-abrio-tienda-en",
+      "titulo": "La cadena chilena Casaideas abrió tienda en Medellín y completó 13 locales",
+      "resumo": "Casaideas recibe en promedio 2,5 millones de visitantes al año y ha registrado ventas por más de US$100 millones",
+      "url": "https://www.larepublica.co/empresas/la-cadena-chilena-casaideas-abrio-tienda-en-medellin-y-completo-13-locales-4517617",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-04"
+    },
+    {
+      "id": "2026-11-04-mallplaza-aumento-6-5-sus-ingresos-en",
+      "titulo": "Mallplaza aumentó 6,5 % sus ingresos en tercer trimestre de 2026; compra en Colombia impulsa expansión regional",
+      "resumo": "En el país incorporó ocho centros comerciales que operaban bajo la marca Gran Plaza y sumó cerca de 180.000 metros cuadrados de área arrendable.",
+      "url": "https://www.valoraanalitik.com/mallplaza-aumento-ingresos-3t-2026/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-11-04"
+    },
+    {
+      "id": "2026-11-04-crecimiento-del-comercio-mundial-de-aguacate-hass",
+      "titulo": "Crecimiento del comercio mundial de aguacate Hass abre oportunidades a Colombia como productor: factores para tener en cuenta",
+      "resumo": "La oferta internacional traerá mayores exigencias en materia de calidad, competitividad y sostenibilidad.",
+      "url": "https://www.valoraanalitik.com/crecimiento-del-comercio-mundial-de-aguacate-hass-abre-oportunidades-a-colombia-como-productor-factores-para-tener-en-cuenta/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-04"
+    },
     {
       "id": "2026-11-04-azores-retail-park-abre-a-27-de",
       "titulo": "Azores Retail Park abre a 27 de novembro em Ponta Delgada",
@@ -5941,164 +6103,6 @@
         "investidores"
       ],
       "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-08-colruyt-testa-camioes-a-hidrogenio-em-operacao",
-      "titulo": "Colruyt testa camiões a hidrogénio em operação logística diária",
-      "resumo": "O Colruyt Group iniciou, em parceria com a Scania , um ensaio com dois camiões elétricos a célula de combustível de hidrogénio na sua operação logística diária na Bélgica. O grupo belga de retalho alimentar é o primeiro e único cliente da Scania no país a integrar estes veículos no dia a dia da distribuição, no âmbi…",
-      "url": "https://www.distribuicaohoje.com/supply-chain/colruyt-testa-hidrogenio/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-marco-rubio-llega-a-colombia-para-reforzar",
-      "titulo": "Marco Rubio llega a Colombia para reforzar alianza con De la Espriella: seguridad, aranceles y comercio en la agenda",
-      "resumo": "La visita de Rubio también se produce después del giro que ha dado la política de seguridad del Gobierno de De la Espriella hacia Washington.",
-      "url": "https://www.valoraanalitik.com/marco-rubio-llega-a-colombia-para-reforzar-alianza-con-de-la-espriella-seguridad-aranceles-y-comercio-en-la-agenda/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-marketplace-da-kiabi-chega-a-portugal-com",
-      "titulo": "Marketplace da KIABI chega a Portugal com novas marcas e categorias",
-      "resumo": "O marketplace da KIABI já está disponível em Portugal. A nova funcionalidade, integrada na plataforma kiabi.pt, permite incorporar produtos de outras marcas e vendedores terceiros na loja online da insígnia de moda, que alarga assim o seu modelo de negócio digital.",
-      "url": "https://www.distribuicaohoje.com/retalho/marketplace-da-kiabi/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-oliveira-da-serra-estreia-se-no-tiktok",
-      "titulo": "Oliveira da Serra estreia-se no TikTok em Portugal",
-      "resumo": "A marca Oliveira da Serra estreia-se no TikTok em Portugal com o objetivo de aproximar a nova geração do universo do azeite, através de conteúdos de entretenimento e literacia alimentar. O conteúdo Oliveira da Serra estreia-se no TikTok em Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/oliveira-da-serra-estreia-se-no-tiktok-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-sport-zone-reforca-presenca-no-interior",
-      "titulo": "Sport Zone reforça presença no interior",
-      "resumo": "A Sport Zone acaba de inaugurar uma nova na Covilhã. Localizada no City Center Retail Park, possui uma superfície de 830m² e vem substituir o espaço anteriormente ocupado no Serra Shopping. O objetivo, segundo a marca, é reforçar a presença no município. O conteúdo Sport Zone reforça presença no interior aparece pri…",
-      "url": "https://grandeconsumo.com/sport-zone-reforca-presenca-no-interior/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao",
-        "retail-parks"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-nova-loja-action-em-vialonga",
-      "titulo": "Nova loja Action em Vialonga",
-      "resumo": "A Action, discount store de produtos não alimentares, alcança esta quinta-feira, 10 de setembro, as 34 lojas em Portugal, tendo escolhido Vialonga para a nova abertura. O conteúdo Nova loja Action em Vialonga aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/nova-loja-action-em-vialonga/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-banco-best-aposta-na-literacia-financeira-para",
-      "titulo": "Banco Best aposta na literacia financeira para investimento em criptoativos através de ETCs e ETNs",
-      "resumo": "Num comunicado divulgado hoje, o banco sublinha que, apesar do interesse crescente por criptomoedas, persistem desafios relacionados com a complexidade operacional, a custódia dos ativos e a compreensão dos riscos. Neste contexto, os ETCs e os ETNs - valores mobiliários negociados em bolsas regulamentadas europeias …",
-      "url": "https://jornaleconomico.sapo.pt/noticias/banco-best-aposta-na-literacia-financeira-para-investimento-em-criptoativos-atraves-de-etcs-e-etns/",
-      "fonte": "Jornal Económico",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-porto-business-school-investe-mais-de-70",
-      "titulo": "Porto Business School investe mais de 70 mil euros em novo auditório com o nome do Grupo ACA",
-      "resumo": "A Porto Business School (PBS) inaugurou o Auditório ACA, um novo espaço com mais de 170 metros quadrados e capacidade para cerca de 100 pessoas, que resulta de uma parceria com a ACA Construction.",
-      "url": "https://executivedigest.sapo.pt/porto-business-school-investe-mais-de-70-mil-euros-em-novo-auditorio-com-o-nome-do-grupo-aca/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-twinkloo-acelera-para-o-elms-marca-estreia",
-      "titulo": "Twinkloo acelera para o ELMS: marca estreia-se no patrocínio desportivo com José Cautela",
-      "resumo": "A Twinkloo, intermediário de crédito especializado em crédito habitação, estreia-se no território do patrocínio desportivo ao associar-se ao piloto português José Cautela, que disputa em 2026 o European Le Mans Series (ELMS) na categoria LMP3.",
-      "url": "https://marketeer.sapo.pt/twinkloo-acelera-para-o-elms-marca-estreia-se-no-patrocinio-desportivo-com-jose-cautela/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-08-kiabi-ja-nao-quer-ser-apenas-uma",
-      "titulo": "Kiabi já não quer ser apenas uma marca de moda: eis a nova aposta que chega a Portugal",
-      "resumo": "A Kiabi está a reforçar a sua estratégia de transformação digital com o lançamento do seu marketplace em Portugal, integrado diretamente na plataforma kiabi.pt. A nova funcionalidade permite incorporar produtos de marcas e vendedores terceiros, alargando a oferta disponível aos clientes.",
-      "url": "https://marketeer.sapo.pt/kiabi-ja-nao-quer-ser-apenas-uma-marca-de-moda-eis-a-nova-aposta-que-chega-a-portugal/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-08"
-    },
-    {
-      "id": "2026-09-07-stef-cresce-8-6-no-primeiro-semestre",
-      "titulo": "STEF cresce 8,6% no primeiro semestre de 2026",
-      "resumo": "A STEF , grupo europeu de transporte e logística de produtos alimentares sob temperatura controlada, fechou o primeiro semestre de 2026 com um volume de negócios de 2.687,1 milhões de euros, mais 8,6% do que no período homólogo, e um resultado operacional de 102,9 milhões de euros, uma subida de 84,1%.",
-      "url": "https://www.distribuicaohoje.com/supply-chain/stef/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica",
-        "resultados"
-      ],
-      "data": "2026-09-07"
-    },
-    {
-      "id": "2026-09-07-ikea-investe-1-2-mil-milhoes-de",
-      "titulo": "IKEA investe 1,2 mil milhões de euros para baixar preços na Europa",
-      "resumo": "A IKEA vai investir 1,2 mil milhões de euros na redução de preços de centenas de produtos na Europa, numa estratégia destinada a reforçar a acessibilidade dos seus artigos num contexto de pressão sobre o custo de vida. O conteúdo IKEA investe 1,2 mil milhões de euros para baixar preços na Europa aparece primeiro em …",
-      "url": "https://grandeconsumo.com/ikea-investe-12-mil-milhoes-de-euros-para-baixar-precos-na-europa/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-07"
-    },
-    {
-      "id": "2026-09-07-plenergy-chega-aos-20-postos-em-portugal",
-      "titulo": "Plenergy chega aos 20 postos em Portugal",
-      "resumo": "Expansão acelera com duas novas estações, em Castelo Branco e Ponte de Lima, enquanto a empresa aponta para 30 postos em Portugal em 2026 O conteúdo Plenergy chega aos 20 postos em Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/plenergy-chega-aos-20-postos-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-07"
     }
   ]
 }
