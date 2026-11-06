@@ -1,6 +1,238 @@
 {
-  "updatedAt": "2026-11-05T14:13:09.203Z",
+  "updatedAt": "2026-11-06T13:54:01.077Z",
   "articles": [
+    {
+      "id": "2026-11-06-ikea-vai-abrir-nova-loja-na-margem",
+      "titulo": "IKEA vai abrir nova loja na Margem Sul na primavera de 2027",
+      "resumo": "A IKEA vai abrir uma nova loja na Margem Sul, localizada na Estrada Nacional 10, em Coina, na primavera de 2027. O espaço terá um formato mais compacto, semelhante ao adotado na recente abertura em Coimbra, e integra a estratégia de aproximação da marca aos consumidores.",
+      "url": "https://www.distribuicaohoje.com/retalho/ikea-nova-loja-margem-sul/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-ciberataques-pesam-nas-contas-do-retalho-vendas",
+      "titulo": "Ciberataques pesam nas contas do retalho: vendas perdidas, stocks limitados e previsões revistas",
+      "resumo": "Os ciberataques estão a afetar os resultados dos retalhistas por vias que vão além dos custos de recuperação informática. A Ahold Delhaize prevê perder entre 200 e 250 milhões de euros em vendas no quarto trimestre, a ASOS identifica um impacto na atividade comercial após o incidente de outubro e a Marks & Spencer c…",
+      "url": "https://www.distribuicaohoje.com/retalho/ciberataques-retalho-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-amazon-permite-pagar-a-fornecedores-com-receitas",
+      "titulo": "Amazon permite pagar a fornecedores com receitas do marketplace",
+      "resumo": "A Amazon disponibilizou a Seller Wallet em libras esterlinas, permitindo aos vendedores da Amazon.co.uk conservar receitas nessa moeda, pagar diretamente a fornecedores britânicos e transferir fundos para contas bancárias. A funcionalidade abrange vendedores elegíveis estabelecidos no Reino Unido ou noutros países.",
+      "url": "https://www.distribuicaohoje.com/pagamentos/amazon-pagar-marketplace/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Internacional",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-ikea-abre-loja-em-coina-na-primavera",
+      "titulo": "Ikea abre loja em Coina na primavera",
+      "resumo": "A pr�xima loja ser� � imagem e semelhan�a das instala��es de Coimbra, que abriu no passado ver�o e marcou a estreia de um formato mais concentrado do que as \"grandes\" cinco.",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/ikea-abre-loja-na-coina-na-primavera",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-capital-portugues-assume-protagonismo-e-leva-investimento",
+      "titulo": "Capital português assume protagonismo e leva investimento comercial aos 2.000 milhões até setembro",
+      "resumo": "Retalho volta a liderar o mercado, com 33% do total. Escritórios duplicam peso e hotelaria mantém-se em destaque. JLL admite que 2026 pode fechar acima de 2025.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/capital-portugues-assume-protagonismo-e-leva-investimento-comercial-aos-2-000-milhoes-ate-setembro/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-bcg-mais-de-60-das-empresas-reportam",
+      "titulo": "BCG: Mais de 60% das empresas reportam pouco ou nenhum retorno do investimento em IA",
+      "resumo": "Para Portugal, onde os orçamentos de formação são mais contidos, a BCG recomenda concentrar recursos em poucos processos de elevado impacto, desenhar a capacitação dentro do próprio trabalho, ajustar indicadores durante a transição e envolver as chefias intermédias como agentes ativos da mudança.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/bcg-mais-de-60-das-empresas-reportam-pouco-ou-nenhum-retorno-do-investimento-em-ia/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-lucro-da-edp-sobe-22-para-1",
+      "titulo": "Lucro da EDP sobe 22% para 1.191 milhões de euros até setembro",
+      "resumo": "A EDP registou um lucro de 1.191 milhões de euros nos primeiros nove meses deste ano, uma subida de 22% face a igual período do ano passado, segundo informação divulgada ontem ao mercado. “Este desempenho reflete o sólido contributo das renováveis, apoiado por maiores ganhos com a rotação de ativos, o início dos nov…",
+      "url": "https://www.forbespt.com/lucro-da-edp-sobe-22-para-1-191-milhoes-de-euros-ate-setembro/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-tem-152-lugares-de-estacionamento-e-refeicoes",
+      "titulo": "Tem 152 lugares de estacionamento e refeições prontas: assim é a nova loja da Mercadona",
+      "resumo": "A cadeia espanhola inaugurou um supermercado em Pedrouços, criando 64 postos de trabalho. A abertura eleva para 28 o número de lojas da empresa no distrito do Porto.",
+      "url": "https://marketeer.sapo.pt/tem-152-lugares-de-estacionamento-e-refeicoes-prontas-assim-e-a-nova-loja-da-mercadona/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-daksham-growth-ventures-raises-rs-125-cr",
+      "titulo": "Daksham Growth Ventures raises Rs 125 cr in first close of maiden consumer fund",
+      "resumo": "The fund will invest Rs 5-20 crore in early-growth businesses across direct-to-consumer (D2C) brands, consumer enablers, B2B2C and supply chain businesses, and consumer-focused artificial intelligence (AI).",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/daksham-growth-ventures-raises-rs-125-cr-in-first-close-of-maiden-consumer-fund/135602806",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-05-antigo-responsavel-de-transportes-da-sonae-integra",
+      "titulo": "Antigo responsável de transportes da Sonae integra administração do Paulo Duarte Group",
+      "resumo": "O Paulo Duarte Group nomeou Fábio Santos como administrador, com responsabilidades na articulação entre áreas de negócio e no reforço da eficiência organizacional e operacional. A nomeação acompanha a consolidação das operações do grupo de transporte e logística em Portugal e Espanha.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/paulo-duarte-group/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica",
+        "ceo-direcao"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-el-corte-ingles-celebra-25-anos-em",
+      "titulo": "El Corte Inglés celebra 25 anos em Portugal com coleção especial de marcas nacionais",
+      "resumo": "O El Corte Inglés assinala 25 anos de presença em Portugal com o lançamento de uma coleção comemorativa desenvolvida em parceria com marcas nacionais e uma campanha publicitária protagonizada por 66 colaboradores. As iniciativas antecedem o aniversário da abertura dos primeiros grandes armazéns da insígnia no país, …",
+      "url": "https://grandeconsumo.com/el-corte-ingles-25-anos-portugal-marcas-portuguesas/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-lidl-dedica-nova-edicao-da-turma-imbativel",
+      "titulo": "Lidl dedica nova edição da Turma Imbatível aos lanches escolares",
+      "resumo": "O Lidl Portugal lançou a 15.ª edição da Turma Imbatível, programa educativo que, no ano letivo 2026/2027, se centra na promoção de lanches escolares mais equilibrados e sustentáveis. Sob o conceito “Lanche Planetário”, a iniciativa abre inscrições às escolas do 1.º ciclo de todo o país e inclui visitas a 50 estabele…",
+      "url": "https://grandeconsumo.com/lidl-turma-imbativel-lanches-escolares-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-mercadona-investe-mais-de-11-milhoes-de",
+      "titulo": "Mercadona investe mais de 11 milhões de euros em nova loja na Maia",
+      "resumo": "A Mercadona inaugurou esta quinta-feira, 5 de novembro, um novo supermercado em Pedrouços, no concelho da Maia, num investimento superior a 11 milhões de euros. A abertura permitiu criar 64 postos de trabalho com contratos sem termo e eleva para 28 o número de lojas da cadeia no distrito do Porto. O conteúdo Mercado…",
+      "url": "https://grandeconsumo.com/mercadona-nova-loja-pedroucos-maia-investimento/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-tenco-cafes-cresce-71-5-em-quatro",
+      "titulo": "Tenco Cafés cresce 71,5% em quatro anos e prevê faturar 3,04 milhões de euros em 2026",
+      "resumo": "A Tenco Cafés registou um crescimento acumulado de 71,5% na faturação entre 2021 e 2025, passando de 1,77 milhões para 3,04 milhões de euros. Para 2026, a empresa portuguesa prevê manter o volume de negócios no mesmo patamar, apostando no reforço da presença comercial nas regiões Norte e Centro do país e na expansão…",
+      "url": "https://grandeconsumo.com/tenco-cafes-faturacao-crescimento-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-reino-unido-impede-aldi-e-lidl-de",
+      "titulo": "Reino Unido impede Aldi e Lidl de bloquear abertura de supermercados concorrentes",
+      "resumo": "A autoridade britânica da concorrência decidiu sujeitar o Aldi e o Lidl às mesmas regras aplicáveis aos restantes grandes operadores alimentares relativamente à utilização de terrenos e imóveis comerciais. A medida impede as duas cadeias de introduzirem cláusulas contratuais proibidas que dificultem a abertura de su…",
+      "url": "https://grandeconsumo.com/reino-unido-impede-aldi-e-lidl-de-bloquear-abertura-de-supermercados-concorrentes/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-norte-americana-planet-fitness-compra-be-fit",
+      "titulo": "Norte-americana Planet Fitness compra Be-Fit por 102,5 M€ e entra em Portugal",
+      "resumo": "A norte-americana Planet Fitness concluiu a aquisição da cadeia portuguesa de ginásios Be-Fit por cerca de 102,5 milhões de euros, passando a operar uma rede de 25 clubes com aproximadamente 80.000 sócios em Portugal. De acordo com a informação divulgada hoje pela Planet Fitness junto do mercado norte-americano, o p…",
+      "url": "https://www.forbespt.com/norte-americana-planet-fitness-compra-be-fit-por-1025-me-e-entra-em-portugal/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-aqui-a-tua-remodelacao-abre-loja-em",
+      "titulo": "AQUI a tua Remodelação abre loja em Miraflores e reforça a aposta na democratização do acesso à arquitetura",
+      "resumo": "A AQUI A Tua Remodelação reforça a sua presença na região de Lisboa com a abertura de uma nova loja em Miraflores, consolidando o crescimento da marca no mercado nacional. Desde a inauguração do primeiro espaço, no Centro Colombo, em janeiro de 2025, a empresa tem alargado a sua presença no mercado nacional e conta …",
+      "url": "https://www.infofranchising.pt/aqui-a-tua-remodelacao-miraflores/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-presto-ya-es-oficialmente-una-marca-de",
+      "titulo": "Presto ya es oficialmente una marca de Nutresa: Reabrirán puntos cerrados y anuncia expansión",
+      "resumo": "Los nuevos establecimientos de Presto entrarán en funcionamiento durante los próximos meses.",
+      "url": "https://www.valoraanalitik.com/presto-ya-es-oficialmente-una-marca-de-nutresa-reabriran-puntos-cerrados-y-anuncia-expansion/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-11-05"
+    },
+    {
+      "id": "2026-11-05-multinacional-chilena-abre-nueva-tienda-en-medellin",
+      "titulo": "Multinacional chilena abre nueva tienda en Medellín tras superar US$100 millones en ventas",
+      "resumo": "La multinacional chilena abrió su segunda tienda en Medellín, completó 13 puntos en Colombia y anticipa nuevas inversiones para ampliar su operación.",
+      "url": "https://www.valoraanalitik.com/multinacional-chilena-abre-nueva-tienda-en-medellin-tras-superar-us100-millones-en-ventas/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-05"
+    },
     {
       "id": "2026-11-05-mercadona-abre-nova-loja-em-pedroucos-com",
       "titulo": "Mercadona abre nova loja em Pedrouços com investimento de 11 milhões",
@@ -5873,236 +6105,6 @@
         "resultados"
       ],
       "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-la-mafia-se-sienta-a-la-mesa",
-      "titulo": "La Mafia se sienta a la mesa em Portugal celebra 4 anos de abertura do primeiro restaurante em Lisboa",
-      "resumo": "Há 4 anos o La Mafia se sienta a la mesa em Portugal abria as portas do primeiro restaurante, em Lisboa, no Parque das Nações. Nessa altura, era um conceito novo a chegar a um mercado que já conhecia bem a sua comida italiana. O desafio não era convencer, era conquistar espaço com identidade própria. […] O conteúdo …",
-      "url": "https://www.infofranchising.pt/la-mafia-se-sienta-a-la-mesa-lisboa/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-historica-garagem-atlantico-devolvida-ao-porto-como",
-      "titulo": "Histórica Garagem Atlântico ‘devolvida’ ao Porto como espaço criativo após investimento de 10 milhões",
-      "resumo": "A histórica Garagem Atlântico, no Porto, vai renascer em 2028 como espaço criativo e cultural, num investimento superior a 10 milhões de euros, de investidores estrangeiros, que apostaram num equipamento que junta cultura, arte, design, empreendedorismo, lojas, comida e bebida. Com abertura em pleno prevista para 20…",
-      "url": "https://eco.sapo.pt/2026/09/10/historica-garagem-atlantico-devolvida-ao-porto-como-espaco-criativo-apos-investimento-de-10-milhoes/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-davidson-kempner-ecs-e-magna-juntam-se",
-      "titulo": "Davidson Kempner, ECS e Magna juntam-se para investir em logística na Península Ibérica",
-      "resumo": "A americana Davidson Kempner Capital Management juntou-se à gestora de investimentos portuguesa ECS Capital e à construtora Magna Industrial para criar uma joint venture dedicada ao investimento em ativos logísticos na Península Ibérica. O primeiro investimento é a aquisição e desenvolvimento do Benavente Prime Hub.…",
-      "url": "https://eco.sapo.pt/2026/09/10/david-kempner-ecs-e-magna-juntam-se-para-investir-em-logistica-na-peninsula-iberica/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-apple-cheia-de-novidades-novo-ceo-revela",
-      "titulo": "Apple cheia de novidades: novo CEO revela iPhone Duo, iPhone 18 e novas funcionalidades de AI para os Apple Watch. Saiba os preços e quando estão disponíveis em Portugal",
-      "resumo": "A Apple apresentou o iPhone Duo, o seu novo iPhone dobrável com dois ecrãs, um enorme ecrã interior e novas funcionalidades de câmara. É a maior atualização do seu principal produto em vários anos e marca também o primeiro grande lançamento da empresa com John Ternus à frente da empresa, como CEO, depois de ter […] …",
-      "url": "https://www.forbespt.com/apple-cheia-de-novidades-novo-ceo-revela-iphone-duo-iphone-18-e-novas-funcionalidades-de-ai-para-os-apple-watch-saiba-os-precos-e-quando-estao-disponiveis-em-portugal/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-douglas-abre-hoje-nova-loja-em-lisboa",
-      "titulo": "Douglas abre hoje nova loja em Lisboa e oferece vales de 25 euros aos primeiros 100 clientes",
-      "resumo": "A Douglas acaba de reforçar a sua presença em Lisboa com a abertura de uma nova loja. Para assinalar a chegada a um dos espaços comerciais mais emblemáticos da capital, a marca preparou um programa de experiências, ativações e ofertas exclusivas.",
-      "url": "https://marketeer.sapo.pt/douglas-abre-nova-loja-em-lisboa-e-oferece-vales-de-25-euros-aos-primeiros-100-clientes/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-action-abre-nova-loja-no-distrito-de",
-      "titulo": "Action abre nova loja no distrito de Lisboa esta quinta-feira",
-      "resumo": "Esta quinta-feira, 10 de setembro, abre mais uma loja da Action no distrito de Lisboa. A nova localização, em Vialonga, vem responder à crescente procura dos consumidores em relação aos produtos acessíveis e virais da retalhista. Com mais de 817 metros quadrados, esta é a 34.ª loja da marca em Portugal e a quinta no…",
-      "url": "https://www.nit.pt/compras/lojas-e-marcas/action",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-09-setor-fmcg-envolve-860-6-mil-trabalhadores",
-      "titulo": "Setor FMCG envolve 860,6 mil trabalhadores e procura novas competências",
-      "resumo": "O setor FMCG em Portugal envolve 860,6 mil trabalhadores, 218,8 mil empresas e um volume de negócios de 210,8 mil milhões de euros, e atravessa uma fase de transformação que está a aumentar a procura de talento especializado. As conclusões constam do estudo prospetivo “Setor FMCG em Portugal”, lançado pela Gi Group …",
-      "url": "https://www.distribuicaohoje.com/producao/setor-fmcg/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-delta-lidera-ranking-de-sustentabilidade-em-portugal",
-      "titulo": "Delta lidera ranking de sustentabilidade em Portugal",
-      "resumo": "A Delta volta a liderar o ranking das marcas com melhor índice de sustentabilidade em Portugal, com 86,7 pontos. Os resultados integram o estudo anual de Sustentabilidade de Marca (ESG) da OnStrategy. O conteúdo Delta lidera ranking de sustentabilidade em Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/delta-lidera-ranking-de-sustentabilidade-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-eletronica-e-tic-perdem-dinamismo-na-europa",
-      "titulo": "Eletrónica e TIC perdem dinamismo na Europa face ao foco em chips industriais",
-      "resumo": "O setor global da eletrónica e das tecnologias da informação e comunicação (TIC) deverá crescer 11% em 2026 e 7,3% em 2027, impulsionado pela expansão da inteligência artificial (IA), segundo um relatório da Crédito y Caución. O conteúdo Eletrónica e TIC perdem dinamismo na Europa face ao foco em chips industriais a…",
-      "url": "https://grandeconsumo.com/eletronica-e-tic-perdem-dinamismo-na-europa-face-ao-foco-em-chips-industriais/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-setor-fmcg-em-portugal-envolve-860-6",
-      "titulo": "Setor FMCG em Portugal envolve 860,6 mil trabalhadores",
-      "resumo": "O setor dos bens de grande consumo (FMCG) representa, em Portugal, um ecossistema económico e de emprego que envolve 860,6 mil trabalhadores, 218,8 mil empresas e 210,8 mil milhões de euros de volume de negócios. O conteúdo Setor FMCG em Portugal envolve 860,6 mil trabalhadores aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/setor-fmcg-em-portugal-envolve-8606-mil-trabalhadores/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-saiba-tudo-o-que-vai-encontrar-na",
-      "titulo": "Saiba tudo o que vai encontrar na ExpoFranchise 2026",
-      "resumo": "Marcas nacionais e internacionais, especialistas, investidores, conferências, networking e tendências de mercado fazem parte da ExpoFranchise 2026. Para quem pensa investir num negócio próprio, o evento permite concentrar num único espaço várias etapas importantes da decisão. Quem visita uma feira de franchising pod…",
-      "url": "https://www.infofranchising.pt/expofranchise-2026-marcas/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising",
-        "investidores"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-lojas-moveis-podem-aumentar-lucros-do-retalho",
-      "titulo": "Lojas móveis podem aumentar lucros do retalho, diz estudo",
-      "resumo": "Lojas móveis que se reposicionam de forma contínua em função da procura podem aumentar os lucros do retalho em 2,56% face a estratégias de localização convencionais, conclui um estudo publicado na Manufacturing & Service Operations Management , com base em dados do setor do retalho de Toronto, no Canadá.",
-      "url": "https://www.distribuicaohoje.com/retalho/lojas-moveis/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-jeronimo-martins-reforca-autoconsumo-solar-com-greenyellow",
-      "titulo": "Jerónimo Martins reforça autoconsumo solar com GreenYellow",
-      "resumo": "A GreenYellow concluiu a implementação de 18 centrais solares fotovoltaicas em regime de autoconsumo para o Grupo Jerónimo Martins, num modelo de contrato de aquisição de energia (PPA) on-site com a duração de 15 anos. O conteúdo Jerónimo Martins reforça autoconsumo solar com GreenYellow aparece primeiro em Grande C…",
-      "url": "https://grandeconsumo.com/jeronimo-martins-reforca-autoconsumo-solar-com-greenyellow/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-3-em-4-portugueses-consomem-bebidas-alcoolicas",
-      "titulo": "3 em 4 portugueses consomem bebidas alcoólicas",
-      "resumo": "De acordo com os resultados da vaga de 2025 do estudo TGI da Marktest, 3 em cada 4 portugueses consomem bebidas alcoólicas. O conteúdo 3 em 4 portugueses consomem bebidas alcoólicas aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/3-em-4-portugueses-consomem-bebidas-alcoolicas/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-empresas-espaciais-europeias-captam-mais-de-20",
-      "titulo": "Empresas espaciais europeias captam mais de 20% do investimento de capital de risco",
-      "resumo": "Para o espaço e mais além parece ser o comportamento dos investidores de capital de risco, com menos negócios, mas cheques mais chorudos a serem passados. Até junho, globalmente, as empresas do setor já captaram 11,3 mil milhões de dólares de investimento, num total de 244 operações, valor que supera os 10,1 mil mil…",
-      "url": "https://eco.sapo.pt/especiais/empresas-espaciais-europeias-captam-mais-de-20-do-investimento-de-capital-de-risco/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "private-equity",
-        "investidores"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-schroders-etf-ganham-maior-relevo-nas-carteiras",
-      "titulo": "Schroders: ETF ganham maior relevo nas carteiras de investimento",
-      "resumo": "O inquérito anual aos investidores da Schroders revelou que 94% dos inquiridos dizem que os ETF ativos têm um papel nas suas carteiras de investimento. Cerca de 70% dos inquiridos disse que um custo mais baixo, face a fundos de investimento, foi o motivo para a escolha.",
-      "url": "https://jornaleconomico.sapo.pt/noticias/schroders-etf-ganham-maior-relevo-nas-carteiras-de-investimento/",
-      "fonte": "Jornal Económico",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-falta-de-oferta-leva-a-subida-de",
-      "titulo": "Falta de oferta leva a subida de 2% na ocupação industrial e logística no primeiro semestre",
-      "resumo": "Alexandra Gomes, Head of Research da Savills Portugal, refere que \"com mais de metade do pipeline da Grande Lisboa já comprometido antes da conclusão, antecipamos uma pressão crescente sobre as rendas prime.",
-      "url": "https://jornaleconomico.sapo.pt/noticias/falta-de-oferta-leva-a-subida-de-2-na-ocupacao-industrial-e-logistica-no-primeiro-semestre/",
-      "fonte": "Jornal Económico",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-esta-tudo-pronto-primark-abre-nova-loja",
-      "titulo": "Está tudo pronto: Primark abre nova loja amanhã (e recebe coleção outono/inverno)",
-      "resumo": "A marca irlandesa instala-se no Alegro Setúbal com uma loja de mais de 1.600 metros quadrados e mais de 50 novos empregos.",
-      "url": "https://marketeer.sapo.pt/esta-tudo-pronto-primark-abre-nova-loja-amanha-e-recebe-nova-colecao/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-09"
-    },
-    {
-      "id": "2026-09-09-the-big-gen-z-market-taking-over",
-      "titulo": "The big Gen Z market taking over how India spends, saves and strategises",
-      "resumo": "India's youngest generation now leads consumption spending with unique preferences. Gen Z's influence is reshaping brand strategies and investment patterns significantly. This demographic is embracing early credit access and design-led purchases. Their spending power is projected to grow substantially in the coming …",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/the-big-gen-z-market-taking-over-how-india-spends-saves-and-strategises/133949804",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-09"
     }
   ]
 }
