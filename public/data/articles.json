@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-11-06T13:54:01.077Z",
+  "updatedAt": "2026-11-07T12:38:17.903Z",
   "articles": [
+    {
+      "id": "2026-11-07-cencosud-aumento-9-2-sus-ingresos-en",
+      "titulo": "Cencosud aumentó 9,2 % sus ingresos en el tercer trimestre; Plaza Central aportó al desempeño en Colombia",
+      "resumo": "Su filial Cenco Malls elevó 14,8 % sus ingresos. En Colombia, Plaza Central completó su primer trimestre de consolidación.",
+      "url": "https://www.valoraanalitik.com/cencosud-aumento-92-sus-ingresos-en-el-tercer-trimestre-plaza-central-aporto-al-desempeno-en-colombia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-07"
+    },
+    {
+      "id": "2026-11-06-mondelez-cresce-2-3-e-regista-melhor",
+      "titulo": "Mondelēz cresce 2,3% e regista melhor desempenho do volume/mix desde 2023",
+      "resumo": "A Mondelēz International registou um crescimento de 2,3% nas receitas do terceiro trimestre de 2026, sustentado sobretudo pela evolução positiva do volume/mix, que contribuiu com 1,8 pontos percentuais para o crescimento orgânico. A multinacional destacou a recuperação da procura em várias regiões. O conteúdo Mondel…",
+      "url": "https://grandeconsumo.com/mondelez-resultados-terceiro-trimestre-2026-volume-mix/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-continente-vai-abrir-14-lojas-e-criar",
+      "titulo": "Continente vai abrir 14 lojas e criar mais de 500 postos de trabalho",
+      "resumo": "O Continente anuncia a abertura de 14 novas lojas nos próximos três meses, no âmbito da estratégia de expansão da insígnia e de reforço da proximidade às comunidades. O conteúdo Continente vai abrir 14 lojas e criar mais de 500 postos de trabalho aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/continente-vai-abrir-14-lojas-e-criar-mais-de-500-postos-de-trabalho/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-ikea-abre-nova-loja-na-margem-sul",
+      "titulo": "IKEA abre nova loja na Margem Sul esta primavera",
+      "resumo": "A IKEA prepara-se para inaugurar um novo espaço na Margem Sul, esta primavera, localizado na Estrada Nacional 10, em Coina. A loja vai adotar o formato estreado na última abertura, mais compacto e cada vez mais próximo. O conteúdo IKEA abre nova loja na Margem Sul esta primavera aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/ikea-abre-nova-loja-na-margem-sul-esta-primavera/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-governo-intransigente-na-lei-das-rendas-mas",
+      "titulo": "Governo “intransigente” na lei das rendas, mas abre a porta a mexidas na fiscalidade",
+      "resumo": "Com o Presidente da República a apelar ao diálogo entre o Governo e os partidos da oposição, o primeiro-ministro respondeu ao repto com reuniões individuais. A crítica geral dos partidos que têm sido recebidos pelo Executivo tem sido de “intransigência” na lei do arrendamento, que se deverá manter, embora o Chega co…",
+      "url": "https://eco.sapo.pt/2026/11/06/governo-intransigente-na-lei-das-rendas-mas-abre-a-porta-a-mexidas-na-fiscalidade/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-06"
+    },
+    {
+      "id": "2026-11-06-impuesto-a-productos-de-tiendas-afectaria-mayormente",
+      "titulo": "Impuesto a productos de tiendas afectaría mayormente a hogares de menores ingresos",
+      "resumo": "Fenalco señaló que 82% de los ingresos de estos establecimientos proviene de los estratos más bajos y advirtió que la medida podría poner en riesgo 1,8 millones de empleos formales",
+      "url": "https://www.larepublica.co/empresas/impuesto-a-las-tiendas-afectaria-con-mas-fuerza-a-los-hogares-de-menores-ingresos-4519496",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-06"
+    },
     {
       "id": "2026-11-06-ikea-vai-abrir-nova-loja-na-margem",
       "titulo": "IKEA vai abrir nova loja na Margem Sul na primavera de 2027",
@@ -6033,78 +6106,6 @@
         "escritorios"
       ],
       "data": "2026-09-11"
-    },
-    {
-      "id": "2026-09-11-em-duas-semanas-duas-estreias-mercadona-abre",
-      "titulo": "Em duas semanas, duas estreias: Mercadona abre mais um loja no norte do País",
-      "resumo": "A expansão da Mercadona em Portugal continua a todo o gás. Em 2026, a retalhista já abriu sete lojas — e não vai ficar por aqui. A inauguração mais recente aconteceu esta quinta-feira, 10 de setembro, em Vila Real. O novo supermercado, localizado na Rua das Camélias, marca a estreia da cadeia espanhola no distrito. …",
-      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/em-duas-semanas-duas-estreias-mercadona-abre-mais-um-loja-no-norte-do-pais",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-11"
-    },
-    {
-      "id": "2026-09-10-fnac-testa-venda-de-livros-e-outros",
-      "titulo": "FNAC testa venda de livros e outros produtos em vending machine",
-      "resumo": "A FNAC Portugal lançou a FNAC Express , um novo conceito de venda automática desenvolvido em parceria com a My Break Vending by Delta Cafés , que permite comprar produtos como livros, acessórios tecnológicos ou jogos de forma rápida e conveniente.",
-      "url": "https://www.distribuicaohoje.com/retalho/fnac-vending-machine/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "compra-venda-ativo"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-primark-abre-15-loja-em-portugal-no",
-      "titulo": "Primark abre 15.ª loja em Portugal no Alegro Setúbal",
-      "resumo": "A Primark abriu a 10 de setembro a sua 15.ª loja em Portugal, no Alegro Setúbal, a primeira da marca na cidade e a terceira no distrito, depois de Almada e Montijo.",
-      "url": "https://www.distribuicaohoje.com/retalho/primark/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-mercadona-abre-primeira-loja-no-distrito-de",
-      "titulo": "Mercadona abre primeira loja no distrito de Vila Real",
-      "resumo": "A Mercadona abriu hoje a sua primeira loja no distrito de Vila Real, chegando a mais um distrito nacional e alcançando as 76 lojas em Portugal. O conteúdo Mercadona abre primeira loja no distrito de Vila Real aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/mercadona-abre-primeira-loja-no-distrito-de-vila-real/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-carolina-afonso-integra-comissao-executiva-da-portugal",
-      "titulo": "Carolina Afonso integra comissão executiva da Portugal Sotheby’s",
-      "resumo": "Depois de um percurso de mais de 18 anos que incluiu a liderança da marca de mobiliário Gato Preto, Carolina Afonso entra agora no setor do imobiliário de luxo. A gestora foi nomeada pela Portugal Sotheby’s International Realty para o cargo de diretora de marketing e tecnologia, passando também a integrar a comissão…",
-      "url": "https://www.forbespt.com/carolina-afonso-integra-comissao-executiva-da-portugal-sothebys/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10-gs1-portugal-apresenta-resultados-da-14-edicao",
-      "titulo": "GS1 Portugal apresenta resultados da 14.ª edição do Benchmarking Supply Chain",
-      "resumo": "A GS1 Portugal promove, no dia 17 de setembro, a sessão de apresentação dos resultados e premiados da14.ª sessão do Benchmarking Supply Chain, o estudo anual de referência que avalia o nível de eficiência, a capacidade de resposta e a colaboração ao longo de toda a cadeia de valor do setor de grande consumo em […] O…",
-      "url": "https://www.briefing.pt/cetera/gs1-portugal-apresenta-resultados-da-14-a-edicao-do-benchmarking-supply-chain/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-10"
     }
   ]
 }
