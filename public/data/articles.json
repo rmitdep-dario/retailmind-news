@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-07T12:38:17.903Z",
+  "updatedAt": "2026-11-08T12:55:35.901Z",
   "articles": [
+    {
+      "id": "2026-11-08-esta-familia-abriu-duas-lojas-vintage-em",
+      "titulo": "Esta família abriu duas lojas vintage em Lisboa. Uma delas tem bar e recebe concertos",
+      "resumo": "Existem duas lojas vintage em Lisboa que partilham muito mais do que o gosto pela roupa em segunda mão. Chamam-se Clube Royale e Pop Royale, ficam a cerca de dois minutos uma da outra e pertencem à mesma família. A primeira junta moda, música, um pequeno bar e um ateliê de restauro. A segunda aposta […] The post Est…",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/esta-familia-abriu-duas-lojas-vintage-em-lisboa-uma-delas-tem-um-palco-e-recebe-concertos",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-08"
+    },
+    {
+      "id": "2026-11-07-shopping-da-sonae-com-31-anos-abre",
+      "titulo": "Shopping da Sonae com 31 anos abre expans�o de 16 milh�es com Primark",
+      "resumo": "Sem cerim�nia de inaugura��o, o GaiaShopping vai abrir a sua nova zona comercial no pr�ximo dia 19, onde a gigante irlandesa de moda acess�vel ter� como companhia a Druni, que � detida em 50% pela Sonae, e as espanholas Mango e Stradivarius, entre outras.",
+      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/shopping-da-sonae-com-31-anos-abre-expansao-de-16-milhoes-com-primark",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-07"
+    },
+    {
+      "id": "2026-11-07-marcolino-faz-100-anos-com-200-mil",
+      "titulo": "Marcolino faz 100 anos com 200 mil luzes e um investimento de 16 milh�es",
+      "resumo": "A fachada do imponente edif�cio da relojoaria de luxo, no Porto, vai este Natal brilhar com 20 quil�metros de fios luminosos, enquanto a fam�lia Neves se prepara para converter o edif�cio g�meo do ic�nico Caf� Majestic, em frente � sede, numa nova loja e apartamentos de luxo.",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/marcolino-faz-100-anos-com-200-mil-luzes-e-um-investimento-de-16-milhoes",
+      "fonte": "Jornal de Negócios",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-07"
+    },
     {
       "id": "2026-11-07-cencosud-aumento-9-2-sus-ingresos-en",
       "titulo": "Cencosud aumentó 9,2 % sus ingresos en el tercer trimestre; Plaza Central aportó al desempeño en Colombia",
@@ -6067,43 +6103,6 @@
       "pais": "Portugal",
       "temas": [
         "nova-loja"
-      ],
-      "data": "2026-09-11"
-    },
-    {
-      "id": "2026-09-11-bel-portugal-define-nova-ambicao-para-os",
-      "titulo": "Bel Portugal define nova ambição para os Snacks Saudáveis",
-      "resumo": "A Bel Portugal quer fazer crescer o peso dos Snacks Saudáveis de 6,4% para 10% até 2030 e atingir 100% de “Receitas Positivas” no seu portefólio. A ambição integra a nova visão da Bel para os Snacks Saudáveis. O conteúdo Bel Portugal define nova ambição para os Snacks Saudáveis aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/bel-portugal-define-nova-ambicao-para-os-snacks-saudaveis/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-11"
-    },
-    {
-      "id": "2026-09-11-a-quinta-do-vallado-anuncia-a-um",
-      "titulo": "A Quinta do Vallado anuncia a um novo CEO",
-      "resumo": "Joe Álvares Ribeiro conta com 20 anos de eperiência no setor vínico como diretor da Symington Family Estates. Neste cargo, desenvolveu competências em vendas, distribuição, enoturismo, gestão de pessoas e na concretização de projetos. Tem ainda nove anos de experiência em Private Equity a ajudar empresas a encontrar…",
-      "url": "https://www.briefing.pt/noticias/a-quinta-do-vallado-anuncia-a-um-novo-ceo/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-09-11"
-    },
-    {
-      "id": "2026-09-11-matosinhos-entra-no-radar-da-papaya-management",
-      "titulo": "Matosinhos entra no radar da Papaya Management: agência abre escritório e procura novos talentos",
-      "resumo": "A agência de moda, publicidade e representação artística assinala três anos em Portugal com a abertura de um segundo escritório. Matosinhos é a nova morada e marca o início de uma nova fase de expansão.",
-      "url": "https://marketeer.sapo.pt/matosinhos-entra-no-radar-da-papaya-management-agencia-abre-escritorio-e-procura-novos-talentos/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "escritorios"
       ],
       "data": "2026-09-11"
     }
