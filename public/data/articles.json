@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-11-10T14:30:08.486Z",
+  "updatedAt": "2026-11-11T13:44:52.533Z",
   "articles": [
+    {
+      "id": "2026-11-11-volta-no-lidl-a-gestao-das-devolucoes",
+      "titulo": "Volta no Lidl: A gestão das devoluções e o papel do reembolso na experiência de compra",
+      "resumo": "A implementação do sistema Volta nas lojas Lidl está a decorrer em linha com as previsões da retalhista, que apostou em equipamentos capazes de processar até 60 embalagens por minuto. A experiência acumulada noutros mercados europeus ajudou a preparar a operação em Portugal, mas os primeiros meses têm exigido ajusta…",
+      "url": "https://www.distribuicaohoje.com/retalho/volta-lidl-experiencia/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-ia-na-cadeia-de-abastecimento-automatizar-processos",
+      "titulo": "IA na cadeia de abastecimento: Automatizar processos já não chega, o desafio é melhorar decisões",
+      "resumo": "A inteligência artificial (IA) começa a ganhar espaço na gestão da cadeia de abastecimento , mas a sua integração nas operações está ainda numa fase inicial. Entre a previsão da procura, a preparação de encomendas, o planeamento logístico e a gestão de exceções, as empresas procuram aumentar a eficiência e melhorar …",
+      "url": "https://www.distribuicaohoje.com/supply-chain/ia-cadeia-de-abastecimento/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-jungheinrich-profishop-reforca-oferta-com-campanha-black",
+      "titulo": "Jungheinrich Profishop reforça oferta com campanha Black Weeks",
+      "resumo": "A Jungheinrich Profishop, plataforma online especializada em equipamentos e soluções para logística, armazenagem e movimentação de carga, promove, até 29 de novembro, a campanha Black Weeks. O conteúdo Jungheinrich Profishop reforça oferta com campanha Black Weeks aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/jungheinrich-profishop-reforca-oferta-com-campanha-black-weeks/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-preco-medio-da-venda-de-casas-na",
+      "titulo": "Preço médio da venda de casas na Grande Lisboa subiu 17,7% para 4.285 euros/m2 até setembro",
+      "resumo": "Este aumento é refletido na dimensão das casas que é possível comprar e varia também entre os vários concelhos da região. Se no ano passado 250 mil euros permitiam adquirir uma habitação com 75 metros quadrados na Grande Lisboa, em 2026 o mesmo valor permite comprar apenas 67 metros quadrados.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/preco-medio-da-venda-de-casas-na-grande-lisboa-subiu-177-para-4-285-euros-m2-ate-setembro/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-aqui-a-tua-remodelacao-ultrapassa-os-60",
+      "titulo": "AQUI a Tua Remodelação ultrapassa os 60 franchisados em Portugal",
+      "resumo": "Operação portuguesa destaca-se no AQUI Renovation Group, que chega agora à Argentina e ao Uruguai e passa a estar presente em 11 países.",
+      "url": "https://executivedigest.sapo.pt/aqui-a-tua-remodelacao-ultrapassa-os-60-franchisados-em-portugal/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-10-parex-alcanzo-utilidades-netas-por-us-75",
+      "titulo": "Parex alcanzó utilidades netas por US$75 millones durante el tercer trimestre de 2026",
+      "resumo": "La empresa canadiense reportó un crecimiento de su producción en un trimestre en que contó completamente con los resultados de los activos adquiridos de Frontera",
+      "url": "https://www.larepublica.co/empresas/parex-alcanzo-utilidades-netas-por-us-75-millones-durante-el-tercer-trimestre-de-2026-4521326",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-10"
+    },
+    {
+      "id": "2026-11-10-ingresos-de-pei-crecieron-4-3-a",
+      "titulo": "Ingresos de Pei crecieron 4,3 % a septiembre y llegaron a $631.000 millones; alcanzó récord de inversionistas",
+      "resumo": "Durante el tercer trimestre de 2026, Pei avanzó en el proceso de adquisición del portafolio inmobiliario de Terranum.",
+      "url": "https://www.valoraanalitik.com/ingresos-pei-septiembre-record-2026/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores",
+        "resultados"
+      ],
+      "data": "2026-11-10"
+    },
     {
       "id": "2026-11-10-people-retail-conheca-sofia-magalhaes-a-nova",
       "titulo": "People@Retail | Conheça Sofia Magalhães, a nova Head of Sales da makro Portugal",
@@ -6014,93 +6099,6 @@
         "investidores"
       ],
       "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-15-marca-da-distribuicao-podera-atingir-44-das",
-      "titulo": "Marca da distribuição poderá atingir 44% das vendas na Europa Ocidental até 2030",
-      "resumo": "A marca da distribuição deverá aumentar a sua quota média na Europa Ocidental de 41% para cerca de 44% até 2030, segundo o Rabobank. O crescimento será sustentado pela maior confiança dos consumidores, expansão do discount, consolidação do retalho e profissionalização dos fabricantes de marca própria. O conteúdo Mar…",
-      "url": "https://grandeconsumo.com/marca-da-distribuicao-podera-atingir-44-das-vendas-na-europa-ocidental-ate-2030/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-15-srs-legal-assessora-addlife-na-aquisicao-da",
-      "titulo": "SRS Legal assessora Addlife na aquisição da Unicam Sistemas Analíticos",
-      "resumo": "A SRS Legal assessorou a AddLife na aquisição de 100% do capital social da Unicam Sistemas Analíticos, empresa portuguesa especializada na distribuição de equipamento laboratorial analítico avançado. A equipa da SRS Legal envolvida na operação foi liderada por Alexandra Valente, sócia responsável pelo Departamento d…",
-      "url": "https://www.infofranchising.pt/srs-legal-adlife/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-15-dhl-supply-chain-anuncio-la-adquisicion-del",
-      "titulo": "DHL Supply Chain anunció la adquisición del operador logístico Open Market",
-      "resumo": "La integración de Open Market añadirá a la red de DHL 21 almacenes con una superficie total de 120.000 metros cuadrados",
-      "url": "https://www.larepublica.co/empresas/dhl-supply-chain-anuncio-la-adquisicion-del-operador-logistico-open-market-4482509",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-15-mercadona-chega-ao-algarve-com-abertura-em",
-      "titulo": "Mercadona chega ao Algarve com abertura em Portimão",
-      "resumo": "A Mercadona vai abrir o novo supermercado de Portimão no dia 15 de outubro, integrado no Nova Vila Retail Park, numa abertura que marca a chegada da insígnia ao Algarve.",
-      "url": "https://www.distribuicaohoje.com/retalho/mercadona-2/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "retail-parks"
-      ],
-      "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-15-telepizza-estreia-conceito-grab-go-em-portugal",
-      "titulo": "Telepizza estreia conceito Grab&Go em Portugal",
-      "resumo": "A Telepizza estreia em Portugal o conceito Grab&Go com a abertura, a 16 de setembro, de uma nova loja na Avenida de Roma, em Lisboa. O conteúdo Telepizza estreia conceito Grab&Go em Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/telepizza-estreia-conceito-grabgo-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-15-telepizza-muda-o-jogo-e-estreia-pizza",
-      "titulo": "Telepizza muda o jogo e estreia pizza à fatia num novo formato",
-      "resumo": "A Telepizza prepara-se para testar um novo formato de loja em Portugal. A marca abre, a 16 de setembro, uma unidade na Avenida de Roma, em Lisboa, que será a primeira a implementar o conceito Telepizza Grab&Go, pensado para responder a consumidores que procuram soluções rápidas, práticas e acessíveis.",
-      "url": "https://marketeer.sapo.pt/telepizza-muda-o-jogo-e-estreia-pizza-a-fatia-num-novo-formato/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-15"
-    },
-    {
-      "id": "2026-09-14-colgate-palmolive-avalia-venda-de-marcas-de",
-      "titulo": "Colgate-Palmolive avalia venda de marcas de cuidado pessoal",
-      "resumo": "A Colgate-Palmolive está a estudar a venda de algumas marcas do seu portefólio de cuidado pessoal , incluindo Softsoap, Irish Spring e Speed Stick , segundo fontes conhecedoras do processo citadas pela Reuters . A multinacional norte-americana estará a trabalhar com o banco de investimento Goldman Sachs para avaliar…",
-      "url": "https://www.distribuicaohoje.com/producao/colgate-palmolive-venda/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "compra-venda-ativo",
-        "investidores"
-      ],
-      "data": "2026-09-14"
     }
   ]
 }
