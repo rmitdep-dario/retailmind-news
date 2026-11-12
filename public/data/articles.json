@@ -1,6 +1,180 @@
 {
-  "updatedAt": "2026-11-11T13:44:52.533Z",
+  "updatedAt": "2026-11-12T14:47:56.585Z",
   "articles": [
+    {
+      "id": "2026-11-12-retalho-em-expansao-continente-e-burger-king",
+      "titulo": "Retalho em expansão: Continente e Burger King ‘fazem bis’ nas aberturas em Portugal",
+      "resumo": "O retalho continua a expandir-se em território nacional, com novas aberturas em diferentes regiões e segmentos de atividade. O Continente inaugurou duas lojas, na Lourinhã e em Quarteira, enquanto o Burger King acrescentou dois restaurantes à sua rede, na Ribeira Grande, nos Açores, e em Alcácer do Sal. Também a Cap…",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-61/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-xavier-calvo-e-o-novo-diretor-geral",
+      "titulo": "Xavier Calvo é o novo diretor-geral da NACEX",
+      "resumo": "Xavier Calvo é o novo diretor-geral da NACEX , empresa de transporte expresso do Grupo Logista. A nomeação surge na sequência da reforma de Manel Orihuela, que encerrou a carreira na empresa a 30 de outubro.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/xavier-calvo/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "ceo-direcao"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-primark-recua-2-6-em-vendas-comparaveis",
+      "titulo": "Primark recua 2,6% em vendas comparáveis e pressiona resultados do grupo",
+      "resumo": "A Primark registou uma diminuição de 2,6% das vendas comparáveis no exercício fiscal terminado em agosto, apesar de a faturação total ter aumentado 2%, beneficiando da expansão da rede. A evolução contribuiu para uma redução de 10% do resultado operacional da cadeia e reforçou a prudência da Associated British Foods…",
+      "url": "https://grandeconsumo.com/primark-vendas-comparaveis-resultados-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-delta-coffee-house-transforma-bebidas-em-solidariedade",
+      "titulo": "Delta Coffee House transforma bebidas em solidariedade",
+      "resumo": "Este Natal, a Delta Coffee House Experience convida os consumidores a transformar desejos em ações que fazem a diferença. Neste âmbito, 15% das receitas obtidas com a venda das bebidas sazonais Eggnog e Eggnot revertem para a Casa dos Rapazes. O conteúdo Delta Coffee House transforma bebidas em solidariedade aparece…",
+      "url": "https://grandeconsumo.com/delta-coffee-house-transforma-bebidas-em-solidariedade/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-carrefour-quer-estar-presente-em-60-paises",
+      "titulo": "Carrefour quer estar presente em 60 países até 2030 através de franchising",
+      "resumo": "O Carrefour pretende expandir a presença internacional para 60 países até 2030, recorrendo sobretudo a parcerias com operadores locais e contratos de franchising. A cadeia está atualmente presente em 36 países através de parceiros internacionais, além dos mercados onde opera diretamente, e identifica novas oportunid…",
+      "url": "https://grandeconsumo.com/carrefour-expansao-60-paises-2030/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-portugal-e-eua-reunem-se-em-lisboa",
+      "titulo": "Portugal e EUA reúnem-se em Lisboa no primeiro CEO Fórum para impulsionar comércio e investimento",
+      "resumo": "A reunião foi copresidida pelo ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, e pelo embaixador dos Estados Unidos em Portugal, John J. Arrigo, e juntou líderes empresariais e altos responsáveis governamentais dos dois países.",
+      "url": "https://jornaleconomico.sapo.pt/noticias/portugal-e-eua-reunem-se-em-lisboa-no-primeiro-ceo-forum-para-impulsionar-comercio-e-investimento/",
+      "fonte": "Jornal Económico",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-engel-volkers-anuncia-plano-estrategico-de-expansao",
+      "titulo": "Engel & Völkers anuncia plano estratégico de expansão da rede de franchising em Portugal",
+      "resumo": "A Engel & Völkers, líder global no segmento imobiliário residencial de gama alta há 49 anos, anunciou o seu plano estratégico de expansão da rede de franchising em Portugal. Com uma presença corporativa e operacional consolidada em todo o país, a empresa está agora a disponibilizar novas oportunidades de franchising…",
+      "url": "https://www.briefing.pt/cetera/engel-volkers-anuncia-plano-estrategico-de-expansao-da-rede-de-franchising-em-portugal/",
+      "fonte": "Briefing",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "franchising"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-mercadona-esta-a-mudar-os-supermercados-nova",
+      "titulo": "Mercadona está a mudar os supermercados: nova loja já abriu e promete surpreender os clientes",
+      "resumo": "A Mercadona abriu esta quinta-feira a sua primeira loja em Faro, na Rua Tito Olívio, num investimento superior a 15 milhões de euros. O novo supermercado é o segundo da cadeia espanhola no Algarve e cria 100 postos de trabalho com contratos sem termo.",
+      "url": "https://marketeer.sapo.pt/mercadona-esta-a-mudar-os-supermercados-nova-loja-ja-abriu-e-promete-surpreender-os-clientes/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-aqui-a-tua-remodelacao-ultrapassa-60-franchisados",
+      "titulo": "AQUI a Tua Remodelação ultrapassa 60 franchisados em Portugal e torna-se referência internacional do grupo",
+      "resumo": "A AQUI a Tua Remodelação ultrapassou os 60 franchisados em Portugal, em pouco mais de ano e meio de atividade, tornando-se uma das operações de referência do AQUI Renovation Group a nível internacional. O crescimento da rede portuguesa, que combina lojas físicas e unidades digitais, tem sido acompanhado por resultad…",
+      "url": "https://www.infofranchising.pt/aqui-a-tua-remodelacao-referencia-internacional-do-grupo/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising",
+        "resultados"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-12-latam-cargo-triplica-su-capacidad-operativa-de",
+      "titulo": "Latam Cargo triplica su capacidad operativa de bodega en Bogotá con en El Dorado",
+      "resumo": "La iniciativa tiene como hito central la adjudicación de un nuevo espacio donde se construirá una bodega de 4.312 mt² dentro de la terminal aérea",
+      "url": "https://www.larepublica.co/empresas/capacidad-de-latam-cargo-en-el-dorado-4523096",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-12"
+    },
+    {
+      "id": "2026-11-11-coca-cola-europacific-partners-cresce-5-1",
+      "titulo": "Coca-Cola Europacific Partners cresce 5,1% até setembro e confirma previsões para 2026",
+      "resumo": "A Coca-Cola Europacific Partners aumentou as receitas reportadas em 5,1% nos primeiros nove meses de 2026, para 16.488 milhões de euros, mantendo as previsões anuais. Na Península Ibérica, que inclui Portugal, Espanha e Andorra, o crescimento atingiu 5,6%, com receitas de 2.766 milhões de euros. O conteúdo Coca-Cola…",
+      "url": "https://grandeconsumo.com/coca-cola-europacific-partners-resultados-2026/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-jd-com-prepara-entrada-em-espanha-com",
+      "titulo": "JD.com prepara entrada em Espanha com aposta em entregas rápidas",
+      "resumo": "A plataforma chinesa JD.com está a preparar a expansão da atividade comercial em Espanha, com uma estratégia que pretende combinar comércio eletrónico, logística e prazos de entrega reduzidos. O desenvolvimento surge numa altura em que a empresa avança também com a aquisição da Ceconomy, proprietária da MediaMarkt, …",
+      "url": "https://grandeconsumo.com/jdcom-entrada-espanha-entregas-rapidas-automatico-4/",
+      "fonte": "Grande Consumo",
+      "pais": "Espanha",
+      "temas": [
+        "marca-expansao",
+        "logistica",
+        "aquisicoes"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-cavaleiro-machado-a-forca-do-franchising-brasileiro",
+      "titulo": "Cavaleiro Machado: a força do franchising brasileiro está na união dos seus empresários",
+      "resumo": "Foi uma honra e um privilégio ter sido convidado pela Associação Brasileira de Franchising (ABF), juntamente com o Dr. Ernesto Carvalho e a CEO da Associação Portuguesa de Franchising (APF), Dra. Cristina Matos, para participar na ABF CON 2026, realizada de 28 de outubro a 1 de novembro, na magnífica Ilha de Comanda…",
+      "url": "https://www.infofranchising.pt/cavaleiro-machado-abf-con-2026/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-11-11"
+    },
+    {
+      "id": "2026-11-11-grupo-exito-nutresa-y-claro-lideran-el",
+      "titulo": "Grupo Éxito, Nutresa y Claro lideran el ranking de facturación a septiembre",
+      "resumo": "Los resultados financieros muestran diferencias en el desempeño de las compañías de sectores como comercio, alimentos, telecomunicaciones y energía",
+      "url": "https://www.larepublica.co/empresas/las-empresas-que-lideran-el-ranking-de-resultados-empresariales-2026-4522313",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-11"
+    },
     {
       "id": "2026-11-11-volta-no-lidl-a-gestao-das-devolucoes",
       "titulo": "Volta no Lidl: A gestão das devoluções e o papel do reembolso na experiência de compra",
@@ -5925,180 +6099,6 @@
         "logistica"
       ],
       "data": "2026-09-17"
-    },
-    {
-      "id": "2026-09-16-tendam-aumenta-vendas-10-7-para-recorde",
-      "titulo": "Tendam aumenta vendas 10,7% para recorde de 744,9 milhões de euros no primeiro semestre",
-      "resumo": "A Tendam, dona da Cortefiel, Pedro del Hierro, Women’secret e Springfield, alcançou vendas recorde de 744,9 milhões de euros no primeiro semestre fiscal de 2026, mais 10,7% em termos anuais. O lucro líquido subiu 27,9%, para 59,3 milhões, enquanto as vendas digitais cresceram 20,7%. O conteúdo Tendam aumenta vendas …",
-      "url": "https://grandeconsumo.com/tendam-aumenta-vendas-107-para-recorde-de-7449-milhoes-de-euros-no-primeiro-semestre/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-colgate-palmolive-estuda-venda-de-marcas-de",
-      "titulo": "Colgate-Palmolive estuda venda de marcas de cuidado pessoal por mais de 1.000 milhões de dólares",
-      "resumo": "A Colgate-Palmolive está a avaliar a venda das marcas Softsoap, Irish Spring e Speed Stick, entre outras, numa operação que poderá ultrapassar 1.000 milhões de dólares. Com assessoria do Goldman Sachs, a empresa pretende alienar apenas algumas marcas de cuidado pessoal, que representam 17% das vendas. O conteúdo Col…",
-      "url": "https://grandeconsumo.com/colgate-palmolive-estuda-venda-de-marcas-de-cuidado-pessoal-por-mais-de-1-000-milhoes-de-dolares/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "compra-venda-ativo"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-delhi-traders-plan-cash-payments-push-to",
-      "titulo": "Delhi traders plan cash payments push to avoid fee on UPI payments",
-      "resumo": "Traders will now encourage cash payments to avoid new UPI transaction fees. A 0.4 percent charge applies to UPI transactions exceeding two thousand rupees. This new fee impacts merchants operating on already tight profit margins. Small merchants earning under one lakh rupees monthly remain exempt from this charge. T…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/delhi-traders-plan-cash-payments-push-to-avoid-fee-on-upi-payments/134287618",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "compra-venda-ativo",
-        "resultados"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-bizum-chega-a-portugal-e-abre-comercio",
-      "titulo": "Bizum chega a Portugal e abre comércio online a 30 milhões de espanhóis",
-      "resumo": "A Eupago lançou o Bizum em Portugal, passando o comércio online nacional a poder aceitar o meio de pagamento utilizado por mais de 30 milhões de consumidores em Espanha, segundo a empresa. A decisão parte, segundo a instituição de pagamentos portuguesa, da procura registada junto dos comerciantes nacionais que vende…",
-      "url": "https://www.distribuicaohoje.com/pagamentos/bizum/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-aldi-compra-participacao-na-filipina-dali-e",
-      "titulo": "Aldi compra participação na filipina Dali e reforça presença na Ásia",
-      "resumo": "O Aldi Süd adquiriu uma participação minoritária na cadeia filipina de discount Dali, num investimento estratégico cujo valor não foi divulgado. Com cerca de 1.300 lojas e mais de um milhão de clientes diários, a Dali continuará independente, enquanto o grupo alemão partilha conhecimento e reforça a sua expansão asi…",
-      "url": "https://grandeconsumo.com/aldi-compra-participacao-na-filipina-dali-e-reforca-presenca-na-asia/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "marca-expansao",
-        "investidores",
-        "aquisicoes"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-druni-aumenta-vendas-24-para-1-39",
-      "titulo": "Druni aumenta vendas 24% para 1,39 mil milhões de euros após integração da Arenal",
-      "resumo": "A Druni aumentou o volume de negócios consolidado em 24% em 2025, para 1.386,4 milhões de euros, impulsionada pela expansão da rede e pela integração da Arenal. O lucro líquido ultrapassou 50 milhões, com a cadeia galega a contribuir com quase um quarto desse resultado. O grupo terminou o ano com mais de 520 lojas e…",
-      "url": "https://grandeconsumo.com/druni-aumenta-vendas-24-para-139-mil-milhoes-de-euros-apos-integracao-da-arenal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao",
-        "resultados"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-revolut-reforca-expansao-bancaria",
-      "titulo": "Revolut reforça expansão bancária",
-      "resumo": "Revolut reforça a expansão internacional, com nova licença bancária na Colômbia e pedido na Suíça, onde prevê investir 150 milhões de CHF O conteúdo Revolut reforça expansão bancária aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/revolut-reforca-expansao-bancaria/",
-      "fonte": "Grande Consumo",
-      "pais": "Colômbia",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-f-brica-de-100-milh-es-nos",
-      "titulo": "F�brica de 100 milh�es nos EUA aumenta at� 10% receitas da Hovione",
-      "resumo": "Expans�o da unidade em Nova J�rsia inaugurada um quarto de s�culo ap�s a chegada a terras do “Tio Sam” duplica a capacidade de secagem por pulveriza��o, tecnologia em que a Hovione � pioneira.",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/fabrica-de-100-milhoes-nos-eua-aumenta-ate-10-receitas-da-hovione",
-      "fonte": "Jornal de Negócios",
-      "pais": "Internacional",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-hovione-inaugura-fabrica-de-100-milhoes-em",
-      "titulo": "Hovione inaugura fábrica de 100 milhões em Nova Jérsia e duplica capacidade de secagem nos EUA",
-      "resumo": "A farmacêutica Hovione inaugurou a nova fábrica nos Estados Unidos, com cerca de 2.900 metros quadrados (m2), para duplicar a capacidade de spray drying (secagem por atomização) de forma a produzir outros medicamentos. A unidade de produção em Nova Jérsia, chamada 89 Twin Rivers, abre portas após um investimento tot…",
-      "url": "https://eco.sapo.pt/2026/09/16/hovione-inaugura-fabrica-de-100-milhoes-em-nova-jersia-e-duplica-capacidade-de-secagem-nos-eua/",
-      "fonte": "ECO",
-      "pais": "Internacional",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-hovione-conclui-investimento-de-85-milhoes-de",
-      "titulo": "Hovione conclui investimento de 85 milhões de euros e duplica capacidade nos EUA",
-      "resumo": "A Hovione inaugurou uma nova unidade no campus de East Windsor, em Nova Jérsia, nos Estados Unidos, num investimento que duplica a capacidade de produção de spray drying da farmacêutica no país.",
-      "url": "https://executivedigest.sapo.pt/hovione-conclui-investimento-de-85-milhoes-de-euros-e-duplica-capacidade-nos-eua/",
-      "fonte": "Executive Digest",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-homycasa-reforca-estrategia-de-marketing-com-nova",
-      "titulo": "HOMYCASA reforça estratégia de marketing com nova direção",
-      "resumo": "A HOMYCASA reforça a sua estrutura de marketing com a entrada de Carla Bastos da Fonseca para o cargo de diretora de Marketing e Digital. A profissional inicia assim um novo desafio no setor do mobiliário e decoração, onde ficará responsável por contribuir para a estratégia de marketing e presença digital da marca.",
-      "url": "https://marketeer.sapo.pt/homycasa-reforca-estrategia-de-marketing-com-nova-direcao/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-kosta-azul-espera-concluir-2026-con-casi",
-      "titulo": "Kosta Azul espera concluir 2026 con casi 20 tiendas a nivel nacional tras nuevas aperturas",
-      "resumo": "John Jairo Pulgarín, gerente general de Kosta Azul, habló sobre cómo está cambiando el perfil de sus clientes hacia una población más joven que busca versatilidad",
-      "url": "https://www.larepublica.co/empresas/kosta-azul-espera-cerrar-2026-con-19-tiendas-tras-nuevas-aperturas-4482573",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-tyba-supera-us-2-000-millones-en",
-      "titulo": "tyba supera US$2.000 millones en activos administrados de inversionistas en Colombia, Perú y Chile",
-      "resumo": "La plataforma de inversiones de Credicorp Capital cumple siete años en Colombia, donde más de 120.000 clientes han invertido a través de sus servicios.",
-      "url": "https://www.valoraanalitik.com/tyba-activos-administrados-colombia/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-16"
-    },
-    {
-      "id": "2026-09-15-ikea-investe-34-milhoes-de-euros-para",
-      "titulo": "IKEA investe 34 milhões de euros para reduzir preços em Portugal",
-      "resumo": "A IKEA anunciou um investimento de 34 milhões de euros na redução dos preços de uma vasta gama de produtos no ano fiscal iniciado a 1 de setembro, num contexto em que o aumento do custo de vida continua a pesar nas decisões das famílias em Portugal.",
-      "url": "https://www.distribuicaohoje.com/retalho/ikea-3/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-15"
     }
   ]
 }
