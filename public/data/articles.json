@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-11-13T14:07:32.572Z",
+  "updatedAt": "2026-11-14T13:08:52.581Z",
   "articles": [
+    {
+      "id": "2026-11-14-lula-da-silva-inaugura-nova-era-de",
+      "titulo": "Lula da Silva inaugura “nova era de relações” com as Filipinas em visita àquele país asiático",
+      "resumo": "O presidente brasileiro, Luís Inácio 'Lula' da Silva, disse hoje que a visita que está a realizar às Filipinas marca o início de uma era de relações com aquele país, que incluirá uma maior cooperação em várias áreas.",
+      "url": "https://executivedigest.sapo.pt/lula-da-silva-inaugura-nova-era-de-relacoes-com-as-filipinas-em-visita-aquele-pais-asiatico/",
+      "fonte": "Executive Digest",
+      "pais": "Brasil",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-engel-volkers-expande-rede-de-franchising-em",
+      "titulo": "Engel & Völkers expande rede de franchising em Portugal",
+      "resumo": "A Engel & Völkers, empresa que atua no segmento imobiliário residencial de gama alta, já definiu o plano estratégico para Portugal, no qual, a expansão da rede de franchising é a principal aposta. A empresa explica que já conta com uma presença corporativa operacional consolidada, pelo que “está agora a disponibiliz…",
+      "url": "https://www.forbespt.com/engel-volkers-expande-rede-de-franchising-em-portugal/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao",
+        "franchising"
+      ],
+      "data": "2026-11-14"
+    },
+    {
+      "id": "2026-11-13-pull-bear-abre-nova-loja-no-porto",
+      "titulo": "Pull&Bear abre nova loja no Porto com conceito digital",
+      "resumo": "A Pull&Bear vai abrir uma nova loja no Porto a 12 de novembro, com um conceito que aposta na digitalização da experiência de compra e uma inauguração que liga a loja à arte e à comunidade local, em parceria com a artista Giovana Matsuda e o A Certain Café.",
+      "url": "https://www.distribuicaohoje.com/customer-experience/nova-loja-no-porto/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-el-estepario-siberiano-pela-primeira-vez-em",
+      "titulo": "El Estepario Siberiano pela primeira vez em Portugal: Porto Drum Show recebe maior influencer do mundo",
+      "resumo": "A 7.ª edição do Porto Drum Show regressa à Alfândega do Porto, de 20 a 22 de novembro, com a estreia em Portugal de El Estepario Siberiano, seguido por mais de 6 milhões de pessoas. O programa inclui concertos, workshops, masterclasses, novidades da indústria musical e um palco dedicado a novos talentos da bateria. …",
+      "url": "https://grandeconsumo.com/el-estepario-siberiano-pela-primeira-vez-em-portugal-porto-drum-show-recebe-maior-influencer-do-mundo/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-internacional-pt"
+      ],
+      "data": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-continente-abre-loja-em-sao-pedro-do",
+      "titulo": "Continente abre loja em São Pedro do Sul e cria 28 postos de trabalho",
+      "resumo": "O Continente abriu uma nova loja Continente Bom Dia em São Pedro do Sul, criando 28 postos de trabalho. Com cerca de mil metros quadrados, o espaço inclui take-away, cafetaria, padaria, frescos, self-checkout e carregamento de veículos elétricos. A abertura reforça a rede de proximidade da marca e inclui campanhas p…",
+      "url": "https://grandeconsumo.com/continente-bom-dia-sao-pedro-do-sul-abertura/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13-mercadona-chega-as-80-lojas-em-portugal",
+      "titulo": "Mercadona chega às 80 lojas em Portugal e estreia novo modelo em Faro",
+      "resumo": "A Mercadona chegou às 80 lojas em Portugal com a abertura do primeiro supermercado em Faro, num investimento superior a 15 milhões de euros que criou 100 empregos. A unidade estreia o modelo Loja 9, focado na eficiência operacional, e inclui 420 painéis solares, carregadores elétricos, estacionamento para bicicletas…",
+      "url": "https://grandeconsumo.com/mercadona-80-lojas-portugal-loja-9-faro/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-11-13"
+    },
     {
       "id": "2026-11-13-fnac-darty-muda-de-dono-bilionario-checo",
       "titulo": "Fnac Darty muda de dono. Bilionário Checo passa a comandar empresa",
@@ -6026,78 +6101,6 @@
         "nova-loja"
       ],
       "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-18-fnac-abre-nova-loja-em-vila-nova",
-      "titulo": "FNAC abre nova loja em Vila Nova de Famalicão",
-      "resumo": "A FNAC Portugal abriu uma nova loja em Vila Nova de Famalicão, na Galeria Auchan. Trata-se do 44.º espaço da insígnia em Portugal, reforçando a presença da marca na região Norte e, em concreto, no Vale do Ave. O conteúdo FNAC abre nova loja em Vila Nova de Famalicão aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/fnac-abre-nova-loja-em-vila-nova-de-famalicao/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-18-collect-a-nova-loja-de-discos-no",
-      "titulo": "Collect: a nova loja de discos no LX Factory onde pista de dança abre à tarde",
-      "resumo": "A música começa antes do jantar e não precisa de esperar pela madrugada para dançar. Essa é uma das ideias por detrás da Collect, loja que abriu a 21 de maio na LX Factory, em Alcântara. A segunda morada do projeto lisboeta junta discos, rádio, comida e cocktails, mas acrescenta algo que a casa do […] The post Colle…",
-      "url": "https://www.nit.pt/cultura/musica/collect-a-nova-loja-de-discos-no-lx-factory-onde-pista-de-danca-abre-a-tarde",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-17-jysk-vai-abrir-primeira-loja-nos-acores",
-      "titulo": "JYSK vai abrir primeira loja nos Açores e lança meta de 80 lojas em Portugal",
-      "resumo": "A JYSK vai abrir a primeira loja nos Açores no final de novembro de 2026, aquela que será a 40.ª loja da insígnia em Portugal, no ano em que assinala uma década de presença no mercado nacional. A marca tem como ambição de longo prazo duplicar a rede no país, até um total de 80 lojas.",
-      "url": "https://www.distribuicaohoje.com/retalho/jysk/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-17"
-    },
-    {
-      "id": "2026-09-17-retalho-em-expansao-amanhecer-e-mosqueteiros-aceleram",
-      "titulo": "Retalho em expansão: Amanhecer e Mosqueteiros aceleram expansão com novas aberturas",
-      "resumo": "O retalho português continua a evidenciar uma dinâmica de expansão em território nacional, com várias insígnias a reforçarem presença através de novas aberturas, remodelações e formatos adaptados a diferentes zonas de consumo.",
-      "url": "https://www.distribuicaohoje.com/retalho/retalho-em-expansao-57/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-17"
-    },
-    {
-      "id": "2026-09-17-asia-pacifico-gera-mais-de-metade-das",
-      "titulo": "Ásia-Pacífico gera mais de metade das receitas mundiais do e-commerce",
-      "resumo": "A região da Ásia-Pacífico mantém mais de metade das receitas mundiais de comércio eletrónico, impulsionada pela dimensão da China e pelo crescimento acelerado da Índia e do sudeste asiático. O conteúdo Ásia-Pacífico gera mais de metade das receitas mundiais do e-commerce aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/asia-pacifico-gera-mais-de-metade-das-receitas-mundiais-do-e-commerce/",
-      "fonte": "Grande Consumo",
-      "pais": "Índia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-17"
-    },
-    {
-      "id": "2026-09-17-up-preve-crescer-5-em-receitas-e",
-      "titulo": "UP prevê crescer 5% em receitas e atingir 20 milhões de euros em 2026",
-      "resumo": "A marca própria UP, da Unimark, prevê crescer cerca de 5% em receitas em 2026, atingindo um volume de negócios próximo dos 20 milhões de euros. Para assinalar uma nova fase, pretende chegar às 750 referências. O conteúdo UP prevê crescer 5% em receitas e atingir 20 milhões de euros em 2026 aparece primeiro em Grande…",
-      "url": "https://grandeconsumo.com/up-preve-crescer-5-em-receitas-e-atingir-20-milhoes-de-euros-em-2026/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-17"
     }
   ]
 }
