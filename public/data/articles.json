@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-14T13:08:52.581Z",
+  "updatedAt": "2026-11-15T13:37:36.548Z",
   "articles": [
+    {
+      "id": "2026-11-14-daviarena-llega-al-negocio-de-los-grandes",
+      "titulo": "Daviarena llega al negocio de los grandes eventos con inversión de $320.000 millones",
+      "resumo": "El escenario tiene capacidad para 17.900 espectadores y generó 278 empleos operativos locales, por ende con su apertura marca una apuesta por atraer espectáculos de gran formato",
+      "url": "https://www.larepublica.co/empresas/apertura-de-daviarena-4525440",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-juan-valdez-supero-los-722-000-millones",
+      "titulo": "Juan Valdez superó los $722.000 millones en ingresos: Crecimiento fue del 13 % y se viene apertura de tiendas",
+      "resumo": "Uno de los principales resultados del periodo se registró en el negocio internacional.",
+      "url": "https://www.valoraanalitik.com/juan-valdez-supero-los-722-000-millones-en-ingresos-crecimiento-fue-del-13-y-se-viene-apertura-de-tiendas/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja",
+        "resultados"
+      ],
+      "data": "2026-11-14"
+    },
     {
       "id": "2026-11-14-lula-da-silva-inaugura-nova-era-de",
       "titulo": "Lula da Silva inaugura “nova era de relações” com as Filipinas em visita àquele país asiático",
@@ -6072,30 +6097,6 @@
       "resumo": "Lillet, o aperitivo francês reconhecido pela sua sofisticação e leveza, prepara-se para marcar presença, pela primeira vez, no reputado evento gastronómico – Chefs on Fire, que decorre no Parque Marechal Carmona, em Cascais, nos dias 19 e 20 de setembro. A marca estreia-se neste evento como proposta de harmonização …",
       "url": "https://www.briefing.pt/cetera/lillet-estreia-se-no-chefs-on-fire-nos-dias-19-e-20-de-setembro/",
       "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-18-grupo-alberto-oculista-garantia-mutua-quarenta-anos",
-      "titulo": "Grupo Alberto Oculista | GARANTIA MÚTUA: Quarenta anos a ver mais longe",
-      "resumo": "Em 1984, na Madeira, abriu uma pequena loja dedicada à saúde visual. Ninguém imaginaria que, quatro décadas depois, esse projeto familiar viria a ser um dos maiores grupos empresariais portugueses do setor, com mais de 330 pontos de venda, marcas em cinco áreas de negócio distintas e presença em Portugal e Espanha. …",
-      "url": "https://www.distribuicaohoje.com/branded-content/alberto-oculista-garantia-mutua/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-18-delta-coffee-house-experience-abre-pop-up",
-      "titulo": "Delta Coffee House Experience abre pop-up no El Corte Inglés",
-      "resumo": "A Delta Coffee House Experience abriu uma pop-up store no Gourmet Experience do El Corte Inglés de Lisboa, um espaço temporário dedicado à degustação e à descoberta de café que estará em funcionamento até ao final de outubro.",
-      "url": "https://www.distribuicaohoje.com/customer-experience/delta-coffee-house-experience/",
-      "fonte": "Distribuição Hoje",
       "pais": "Portugal",
       "temas": [
         "nova-loja"
