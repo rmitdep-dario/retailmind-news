@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-11-16T15:08:18.300Z",
+  "updatedAt": "2026-11-17T15:39:38.215Z",
   "articles": [
+    {
+      "id": "2026-11-17-mercado-industrial-e-logistico-portugues-recua-17",
+      "titulo": "Mercado industrial e logístico português recua 17% até setembro com escassez de espaço",
+      "resumo": "O mercado industrial e logístico português contratou 304.793 m² até setembro, menos 17% do que no período homólogo de 2025, num contexto em que as taxas de disponibilidade se mantêm abaixo dos 2% na Grande Lisboa e no Grande Porto, segundo o relatório Industrial & Logistics Overview Q3 2026 da Savills.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/mercado-industrial-e-logistico-2/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-vgp-avanca-com-novo-empreendimento-industrial-e",
+      "titulo": "VGP avança com novo empreendimento industrial e logístico em Vila Nova de Gaia",
+      "resumo": "A VGP deu início à construção do VGP Park Vila Nova de Gaia, um empreendimento industrial e logístico em São Félix da Marinha que vai acolher a primeira unidade própria de montagem de células para eletrolisadores da thyssenkrupp nucera na Europa.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/vgp-park-vila-nova-de-gaia/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-paluani-chega-a-portugal-e-traz-a",
+      "titulo": "Paluani chega a Portugal e traz a tradição do panettone italiano para este natal",
+      "resumo": "A Paluani, histórica marca italiana do Grupo Sperlari, chega a Portugal pela Ponte Vertical com uma gama de panettones, pandoros e troncos de Natal. O conteúdo Paluani chega a Portugal e traz a tradição do panettone italiano para este natal aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/paluani-chega-a-portugal-e-traz-a-tradicao-do-panettone-italiano-para-este-natal/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-investimento-ganha-peso-como-motor-de-crescimento",
+      "titulo": "Investimento ganha peso como motor de crescimento da economia europeia",
+      "resumo": "A economia europeia deverá manter uma trajetória de crescimento moderado nos próximos anos, num contexto ainda marcado pela inflação, incerteza geopolítica e pressões sobre o comércio internacional. O conteúdo Investimento ganha peso como motor de crescimento da economia europeia aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/investimento-ganha-peso-como-motor-de-crescimento-da-economia-europeia/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-aparecida-seguros-integra-a-sosel-apos-25",
+      "titulo": "Aparecida Seguros integra a SOSEL após 25 anos de atividade",
+      "resumo": "A Aparecida Seguros integrou a SOSEL Corretores de Seguros após 25 anos de atividade, reforçando a oferta, a capacidade técnica e o acompanhamento de clientes. Em paralelo, Arsénio Duarte criou a CreditBlend, dedicada à intermediação de crédito. Integrada na Rede Simplefy, a nova empresa aposta em soluções claras, t…",
+      "url": "https://grandeconsumo.com/aparecida-seguros-integra-a-sosel-apos-25-anos-de-atividade/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-argentina-alimenta-estreia-em-buenos-aires",
+      "titulo": "Argentina Alimenta estreia em Buenos Aires",
+      "resumo": "Mais de 300 empresas vão reunir-se em Buenos Aires para procurar compradores, abrir mercados e discutir o futuro da indústria alimentar O conteúdo Argentina Alimenta estreia em Buenos Aires aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/argentina-alimenta-estreia-em-buenos-aires/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-empresa-de-david-beckham-processa-coty-por",
+      "titulo": "Empresa de David Beckham processa Coty por venda de perfumes em bombas de gasolina e lojas de descontos",
+      "resumo": "A empresa que gere a marca de David Beckham processou a Coty em Nova Iorque, avança o The Guardian, com base em documentos oficiais. A DB Ventures acusa a distribuidora de vender produtos da marca através de canais não autorizados, incluindo a Poundland, uma loja de descontos, e um posto de combustível. A DB Venture…",
+      "url": "https://eco.sapo.pt/2026/11/17/empresa-de-david-beckham-processa-coty-por-venda-de-perfumes-em-bombas-de-gasolina-e-lojas-de-descontos/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-ja-chegou-a-nova-edicao-da-revista",
+      "titulo": "Já chegou a nova edição da Revista Negócios & Franchising",
+      "resumo": "O próximo passo do seu negócio pode começar com uma boa leitura. Já está disponível a edição do 2.º semestre de 2026 da revista Negócios & Franchising, uma publicação da Associação Portuguesa de Franchising. Se está a pensar empreender, procura uma marca para investir ou quer desenvolver a sua rede, esta edição reún…",
+      "url": "https://www.infofranchising.pt/revista-negocios-franchising/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "franchising"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-17-house-comfort-abre-a-primeira-unidade-em",
+      "titulo": "House Comfort abre a primeira unidade em Castelo Branco",
+      "resumo": "A House Comfort, marca de serviços de apoio domiciliário dedicada ao bem-estar de pessoas idosas e dependentes, inaugura a sua primeira unidade em Castelo Branco. O novo espaço, localizado na Rua de Santiago N. 17 R/C Dto, passa a disponibilizar às famílias da região cuidados personalizados prestados no conforto e n…",
+      "url": "https://www.infofranchising.pt/house-comfort-castelo-branco/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-17"
+    },
+    {
+      "id": "2026-11-16-freixenet-regista-prejuizos-de-14-4-milhoes",
+      "titulo": "Freixenet regista prejuízos de 14,4 milhões de euros devido à seca e reestruturação",
+      "resumo": "A Freixenet encerrou 2025 com prejuízos de 14,4 milhões de euros, depois de ter apresentado lucros de 5,3 milhões no exercício anterior. Os resultados refletem o aumento dos custos das matérias-primas, associado aos efeitos da seca no Penedès, e as despesas com o processo de reestruturação laboral realizado pela pro…",
+      "url": "https://grandeconsumo.com/freixenet-prejuizos-2025-seca-reestruturacao/",
+      "fonte": "Grande Consumo",
+      "pais": "Espanha",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-lily-s-kitchen-lanca-gama-de-natal",
+      "titulo": "Lily’s Kitchen lança gama de Natal para cães e gatos",
+      "resumo": "A Lily’s Kitchen apresenta uma edição limitada de Natal com receitas festivas para cães e gatos. Sob o mote “Saboreia a Magia do Natal”, a gama inclui refeições, snacks e calendários do Advento. O conteúdo Lily’s Kitchen lança gama de Natal para cães e gatos aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/lilys-kitchen-lanca-gama-de-natal-para-caes-e-gatos/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-regulador-britanico-levanta-objecoes-a-integracao-do",
+      "titulo": "Regulador britânico levanta objeções à integração do negócio alimentar da Unilever na McCormick",
+      "resumo": "A CMA identificou riscos concorrenciais na aquisição da maior parte do negócio alimentar da Unilever pela McCormick, sobretudo nas misturas secas de ingredientes culinários e molhos em pó no Reino Unido. A operação juntaria marcas como Schwartz, Knorr e Colman’s, reduzindo a pressão competitiva. O conteúdo Regulador…",
+      "url": "https://grandeconsumo.com/regulador-britanico-unilever-mccormick-concorrencia/",
+      "fonte": "Grande Consumo",
+      "pais": "Internacional",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-vassar-regresa-con-festival-navideno-proyecta-14",
+      "titulo": "Vassar regresa con festival navideño: Proyecta $14.000 millones en facturación con 400 marcas en su feria de Bogotá",
+      "resumo": "La organización pretende convertir el espacio en un punto de encuentro para los visitantes y, al mismo tiempo, ofrecer oportunidades de crecimiento.",
+      "url": "https://www.valoraanalitik.com/vassar-regresa-con-festival-navideno-proyecta-14-000-millones-en-facturacion-con-400-marcas-en-su-feria-de-bogota/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-16"
+    },
+    {
+      "id": "2026-11-16-gatorade-invirtio-150-millones-en-una-cancha",
+      "titulo": "Gatorade invirtió $150 millones en una cancha en Cali y proyecta nuevos escenarios deportivos en Colombia",
+      "resumo": "La marca de PepsiCo inauguró un nuevo Estadio del Barrio y reveló que su programa ya ha impactado a más de 90.000 deportistas en el país.",
+      "url": "https://www.valoraanalitik.com/gatorade-invirtio-150-millones-en-una-cancha-en-cali-y-proyecta-nuevos-escenarios-deportivos-en-colombia/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-16"
+    },
     {
       "id": "2026-11-16-delta-espresso-estreia-conceito-de-cafetaria-para",
       "titulo": "Delta Espresso estreia conceito de cafetaria para consumo em movimento em Lisboa",
@@ -5932,176 +6100,6 @@
         "logistica"
       ],
       "data": "2026-09-21"
-    },
-    {
-      "id": "2026-09-21-nos-no-centro-regressa-com-livro-de",
-      "titulo": "“Nós no Centro” regressa com livro de receitas e de memórias de colaboradores dos centros",
-      "resumo": "Depois de uma primeira edição dedicada aos rostos que dão vida aos seus espaços, o Freeport Lisboa Fashion Outlet e o Vila do Conde Porto Fashion Outlet apresentam uma nova edição de “Nós no Centro”, um projeto que continua a celebrar as pessoas que fazem parte das diferentes equipas dos dois centros. Desta vez, a […",
-      "url": "https://www.briefing.pt/cetera/nos-no-centro-regressa-com-livro-de-receitas-e-de-memorias-de-colaboradores-dos-centros/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-21"
-    },
-    {
-      "id": "2026-09-21-via-outlets-transforma-memorias-dos-colaboradores-em",
-      "titulo": "VIA Outlets transforma memórias dos colaboradores em livro de receitas",
-      "resumo": "Depois de uma primeira edição dedicada aos rostos das equipas, o Freeport Lisboa Fashion Outlet e o Vila do Conde Porto Fashion Outlet dão continuidade ao projeto “Nós no Centro” com “Sabores Que Nos Unem”, um livro que reúne receitas, memórias e histórias pessoais dos colaboradores dos dois centros.",
-      "url": "https://marketeer.sapo.pt/via-outlets-transforma-memorias-dos-colaboradores-em-livro-de-receitas/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-21"
-    },
-    {
-      "id": "2026-09-21-a-manicure-tambem-tem-dress-code-5",
-      "titulo": "A manicure também tem dress code: 5 regras para acertar no escritório",
-      "resumo": "Regressar ao trabalho depois das férias costuma significar voltar a reuniões e longas horas em frente ao computador. E, se o guarda-roupa também se adapta ao ambiente profissional, a manicure pode seguir a mesma lógica. Não existe um “nail code” com regras obrigatórias para o escritório, mas há escolhas que podem to…",
-      "url": "https://www.nit.pt/compras/beleza/do-comprimento-a-cor-5-regras-para-uma-manicure-de-escritorio",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "escritorios"
-      ],
-      "data": "2026-09-21"
-    },
-    {
-      "id": "2026-09-21-logistics-firms-bulk-up-hiring-capacity-to",
-      "titulo": "Logistics firms bulk up hiring, capacity to carry heavier festival loads",
-      "resumo": "As the festive season approaches, Indian logistics firms are bracing for a notable spike in shipment volumes. Companies like DTDC and Blue Dart are ramping up their workforce, bringing in temporary employees to handle the anticipated delivery surge. Amazon is also enhancing its fulfillment and delivery networks to a…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/logistics-firms-bulk-up-hiring-capacity-to-carry-heavier-festival-loads/134379123",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-21"
-    },
-    {
-      "id": "2026-09-21-revolut-aterriza-en-colombia-con-cinco-planes",
-      "titulo": "Revolut aterriza en Colombia con cinco planes de suscripción y una propuesta de libre elección para los usuarios",
-      "resumo": "Colombia será el primer mercado en el que Revolut lanzará desde el primer día el portafolio integral que ofrece en Europa.",
-      "url": "https://www.valoraanalitik.com/revolut-aterriza-en-colombia-con-cinco-planes-de-suscripcion-y-una-propuesta-de-libre-eleccion-para-los-usuarios/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-21"
-    },
-    {
-      "id": "2026-09-20-mas-de-3-800-empresas-colombianas-ya",
-      "titulo": "Más de 3.800 empresas colombianas ya venden en EE.UU. y la demanda crece en tecnología, logística y salud",
-      "resumo": "Cerca de una tercera parte de las firmas exportadoras del país ya está en ese mercado, pese a la percepción de que se trata de un destino saturado.",
-      "url": "https://www.valoraanalitik.com/exportaciones-colombia-estados-unidos/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-20"
-    },
-    {
-      "id": "2026-09-20-nissan-investe-200-m-para-produzir-novo",
-      "titulo": "Nissan investe 200 M€ para produzir novo modelo Kicks no Reino Unido",
-      "resumo": "A Nissan vai investir 170 milhões de libras (200 milhões de euros) na fábrica de Sunderland, no Reino Unido, para preparar a produção do novo Kicks, modelo que será lançado no mercado europeu. O investimento surge no ano em que a unidade britânica assinala quatro décadas de atividade e reforça o seu papel na estraté…",
-      "url": "https://www.forbespt.com/nissan-investe-200-me-para-produzir-novo-modelo-kicks-no-reino-unido/",
-      "fonte": "Forbes Portugal",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-20"
-    },
-    {
-      "id": "2026-09-20-o-que-tem-no-carro-o-pingo",
-      "titulo": "“O que tem no carro? O Pingo Doce”. Já abriu o novo supermercado em Portugal",
-      "resumo": "O Pingo Doce tornou-se protagonista de um dos vídeos mais virais dos últimos dias, mas não por causa de uma nova campanha. Durante uma atuação de Bluay num evento no Cais do Sodré, em Lisboa, uma mulher aproximou-se do cantor, pegou no microfone e começou a cantar “O que tem no carro? O Pingo Doce.” […] The post “O …",
-      "url": "https://www.nit.pt/comida/gourmet-e-vinhos/o-que-tem-no-carro-o-pingo-doce-ja-abriu-o-novo-supermercado-em-portugal",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-20"
-    },
-    {
-      "id": "2026-09-19-lider-da-paul-weiss-investe-em-luxo",
-      "titulo": "Líder da Paul Weiss investe em luxo no Algarve",
-      "resumo": "Neel Sachdev, vice-presidente global da sociedade de advogados Paul Weiss e responsável pelo escritório de Londres, está a investir num empreendimento de 11 moradias de luxo em Santa Bárbara de Nexe, no Algarve, segundo o Financial Times (acesso pago, em inglês). O advogado britânico acredita que a região pode torna…",
-      "url": "https://eco.sapo.pt/2026/09/19/lider-da-paul-weiss-investe-em-luxo-no-algarve/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-19"
-    },
-    {
-      "id": "2026-09-19-a-marca-de-beleza-que-esta-a",
-      "titulo": "A marca de beleza que está a conquistar Lisboa prepara mais uma abertura",
-      "resumo": "A Primor continua a acelerar a expansão da sua rede em Portugal e prepara uma nova abertura na região de Lisboa. A cadeia espanhola de perfumaria e cosmética inaugura, hoje, uma loja no Campera Outlet Shopping, no Carregado, reforçando a presença numa das principais zonas comerciais do país.",
-      "url": "https://marketeer.sapo.pt/a-marca-de-beleza-que-esta-a-conquistar-lisboa-prepara-mais-uma-abertura/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-19"
-    },
-    {
-      "id": "2026-09-19-noel-tata-raises-strong-objection-to-tata",
-      "titulo": "Noel Tata raises ‘strong objection’ to Tata Sons conduct, calls Chandra vote ‘null and void’",
-      "resumo": "Noel Tata has taken a stand against the recent resolutions from the Tata Sons board meeting, deeming them invalid. He asserts that the voting was conducted under specific conditions that were later violated. Furthermore, he is calling for a public acknowledgment to rectify the proceedings of the meeting. This contro…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/noel-tata-raises-strong-objection-to-tata-sons-conduct-calls-chandra-vote-null-and-void/134347131",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-19"
-    },
-    {
-      "id": "2026-09-18-a-sazonalidade-nao-e-uma-limitacao-quando",
-      "titulo": "“A sazonalidade não é uma limitação”: quando o retalho aceita o tempo da terra",
-      "resumo": "A Auchan aposta na produção local como fator de frescura, autenticidade e desenvolvimento regional, conciliando volumes menores e maior complexidade logística com autonomia das equipas regionais. O modelo valoriza sazonalidade, rastreabilidade e transparência, sem ignorar preço, sustentabilidade ou disponibilidade. …",
-      "url": "https://grandeconsumo.com/a-sazonalidade-nao-e-uma-limitacao-quando-o-retalho-aceita-o-tempo-da-terra/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-18-ia-podera-influenciar-mais-de-70-do",
-      "titulo": "IA poderá influenciar mais de 70% do investimento publicitário global até 2028",
-      "resumo": "Mais de 70% do investimento publicitário global poderá, até 2028, passar por plataformas de publicidade self-service nas quais a inteligência artificial (IA) influencia de forma significativa a compra de media, os custos e os resultados, prevê a Gartner. O conteúdo IA poderá influenciar mais de 70% do investimento p…",
-      "url": "https://grandeconsumo.com/ia-podera-influenciar-mais-de-70-do-investimento-publicitario-global-ate-2028/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "investidores",
-        "resultados"
-      ],
-      "data": "2026-09-18"
-    },
-    {
-      "id": "2026-09-18-jysk-abre-nos-acores-e-quer-chegar",
-      "titulo": "JYSK abre nos Açores e quer chegar às 80 lojas",
-      "resumo": "A JYSK assinala, em 2026, dez anos de presença em Portugal com a abertura da primeira loja nos Açores, prevista para o final de novembro, e um plano de expansão que prevê duplicar a atual rede no país para um total de 80 lojas. O conteúdo JYSK abre nos Açores e quer chegar às 80 lojas aparece primeiro em Grande Cons…",
-      "url": "https://grandeconsumo.com/jysk-abre-nos-acores-e-quer-chegar-as-80-lojas/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-09-18"
     }
   ]
 }
