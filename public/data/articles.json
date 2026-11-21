@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-11-20T15:01:10.211Z",
+  "updatedAt": "2026-11-21T14:22:50.736Z",
   "articles": [
+    {
+      "id": "2026-11-21-h-m-abre-seccao-pre-loved-em",
+      "titulo": "H&M abre secção ‘pre-loved’ em Lisboa com peças de luxo de outras marcas",
+      "resumo": "A H&M da Rua do Carmo, 42, instalada nos antigos armazéns do Grandela, é, desde sexta-feira, a 15.ª loja da cadeia sueca a incorporar uma zona dedicada a peças de roupa 'pre-loved', isto é, segunda mão. A loja foi sendo remodelada nos últimos meses e várias secções mudaram de sítio. A roupa desportiva ganhou espaço,…",
+      "url": "https://eco.sapo.pt/entrevista/hm-abre-seccao-pre-loved-em-lisboa-com-pecas-de-luxo-de-outras-marcas/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-mood-candle-collection-nasceu-numa-cozinha-de",
+      "titulo": "MOÖD Candle Collection nasceu numa cozinha de Lisboa e abre a primeira loja no Príncipe Real (a tempo do Natal)",
+      "resumo": "Começou há dois anos numa cozinha de Lisboa, quando uma empresária francesa quis trocar a parafina das velas por ceras naturais. Stéphanie Givenchy, fundadora e diretora criativa da MOÖD Candle Collection, explica a escolha da EmbaiXada.",
+      "url": "https://marketeer.sapo.pt/nasceu-numa-cozinha-de-lisboa-para-fugir-a-parafina-e-a-mood-abre-agora-a-primeira-loja-no-principe-real/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-a-petit-jasmin-abriu-no-campo-grande",
+      "titulo": "A Petit Jasmin abriu no Campo Grande. Tem roupa de criança e bebé desde 5€",
+      "resumo": "Preparar a chegada de um bebé pode tornar-se uma despesa considerável. Com bodies, conjuntos, mantas e acessórios, a lista de compras parece não ter fim. Foi a pensar em roupa de qualidade, produzida em Portugal e com preços mais acessíveis que nasceu a Petit Jasmin, uma marca que abriu na quinta-feira, 19 de novemb…",
+      "url": "https://www.nit.pt/compras/lojas-e-marcas/a-petit-jasmin-abriu-no-campo-grande-tem-roupa-de-crianca-e-bebe-desde-5e",
+      "fonte": "NiT",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-21"
+    },
+    {
+      "id": "2026-11-20-h-m-reabre-loja-no-chiado-e",
+      "titulo": "H&M reabre loja no Chiado e estreia conceito de moda em segunda mão em Portugal",
+      "resumo": "A H&M renovou a loja da Rua do Carmo, em Lisboa, introduzindo um novo conceito comercial que combina moda, circularidade e serviços digitais. O espaço, instalado nos históricos Armazéns Grandella, recebe pela primeira vez em Portugal o H&M Pre-Loved, dedicado à venda de roupa e acessórios em segunda mão. O conteúdo …",
+      "url": "https://grandeconsumo.com/hm-reabre-loja-chiado-pre-loved-segunda-mao/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "compra-venda-ativo"
+      ],
+      "data": "2026-11-20"
+    },
+    {
+      "id": "2026-11-20-lidl-prepara-entrada-em-dois-novos-paises",
+      "titulo": "Lidl prepara entrada em dois novos países com investimentos logísticos superiores a 240 milhões de euros",
+      "resumo": "A cadeia alemã acelera a expansão nos Balcãs, preparando a abertura de supermercados na Bósnia-Herzegovina e na Macedónia do Norte. Os investimentos incluem dois centros de distribuição, destinados a apoiar o abastecimento das futuras redes comerciais. Na Bósnia-Herzegovina, as primeiras lojas deverão abrir no prime…",
+      "url": "https://grandeconsumo.com/lidl-expansao-bosnia-herzegovina-macedonia-norte/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-11-20"
+    },
+    {
+      "id": "2026-11-20-grupo-exito-abre-su-primer-outlet-en",
+      "titulo": "Grupo Éxito abre su primer outlet en Bogotá con una inversión de $900 millones",
+      "resumo": "El establecimiento está ubicado en el barrio 20 de Julio, en la localidad de San Cristóbal, tiene 445 metros cuadrados y ofrece descuentos permanentes de hasta 60%",
+      "url": "https://www.larepublica.co/empresas/grupo-exito-abre-su-primer-outlet-en-bogota-con-una-inversion-de-900-millones-4529383",
+      "fonte": "La República",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-11-20"
+    },
+    {
+      "id": "2026-11-20-grupo-exito-abre-su-primera-tienda-de",
+      "titulo": "Grupo Éxito abre su primera tienda de outlet en Bogotá; ofrecerá descuentos permanentes de hasta 60 %",
+      "resumo": "El establecimiento estará en el sector del 20 de Julio y ofrecerá productos de tecnología, electrodomésticos, moda, hogar, juguetería y deportes.",
+      "url": "https://www.valoraanalitik.com/grupo-exito-outlet-bogota-descuentos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-20"
+    },
     {
       "id": "2026-11-20-afinal-sonae-so-adquiriu-10-lojas-da",
       "titulo": "Afinal, Sonae só adquiriu 10 lojas da PetOutlet, sem comprar a totalidade da cadeia",
@@ -6016,91 +6103,6 @@
       "pais": "Portugal",
       "temas": [
         "logistica"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-isagen-vendio-activos-de-generacion-hidroelectrica-y",
-      "titulo": "Isagen vendió activos de generación hidroeléctrica y solar a BTG Pactual y EDF",
-      "resumo": "La compañía suscribió un acuerdo para la venta las centrales El Popal, El Molino, San Miguel y San Matías, así como por los parques solares Llanos I, II, III, IV y V",
-      "url": "https://www.larepublica.co/empresas/veta-de-activos-de-generacion-de-isagen-4489380",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "compra-venda-ativo"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-ia-disponibilidade-e-personalizacao-estudo-mostra-como",
-      "titulo": "IA, disponibilidade e personalização: Estudo mostra como consumidores olham para o futuro da alimentação",
-      "resumo": "A inteligência artificial, a disponibilidade dos alimentos e a nutrição personalizada estão entre os fatores que poderão transformar a alimentação e as compras na Alemanha até 2040. É o que indica o estudo prospetivo « Wie is(s)t Deutschland 2040 ?», promovido pela Nestlé, que identifica abertura a novas soluções, m…",
-      "url": "https://www.distribuicaohoje.com/producao/estudo-alimentacao/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Internacional",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-investimento-em-imobiliario-logistico-e-industrial-cresce",
-      "titulo": "Investimento em imobiliário logístico e industrial cresce 35% em Portugal",
-      "resumo": "O investimento em imobiliário logístico e industrial atingiu cerca de 181 milhões de euros em Portugal, no primeiro semestre de 2026, mais 35% face ao mesmo período do ano anterior, segundo dados da JLL. O conteúdo Investimento em imobiliário logístico e industrial cresce 35% em Portugal aparece primeiro em Grande C…",
-      "url": "https://grandeconsumo.com/investimento-em-imobiliario-logistico-e-industrial-cresce-35-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "logistica",
-        "investidores"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-japonesa-seiko-dos-relogios-de-luxo-vai",
-      "titulo": "Japonesa Seiko dos relógios de luxo vai abrir primeira loja em Portugal",
-      "resumo": "Uma das maiores relojoeiras do mundo está a chegar oficialmente a Portugal. O grupo japonês Seiko, centenário fabricante de relógios de luxo e de gama média, vai instalar-se no coração de Lisboa com a sua primeira loja, que abre portas no próximo dia 1 de outubro. A empresa que criou, na década de 1960, o […]",
-      "url": "https://eco.sapo.pt/2026/09/24/japonesa-seiko-dos-relogios-de-luxo-vai-abrir-primeira-loja-em-portugal/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-action-abre-nova-loja-no-distrito-de",
-      "titulo": "Action abre nova loja no distrito de Lisboa esta quinta-feira",
-      "resumo": "Esta quinta-feira, 24 de setembro, abre mais uma loja da Action no distrito de Lisboa. A nova localização, em Vialonga, vem responder à crescente procura dos consumidores em relação aos produtos acessíveis e virais da retalhista. Com mais de 817 metros quadrados, esta é a 34.ª loja da marca em Portugal e a quinta no…",
-      "url": "https://www.nit.pt/compras/lojas-e-marcas/action-abre-nova-loja-no-distrito-de-lisboa-esta-quinta-feira",
-      "fonte": "NiT",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-make-in-india-shifts-focus-to-deeper",
-      "titulo": "Make in India shifts focus to deeper manufacturing capabilities, global competitiveness: CII",
-      "resumo": "CII said India’s manufacturing sector is shifting from simply expanding capacity to building domestic supply chains, developing technology and integrating deeper with global markets as Make in India completes 12 years.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/make-in-india-shifts-focus-to-deeper-manufacturing-capabilities-global-competitiveness-cii/134459231",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-24"
-    },
-    {
-      "id": "2026-09-24-india-s-hiring-story-gets-a-boost",
-      "titulo": "India’s hiring story gets a boost as e-commerce, travel and retail power the next wave",
-      "resumo": "India's workforce is expected to grow 5.4 percent in the second half of 2026-27, driven by several sectors. E-commerce and technology startups anticipate the highest employment growth, along with travel and hospitality. Additionally, hiring intent varies among organizational scales, with larger enterprises showing g…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-hiring-story-gets-a-boost-as-e-commerce-travel-and-retail-power-the-next-wave/134457452",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "marca-expansao"
       ],
       "data": "2026-09-24"
     }
