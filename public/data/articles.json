@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-21T14:22:50.736Z",
+  "updatedAt": "2026-11-22T14:15:18.276Z",
   "articles": [
+    {
+      "id": "2026-11-21-qsf-estreia-se-nos-espumantes-com-500",
+      "titulo": "Qsf estreia-se nos espumantes com 500 garrafas da Bairrada. Cada uma tem uma serigrafia impressa no vidro",
+      "resumo": "A marca escolheu o fim do ano para se estrear nos espumantes, com uma tiragem curta e o vidro de cada garrafa entregue a um artista.",
+      "url": "https://marketeer.sapo.pt/qsf-estreia-se-nos-espumantes-com-500-garrafas-da-bairrada-e-entrega-o-vidro-de-cada-uma-a-um-artista/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-primark-abriu-a-16-loja-em-portugal",
+      "titulo": "Primark abriu a 16.ª loja em Portugal e lançou app na mesma semana. Nova loja tem dez caixas de self-checkout",
+      "resumo": "A Primark Gaia chega antes do Natal com mais de 3.000 m², coleções de festa e peças de inverno a partir de 2 euros. Nelson Ribeiro, Head of Sales da Primark Portugal & Espanha, explica porque é que o momento da abertura conta.",
+      "url": "https://marketeer.sapo.pt/primark-abre-a-16-a-loja-em-portugal-e-lanca-app-na-mesma-semana-loja-de-gaia-tem-dez-caixas-de-self-checkout/",
+      "fonte": "Marketeer",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-21"
+    },
     {
       "id": "2026-11-21-h-m-abre-seccao-pre-loved-em",
       "titulo": "H&M abre secção ‘pre-loved’ em Lisboa com peças de luxo de outras marcas",
@@ -6080,31 +6104,6 @@
         "licenciamento"
       ],
       "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-india-records-highest-ever-fdi-of-94",
-      "titulo": "India records highest-ever FDI of $94.53 billion in FY26, inflows since 2014 reach $843 billion: Piyush Goyal",
-      "resumo": "India achieved its highest-ever annual Foreign Direct Investment of USD 94.53 billion in FY 2025-26. Cumulative FDI inflows from FY 2014-15 to FY 2025-26 reached USD 843 billion. The Production Linked Incentive schemes have attracted significant investments and generated millions of jobs. Key sectors benefited inclu…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/india-records-highest-ever-fdi-of-94-53-billion-in-fy26-inflows-since-2014-reach-843-billion-piyush-goyal/134477658",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "investidores",
-        "investimento-estrangeiro"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-24-a-inovacao-tecnologica-e-a-ia-assumem",
-      "titulo": "“A inovação tecnológica e a IA assumem um papel cada vez mais relevante na evolução da operação dos CTT”",
-      "resumo": "Ao fim de seis anos de operação conjunta, os CTT Logística e a note! mantêm uma parceria assente num modelo de fulfillment integrado que cobre toda a cadeia logística dos manuais escolares, desde a receção e gestão de stocks à preparação de encomendas, distribuição e logística inversa. A operação tem vindo a adaptar…",
-      "url": "https://www.distribuicaohoje.com/supply-chain/inovacao-ia-ctt/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-24"
     }
   ]
 }
