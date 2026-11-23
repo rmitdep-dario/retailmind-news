@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-11-22T14:15:18.276Z",
+  "updatedAt": "2026-11-23T17:37:10.194Z",
   "articles": [
+    {
+      "id": "2026-11-23-automacao-p-g-prepara-expansao-de-turnos",
+      "titulo": "Automação: P&G prepara expansão de turnos autónomos nas fábricas",
+      "resumo": "A Procter & Gamble está a aumentar o número de instalações capazes de realizar turnos de produção autónomos , com linhas que funcionam durante várias horas sem intervenção humana. O grupo dispõe de 15 unidades com estas capacidades e prevê alargar a utilização do modelo em 2027, segundo o The New York Times .",
+      "url": "https://www.distribuicaohoje.com/supply-chain/pg-turnos-autonomos/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-dhl-supply-chain-cresce-12-no-terceiro",
+      "titulo": "DHL Supply Chain cresce 12% no terceiro trimestre de 2026",
+      "resumo": "A DHL Supply Chain registou um crescimento homólogo de 12% nas receitas no terceiro trimestre de 2026, com subidas em todas as regiões, num contexto em que as empresas aceleram a transformação das cadeias de abastecimento globais, anunciou a área de logística contratual do Grupo DHL.",
+      "url": "https://www.distribuicaohoje.com/supply-chain/dhl-supply-chain/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "logistica",
+        "resultados"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-lego-investe-mais-de-mil-milhoes-de",
+      "titulo": "LEGO investe mais de mil milhões de euros em fábrica em Estarreja",
+      "resumo": "O Grupo LEGO vai construir uma nova fábrica em Estarreja, num investimento superior a mil milhões de euros ao longo dos anos, com mais de 1.000 postos de trabalho previstos quando a unidade estiver totalmente operacional. A abertura está planeada para 2030.",
+      "url": "https://www.distribuicaohoje.com/producao/lego/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "investidores"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-lego-investe-cerca-de-mil-milhoes-de",
+      "titulo": "LEGO investe cerca de mil milhões de euros em nova fábrica em Portugal",
+      "resumo": "O Grupo LEGO anunciou a construção de uma nova unidade industrial em Estarreja, num investimento de aproximadamente mil milhões de euros ao longo de vários anos. A fábrica, cuja entrada em funcionamento está prevista para 2030, deverá criar mais de mil postos de trabalho e será a instalação tecnologicamente mais ava…",
+      "url": "https://grandeconsumo.com/lego-fabrica-portugal-estarreja-mil-milhoes/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-fnac-abre-primeira-loja-nos-acores",
+      "titulo": "FNAC abre primeira loja nos Açores",
+      "resumo": "A FNAC inaugura, a 27 de novembro, a sua primeira loja nos Açores, localizada no Azores Retail Park, em Ponta Delgada. Com esta abertura, a retalhista chega às 45 lojas em Portugal. O conteúdo FNAC abre primeira loja nos Açores aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/fnac-abre-primeira-loja-nos-acores/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "retail-parks"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-smileat-reforca-presenca-em-portugal-com-entrada",
+      "titulo": "Smileat reforça presença em Portugal com entrada no Continente",
+      "resumo": "A Smileat, marca especializada em alimentação infantil biológica, está a reforçar a sua presença em Portugal, com a entrada dos seus produtos nas lojas Continente. O conteúdo Smileat reforça presença em Portugal com entrada no Continente aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/smileat-reforca-presenca-em-portugal-com-entrada-no-continente/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-garland-250-anos-de-historia-empresarial-portuguesa",
+      "titulo": "Garland: 250 anos de história empresarial portuguesa eternizados em livro",
+      "resumo": "A Garland celebra 250 anos de atividade com o livro Garland 250 Years, uma obra que preserva a história de uma das mais antigas empresas portuguesas. Resultado de três anos de investigação, documentos e 35 entrevistas, o livro acompanha a evolução da empresa, do comércio de bacalhau à logística internacional, destac…",
+      "url": "https://grandeconsumo.com/garland-250-anos-de-historia-empresarial-portuguesa-eternizados-em-livro/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-paulo-neto-leite-ceo-da-aqui-a",
+      "titulo": "Paulo Neto Leite, CEO da Aqui a Tua Remodelação analisa os fatores que sustentam o crescimento da rede, a rentabilidade das unidades e as prioridades de expansão para 2027",
+      "resumo": "Paulo Neto Leite, CEO da operação portuguesa, analisa os fatores que sustentam o crescimento da rede, a rentabilidade das unidades e as prioridades de expansão para 2027. O conteúdo Paulo Neto Leite, CEO da Aqui a Tua Remodelação analisa os fatores que sustentam o crescimento da rede, a rentabilidade das unidades e …",
+      "url": "https://www.infofranchising.pt/entrevista-paulo-neto-leite-aqui-a-tua-remodelacao/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-india-inc-earnings-outlook-remains-upbeat-for",
+      "titulo": "India Inc earnings outlook remains upbeat for second half of FY27 on broad-based demand: Report",
+      "resumo": "Corporate earnings are expected to remain strong in the second half of FY27, supported by healthy demand, business expansion and robust order pipelines, Motilal Oswal Financial Services said. The brokerage cited broad-based earnings growth in the September quarter, led by banking, financial services, metals, oil and…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/india-inc-earnings-outlook-remains-upbeat-for-second-half-of-fy27-on-broad-based-demand-report/136098600",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "marca-expansao",
+        "resultados"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-23-reliance-brands-trims-losses-in-fy26-adds",
+      "titulo": "Reliance Brands trims losses in FY26, adds Stella McCartney, Fabletics to portfolio",
+      "resumo": "Reliance Brands has reported a revenue increase of 3.77 percent to Rs 3,390.89 crore for FY26. The company narrowed its losses to Rs 137.04 crore, compared to Rs 233.79 crore the previous year. It expanded its portfolio by adding globally recognized brands like Stella McCartney and Kurt Geiger. RBL operates over 1,0…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/reliance-brands-trims-losses-in-fy26-adds-stella-mccartney-fabletics-to-portfolio/136088170",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "resultados"
+      ],
+      "data": "2026-11-23"
+    },
+    {
+      "id": "2026-11-22-h-m-reabre-no-chiado-e-estreia",
+      "titulo": "H&M reabre no Chiado e estreia conceito de moda em segunda mão",
+      "resumo": "A H&M reforçou a aposta em Portugal com a reabertura da loja na Rua do Carmo, instalada nos antigos armazéns Grandella. Além da renovação do espaço, a cadeia de retalho sueca trouxe pela primeira vez o conceito de moda em segunda mão H&M Pre-Loved para o mercado português. Em declarações à Forbes Portugal, à margem …",
+      "url": "https://www.forbespt.com/hm-reabre-no-chiado-e-estreia-conceito-de-moda-em-segunda-mao/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-22"
+    },
     {
       "id": "2026-11-21-qsf-estreia-se-nos-espumantes-com-500",
       "titulo": "Qsf estreia-se nos espumantes com 500 garrafas da Bairrada. Cada uma tem uma serigrafia impressa no vidro",
@@ -5971,139 +6107,6 @@
         "resultados"
       ],
       "data": "2026-09-27"
-    },
-    {
-      "id": "2026-09-26-fusao-paramount-e-warner-bros-cria-gigante",
-      "titulo": "Fusão Paramount e Warner Bros cria gigante nos media",
-      "resumo": "Fusão entre as duas empresas cria o segundo maior operador no streaming e pode igualar a liderança da Disney nos cinemas.",
-      "url": "https://jornaleconomico.sapo.pt/noticias/fusao-paramount-e-warner-bros-cria-gigante-nos-media/",
-      "fonte": "Jornal Económico",
-      "pais": "Portugal",
-      "temas": [
-        "ma-operadores"
-      ],
-      "data": "2026-09-26"
-    },
-    {
-      "id": "2026-09-26-weekly-expansion-recap-third-wave-coffee-targets",
-      "titulo": "Weekly expansion recap: Third Wave Coffee targets 320 cafés, Pepe Jeans expands Bengaluru footprint",
-      "resumo": "Retail and consumer brands across coffee, fashion, FMCG, salon, jewellery and paints are stepping up expansion, with plans spanning new stores, manufacturing capacity, category diversification and deeper penetration into emerging markets.",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/weekly-expansion-recap-third-wave-coffee-targets-320-cafs-pepe-jeans-expands-bengaluru-footprint/134501126",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "nova-loja",
-        "marca-expansao"
-      ],
-      "data": "2026-09-26"
-    },
-    {
-      "id": "2026-09-25-chanel-mantem-investimento-na-china-apesar-do",
-      "titulo": "Chanel mantém investimento na China apesar do abrandamento do luxo",
-      "resumo": "A Chanel vai manter o investimento na China, apesar do abrandamento do consumo de luxo no país, e defende uma estratégia de longo prazo naquele que considera um dos seus principais mercados.",
-      "url": "https://www.distribuicaohoje.com/retalho/chanel/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-nestle-reforca-descarbonizacao-das-operacoes-em-portugal",
-      "titulo": "Nestlé reforça descarbonização das operações em Portugal",
-      "resumo": "A Nestlé Portugal reforçou o investimento em eficiência energética e descarbonização das suas operações industriais, com projetos nas fábricas de cereais de Avanca e de café torrado do Porto, as duas unidades que a empresa aponta como estratégicas na operação nacional. O anúncio foi feito em comunicado divulgado no …",
-      "url": "https://www.distribuicaohoje.com/producao/nestle-2/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-starbucks-fecha-250-lojas-e-abranda-expansao",
-      "titulo": "Starbucks fecha 250 lojas e abranda expansão global",
-      "resumo": "A Starbucks vai fechar 250 lojas com desempenho abaixo do esperado na América do Norte, no âmbito do plano de recuperação liderado pelo CEO Brian Niccol. O conteúdo Starbucks fecha 250 lojas e abranda expansão global aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/starbucks-fecha-250-lojas-e-abranda-expansao-global/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-a-adega-do-cartaxo-estreia-se-nos",
-      "titulo": "A Adega do Cartaxo estreia-se nos vinhos desalcoolizados",
-      "resumo": "Com esta nova insígnia, a Adega do Cartaxo pretende entrar num mercado em crescimento, num contexto em que os hábitos de consumo de vinho estão a mudar e em que cresce a procura por produtos com baixo teor alcoólico. O diretor de enologia afirma que foi um “desafio grande” avançar com este projeto, porque ainda […] …",
-      "url": "https://www.briefing.pt/noticias/a-adega-do-cartaxo-estreia-se-nos-vinhos-desalcoolizados/",
-      "fonte": "Briefing",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-grupo-mosqueteiros-valorizou-86-dos-residuos-na",
-      "titulo": "Grupo Mosqueteiros valorizou 86% dos resíduos na logística em 2025",
-      "resumo": "O Grupo Mosqueteiros valorizou 86% dos resíduos gerados nas suas bases logísticas em Portugal em 2025, o equivalente a mais de 1.700 toneladas. O dado consta do balanço da estratégia de sustentabilidade divulgado pelo grupo, que abrange áreas como a economia circular, a eficiência energética e operacional, a mobilid…",
-      "url": "https://www.distribuicaohoje.com/retalho/mosqueteiros-residuos/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-starbucks-fecha-cerca-de-250-lojas-e",
-      "titulo": "Starbucks fecha cerca de 250 lojas e revê expansão global",
-      "resumo": "A Starbucks vai encerrar cerca de 250 lojas na América do Norte, após identificar espaços onde não considera possível alcançar o desempenho financeiro ou proporcionar a experiência de cliente pretendidos. A decisão , anunciada a 24 de setembro, integra a estratégia «Back to Starbucks» e leva a empresa a reduzir a pr…",
-      "url": "https://www.distribuicaohoje.com/retalho/starbucks-fecha-250-lojas/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-marc-jacobs-escolhe-novo-lider-de-marketing",
-      "titulo": "Marc Jacobs escolhe novo líder de marketing para acelerar expansão global",
-      "resumo": "A Marc Jacobs vai ter um novo responsável pela estratégia de marketing. John Wattiker assume o cargo de Chief Marketing Officer (CMO) a 28 de setembro, sucedendo a Kristin Patrick e reportando diretamente ao CEO da marca, Eric Marechalle.",
-      "url": "https://marketeer.sapo.pt/marc-jacobs-escolhe-novo-lider-de-marketing-para-acelerar-expansao-global/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-marca-italiana-de-moda-chega-a-portugal",
-      "titulo": "Marca italiana de moda chega a Portugal pela primeira vez e escolhe o Algarve para abrir loja",
-      "resumo": "O Designer Outlet Algarve acaba de ganhar uma nova marca internacional. A italiana Harmont & Blaine abriu no espaço comercial a sua primeira loja própria em Portugal, numa área de 78,50 m².",
-      "url": "https://marketeer.sapo.pt/marca-italiana-de-moda-chega-a-portugal-pela-primeira-vez-e-escolhe-o-algarve-para-abrir-loja/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "marca-internacional-pt"
-      ],
-      "data": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25-gen-z-prioritises-quality-transparency-as-ai",
-      "titulo": "Gen Z prioritises quality, transparency as AI reshapes shopping behaviour: Study",
-      "resumo": "AI is also becoming part of the evaluation process. Nearly six in 10 respondents said they use AI at least occasionally for product research, primarily to compare products, evaluate options and find prices. While 70 per cent said they were comfortable with AI recommending products and services, only 49 per cent were…",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/gen-z-prioritises-quality-transparency-as-ai-reshapes-shopping-behaviour-study/134480217",
-      "fonte": "ET Retail",
-      "pais": "Índia",
-      "temas": [
-        "licenciamento"
-      ],
-      "data": "2026-09-25"
     }
   ]
 }
