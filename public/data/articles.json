@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-11-24T17:07:55.307Z",
+  "updatedAt": "2026-11-25T16:55:22.986Z",
   "articles": [
+    {
+      "id": "2026-11-25-francesa-soprema-investe-mais-de-100-milhoes",
+      "titulo": "Francesa Soprema investe mais de 100 milhões de euros e cria 200 empregos em Alpiarça",
+      "resumo": "O grupo francês Soprema, fabricante de soluções de impermeabilização e isolamento térmico e acústico para a construção, vai investir mais de 100 milhões de euros na expansão da unidade industrial que já tem em funcionamento em Alpiarça, distrito de Santarém. O projeto prevê a criação de mais de 200 postos de trabalh…",
+      "url": "https://eco.sapo.pt/2026/11/25/francesa-soprema-investe-mais-de-100-milhoes-de-euros-e-cria-200-empregos-em-alpiarca/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-edificio-da-zara-no-rossio-muda-de",
+      "titulo": "Edifício da Zara no Rossio muda de mãos na maior venda de comércio de rua de sempre em Portugal",
+      "resumo": "O edifício da Zara no Rossio, com 9.700 m², mudou de mãos sem que o valor fosse revelado. Pedro Leiria Pinto, Deputy Head de Capital Markets da CBRE Portugal, garante que não existe no país outro ativo de comércio de rua comparável.",
+      "url": "https://executivedigest.sapo.pt/edificio-da-zara-no-rossio-muda-de-maos-na-maior-venda-de-comercio-de-rua-de-sempre-em-portugal-mas-sem-preco-revelado/",
+      "fonte": "Executive Digest",
+      "pais": "Portugal",
+      "temas": [
+        "compra-venda-ativo"
+      ],
+      "data": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-angola-apresenta-em-londres-carteira-de-projectos",
+      "titulo": "Angola apresenta em Londres carteira de projectos turísticos para captar investimento internacional",
+      "resumo": "A acção marca o arranque de um roadshow internacional destinado à promoção de ativos e projetos turísticos junto de investidores institucionais, operadores internacionais, grupos hoteleiros e entidades financeiras com interesse em África. A iniciativa enquadra-se na estratégia do Executivo para acelerar a participaç…",
+      "url": "https://www.forbespt.com/angola-apresenta-em-londres-carteira-de-projectos-turisticos-para-captar-investimento-internacional/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-stellantis-corta-investimento-no-desporto-por-razoes",
+      "titulo": "Stellantis corta investimento no desporto por razões financeiras. Abandono de marcas históricas afeta 300 colaboradores",
+      "resumo": "O Grupo Stellantis, que agrupa várias marcas automóveis como Peugeot, Citroën, Opel, Fiat, Alfa Romeo e Lancia, entre outras, vai reduzir a sua presença no desporto automóvel internacional. O anúncio é oficial, tem por trás razões financeiras e coloca em causa cerca de 300 postos de trabalho na sua divisão europeia …",
+      "url": "https://www.forbespt.com/stellantis-corta-investimento-no-desporto-por-razoes-financeiras-abandono-de-marcas-historicas-afeta-300-colaboradores/",
+      "fonte": "Forbes Portugal",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-house-comfort-inaugura-nova-unidade-de-apoio",
+      "titulo": "House Comfort inaugura nova unidade de apoio domiciliário em Oeiras",
+      "resumo": "A House Comfort, marca de serviços de apoio domiciliário do Grupo NBRAND, inaugurou no passado sábado, dia 14 de novembro, a sua nova unidade House Comfort Alto da Barra, em Oeiras. A unidade é gerida pelos sócios e franqueados Paula Estevão e Francisco Próspero e conta com Ângela Faria como diretora técnica. Locali…",
+      "url": "https://www.infofranchising.pt/house-comfort-oeiras/",
+      "fonte": "Portal do Franchising",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-the-chapel-inaugura-no-convento-do-beato",
+      "titulo": "The Chapel inaugura no Convento do Beato e reforça oferta de espaços para eventos em Lisboa",
+      "resumo": "A The Chapel resulta da reabilitação da antiga igreja do Convento do Beato e dispõe de 1.400 metros quadrados e capacidade para 500 pessoas. O investimento conjunto nos dois espaços ascende a 12 milhões de euros. A The Chapel, novo espaço para eventos corporativos e culturais instalado na antiga igreja do Convento d…",
+      "url": "https://www.ambitur.pt/the-chapel-inaugura-no-convento-do-beato-e-reforca-oferta-de-espacos-para-eventos-em-lisboa/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-25"
+    },
+    {
+      "id": "2026-11-24-cadena-de-opticas-espanola-alista-expansion-en",
+      "titulo": "Cadena de ópticas española alista expansión en Colombia: estos son sus planes para 2027",
+      "resumo": "La cadena de ópticas española prepara su expansión en Colombia para 2027 y apuesta por ciudades intermedias, mientras advierte sobre los retos del sector.",
+      "url": "https://www.valoraanalitik.com/cadena-de-opticas-espanola-alista-expansion-en-colombia-para-2027/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-expansao"
+      ],
+      "data": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-nueva-marca-del-mercado-de-motocicletas-aterriza",
+      "titulo": "Nueva marca del mercado de motocicletas aterriza en Colombia y proyecta ventas de $3.763 millones mensuales",
+      "resumo": "Los productos contienen componentes que contribuyen a reducir el desgaste de las piezas internas del motor.",
+      "url": "https://www.valoraanalitik.com/nueva-marca-del-mercado-de-motocicletas-aterriza-en-colombia-y-proyecta-ventas-de-3-763-millones-mensuales/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "marca-internacional-pt"
+      ],
+      "data": "2026-11-24"
+    },
     {
       "id": "2026-11-24-salsa-jeans-estreia-se-na-croacia-e",
       "titulo": "Salsa Jeans estreia-se na Croácia e amplia presença no mercado europeu",
@@ -6010,103 +6106,6 @@
         "aquisicoes"
       ],
       "data": "2026-09-30"
-    },
-    {
-      "id": "2026-09-29-jd-sports-fatura-6-88-mil-milhoes",
-      "titulo": "JD Sports fatura 6,88 mil milhões de euros, mas lucro ajustado cai 19,7%",
-      "resumo": "A JD Sports fechou o primeiro semestre do exercício 2026/27 com vendas de 5,9 mil milhões de libras, cerca de 6,88 mil milhões de euros, menos 0,7% em termos homólogos. O lucro antes de impostos e itens de ajustamento recuou 19,7%, para 282 milhões de libras, aproximadamente 328,7 milhões de euros, num período condi…",
-      "url": "https://grandeconsumo.com/jd-sports-resultados-semestre-vendas-lucro-2026/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-09-29"
-    },
-    {
-      "id": "2026-09-29-expofranchise-2026-conheca-os-principais-destaques-desta",
-      "titulo": "ExpoFranchise 2026: conheça os principais destaques desta edição",
-      "resumo": "Quem procura abrir um negócio próprio ou investir numa rede de franchising terá dois dias para conhecer e comparar oportunidades na ExpoFranchise 2026, promovida pela Associação Portuguesa de Franchising (APF). Nos dias 23 e 24 de Outubro, o Pátio da Galé, em Lisboa, reúne marcas, investidores, empreendedores e espe…",
-      "url": "https://www.infofranchising.pt/expofranchise2026-destaques/",
-      "fonte": "Portal do Franchising",
-      "pais": "Portugal",
-      "temas": [
-        "franchising",
-        "investidores"
-      ],
-      "data": "2026-09-29"
-    },
-    {
-      "id": "2026-09-29-comfandi-confirmo-venta-de-sus-farmacias-al",
-      "titulo": "Comfandi confirmó venta de sus farmacias al dueño de cadena de Droguería Alemana",
-      "resumo": "La caja de compensación indicó que la salida del negocio obedece a una decisión estratégica para concentrarse en su core",
-      "url": "https://www.larepublica.co/empresas/comfandi-confirmo-la-venta-de-sus-farmacias-a-dueno-de-drogueria-alemana-4492935",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "compra-venda-ativo"
-      ],
-      "data": "2026-09-29"
-    },
-    {
-      "id": "2026-09-29-o-espaco-nunca-teve-tanto-dinheiro-mas",
-      "titulo": "“O espaço nunca teve tanto dinheiro”, mas Portugal precisa de escala para transformar investimento em capacidade",
-      "resumo": "“O espaço nunca teve tanto dinheiro. Desde 2023 até agora, teve quase 700 milhões de euros“, destacou Ricardo Conde, presidente da Agência Espacial Portuguesa, durante no painel da talk eRadar – Portugal na Era da Defesa, com o tema “Drones, Espaço e Novos Materiais: Onde Pode Portugal Ser Estratégico para a Defesa …",
-      "url": "https://eco.sapo.pt/2026/09/29/o-espaco-nunca-teve-tanto-dinheiro-mas-portugal-precisa-de-escala-para-transformar-investimento-em-capacidade/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-29"
-    },
-    {
-      "id": "2026-09-29-ahm-vai-buscar-novo-diretor-de-marketing",
-      "titulo": "AHM vai buscar novo diretor de marketing ao grupo dono do Vitaminas e Wok to Walk",
-      "resumo": "O profissional deixa o grupo Plateform, onde era marketing and communication director, para assumir a estratégia e o posicionamento das marcas da AHM - Ace Hospitality Management, que gere atualmente 15 hotéis, 13 restaurantes e três spas em Portugal.",
-      "url": "https://marketeer.sapo.pt/ahm-vai-buscar-novo-diretor-de-marketing-ao-grupo-dono-do-vitaminas-e-wok-to-walk/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "ceo-direcao"
-      ],
-      "data": "2026-09-29"
-    },
-    {
-      "id": "2026-09-28-distribuicao-hoje-junta-retalho-marcas-e-tecnologia",
-      "titulo": "Distribuição Hoje junta retalho, marcas e tecnologia no In Retail, Brands & CX",
-      "resumo": "O In Retail, Brands & CX , evento organizado pela Distribuição Hoje e a Skolae Formação , volta a realizar-se nos dias 20, 21 e 22 de outubro , no Lagoas Park , em Oeiras, este ano com o tema End-to-End Commerce . O evento, que vai já na sua 16.º edição, vai reunir retalhistas, marcas e especialistas para debater a …",
-      "url": "https://www.distribuicaohoje.com/retalho/in-retail-marcas-retalho/",
-      "fonte": "Distribuição Hoje",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-28"
-    },
-    {
-      "id": "2026-09-28-dos-detergentes-ao-espaco-henkel-celebra-150",
-      "titulo": "Dos detergentes ao espaço: Henkel celebra 150 anos de transformação",
-      "resumo": "A Henkel celebra 150 anos de atividade com uma trajetória que liga marcas de consumo a soluções para mobilidade elétrica, eletrónica, construção e indústria aeroespacial. Na Península Ibérica, investiu mais de 100 milhões de euros, reforçando Montornès del Vallès, unidade neutra em carbono que produz para clientes c…",
-      "url": "https://grandeconsumo.com/dos-detergentes-ao-espaco-henkel-celebra-150-anos-de-transformacao/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-09-28"
-    },
-    {
-      "id": "2026-09-28-ia-agentica-e-robos-humanoides-entre-as",
-      "titulo": "IA agêntica e robôs humanoides entre as tendências que vão transformar a logística",
-      "resumo": "O \"DHL Logistics Trend Radar 8.0\" identifica a IA agêntica, o comércio suportado por IA, a economia da capacidade computacional e os robôs humanoides como tendências capazes de transformar a logística na próxima década. O conteúdo IA agêntica e robôs humanoides entre as tendências que vão transformar a logística apa…",
-      "url": "https://grandeconsumo.com/ia-agentica-e-robos-humanoides-entre-as-tendencias-que-vao-transformar-a-logistica/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "logistica"
-      ],
-      "data": "2026-09-28"
     }
   ]
 }
