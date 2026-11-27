@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-11-26T16:33:11.081Z",
+  "updatedAt": "2026-11-27T16:18:57.996Z",
   "articles": [
+    {
+      "id": "2026-11-27-conforama-abre-primeira-loja-nos-acores-e",
+      "titulo": "Conforama abre primeira loja nos Açores e estuda novas aberturas",
+      "resumo": "A Conforama abriu a primeira loja nos Açores, instalada no Azores Retail Park, na ilha de São Miguel. O espaço abriu ao público a 27 de novembro e a operação gera cerca de 50 postos de trabalho, entre 35 diretos e 15 indiretos.",
+      "url": "https://www.distribuicaohoje.com/retalho/conforama/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao",
+        "retail-parks"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-kiabi-abre-primeira-loja-nos-acores-e",
+      "titulo": "KIABI abre primeira loja nos Açores e soma 15 em Portugal",
+      "resumo": "A KIABI inaugurou a primeira loja nos Açores, no Azores Retail Park, em Ponta Delgada, e passa a contar com 15 lojas em Portugal, alargando a rede para além do território continental.",
+      "url": "https://www.distribuicaohoje.com/retalho/kiabi/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "retail-parks"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-retalho-off-price-chega-a-portugal-fynds",
+      "titulo": "Retalho off-price chega a Portugal: FYNDS abre primeira loja",
+      "resumo": "O retalho off-price chegou a Portugal com a abertura da FYNDS, uma loja multimarca que reúne moda, calçado e acessórios de marcas como Ralph Lauren, Adidas, Gant, Guess e Versace Jeans Couture, com descontos que podem chegar aos 70%. A primeira loja abriu no Cacém e funciona como piloto do projeto.",
+      "url": "https://www.distribuicaohoje.com/retalho/retalho-off-price-loja/",
+      "fonte": "Distribuição Hoje",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-internacional-pt"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-kiabi-inaugura-presenca-nos-acores",
+      "titulo": "Kiabi inaugura presença nos Açores",
+      "resumo": "A Kiabi abriu esta sexta-feira, 27 de novembro, a sua primeira loja nos Açores, estreando-se, assim, no arquipélago com um espaço de mais de 900 m2. Deste modo atinge as 15 lojas em Portugal, onde está presente desde 2010. O conteúdo Kiabi inaugura presença nos Açores aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/kiabi-inaugura-presenca-nos-acores/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-pingo-doce-abre-nova-loja-em-coimbra",
+      "titulo": "Pingo Doce abre nova loja em Coimbra e cria 60 postos de trabalho",
+      "resumo": "O Pingo Doce inaugurou uma nova loja em Coimbra, na zona residencial de Montes Claros, criando 60 postos de trabalho. Com uma área de 1.400 m², a unidade integra o plano de expansão da insígnia. O conteúdo Pingo Doce abre nova loja em Coimbra e cria 60 postos de trabalho aparece primeiro em Grande Consumo .",
+      "url": "https://grandeconsumo.com/pingo-doce-abre-nova-loja-em-coimbra-e-cria-60-postos-de-trabalho/",
+      "fonte": "Grande Consumo",
+      "pais": "Portugal",
+      "temas": [
+        "nova-loja",
+        "marca-expansao"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-a-estabilidade-conta-e-atrai-investimento",
+      "titulo": "A estabilidade conta e atrai investimento",
+      "resumo": "Quando falamos da marca Portugal, pensamos no talento, na inovação, na qualidade de vida, na segurança, no turismo ou na capacidade de atrair empresas e investimento. Mas há um ativo menos visível que pesa cada vez mais na reputação de um país: a estabilidade. Num mundo mais fragmentado, marcado por tensões geopolít…",
+      "url": "https://eco.sapo.pt/opiniao/a-estabilidade-conta-e-atrai-investimento/",
+      "fonte": "ECO",
+      "pais": "Portugal",
+      "temas": [
+        "investidores"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-expedia-reforca-aposta-na-distribuicao-aerea-europeia",
+      "titulo": "Expedia reforça aposta na distribuição aérea europeia com aquisição da Kiwi.com",
+      "resumo": "O grupo norte-americano anunciou um acordo para adquirir a agência de viagens online checa, especializada na pesquisa e reserva de voos. A operação pretende reforçar a oferta aérea da Expedia e o seu negócio de distribuição B2B na Europa. A Expedia Group anunciou um acordo para adquirir a Kiwi.com, agência de viagen…",
+      "url": "https://www.ambitur.pt/expedia-reforca-aposta-na-distribuicao-aerea-europeia-com-aquisicao-da-kiwi-com/",
+      "fonte": "Ambitur",
+      "pais": "Portugal",
+      "temas": [
+        "aquisicoes"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-retail-ceos-more-confident-on-growth-but",
+      "titulo": "Retail CEOs more confident on growth, but supply chain risks remain: Report",
+      "resumo": "Improving customer experience was the sector’s top operational priority for a second consecutive year, with 29 per cent identifying it as a focus, up from 16 per cent in 2025. CEOs are also responding to health-led shifts in consumer behaviour, with 66 per cent adjusting product portfolios and 57 per cent increasing…",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/retail-ceos-more-confident-on-growth-but-supply-chain-risks-remain-report/136208723",
+      "fonte": "ET Retail",
+      "pais": "Índia",
+      "temas": [
+        "logistica",
+        "investidores"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-marca-colombiana-de-moda-abre-su-primera",
+      "titulo": "Marca colombiana de moda abre su primera tienda en Estados Unidos tras consolidar 19 aperturas en el país",
+      "resumo": "La marca ha impactado a más de 61.000 mujeres alrededor del mundo con su propuesta.",
+      "url": "https://www.valoraanalitik.com/marca-colombiana-de-moda-abre-su-primera-tienda-en-estados-unidos-tras-consolidar-19-aperturas-en-el-pais/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "nova-loja"
+      ],
+      "data": "2026-11-27"
+    },
+    {
+      "id": "2026-11-27-colombia-necesitara-us-4-000-millones-para",
+      "titulo": "Colombia necesitará US$4.000 millones para logística de combustibles líquidos y US$2.700 millones para transporte de gas",
+      "resumo": "El sistema de abastecimiento de combustibles está bajo presión en varias regiones.",
+      "url": "https://www.valoraanalitik.com/colombia-necesitara-us4-000-millones-para-logistica-de-combustibles-liquidos/",
+      "fonte": "Valora Analitik",
+      "pais": "Colômbia",
+      "temas": [
+        "logistica"
+      ],
+      "data": "2026-11-27"
+    },
     {
       "id": "2026-11-26-retalho-e-logistica-deverao-contratar-cerca-de",
       "titulo": "Retalho e logística deverão contratar cerca de seis mil trabalhadores até ao final do ano",
@@ -5985,127 +6111,6 @@
         "resultados"
       ],
       "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-taurus-adquire-movilfrit",
-      "titulo": "Taurus adquire Movilfrit",
-      "resumo": "O Taurus Group adquiriu a marca espanhola Movilfrit, especializada em fritadeiras industriais e equipamento para hotelaria. A operação reforça a estratégia de diversificação do grupo, que fechou 2025 com uma faturação consolidada de 245 milhões de euros. O conteúdo Taurus adquire Movilfrit aparece primeiro em Grande…",
-      "url": "https://grandeconsumo.com/taurus-adquire-movilfrit/",
-      "fonte": "Grande Consumo",
-      "pais": "Espanha",
-      "temas": [
-        "aquisicoes",
-        "resultados"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-darty-prepara-expansao-em-portugal",
-      "titulo": "DARTY prepara expansão em Portugal",
-      "resumo": "Insígnia registou um crescimento de 11% nas vendas no primeiro ano e prevê integrar 11 lojas Staples a partir de outubro O conteúdo DARTY prepara expansão em Portugal aparece primeiro em Grande Consumo .",
-      "url": "https://grandeconsumo.com/darty-prepara-expansao-em-portugal/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "marca-expansao"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-tiffany-co-estreia-se-em-portugal-em",
-      "titulo": "Tiffany & Co estreia-se em Portugal em 2027 com loja no antigo edifício sede do BES",
-      "resumo": "A Tiffany & Co. vai inaugurar a primeira loja própria da marca em Portugal no próximo ano. A marca norte-americana de joias vai ocupar um dos quatro espaços comerciais que vão ficar disponíveis no edifício onde ficava a sede do BES, na Avenida da Liberdade, avança o Expresso. O Edifício Liberdade 201 faz parte do […]",
-      "url": "https://eco.sapo.pt/2026/10/02/tiffany-co-estreia-se-em-portugal-em-2027-com-loja-no-antigo-edificio-sede-do-bes/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-preparar-os-transportes-para-o-clima-extremo",
-      "titulo": "Preparar os transportes para o clima extremo exige dados, investimento e decisões partilhadas",
-      "resumo": "Uma estrada cortada por uma cheia pode impedir a chegada de equipas de emergência, assim como uma falha elétrica pode parar uma linha de transporte e afetar milhares de deslocações. Estes efeitos em cadeia estiveram no centro da conversa no painel “Perceber os riscos & preparar para ameaças climáticas”, que encerrou…",
-      "url": "https://eco.sapo.pt/2026/10/02/preparar-os-transportes-para-o-clima-extremo-exige-dados-investimento-e-decisoes-partilhadas/",
-      "fonte": "ECO",
-      "pais": "Portugal",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-o-luxo-da-tiffany-chega-a-lisboa",
-      "titulo": "O luxo da Tiffany chega a Lisboa: marca abre primeira loja em Portugal em 2027",
-      "resumo": "O luxo da joalharia norte-americana Tiffany & Co. vai chegar a Portugal em 2027, com a abertura da primeira loja da marca em Lisboa. O espaço ficará localizado na Avenida da Liberdade, uma das principais artérias comerciais da capital e morada de várias insígnias internacionais de luxo.",
-      "url": "https://marketeer.sapo.pt/o-luxo-da-tiffany-chega-a-lisboa-marca-abre-primeira-loja-em-portugal-em-2027/",
-      "fonte": "Marketeer",
-      "pais": "Portugal",
-      "temas": [
-        "nova-loja"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-el-negocio-del-internet-ya-pone-mas",
-      "titulo": "El negocio del Internet ya pone más de 70% de los ingresos para operadores",
-      "resumo": "Para 2025, la demanda por conectividad jalonó al sector. Según informe de la CRC telefonía fija, TV y radio registraron retroceso y la economía se torna más digital",
-      "url": "https://www.larepublica.co/empresas/el-negocio-del-internet-ya-pone-mas-de-70-de-los-ingresos-para-operadores-4494918",
-      "fonte": "La República",
-      "pais": "Colômbia",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02-primicia-pei-sumara-un-segundo-formador-de",
-      "titulo": "Primicia | Pei sumará un segundo formador de liquidez para sus títulos; quiere más inversionistas extranjeros",
-      "resumo": "Jairo Corrales, presidente de Pei, reveló la firma que ayudará a fortalecer la negociación en bolsa; dio detalles sobre la compra de activos de Terranum.",
-      "url": "https://www.valoraanalitik.com/pei-segundo-formador-liquidez-extranjeros/",
-      "fonte": "Valora Analitik",
-      "pais": "Colômbia",
-      "temas": [
-        "investidores"
-      ],
-      "data": "2026-10-02"
-    },
-    {
-      "id": "2026-10-01-comissao-europeia-autoriza-aquisicao-da-stahl-pela",
-      "titulo": "Comissão Europeia autoriza aquisição da Stahl pela Henkel",
-      "resumo": "A Comissão Europeia aprovou a aquisição do controlo exclusivo da neerlandesa Stahl Parent pela Henkel, ao abrigo do Regulamento das Concentrações da União Europeia. A operação incide sobretudo nos mercados de revestimentos industriais e adesivos. O conteúdo Comissão Europeia autoriza aquisição da Stahl pela Henkel a…",
-      "url": "https://grandeconsumo.com/comissao-europeia-aprova-aquisicao-stahl-henkel/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "aquisicoes"
-      ],
-      "data": "2026-10-01"
-    },
-    {
-      "id": "2026-10-01-auchan-negoceia-venda-de-17-supermercados-ao",
-      "titulo": "Auchan negoceia venda de 17 supermercados ao Lidl em França",
-      "resumo": "A Auchan está em negociações exclusivas com o Lidl para a venda de 17 supermercados em França. A operação integra o plano de transformação da rede da insígnia no mercado francês, que abrange 266 lojas e prevê também conversões para Intermarché e Netto. O conteúdo Auchan negoceia venda de 17 supermercados ao Lidl em …",
-      "url": "https://grandeconsumo.com/auchan-venda-17-supermercados-lidl-franca/",
-      "fonte": "Grande Consumo",
-      "pais": "Internacional",
-      "temas": [
-        "compra-venda-ativo"
-      ],
-      "data": "2026-10-01"
-    },
-    {
-      "id": "2026-10-01-mars-shot-preve-crescer-200-em-2026",
-      "titulo": "Mars Shot prevê crescer 200% em 2026 e entra no mercado do Médio Oriente",
-      "resumo": "A consultora portuguesa Mars Shot prevê fechar 2026 com um crescimento da faturação na ordem dos 200% face ao ano anterior. A empresa, que conta atualmente com 20 colaboradores e mais de 70 clientes e organizações na carteira de projetos, acaba também de entrar no Médio Oriente através de uma adjudicação no sector b…",
-      "url": "https://grandeconsumo.com/mars-shot-crescimento-200-2026-medio-oriente/",
-      "fonte": "Grande Consumo",
-      "pais": "Portugal",
-      "temas": [
-        "resultados"
-      ],
-      "data": "2026-10-01"
     }
   ]
 }
